@@ -4472,12 +4472,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>Length</name>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="459"/>
+        <location filename="libs/librepcb/core/types/length.h" line="479"/>
         <source>Value must be &gt;= 0!</source>
         <translation>Значення повинно бути &gt;= 0!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="575"/>
+        <location filename="libs/librepcb/core/types/length.h" line="595"/>
         <source>Value must be &gt; 0!</source>
         <translation>Значення повинно бути &gt; 0!</translation>
     </message>
@@ -7618,72 +7618,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1379"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1383"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1381"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1419"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1711"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1385"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1423"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1715"/>
         <source>None</source>
         <translation>Немає</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2356"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2365"/>
         <source>Add devices to board</source>
         <translation>Додати пристрої до плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2384"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2436"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2467"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2521"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2393"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2445"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2476"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2530"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2402"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2411"/>
         <source>Preparing board...</source>
         <translation>Підготовка плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2402"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2411"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2455"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2464"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Експортувати IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2519"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2528"/>
         <source>Success!</source>
         <translation>Успіх!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2528"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2537"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2566"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2575"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2575"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2584"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2580"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2589"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2590"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2599"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
@@ -7877,21 +7877,26 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawPlane</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="203"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="223"/>
         <source>Draw Board Plane</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="220"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="259"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="340"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="292"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="373"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="245"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="278"/>
         <source>Draw board plane</source>
         <translation>Намалювати площину плати</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="386"/>
+        <source>Could not determine the bounding box of board. Make sure a valid board outline polygon is present.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18162,6 +18167,19 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="78"/>
         <source>Arc Angle</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
+    <name>ui::DrawPlaneToolBar</name>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawplanetoolbar.slint" line="35"/>
+        <source>Auto-Add</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawplanetoolbar.slint" line="36"/>
+        <source>Automatically add a plane that covers the full board</source>
         <translation type="unfinished"/>
     </message>
 </context>
