@@ -16461,104 +16461,104 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <translation>Автоматическое получать информацию о деталях в реальном времени</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="76"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="77"/>
         <source>System Theme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="94"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="95"/>
         <source>System Language</source>
         <translation>Язык системы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="139"/>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="811"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="140"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="833"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="152"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="153"/>
         <source>Click here to add a locale</source>
         <translation>Нажмите сюда чтобы добавить локаль (языковую настройку)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="177"/>
         <source>Click here to add a norm</source>
         <translation>Нажмите здесь для добавления нормы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="225"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="226"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
         <translation>Абсолютный путь к файлу, который нужно открыть</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="229"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="230"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation>URL для файла, который нужно открыть (file://)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="236"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="237"/>
         <source>Web Browser</source>
         <translation>Веб-браузер</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="244"/>
         <source>Website URL to open</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation>URL веб-сайта чтобы открыть</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="248"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="249"/>
         <source>File Manager</source>
         <translation>Файловый менеджер</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="258"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="259"/>
         <source>PDF Reader</source>
         <translation>PDF Reader</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="306"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="307"/>
         <source>None</source>
         <comment>Grid style</comment>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="308"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="309"/>
         <source>Dots</source>
         <comment>Grid style</comment>
         <translation>Точки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="310"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="311"/>
         <source>Lines</source>
         <comment>Grid style</comment>
         <translation>Линии</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="314"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="315"/>
         <source>Name:</source>
         <translation>Имя:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="349"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="359"/>
         <source>Copy of %1</source>
         <translation>Копия %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="358"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="368"/>
         <source>New Theme</source>
         <translation>Новая тема</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="462"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="479"/>
         <source>Restore default settings</source>
         <translation>Восстановить настройки по умолчанию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="463"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="480"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -16567,62 +16567,72 @@ Attention: This will be applied immediately and cannot be undone!</source>
 Внимание: Это изменение будет применено немедленно и не может быть отменено!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="525"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="523"/>
+        <source>Discard Changes?</source>
+        <translation>Выбросить изменения?</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="524"/>
+        <source>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="552"/>
         <source>Example:</source>
         <translation>Пример:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="552"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="579"/>
         <source>Select executable</source>
         <translation>Выберите исполнимый файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="577"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="604"/>
         <source>Available placeholders:</source>
         <translation>Доступные заполнители:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="632"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="666"/>
         <source>N/A</source>
         <translation>Н/Д</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="636"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="670"/>
         <source>Primary color: %1</source>
         <translation>Основной цвет: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="637"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="671"/>
         <source>Secondary color: %1</source>
         <translation>Вспомогательный цвет: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="652"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="679"/>
         <source>Reset</source>
         <translation>Сбросить</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="655"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="682"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation>Сбросить  все постоянно отклоняемые сообщения (такие как &quot;не показывать снова&quot;), чтобы они снова появлялись.</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="658"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="685"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation><numerusform>В настоящее время имеется %1 отклонённое сообщение.</numerusform><numerusform>В настоящее время имеется %1 отклонённых сообщений.</numerusform><numerusform>В настоящее время имеется %1 отклонённых сообщений.</numerusform><numerusform>В настоящее время имеется %1 отклонённых сообщений.</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="667"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="694"/>
         <source>Installed</source>
         <translation>Установлена</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="672"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="699"/>
         <source>Other application installed</source>
         <translation>Установлено другое приложение</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="678"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="705"/>
         <source>Not installed</source>
         <translation>Не установлен</translation>
     </message>
