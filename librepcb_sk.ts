@@ -3831,22 +3831,22 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
 <context>
     <name>EditorToolbox</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="348"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="410"/>
         <source>Search datasheet for &apos;%1&apos;</source>
         <translation>Hľadať technický list pre &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="435"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="497"/>
         <source>No datasheet found</source>
         <translation>Technický list nenájdený</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="436"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="498"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
         <translation>Prepáčte, ale neexistuje technický list pre požadovanú súčiastku :-(</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="449"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="511"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -5560,17 +5560,19 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>QShortcut</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="527"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="356"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="517"/>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="457"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="527"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
         <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
     <message>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="539"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="76"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="528"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
@@ -13505,27 +13507,27 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
 <context>
     <name>librepcb::editor::MeasureTool</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="246"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="249"/>
         <source>Copied to clipboard: %1</source>
         <translation>Skopírované do schránky: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="456"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="419"/>
         <source>(press %1 to disable snap)</source>
         <translation>(stačením %1 sa zakáže prichytenie)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="461"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="424"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
         <translation>Stlačte %1 pre skopírovanie hodnoty do schránky, alebo %2 pre zrušenie merania</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="466"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="429"/>
         <source>Click to specify the end point</source>
         <translation>Kliknutím zvolíte koncový bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="469"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="432"/>
         <source>Click to specify the start point</source>
         <translation>Kliknutím zvolíte počiatočný bod</translation>
     </message>
@@ -14358,14 +14360,14 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawCircle</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="186"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="189"/>
         <source>Add Footprint Circle</source>
         <translation>Pridať kružnicu do puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="199"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="232"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="246"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="202"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="236"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="251"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -14373,60 +14375,60 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="257"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="261"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="355"/>
         <source>Add Footprint Polygon</source>
         <translation>Pridať polygón do puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="272"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="295"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="360"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="276"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="300"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="366"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="526"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="537"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(stačením %1 sa zakáže prichytenie, %2 sa ukončí akcia)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
         <source>right click</source>
         <translation>pravé kliknutie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="532"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="544"/>
         <source>Click to specify the first edge</source>
         <translation>Kliknutím zvolíte prvú hranu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="535"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the second edge</source>
         <translation>Kliknutím zvolíte druhú hranu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="552"/>
         <source>Click to specify the arc center</source>
         <translation>Kliknutím zvolíte stred oblúka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="543"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the start point</source>
         <translation>Kliknutím zvolíte počiatočný bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="558"/>
         <source>Click to specify the end point</source>
         <translation>Kliknutím zvolíte koncový bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="551"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="563"/>
         <source>Click to specify the first point</source>
         <translation>Kliknutím zvolíte prvý bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="566"/>
         <source>Click to specify the next point</source>
         <translation>Kliknutím zvolíte nasledujúci bod</translation>
     </message>
@@ -15857,14 +15859,14 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawCircle</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="177"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="180"/>
         <source>Add symbol circle</source>
         <translation>Pridať kružnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="189"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="222"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="236"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="192"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="226"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="241"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -15872,60 +15874,60 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="248"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="340"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="252"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="345"/>
         <source>Add symbol polygon</source>
         <translation>Pridať polygón do sch. značky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="262"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="285"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="266"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="290"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="355"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="516"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="526"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(stačením %1 sa zakáže prichytenie, %2 sa ukončí akcia)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="518"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="529"/>
         <source>right click</source>
         <translation>pravé kliknutie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="522"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="533"/>
         <source>Click to specify the first edge</source>
         <translation>Kliknutím zvoliť prvú hranu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="525"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
         <source>Click to specify the second edge</source>
         <translation>Kliknutím zvolíte druhú hranu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="530"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="541"/>
         <source>Click to specify the arc center</source>
         <translation>Kliknutím zvolíte stred oblúka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="533"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="544"/>
         <source>Click to specify the start point</source>
         <translation>Kliknutím zvolíte počiatočný bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the end point</source>
         <translation>Kliknutím zvolíte koncový bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="541"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="552"/>
         <source>Click to specify the first point</source>
         <translation>Kliknutím zvolíte prvý bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="544"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the next point</source>
         <translation>Kliknutím zvolíte nasledujúci bod</translation>
     </message>

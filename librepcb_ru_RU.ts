@@ -3823,22 +3823,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>EditorToolbox</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="348"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="410"/>
         <source>Search datasheet for &apos;%1&apos;</source>
         <translation>Поиск технического паспорта для &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="435"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="497"/>
         <source>No datasheet found</source>
         <translation>Технический паспорт не найден</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="436"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="498"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
         <translation>Извините, для запрашиваемой детали не найдено ни одного технического описания :-(</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="449"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="511"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -5550,17 +5550,19 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>QShortcut</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="527"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="356"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="517"/>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="457"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="527"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
         <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Shift</source>
         <translation>Смена</translation>
     </message>
     <message>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="539"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="76"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="528"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
@@ -13491,27 +13493,27 @@ Are you still sure to delete the following library elements?</source>
 <context>
     <name>librepcb::editor::MeasureTool</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="246"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="249"/>
         <source>Copied to clipboard: %1</source>
         <translation>Скопировать в буфер обмена: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="456"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="419"/>
         <source>(press %1 to disable snap)</source>
         <translation>(нажмите %1 для отключения привязки)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="461"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="424"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
         <translation>Нажмите %1, чтобы скопировать значение в буфер обмена, или %2, чтобы очистить измерение.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="466"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="429"/>
         <source>Click to specify the end point</source>
         <translation>Нажмите, чтобы указать конечную точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="469"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="432"/>
         <source>Click to specify the start point</source>
         <translation>Нажмите, чтобы указать начальную точку</translation>
     </message>
@@ -14343,14 +14345,14 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawCircle</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="186"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="189"/>
         <source>Add Footprint Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="199"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="232"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="246"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="202"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="236"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="251"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -14358,60 +14360,60 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="257"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="261"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="355"/>
         <source>Add Footprint Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="272"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="295"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="360"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="276"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="300"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="366"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="526"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="537"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(нажмите %1, чтобы отключить привязку, %2 - для отмены)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
         <source>right click</source>
         <translation>щелкните правой кнопкой мыши</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="532"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="544"/>
         <source>Click to specify the first edge</source>
         <translation>Нажмите, чтобы указать первое ребро</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="535"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the second edge</source>
         <translation>Нажмите, чтобы указать второе ребро</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="552"/>
         <source>Click to specify the arc center</source>
         <translation>Нажмите, чтобы указать центр дуги</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="543"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the start point</source>
         <translation>Нажмите, чтобы указать начальную точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="558"/>
         <source>Click to specify the end point</source>
         <translation>Нажмите, чтобы указать конечную точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="551"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="563"/>
         <source>Click to specify the first point</source>
         <translation>Нажмите, чтобы указать первую точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="566"/>
         <source>Click to specify the next point</source>
         <translation>Нажмите, чтобы указать следующую точку</translation>
     </message>
@@ -15840,14 +15842,14 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawCircle</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="177"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="180"/>
         <source>Add symbol circle</source>
         <translation>Добавить кружок символа</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="189"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="222"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="236"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="192"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="226"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="241"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -15855,60 +15857,60 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="248"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="340"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="252"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="345"/>
         <source>Add symbol polygon</source>
         <translation>Добавить многоугольник символа</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="262"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="285"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="266"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="290"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="355"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="516"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="526"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(нажмите %1, чтобы отключить привязку, %2 - для отмены)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="518"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="529"/>
         <source>right click</source>
         <translation>щелкните правой кнопкой мыши</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="522"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="533"/>
         <source>Click to specify the first edge</source>
         <translation>Нажмите, чтобы указать первое ребро</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="525"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
         <source>Click to specify the second edge</source>
         <translation>Нажмите, чтобы указать второе ребро</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="530"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="541"/>
         <source>Click to specify the arc center</source>
         <translation>Нажмите, чтобы указать центр дуги</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="533"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="544"/>
         <source>Click to specify the start point</source>
         <translation>Нажмите, чтобы указать начальную точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the end point</source>
         <translation>Нажмите, чтобы указать конечную точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="541"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="552"/>
         <source>Click to specify the first point</source>
         <translation>Нажмите, чтобы указать первую точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="544"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the next point</source>
         <translation>Нажмите, чтобы указать следующую точку</translation>
     </message>
