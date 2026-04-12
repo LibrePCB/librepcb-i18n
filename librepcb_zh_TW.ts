@@ -5369,12 +5369,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>OccModel</name>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="455"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="497"/>
         <source>Failed to write STEP file.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="660"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="709"/>
         <source>Failed to read STEP file!</source>
         <translation type="unfinished"/>
     </message>

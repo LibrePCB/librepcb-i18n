@@ -5406,12 +5406,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>OccModel</name>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="455"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="497"/>
         <source>Failed to write STEP file.</source>
         <translation>Chyba pri zápise STEP súboru.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="660"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="709"/>
         <source>Failed to read STEP file!</source>
         <translation>Chyba pri čítaní zo STEP súboru!</translation>
     </message>
