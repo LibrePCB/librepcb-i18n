@@ -5725,341 +5725,341 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Theme</name>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="80"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="42"/>
         <source>Schematic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="81"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="43"/>
         <source>Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="82"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="44"/>
         <source>3D View</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="83"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="107"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="45"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="69"/>
         <source>Background/Grid</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="84"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="108"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="46"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="70"/>
         <source>Overlays</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="85"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="109"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="47"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="71"/>
         <source>Info Box</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="86"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="111"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="48"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="73"/>
         <source>Selection</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="87"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="49"/>
         <source>References</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="88"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="112"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="50"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="74"/>
         <source>Frames</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="89"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="51"/>
         <source>Wires</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="90"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="52"/>
         <source>Net Labels</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="91"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="53"/>
         <source>Buses</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="92"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="54"/>
         <source>Bus Labels</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="93"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="55"/>
         <source>Image Borders</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="94"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="122"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="56"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="84"/>
         <source>Documentation</source>
         <translation>Documentazione</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="95"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="123"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="57"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="85"/>
         <source>Comments</source>
         <translation>Commenti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="96"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="124"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="58"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="86"/>
         <source>Guide</source>
         <translation>Guida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="97"/>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="113"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="59"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="75"/>
         <source>Outlines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="98"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="60"/>
         <source>Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="99"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="61"/>
         <source>Hidden Grab Areas</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="100"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="62"/>
         <source>Names</source>
         <translation>Nomi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="101"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="63"/>
         <source>Values</source>
         <translation>Valori</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="102"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="64"/>
         <source>Optional Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="103"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="65"/>
         <source>Required Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="104"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="66"/>
         <source>Pin Lines</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="105"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="67"/>
         <source>Pin Names</source>
         <translation>Nome Pin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="106"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="68"/>
         <source>Pin Numbers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="110"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="72"/>
         <source>DRC Marker</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="114"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="76"/>
         <source>Plated Cutouts</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="115"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="77"/>
         <source>Holes</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="116"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="78"/>
         <source>Pads</source>
         <translation>Piazzole</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="117"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="79"/>
         <source>Vias</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="118"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="80"/>
         <source>Zones</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="119"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="81"/>
         <source>Air Wires</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="120"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="82"/>
         <source>Measures</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="121"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="83"/>
         <source>Alignment</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="125"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="87"/>
         <source>Names Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="126"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="88"/>
         <source>Names Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="127"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="89"/>
         <source>Values Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="128"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="90"/>
         <source>Values Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="129"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="91"/>
         <source>Legend Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="130"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="92"/>
         <source>Legend Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="131"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="93"/>
         <source>Documentation Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="132"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="94"/>
         <source>Documentation Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="133"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="95"/>
         <source>Package Outlines Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="134"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="96"/>
         <source>Package Outlines Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="135"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="97"/>
         <source>Courtyard Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="136"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="98"/>
         <source>Courtyard Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="137"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="99"/>
         <source>Grab Areas Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="138"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="100"/>
         <source>Grab Areas Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="139"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="101"/>
         <source>Hidden Grab Areas Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="140"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="102"/>
         <source>Hidden Grab Areas Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="141"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="103"/>
         <source>References Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="142"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="104"/>
         <source>References Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="143"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="105"/>
         <source>Stop Mask Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="144"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="106"/>
         <source>Stop Mask Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="145"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="107"/>
         <source>Solder Paste Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="146"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="108"/>
         <source>Solder Paste Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="147"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="109"/>
         <source>Finish Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="148"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="110"/>
         <source>Finish Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="149"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="111"/>
         <source>Glue Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="150"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="112"/>
         <source>Glue Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="151"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="113"/>
         <source>Copper Top</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="187"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="149"/>
         <source>Copper Inner</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="190"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="152"/>
         <source>Copper Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/workspace/theme.cpp" line="194"/>
+        <location filename="libs/librepcb/core/workspace/theme.cpp" line="156"/>
         <source>Background/Foreground</source>
         <translation type="unfinished"/>
     </message>
@@ -7585,72 +7585,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1396"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1398"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1398"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1436"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1728"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1400"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1438"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1730"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2378"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2380"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2406"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2458"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2489"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2543"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2408"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2460"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2491"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2545"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2424"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2426"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2424"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2426"/>
         <source>Cancel</source>
         <translation>Cancella</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2477"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2479"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2541"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2543"/>
         <source>Success!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2550"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2552"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2588"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2590"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2597"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2599"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2602"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2604"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2612"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2614"/>
         <source>Close</source>
         <translation>Chiudi</translation>
     </message>
@@ -7780,14 +7780,14 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_AddHole</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="133"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="134"/>
         <source>Add hole to board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="145"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="173"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="195"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="146"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="174"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="196"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -7795,15 +7795,15 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_AddPad</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="380"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="381"/>
         <source>Add Pad to Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="402"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="432"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="457"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="477"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="403"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="433"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="458"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="478"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -14554,48 +14554,48 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="684"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="693"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="702"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2500"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2538"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2605"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="688"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="697"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="706"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2504"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2542"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2609"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1020"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1024"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1021"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1025"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1647"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1651"/>
         <source>(unconnected)</source>
         <translation>(scollegato)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2079"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2083"/>
         <source>New Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2302"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2306"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2324"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2328"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2682"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2686"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -15563,17 +15563,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1211"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1214"/>
         <source>Preparing schematics...</source>
         <translation>Preparazione schemi...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1211"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1214"/>
         <source>Cancel</source>
         <translation>Cancella</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1240"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1243"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
@@ -16056,28 +16056,28 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="434"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="443"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="452"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1530"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1569"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1627"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="439"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="448"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="457"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1535"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1574"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1632"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="676"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="681"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="677"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="682"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1511"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1516"/>
         <source>Edit Symbol Properties</source>
         <translation type="unfinished"/>
     </message>
@@ -16366,96 +16366,96 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="77"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="79"/>
         <source>System Theme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="95"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="97"/>
         <source>System Language</source>
         <translation>Lingua di sistema</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="140"/>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="833"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="142"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="831"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="155"/>
         <source>Click here to add a locale</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="177"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="179"/>
         <source>Click here to add a norm</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="226"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="228"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="230"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="232"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="237"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="239"/>
         <source>Web Browser</source>
         <translation>Web Browser</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="244"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="246"/>
         <source>Website URL to open</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="249"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="251"/>
         <source>File Manager</source>
         <translation>Gestore dei files</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="261"/>
         <source>PDF Reader</source>
         <translation>Lettore PDF</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="307"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="308"/>
+        <source>Name:</source>
+        <translation>Nome:</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="352"/>
+        <source>Copy of %1</source>
+        <translation>Copia di %1</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="361"/>
+        <source>New Theme</source>
+        <translation>Nuovo tema</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="410"/>
         <source>None</source>
         <comment>Grid style</comment>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="309"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="412"/>
         <source>Dots</source>
         <comment>Grid style</comment>
         <translation>Punti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="311"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="414"/>
         <source>Lines</source>
         <comment>Grid style</comment>
         <translation>Linee</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="315"/>
-        <source>Name:</source>
-        <translation>Nome:</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="359"/>
-        <source>Copy of %1</source>
-        <translation>Copia di %1</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="368"/>
-        <source>New Theme</source>
-        <translation>Nuovo tema</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="479"/>
@@ -16496,47 +16496,47 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="666"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="655"/>
         <source>N/A</source>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="670"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="659"/>
         <source>Primary color: %1</source>
         <translation>Colore principale: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="671"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="660"/>
         <source>Secondary color: %1</source>
         <translation>Colore secondario: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="679"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="668"/>
         <source>Reset</source>
         <translation>Reset</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="682"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="671"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="685"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="674"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="694"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="683"/>
         <source>Installed</source>
         <translation>Installato</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="699"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="688"/>
         <source>Other application installed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="705"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="694"/>
         <source>Not installed</source>
         <translation>Non installato</translation>
     </message>
