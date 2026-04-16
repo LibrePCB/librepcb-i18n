@@ -16462,94 +16462,94 @@ Pre úplný zákaz prístupu na internet, stačí odstrániť všetky záznamy.&
         <translation>Automaticky naživo získavať informácie o súčiastke</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="87"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="89"/>
         <source>System Theme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="102"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
         <source>System Language</source>
         <translation>Jazyk systému</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="147"/>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="802"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="149"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="825"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="160"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="162"/>
         <source>Click here to add a locale</source>
         <translation>Kliknite sem pre pridanie lokalizácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="184"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="186"/>
         <source>Click here to add a norm</source>
         <translation>Kliknite sem pre pridanie normy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="233"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="235"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
         <translation>Absolútna cesta k súboru na otvorenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="237"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="239"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation>URL k súboru na otvorenie (file://)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="244"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="246"/>
         <source>Web Browser</source>
         <translation>Internetový prehliadač</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="253"/>
         <source>Website URL to open</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation>URL adresa pre otvorenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="256"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="258"/>
         <source>File Manager</source>
         <translation>Správca súborov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="266"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="268"/>
         <source>PDF Reader</source>
         <translation>Prehliadač PDF</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="344"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="346"/>
         <source>Copy of %1</source>
         <translation>Kópia z %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="381"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="383"/>
         <source>None</source>
         <comment>Grid style</comment>
         <translation>Žiadna</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="383"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="385"/>
         <source>Dots</source>
         <comment>Grid style</comment>
         <translation>Body</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="385"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="387"/>
         <source>Lines</source>
         <comment>Grid style</comment>
         <translation>Čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="450"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="452"/>
         <source>Restore default settings</source>
         <translation>Obnoviť predvolené nastavenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="451"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="453"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -16558,57 +16558,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
 Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="492"/>
         <source>Discard Changes?</source>
         <translation>Zahodiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="491"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="493"/>
         <source>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="519"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="521"/>
         <source>Example:</source>
         <translation>Príklad:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="548"/>
         <source>Select executable</source>
         <translation>Zvolenie spustiteľnej aplikácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="571"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="573"/>
         <source>Available placeholders:</source>
         <translation>Možné zástupné symboly:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="639"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="662"/>
         <source>Reset</source>
         <translation>Obnoviť do pôvodných nastavení</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="642"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="665"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation>Obnoviť všetky permanentne zrušené oznámenia (niečo ako „nezobrazovať znova“) aby sa znova zobrazovali.</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="645"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="668"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation><numerusform>Momentálne tu je %1 zrušené oznámenie.</numerusform><numerusform>Momentálne tu sú %1 zrušené oznámenia.</numerusform><numerusform>Momentálne je tu %1 zrušených oznámení.</numerusform><numerusform>Momentálne tu sú %1 zrušené oznámenia.</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="654"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="677"/>
         <source>Installed</source>
         <translation>Inštalovaná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="659"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="682"/>
         <source>Other application installed</source>
         <translation>Iná nainštalovaná aplikácia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="665"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="688"/>
         <source>Not installed</source>
         <translation>Nenainštalované</translation>
     </message>
@@ -17334,39 +17334,44 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ColorSchemeDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="228"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="229"/>
         <source>Color Scheme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="310"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="312"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="489"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="491"/>
         <source>Primary Color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="502"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="504"/>
         <source>Copy primary color to secondary</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="521"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="523"/>
         <source>Secondary Color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="625"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="627"/>
         <source>Reset to Default</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="640"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="645"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="655"/>
+        <source>Copy all Colors Into Clipboard</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17743,12 +17748,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::CopyToClipboardIconButton</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="190"/>
+        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="195"/>
         <source>Copied!</source>
         <translation>Skopírované!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="190"/>
+        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="195"/>
         <source>Copy to Clipboard</source>
         <translation>Kopírovať do schránky</translation>
     </message>

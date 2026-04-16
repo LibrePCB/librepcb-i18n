@@ -16365,94 +16365,94 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <translation>自动获取实时零件信息</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="87"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="89"/>
         <source>System Theme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="102"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
         <source>System Language</source>
         <translation>系统语言</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="147"/>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="802"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="149"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="825"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="160"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="162"/>
         <source>Click here to add a locale</source>
         <translation>单击此处添加区域设置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="184"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="186"/>
         <source>Click here to add a norm</source>
         <translation>单击此处添加规范</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="233"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="235"/>
         <source>Absolute path to the file to open</source>
         <comment>Decription for '{{FILEPATH}}' placeholder</comment>
         <translation>待打开文件的绝对路径</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="237"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="239"/>
         <source>URL to the file to open (file://)</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation>待打开文件的 URL (file://)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="244"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="246"/>
         <source>Web Browser</source>
         <translation>网络浏览器</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="253"/>
         <source>Website URL to open</source>
         <comment>Decription for '{{URL}}' placeholder</comment>
         <translation>要打开的网站 URL</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="256"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="258"/>
         <source>File Manager</source>
         <translation>文件管理器</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="266"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="268"/>
         <source>PDF Reader</source>
         <translation>PDF 阅读器</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="344"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="346"/>
         <source>Copy of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="381"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="383"/>
         <source>None</source>
         <comment>Grid style</comment>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="383"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="385"/>
         <source>Dots</source>
         <comment>Grid style</comment>
         <translation>点</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="385"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="387"/>
         <source>Lines</source>
         <comment>Grid style</comment>
         <translation>线条</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="450"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="452"/>
         <source>Restore default settings</source>
         <translation>恢复默认设置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="451"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="453"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -16461,57 +16461,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
 注意：该操作会被立即应用并且无法回退！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="492"/>
         <source>Discard Changes?</source>
         <translation>放弃更改？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="491"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="493"/>
         <source>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="519"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="521"/>
         <source>Example:</source>
         <translation>示例：</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="548"/>
         <source>Select executable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="571"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="573"/>
         <source>Available placeholders:</source>
         <translation>可用占位符：</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="639"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="662"/>
         <source>Reset</source>
         <translation>重置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="642"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="665"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation>重置所有已永久忽略的消息（类似于 &quot;不再显示&quot;）以使其再次出现。</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="645"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="668"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation><numerusform>当前有 %1 条已忽略的消息。</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="654"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="677"/>
         <source>Installed</source>
         <translation>已安装的</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="659"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="682"/>
         <source>Other application installed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="665"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="688"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
@@ -17237,39 +17237,44 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ColorSchemeDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="228"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="229"/>
         <source>Color Scheme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="310"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="312"/>
         <source>Name:</source>
         <translation>名称：</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="489"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="491"/>
         <source>Primary Color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="502"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="504"/>
         <source>Copy primary color to secondary</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="521"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="523"/>
         <source>Secondary Color</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="625"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="627"/>
         <source>Reset to Default</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="640"/>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="645"/>
         <source>Close</source>
         <translation>关闭</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/colorschemedialog.slint" line="655"/>
+        <source>Copy all Colors Into Clipboard</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17646,12 +17651,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::CopyToClipboardIconButton</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="190"/>
+        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="195"/>
         <source>Copied!</source>
         <translation>已复制！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="190"/>
+        <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="195"/>
         <source>Copy to Clipboard</source>
         <translation>复制到剪贴板</translation>
     </message>
