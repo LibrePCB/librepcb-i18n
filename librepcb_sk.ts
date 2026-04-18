@@ -7149,101 +7149,92 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::eagleimport::EagleProjectImport</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="131"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="138"/>
         <source>Project contains no schematic sheets.</source>
         <translation>Projekt obsahuje neschematické výkresy.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="135"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="142"/>
         <source>Project contains modules which are not supported yet!</source>
         <translation>Projekt obsahuje moduly, ktoré zatiaľ nie sú podporované!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="139"/>
-        <source>Project contains buses which are not supported yet!</source>
-        <translation>Projekt obsahuje zbernice, ktoré zatiaľ nie sú podporované!</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="165"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="168"/>
         <source>Importing project, this may take a moment...</source>
         <translation>Importujem projekt. Chvíľku strpenia....</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="166"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="169"/>
         <source>If you experience any issues with the import, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt; so we can improve it.</source>
         <translation>Ak máte akékoľvek problémy s importovaním, prosím &lt;a href=&quot;%1&quot;&gt;povedzte nám o nich&lt;/a&gt;, pokúsime sa ich vyriešiť.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="233"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="236"/>
         <source>Skipped modules because they are not supported yet!</source>
         <translation>Boli vynechané moduly, pretože zatiaľ nie sú podporované!</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="248"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="251"/>
         <source>Imported %n schematic sheet(s). Please check the ERC messages in the schematic editor.</source>
         <translation><numerusform>Bol naimportovaný %n schematický výkres. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform><numerusform>Boli naimportované %n schematické výkresy. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform><numerusform>Bolo naimportovaných %n schematických výkresov. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform><numerusform>Bolo naimportovaných %n schematických výkresov. Prosím skontrolujte hlásenia elektrickej kontroly ERC v editore schém.</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="253"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="256"/>
         <source>Imported a board. Please run the DRC in the board editor and fix remaining issues manually.</source>
         <translation>Bola naimportovaná doska s plošnými spojmi. Prosím spustite kontrolu pravidiel DRC a nájdené problémy opravte manuálne.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="257"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="260"/>
         <source>Import failed:</source>
         <translation>Import bol neúspešný:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="459"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="523"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="883"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="997"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="462"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="526"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1024"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1138"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation>Vynechaný text na vrstve %1 (%2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="510"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="976"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="513"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1117"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Vynechaný grafický objekt na vrstve layer %1 (%2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="611"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="576"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="730"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
         <translation>Čiarkované a bodkované čiary nie sú podporované a budú skonvertované na plné čiary.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="616"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="735"/>
         <source>Flat line end is not supported, converting to round.</source>
         <translation>Ploché ukončenie čiar nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="628"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="747"/>
         <source>XRef-style net label is not supported, converting to normal net label.</source>
         <translation>Rozšírené označenie prepojení (XRef) nie je podporované a bude zmenené za jednoduché označenie prepojení.</translation>
     </message>
-    <message numerus="yes">
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="682"/>
-        <source>Skipped %n bus(es) because they are not supported yet!</source>
-        <translation><numerusform>Bola vynechaná %n zbernica, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Boli vynechané %n zbernice, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform><numerusform>Bolo vynechaných %n zberníc, pretože zbernice zatiaľ nie sú podporované!</numerusform></translation>
-    </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1090"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1231"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation>Štvoruholníkový/osemuholníkový tvar prechodu nie je podporovaný a bude zmenený za okrúhly.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1164"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1305"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation>Čiarkované/bodkované spoje nie sú podporované a budú skonvertované na plné.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1169"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1310"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation>Ploché ukončenie spojov nie je podporované a bude zmenené na zaoblené.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1173"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1314"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation>Oblúkové spoje nie sú podporované a budú zmenené za priame.</translation>
     </message>
