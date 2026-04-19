@@ -5855,7 +5855,6 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="527"/>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
-        <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Shift</source>
         <translation type="unfinished"/>
     </message>
@@ -13831,14 +13830,6 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/3d/openglscenebuilder.cpp" line="128"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::OpenGlView</name>
-    <message>
-        <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="94"/>
-        <source>Press %1 to rotate around Z-axis</source>
         <translation type="unfinished"/>
     </message>
 </context>

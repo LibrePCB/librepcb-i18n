@@ -5892,7 +5892,6 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="527"/>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
-        <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="95"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
@@ -13912,14 +13911,6 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
         <location filename="libs/librepcb/editor/3d/openglscenebuilder.cpp" line="128"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
         <translation>Neplatný obrys dosky. Prosím pridajte jeden polygón do vrstvy &apos;%1&apos;  a skontrolujte či je uzatvorený. Pre viac informácií pozrite do dokumentácie.</translation>
-    </message>
-</context>
-<context>
-    <name>librepcb::editor::OpenGlView</name>
-    <message>
-        <location filename="libs/librepcb/editor/widgets/openglview.cpp" line="94"/>
-        <source>Press %1 to rotate around Z-axis</source>
-        <translation>Stlačte %1 pre rotovanie okolo osi Z</translation>
     </message>
 </context>
 <context>
