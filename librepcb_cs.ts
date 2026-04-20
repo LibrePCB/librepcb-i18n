@@ -2225,7 +2225,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>EagleTypeConverter</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagletypeconverter.cpp" line="529"/>
+        <location filename="libs/librepcb/eagleimport/eagletypeconverter.cpp" line="550"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
         <translation>Přerušovaná/tečkovaná čára není podporována, převádí se na spojitou.</translation>
     </message>
@@ -6641,7 +6641,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::Library</name>
     <message>
-        <location filename="libs/librepcb/core/library/library.cpp" line="137"/>
+        <location filename="libs/librepcb/core/library/library.cpp" line="138"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation>Adresář knihoven musí obsahovat soubor s příponou &apos;.lplib&apos;.</translation>
     </message>
@@ -6649,7 +6649,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::LibraryBaseElement</name>
     <message>
-        <location filename="libs/librepcb/core/library/librarybaseelement.cpp" line="210"/>
+        <location filename="libs/librepcb/core/library/librarybaseelement.cpp" line="208"/>
         <source>This library element was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -7063,29 +7063,29 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::eagleimport::EagleLibraryConverter</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="184"/>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="267"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="199"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="283"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Vynechán grafický předmět ve vrstvě %1 (%2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="195"/>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="278"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="210"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="294"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="381"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="399"/>
         <source>Dependent symbol &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="447"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="465"/>
         <source>Dependent component &quot;%1&quot; not imported.</source>
         <translation>Závislá součást „%1“ nebyla zavedena.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="455"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="473"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
         <translation type="unfinished"/>
     </message>
@@ -7093,27 +7093,27 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::eagleimport::EagleLibraryImport</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="347"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="348"/>
         <source>Skipped symbol due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="372"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="373"/>
         <source>Skipped package due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="398"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="399"/>
         <source>Skipped component due to error: %1</source>
         <translation>Přeskočená součást z důvodu chyby: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="424"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="425"/>
         <source>Skipped device due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="431"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="432"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
@@ -7122,92 +7122,92 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::eagleimport::EagleProjectImport</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="138"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="145"/>
         <source>Project contains no schematic sheets.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="142"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="149"/>
         <source>Project contains modules which are not supported yet!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="168"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="175"/>
         <source>Importing project, this may take a moment...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="169"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="176"/>
         <source>If you experience any issues with the import, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt; so we can improve it.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="236"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="245"/>
         <source>Skipped modules because they are not supported yet!</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="251"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="260"/>
         <source>Imported %n schematic sheet(s). Please check the ERC messages in the schematic editor.</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="256"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="265"/>
         <source>Imported a board. Please run the DRC in the board editor and fix remaining issues manually.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="260"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="269"/>
         <source>Import failed:</source>
         <translation>Zavedení selhalo:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="462"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="526"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1024"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1138"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="471"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="535"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1039"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1153"/>
         <source>Skipped text on layer %1 (%2).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="513"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1117"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="522"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1132"/>
         <source>Skipped graphics object on layer %1 (%2).</source>
         <translation>Vynechán grafický předmět ve vrstvě %1 (%2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="576"/>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="730"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="585"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="743"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
         <translation>Přerušovaná/tečkovaná čára není podporována, převod na spojitou.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="735"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="748"/>
         <source>Flat line end is not supported, converting to round.</source>
         <translation>Plochý konec řádku není podporován, převádí se na kulatý.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="747"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="760"/>
         <source>XRef-style net label is not supported, converting to normal net label.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1231"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1246"/>
         <source>Square/octagon via shape not supported, converting to circular.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1305"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1321"/>
         <source>Dashed/dotted trace is not supported, converting to continuous.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1310"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1326"/>
         <source>Flat trace end is not supported, converting to round.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1314"/>
+        <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="1330"/>
         <source>Curved trace is not supported, converting to straight.</source>
         <translation type="unfinished"/>
     </message>
@@ -10846,7 +10846,7 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="237"/>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="238"/>
         <source>Exists already</source>
         <translation type="unfinished"/>
     </message>
@@ -13412,13 +13412,13 @@ Opravdu chcete odstranit následující prvky knihovny?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="731"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1031"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1071"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1153"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1287"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1375"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1419"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1467"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1032"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1073"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1156"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1291"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1380"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1425"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1474"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
