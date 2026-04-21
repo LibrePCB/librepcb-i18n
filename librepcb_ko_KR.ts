@@ -17761,32 +17761,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceContentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="332"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="334"/>
         <source>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="340"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="342"/>
         <source>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="423"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="425"/>
         <source>Finish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="425"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
         <source>Next</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="429"/>
         <source>Skip</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="439"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="441"/>
         <source>Back</source>
         <translation type="unfinished"/>
     </message>
@@ -17932,12 +17932,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="517"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="515"/>
         <source>Metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="518"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="516"/>
         <source>Pinout &amp; Parts</source>
         <translation type="unfinished"/>
     </message>
@@ -19368,7 +19368,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::OverlayDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="63"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="73"/>
         <source>OK</source>
         <translation type="unfinished"/>
     </message>
@@ -20053,22 +20053,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="364"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="368"/>
         <source>Import Pins From Datasheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="370"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="374"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="376"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="380"/>
         <source>Import Pins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="390"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="394"/>
         <source>Learn how to create symbols</source>
         <translation type="unfinished"/>
     </message>
@@ -20076,12 +20076,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="676"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="680"/>
         <source>Metadata</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="677"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="681"/>
         <source>Graphics</source>
         <translation type="unfinished"/>
     </message>

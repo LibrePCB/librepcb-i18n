@@ -17880,32 +17880,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceContentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="332"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="334"/>
         <source>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</source>
         <translation>Definujte zapojenie vývodov, t. j. prepojte vývody puzdra so signálmi komponentu. Toto je možné vykonať buď manuálne vývod po vývode, alebo automaticky pomocou jedného z tlačidiel nižšie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="340"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="342"/>
         <source>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</source>
         <translation>Nepovinne môžete zadať konkrétne typové označenie tejto súčiastky. Tieto typové označenia sa potom dajú použiť na vytvorenie presnejšieho zoznamu súčiastok (BOM) z projektu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="423"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="425"/>
         <source>Finish</source>
         <translation>Povrchové úpravy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="425"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
         <source>Next</source>
         <translation>Ďalej</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="429"/>
         <source>Skip</source>
         <translation>Vynechať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="439"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="441"/>
         <source>Back</source>
         <translation>Späť</translation>
     </message>
@@ -18051,12 +18051,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="517"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="515"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="518"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="516"/>
         <source>Pinout &amp; Parts</source>
         <translation>Zapojenie vývodov a súčiastky</translation>
     </message>
@@ -19487,7 +19487,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::OverlayDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="63"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="73"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -20172,22 +20172,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="364"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="368"/>
         <source>Import Pins From Datasheet</source>
         <translation>Importovanie definície vývodov z technického listu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="370"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="374"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Odporúča sa začať kreslenie nového symbolu pridaním všetkých vývodov. Najmä v prípade väčších symbolov je najrýchlejším spôsobom ich import z technického listu alebo akejkoľvek inej dokumentácie k súčiastke.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="376"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="380"/>
         <source>Import Pins</source>
         <translation>Importovať vývody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="390"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="394"/>
         <source>Learn how to create symbols</source>
         <translation>Naučte sa, ako vytvárať schematické značky.</translation>
     </message>
@@ -20195,12 +20195,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="676"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="680"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="677"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="681"/>
         <source>Graphics</source>
         <translation>Grafické objekty</translation>
     </message>
