@@ -5794,12 +5794,12 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>Path</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="219"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="220"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation>Obrys neobsahuje vrcholy!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="260"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="261"/>
         <source>Path is not fillable or contains arcs!</source>
         <translation>Obrys sa nedá vyplniť, alebo obsahuje oblúky!</translation>
     </message>
@@ -5888,7 +5888,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     <name>QShortcut</name>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="538"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="356"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="360"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="527"/>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
@@ -7611,72 +7611,72 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1401"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1416"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1403"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1441"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1733"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1418"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1456"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1759"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2385"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2422"/>
         <source>Add devices to board</source>
         <translation>Pridať súčiastky na dosku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2413"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2465"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2496"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2550"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2450"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2502"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2533"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2587"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2431"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2468"/>
         <source>Preparing board...</source>
         <translation>Pripravovanie dát dosky...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2431"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2468"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2484"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2521"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Export IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2548"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2585"/>
         <source>Success!</source>
         <translation>Úspešné!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2557"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2594"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Toto je nová funkcia a mohli sme ju otestovať iba s veľmi málo externými autorotrami. Ak narazíte na akýkoľvek problém s kompatibilitou s Vašim autoroutrom, dajte nám vedieť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2595"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2632"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Analýza relácie Specctra &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2604"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Import zlyhal, na doske neboli vykonané žiadne zmeny.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2609"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2646"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Import</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2619"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2656"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>
@@ -7895,15 +7895,15 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawPolygon</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="178"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="225"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="193"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="240"/>
         <source>Draw board polygon</source>
         <translation>Kresliť polygón na doske</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="195"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="236"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="270"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="210"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="287"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -7938,17 +7938,21 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawZone</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="167"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="218"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="182"/>
         <source>Draw board zone</source>
         <translation>Kresliť oblasť dosky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="186"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="231"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="265"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="201"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="287"/>
         <source>Error</source>
         <translation>Chyba</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="232"/>
+        <source>Draw Board Zone</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10990,7 +10994,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="136"/>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="163"/>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="231"/>
-        <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="325"/>
+        <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="341"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -11010,12 +11014,12 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Načítať prepojenie vývodov zo súboru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="443"/>
+        <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="459"/>
         <source>Reset Pinout?</source>
         <translation>Obnoviť zapojenie vývodov do pôvodných nastavení?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="444"/>
+        <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="460"/>
         <source>There are already some signals connected. Should they be disconnected before attempting to make new connections?</source>
         <translation>Niektoré signály sú už pripojené. Majú byť odpojené pred pokusom o vytvorenie nových spojení?</translation>
     </message>
@@ -11023,34 +11027,34 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="458"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="467"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="839"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="874"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="911"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="952"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="463"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="472"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="854"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="889"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="926"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="967"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="571"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="580"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="572"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="581"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Súčiastka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="896"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="911"/>
         <source>Change Component</source>
         <translation>Zameniť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="933"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="948"/>
         <source>Change Package</source>
         <translation>Zameniť puzdro</translation>
     </message>
@@ -14419,34 +14423,34 @@ Chcete ich uložiť pred zatvorením?</translation>
     <name>librepcb::editor::PackageEditorState_DrawZone</name>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="206"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="278"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="274"/>
         <source>Add Footprint Zone</source>
         <translation>Pridať oblasť do puzdra</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="221"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="244"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="288"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="292"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="355"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="359"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(stačením %1 sa zakáže prichytenie, %2 sa ukončí akcia)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="357"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="361"/>
         <source>right click</source>
         <translation>pravé kliknutie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="360"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="364"/>
         <source>Click to specify the first point</source>
         <translation>Kliknutím zvolíte prvý bod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="363"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="367"/>
         <source>Click to specify the next point</source>
         <translation>Kliknutím zvolíte nasledujúci bod</translation>
     </message>
@@ -18222,13 +18226,18 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="31"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="32"/>
         <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="31"/>
         <source>Line Width</source>
         <translation>Šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="53"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="54"/>
+        <source>Arc Angle</source>
+        <translation>Uhol oblúka</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="72"/>
         <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="53"/>
         <source>Fill Area</source>
         <translation>Vyplniť oblasť</translation>
@@ -18312,29 +18321,34 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DrawZoneToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="24"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="28"/>
         <source>Keepout</source>
         <translation>Zakázaná oblasť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="27"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="31"/>
         <source>Copper</source>
         <translation>Vodiný prvok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="31"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="35"/>
         <source>Planes</source>
         <translation>Vyplnené plochy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="35"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="39"/>
         <source>Exposures</source>
         <translation>Odmaskovanie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="39"/>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="43"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="63"/>
+        <source>Arc Angle</source>
+        <translation>Uhol oblúka</translation>
     </message>
 </context>
 <context>
