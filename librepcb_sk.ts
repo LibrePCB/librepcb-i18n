@@ -11027,34 +11027,34 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="463"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="472"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="854"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="889"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="926"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="967"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="464"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="473"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="868"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="903"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="940"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="981"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="594"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="581"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="595"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Súčiastka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="911"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="925"/>
         <source>Change Component</source>
         <translation>Zameniť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="948"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="962"/>
         <source>Change Package</source>
         <translation>Zameniť puzdro</translation>
     </message>
@@ -15651,17 +15651,17 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1218"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1220"/>
         <source>Preparing schematics...</source>
         <translation>Pripravovanie schém...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1218"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1220"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1247"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1249"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -17381,17 +17381,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ComponentCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="165"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="188"/>
         <source>Component</source>
         <translation>Komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="167"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="190"/>
         <source>Failed to load component</source>
         <translation>Chyba pri načítavaní komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="168"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="191"/>
         <source>No component selected</source>
         <translation>Nie je zvolený komponent</translation>
     </message>
@@ -17917,9 +17917,14 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceDependencyCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="31"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="33"/>
         <source>Choose %1</source>
         <translation>Zvoliť %1</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="75"/>
+        <source>Open Editor</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19509,17 +19514,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::PackageCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="181"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="208"/>
         <source>Package</source>
         <translation>Puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="183"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="210"/>
         <source>Failed to load package</source>
         <translation>Nedá sa načítať puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="184"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="211"/>
         <source>No package selected</source>
         <translation>Nie je zvolené puzdro</translation>
     </message>

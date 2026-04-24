@@ -10975,33 +10975,33 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="463"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="472"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="854"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="889"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="926"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="967"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="464"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="473"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="868"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="903"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="940"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="981"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="594"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="581"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="595"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="911"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="925"/>
         <source>Change Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="948"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="962"/>
         <source>Change Package</source>
         <translation type="unfinished"/>
     </message>
@@ -15541,17 +15541,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1218"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1220"/>
         <source>Preparing schematics...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1218"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1220"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1247"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1249"/>
         <source>Error</source>
         <translation type="unfinished"/>
     </message>
@@ -17262,17 +17262,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="165"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="188"/>
         <source>Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="167"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="190"/>
         <source>Failed to load component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="168"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="191"/>
         <source>No component selected</source>
         <translation type="unfinished"/>
     </message>
@@ -17798,8 +17798,13 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceDependencyCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="31"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="33"/>
         <source>Choose %1</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="75"/>
+        <source>Open Editor</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -19390,17 +19395,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="181"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="208"/>
         <source>Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="183"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="210"/>
         <source>Failed to load package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="184"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="211"/>
         <source>No package selected</source>
         <translation type="unfinished"/>
     </message>
