@@ -12502,7 +12502,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="405"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="535"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="538"/>
         <source>Restore autosave backup?</source>
         <translation>還原自動儲存的備份？</translation>
     </message>
@@ -12512,32 +12512,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="440"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="443"/>
         <source>Failed to open library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="488"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="491"/>
         <source>Could not create project</source>
         <translation>無法建立專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="502"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="505"/>
         <source>Open Project</source>
         <translation>開啟專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="503"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="506"/>
         <source>LibrePCB project files (%1)</source>
         <translation>LibrePCB 專案檔 (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="536"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="539"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>噢，看起來上次這個程式在開啟你的專案時GG了，想要還原上次自動儲存的備份嗎？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="613"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="616"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
