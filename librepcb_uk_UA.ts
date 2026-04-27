@@ -1154,37 +1154,37 @@
 <context>
     <name>DesktopIntegration</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="130"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="131"/>
         <source>To avoid troubles, only proceed if there are no other (installed) LibrePCB applications on this computer.</source>
         <translation>Щоб уникнути проблем, продовжуйте лише в разі відсутності інших (встановлених) додатків LibrePCB на цьому комп&apos;ютері.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="143"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="144"/>
         <source>Install Desktop Integration</source>
         <translation>Встановіть інтеграцію робочого стола.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="144"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="145"/>
         <source>This installs the following files to register the executable &lt;i&gt;%1&lt;/i&gt;:</source>
         <translation>Це встановлює наступні файли для реєстрації виконуваного файлу &lt;i&gt;%1&lt;/i&gt;:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="152"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="153"/>
         <source>Uninstall Desktop Integration</source>
         <translation>Деінсталювати інтеграцію робочого столу.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="154"/>
         <source>This removes the following files:</source>
         <translation>Це видаляє наступні файли:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="177"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="260"/>
         <source>Failed to run '%1'.
 
 Please make sure this tool is available in PATH.</source>

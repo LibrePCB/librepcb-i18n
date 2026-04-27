@@ -1155,37 +1155,37 @@
 <context>
     <name>DesktopIntegration</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="130"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="131"/>
         <source>To avoid troubles, only proceed if there are no other (installed) LibrePCB applications on this computer.</source>
         <translation>Pro odstranění problémů postupujte pouze tehdy, pokud na tomto počítači nejsou žádné jiné (nainstalované) aplikace LibrePCB.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="143"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="144"/>
         <source>Install Desktop Integration</source>
         <translation>Nainstalovat integraci na plochu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="144"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="145"/>
         <source>This installs the following files to register the executable &lt;i&gt;%1&lt;/i&gt;:</source>
         <translation>Toto instaluje následující soubory pro registraci spustitelného souboru &lt;i&gt;%1&lt;/i&gt;:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="152"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="153"/>
         <source>Uninstall Desktop Integration</source>
         <translation>Odinstalovat integraci plochy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="154"/>
         <source>This removes the following files:</source>
         <translation>Tímto se odstraní následující soubory.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="177"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="259"/>
+        <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="260"/>
         <source>Failed to run '%1'.
 
 Please make sure this tool is available in PATH.</source>
