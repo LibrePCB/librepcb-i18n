@@ -7077,27 +7077,27 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::eagleimport::EagleLibraryImport</name>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="348"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="387"/>
         <source>Skipped symbol due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="373"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="412"/>
         <source>Skipped package due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="399"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="438"/>
         <source>Skipped component due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="425"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="464"/>
         <source>Skipped device due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="432"/>
+        <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="471"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation type="unfinished"><numerusform></numerusform></translation>
@@ -10984,33 +10984,33 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="481"/>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="490"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="899"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="934"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="971"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1012"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="499"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="970"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1005"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1042"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1083"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="623"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="646"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="624"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="647"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="956"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1027"/>
         <source>Change Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="993"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1064"/>
         <source>Change Package</source>
         <translation type="unfinished"/>
     </message>
@@ -11189,12 +11189,12 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::EagleLibraryImportWizardContext</name>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="99"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="106"/>
         <source>No file selected.</source>
         <translation>未選擇任何檔案</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="105"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="112"/>
         <source>Found %1 element(s) in the selected library.</source>
         <translation><numerusform>在選擇的資料夾中找到找到 %1 元素。</numerusform></translation>
     </message>
@@ -11256,6 +11256,11 @@ Do you really want to close it?</source>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.cpp" line="114"/>
+        <source>Finished!</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.cpp" line="119"/>
         <source>Scanning libraries</source>
         <translation>正在掃描元件庫</translation>
     </message>
@@ -11306,49 +11311,54 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="26"/>
-        <source>Prefix</source>
-        <translation>前綴</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="47"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="29"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="50"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="32"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="60"/>
-        <source>Component Category</source>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="39"/>
+        <source>Will list all imported elements under a dedicated category, to help finding them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="88"/>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="147"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="42"/>
+        <source>Add all elements to &quot;%1&quot; category (recommended)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="49"/>
+        <source>Additional Component Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="77"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="136"/>
         <source>Choose category</source>
         <translation>選取分類</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="102"/>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="161"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="91"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="150"/>
         <source>Reset</source>
         <translation>重設</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="119"/>
-        <source>Package Category</source>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="108"/>
+        <source>Additional Package Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="183"/>
-        <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="172"/>
+        <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except by manually removing the imported elements)!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.cpp" line="58"/>
+        <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.cpp" line="60"/>
         <source>&amp;Import!</source>
         <translation type="unfinished"/>
     </message>
@@ -12961,7 +12971,7 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::KiCadLibraryImportWizardContext</name>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="104"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="110"/>
         <source>No file or directory selected.</source>
         <translation type="unfinished"/>
     </message>
@@ -13106,49 +13116,54 @@ Do you really want to close it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="26"/>
-        <source>Prefix</source>
-        <translation>前綴</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="47"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="29"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="50"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="32"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="60"/>
-        <source>Component Category</source>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="39"/>
+        <source>Will list all imported elements under a dedicated category, to help finding them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="88"/>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="147"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="42"/>
+        <source>Add all elements to &quot;%1&quot; category (recommended)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="49"/>
+        <source>Additional Component Category</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="77"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="136"/>
         <source>Choose category</source>
         <translation>選取分類</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="102"/>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="161"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="91"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="150"/>
         <source>Reset</source>
         <translation>重設</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="119"/>
-        <source>Package Category</source>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="108"/>
+        <source>Additional Package Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="183"/>
-        <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except my manually removing the imported elements)!</source>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="172"/>
+        <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except by manually removing the imported elements)!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.cpp" line="58"/>
+        <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.cpp" line="60"/>
         <source>&amp;Import!</source>
         <translation type="unfinished"/>
     </message>
@@ -13281,64 +13296,64 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="361"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="370"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="548"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1089"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1140"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="551"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1092"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1143"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="376"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="379"/>
         <source>Choose Library Icon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="378"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="381"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="384"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="387"/>
         <source>Could not open file</source>
         <translation>無法開啟檔案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="705"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="708"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="720"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
         <source>Invalid Parent</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1030"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1033"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>您確定要移動以下元素到元件庫 &apos;%1&apos; 內？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1035"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1038"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1048"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1051"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1054"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1057"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1064"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1067"/>
         <source>Move %1 Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1114"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1117"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -13347,12 +13362,12 @@ Are you still sure to delete the following library elements?</source>
 您依然確定要刪除以下元件庫元素嗎？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1127"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1130"/>
         <source>This cannot be undone!</source>
         <translation>此動作無法被復原！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1131"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1134"/>
         <source>Remove %1 Elements</source>
         <translation type="unfinished"/>
     </message>
@@ -16609,98 +16624,98 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>librepcb::kicadimport::KiCadLibraryImport</name>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="506"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="535"/>
         <source>Found %1 symbol libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="507"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="536"/>
         <source>Found %1 footprints in %2 libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="510"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="539"/>
         <source>Found %1 STEP files in %2 libraries.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="530"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="559"/>
         <source>Waiting for background library scan to finish...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="537"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="566"/>
         <source>Parsing libraries...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="657"/>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="935"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="686"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="974"/>
         <source>Aborted.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="660"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="689"/>
         <source>Found %1 symbols and %2 footprints.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="665"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="694"/>
         <source>Due to the large amount of elements, please be patient during the following steps.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="668"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="697"/>
         <source>Please review the messages (if any) before continuing.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="685"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="714"/>
         <source>Importing libraries...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="784"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="823"/>
         <source>Skipped footprint due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="839"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="878"/>
         <source>Skipped symbol due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="871"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="910"/>
         <source>Skipped component due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="914"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="953"/>
         <source>Skipped device due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="923"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="962"/>
         <source>Skipped symbol library due to error: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="939"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="978"/>
         <source>Done! Please check all messages (if any) before proceeding.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="941"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="980"/>
         <source>Note that the importer might not cover all cases correctly yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="942"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="981"/>
         <source>If you experience any issue, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt;. Thanks!</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="948"/>
+        <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="987"/>
         <source>Finished: %1 of %2 element(s) imported</source>
         <comment>Placeholders are numbers</comment>
         <translation type="unfinished"><numerusform></numerusform></translation>
@@ -17330,17 +17345,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="188"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="203"/>
         <source>Component</source>
         <translation>元件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="190"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="205"/>
         <source>Failed to load component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="191"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="206"/>
         <source>No component selected</source>
         <translation>沒有選擇的元件</translation>
     </message>
@@ -17866,12 +17881,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceDependencyCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="33"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="34"/>
         <source>Choose %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="75"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="76"/>
         <source>Open Editor</source>
         <translation type="unfinished"/>
     </message>
@@ -18924,257 +18939,257 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1001"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1002"/>
         <source>New Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1011"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1012"/>
         <source>New Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1023"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1024"/>
         <source>Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1042"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1043"/>
         <source>Save Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1052"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1053"/>
         <source>Close Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1053"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1054"/>
         <source>Close the currently opened category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1078"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1079"/>
         <source>Symbol</source>
         <translation>符號</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1097"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1098"/>
         <source>Save Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1107"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1108"/>
         <source>Close Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1108"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1109"/>
         <source>Close the currently opened symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1118"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1119"/>
         <source>Reload Symbol From Disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1119"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1120"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1140"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1141"/>
         <source>Package</source>
         <translation>封裝</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1159"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1160"/>
         <source>Save Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1169"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1170"/>
         <source>Close Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1170"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1171"/>
         <source>Close the currently opened package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1180"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1181"/>
         <source>Reload Package From Disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1181"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1182"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1202"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1203"/>
         <source>Component</source>
         <translation>元件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1221"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1222"/>
         <source>Save Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1231"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1232"/>
         <source>Close Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1232"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1233"/>
         <source>Close the currently opened component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1253"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1254"/>
         <source>Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1272"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1273"/>
         <source>Save Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1282"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1283"/>
         <source>Close Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1283"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1284"/>
         <source>Close the currently opened device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1304"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1305"/>
         <source>Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1323"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1324"/>
         <source>Save Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1333"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1334"/>
         <source>Close Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1334"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1335"/>
         <source>Close the currently opened organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1355"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1356"/>
         <source>Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1394"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1395"/>
         <source>Save Project</source>
         <translation>儲存專案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="144"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="145"/>
         <source>File</source>
         <translation>檔案</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1565"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1566"/>
         <source>Help</source>
         <translation>求助</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1686"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1687"/>
         <source>read-only</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1899"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1917"/>
         <source>Quick Find</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="199"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="200"/>
         <source>New Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="201"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="202"/>
         <source>Create a new local workspace library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="210"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="211"/>
         <source>Download Library</source>
         <translation>下載元件庫</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="212"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="213"/>
         <source>Manually download an existing library from the Internet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="350"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="351"/>
         <source>Open Workspace Folder</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="382"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="383"/>
         <source>Edit</source>
         <translation>編輯</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="433"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="434"/>
         <source>Cut</source>
         <translation>剪下</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="435"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="436"/>
         <source>Cut the selected object(s) to clipboard</source>
         <translation>剪下選取的物件至剪貼簿</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="446"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="447"/>
         <source>Copy</source>
         <translation>複製</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="448"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="449"/>
         <source>Copy the selected object(s) to clipboard</source>
         <translation>複製選取的物件至剪貼簿</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="459"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="460"/>
         <source>Paste</source>
         <translation>貼上</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="461"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="462"/>
         <source>Paste object(s) from the clipboard</source>
         <translation>貼上選取的物件至剪貼簿</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="669"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="670"/>
         <source>View</source>
         <translation>檢視</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="704"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="705"/>
         <source>Split Window</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="706"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="707"/>
         <source>Split the current window into one more section</source>
         <translation type="unfinished"/>
     </message>
@@ -19189,22 +19204,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>復原：%1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="880"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="881"/>
         <source>Library</source>
         <translation>元件庫</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="899"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="900"/>
         <source>Save Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="909"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="910"/>
         <source>Close Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="910"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="911"/>
         <source>Close the currently opened library</source>
         <translation type="unfinished"/>
     </message>
@@ -19219,27 +19234,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>重做：%1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="951"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="952"/>
         <source>New Component Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="961"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="962"/>
         <source>New Package Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="971"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="972"/>
         <source>New Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="981"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="982"/>
         <source>New Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="991"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="992"/>
         <source>New Component</source>
         <translation type="unfinished"/>
     </message>
@@ -19486,17 +19501,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="208"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="224"/>
         <source>Package</source>
         <translation>封裝</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="210"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="226"/>
         <source>Failed to load package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="211"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="227"/>
         <source>No package selected</source>
         <translation>沒有選擇的封裝</translation>
     </message>
