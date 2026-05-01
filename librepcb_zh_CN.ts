@@ -6504,29 +6504,34 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::FileDownload</name>
     <message>
-        <location filename="libs/librepcb/core/network/filedownload.cpp" line="108"/>
-        <source>Error while writing file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/network/filedownload.cpp" line="117"/>
+        <location filename="libs/librepcb/core/network/filedownload.cpp" line="104"/>
         <source>Verify checksum...</source>
         <translation>检验校验和...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/filedownload.cpp" line="121"/>
-        <source>Error while readback file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/network/filedownload.cpp" line="133"/>
+        <location filename="libs/librepcb/core/network/filedownload.cpp" line="112"/>
         <source>Checksum verification of downloaded file failed!</source>
         <translation>下载的文件校验错！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/filedownload.cpp" line="141"/>
-        <source>Extract files...</source>
-        <translation>提取文件...</translation>
+        <location filename="libs/librepcb/core/network/filedownload.cpp" line="123"/>
+        <source>Write file...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/network/filedownload.cpp" line="126"/>
+        <source>Error while writing file &quot;%1&quot;: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/network/filedownload.cpp" line="136"/>
+        <source>Remove temporary files...</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/network/filedownload.cpp" line="147"/>
+        <source>Extract ZIP...</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11050,7 +11055,7 @@ Do you want to save them before closing it?</source>
         <translation>下载库</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="211"/>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="214"/>
         <source>Exists already</source>
         <translation>已经存在</translation>
     </message>
@@ -12490,68 +12495,68 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="342"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="356"/>
         <source>Workspace changed</source>
         <translation>工作区已改变</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="343"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="357"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>应用重启后选择的工作区将会开始使用。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="357"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="371"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation>这将从互联网下载一些示例工程并将其复制到工作区，以帮助您使用实际工程来评估 LibrePCB。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="361"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="375"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation>当您不再需要它们，只需删除 examples 目录即可将其清除。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="364"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="378"/>
         <source>Add Example Projects</source>
         <translation>添加示例项目</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="405"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="538"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="419"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="552"/>
         <source>Restore autosave backup?</source>
         <translation>要恢复自动保存的备份？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="406"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="420"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="443"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="457"/>
         <source>Failed to open library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="491"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="505"/>
         <source>Could not create project</source>
         <translation>无法创建项目</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="505"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="519"/>
         <source>Open Project</source>
         <translation>打开项目</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="506"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="520"/>
         <source>LibrePCB project files (%1)</source>
         <translation>LibrePCB 项目文件 (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="539"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="553"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>您上次打开此项目时，应用程序似乎崩溃了。 是否要恢复上次的自动保存备份？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="616"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="630"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -13217,20 +13222,85 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::LibrariesModel</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="269"/>
-        <source>Error</source>
-        <translation>错误</translation>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="73"/>
+        <source>Looking for library updates...</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="474"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="260"/>
+        <source>Failed to Uninstall Library</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="261"/>
+        <source>The directory &apos;%1&apos; could not be removed: %2</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="454"/>
+        <source>Successfully updated libraries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="456"/>
+        <source>Failed to update libraries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="539"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation>从 &apos;%1&apos; 获取库失败：%2</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="560"/>
+        <source>All libraries are up-to-date</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="562"/>
+        <source>Update available for %n libraries</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="590"/>
+        <source>There are %n library update(s) available for installation.</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="596"/>
+        <source>See details in the libraries side panel, or click the button below to download &amp; install all updates.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="598"/>
+        <source>Update Libraries</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="601"/>
+        <source>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="604"/>
+        <source>Open Libraries Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="607"/>
+        <source>Library Updates Available</source>
+        <translation type="unfinished"/>
+    </message>
+    <message numerus="yes">
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="634"/>
+        <source>Updating %n libraries...</source>
+        <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
 </context>
 <context>
     <name>librepcb::editor::LibraryDownload</name>
     <message>
-        <location filename="libs/librepcb/editor/library/librarydownload.cpp" line="155"/>
+        <location filename="libs/librepcb/editor/library/librarydownload.cpp" line="158"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
         <translation>下载的 ZIP 文件不包含 LibrePCB 库。</translation>
     </message>
@@ -13414,9 +13484,9 @@ Are you still sure to delete the following library elements?</source>
         <translation>修改</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="929"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1191"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1220"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="935"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1197"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1226"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -16365,12 +16435,17 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="829"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="831"/>
+        <source>Automatic Library Updates:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="854"/>
         <source>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="832"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="857"/>
         <source>Auto-Fetch Live Part Information</source>
         <translation>自动获取实时零件信息</translation>
     </message>
@@ -16386,7 +16461,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="149"/>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="825"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="853"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -16457,12 +16532,36 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <translation>线条</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="452"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="406"/>
+        <source>Disabled</source>
+        <comment>Update mode</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="409"/>
+        <source>Check (Silent)</source>
+        <comment>Update mode</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="412"/>
+        <source>Check &amp; Notify</source>
+        <comment>Update mode</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="415"/>
+        <source>Check &amp; Install</source>
+        <comment>Update mode</comment>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="468"/>
         <source>Restore default settings</source>
         <translation>恢复默认设置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="453"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="469"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
@@ -16471,57 +16570,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
 注意：该操作会被立即应用并且无法回退！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="492"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="508"/>
         <source>Discard Changes?</source>
         <translation>放弃更改？</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="493"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="509"/>
         <source>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="521"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="537"/>
         <source>Example:</source>
         <translation>示例：</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="548"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="564"/>
         <source>Select executable</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="573"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="589"/>
         <source>Available placeholders:</source>
         <translation>可用占位符：</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="662"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="678"/>
         <source>Reset</source>
         <translation>重置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="665"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="681"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
         <translation>重置所有已永久忽略的消息（类似于 &quot;不再显示&quot;）以使其再次出现。</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="668"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="684"/>
         <source>Currently there are %1 dismissed message(s).</source>
         <translation><numerusform>当前有 %1 条已忽略的消息。</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="677"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="693"/>
         <source>Installed</source>
         <translation>已安装的</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="682"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="698"/>
         <source>Other application installed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="688"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="704"/>
         <source>Not installed</source>
         <translation>未安装</translation>
     </message>
@@ -18588,42 +18687,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="547"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="553"/>
         <source>Local Libraries</source>
         <translation>本地库</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="562"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="568"/>
         <source>Remote Libraries</source>
         <translation>远程库</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="607"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="615"/>
         <source>Pending Operations</source>
         <translation>待处理操作</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="656"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="656"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="672"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
         <source>Apply</source>
         <translation>应用</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="672"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
         <source>Apply %n Modification(s)</source>
         <translation><numerusform>应用 %n 项更改</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="694"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="702"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -18631,42 +18730,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibrariesPanelSection</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="331"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="337"/>
         <source>Toggle All</source>
         <translation>全部切换</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="358"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="364"/>
         <source>Download a Library by URL</source>
         <translation>通过 URL 下载库</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="370"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="376"/>
         <source>Create a New Library</source>
         <translation>创建新库</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="383"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="389"/>
         <source>Check For Updates</source>
         <translation>检查更新</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="396"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="402"/>
         <source>Cancel Update Check</source>
         <translation>取消更新检查</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="425"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="431"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation>当前未安装任何远程元件库。若要获取诸如电阻、LED、微控制器等元件，请选择一些要从互联网下载的库。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="437"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="443"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation>此工作区中没有本地库。若要创建自己的零件，请先使用上方的按钮添加一个新的本地库。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="448"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="454"/>
         <source>No libraries matching the filter.</source>
         <translation type="unfinished"/>
     </message>
@@ -18738,22 +18837,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryListViewItem</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="220"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="225"/>
         <source>Recommended</source>
         <translation>推荐的</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="232"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="237"/>
         <source>Uninstall</source>
         <translation>卸载</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="71"/>
+        <source>Duplicate, will be removed</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="76"/>
         <source>Outdated:</source>
         <translation>过时：</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="76"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="81"/>
         <source>Up-to-date:</source>
         <translation>最新：</translation>
     </message>
@@ -19386,22 +19490,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="327"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
         <source>Details</source>
         <translation>详情</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="339"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
         <translation>此工具可助您快速、轻松地将您设计的 PCB 送交制造。工程目录将被导出为 *.lppz 归档，并上传至您工作区设置中配置的 API 服务器。随后，您可以在网页浏览器中继续订购流程，例如选择首选的制造合作伙伴。快试一试吧！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="344"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
         <source>Privacy Policy</source>
         <translation>隐私政策</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="356"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
         <translation>我们非常重视隐私和透明度。有关此功能后台运作的详细信息，请参阅此处：</translation>
     </message>
@@ -20079,32 +20183,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="165"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="166"/>
         <source>Home</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="175"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="176"/>
         <source>Open Documents</source>
         <translation>打开文档</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="192"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="193"/>
         <source>Layers</source>
         <translation>层</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="216"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="217"/>
         <source>Place Devices</source>
         <translation>放置器件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="350"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="351"/>
         <source>Libraries</source>
         <translation>库</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="404"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="405"/>
         <source>Help / About</source>
         <translation>帮助/关于</translation>
     </message>
