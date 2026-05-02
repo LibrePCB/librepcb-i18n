@@ -5549,7 +5549,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="168"/>
-        <source>At least one signal of this component has a forced net set, which is very unusal and can cause serious troubles if not used intentionally.
+        <source>At least one signal of this component has a forced net set, which is very unusual and can cause serious troubles if not used intentionally.
 
 Please consult the user manual to ensure this is what you want. If you&apos;re unsure, clear the forced net on all component signals.</source>
         <translation type="unfinished"/>
@@ -6676,85 +6676,85 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::NetworkRequestBase</name>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="126"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="124"/>
         <source>Start request...</source>
         <translation>開始請求...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="129"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="127"/>
         <source>Fatal error: Download manager is not running.</source>
         <translation>嚴重錯誤：下載管理器沒在執行。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="136"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="134"/>
         <source>Abort request...</source>
         <translation>放棄請求...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="149"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="147"/>
         <source>Request started...</source>
         <translation>請求已開始...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="154"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="152"/>
         <source>Network access manager is not running.</source>
         <translation>網路存取管理器沒在執行。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="231"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="229"/>
         <source>Send data: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="249"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="247"/>
         <source>Receive data: %1</source>
         <translation>接收到的資料：%1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="264"/>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="318"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="262"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>%1 (%2)</source>
         <translation>%1 (%2)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="275"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="273"/>
         <source>SSL errors occurred:
 
 %1</source>
         <translation>發生 SSL 錯誤 ：%1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="288"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="286"/>
         <source>Network request aborted.</source>
         <translation>網路請求已放棄。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="298"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="296"/>
         <source>Redirection loop detected.</source>
         <translation>偵測到重新導向迴圈。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="301"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="299"/>
         <source>Too many redirects.</source>
         <translation>太多重新導向。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="307"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
         <source>Redirect to %1...</source>
         <translation>重新導向至 %1...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="358"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="357"/>
         <source>Request successfully finished.</source>
         <translation>請求成功的完成了。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="364"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="363"/>
         <source>Request aborted.</source>
         <translation>請求已放棄。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="375"/>
+        <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="374"/>
         <source>Request failed: %1</source>
         <translation>請求失敗：%1</translation>
     </message>
@@ -7581,65 +7581,65 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1418"/>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1456"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1759"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1758"/>
         <source>None</source>
         <translation>無</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2422"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2421"/>
         <source>Add devices to board</source>
         <translation>加入裝置至電路板</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2450"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2502"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2533"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2587"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2449"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2501"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2532"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2586"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2468"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2467"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2468"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2467"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2521"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2520"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2585"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2584"/>
         <source>Success!</source>
         <translation>成功！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2594"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2593"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2632"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2631"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2640"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2646"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2645"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2656"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2655"/>
         <source>Close</source>
         <translation>關閉</translation>
     </message>
@@ -8668,7 +8668,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="656"/>
-        <source>Allow vias whith either start or end on an inner copper layer.</source>
+        <source>Allow vias which either start or end on an inner copper layer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -8813,7 +8813,7 @@ You need at least LibrePCB %1 to open it.
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="158"/>
-        <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified mimimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
+        <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified minimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -14633,9 +14633,9 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="712"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="721"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="730"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2546"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2584"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2651"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2545"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2583"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2650"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -14656,22 +14656,22 @@ Do you want to save them before closing it?</source>
         <translation>（未連接）</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2128"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2127"/>
         <source>New Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2351"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2350"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2373"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2372"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2728"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2727"/>
         <source>Please select a footprint.</source>
         <translation>請選取一個腳位圖。</translation>
     </message>
@@ -16485,13 +16485,13 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="235"/>
         <source>Absolute path to the file to open</source>
-        <comment>Decription for '{{FILEPATH}}' placeholder</comment>
+        <comment>Description for '{{FILEPATH}}' placeholder</comment>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="239"/>
         <source>URL to the file to open (file://)</source>
-        <comment>Decription for '{{URL}}' placeholder</comment>
+        <comment>Description for '{{URL}}' placeholder</comment>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -16500,9 +16500,9 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <translation>網路瀏覽器</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="252"/>
         <source>Website URL to open</source>
-        <comment>Decription for '{{URL}}' placeholder</comment>
+        <comment>Description for '{{URL}}' placeholder</comment>
         <translation>要前往的網站 URL</translation>
     </message>
     <message>
