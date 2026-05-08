@@ -19030,52 +19030,52 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibraryTreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="174"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
         <source>All Elements</source>
         <translation>Všetky elementy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
         <source>Uncategorized</source>
         <translation>Nekategorizované</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
         <source>Component Categories</source>
         <translation>Kategórie komponentu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
         <source>Package Categories</source>
         <translation>Kategórie puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
         <source>Symbols</source>
         <translation>Schematické značky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="186"/>
         <source>Packages</source>
         <translation>Puzdrá</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="186"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
         <source>Components</source>
         <translation>Komponenty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="190"/>
         <source>Devices</source>
         <translation>Súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="190"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="192"/>
         <source>Organizations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="210"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="212"/>
         <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>

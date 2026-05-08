@@ -18906,52 +18906,52 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryTreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="174"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
         <source>All Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
         <source>Uncategorized</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
         <source>Component Categories</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
         <source>Package Categories</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
         <source>Symbols</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="186"/>
         <source>Packages</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="186"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
         <source>Components</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="190"/>
         <source>Devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="190"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="192"/>
         <source>Organizations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="210"/>
+        <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="212"/>
         <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>
