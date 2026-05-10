@@ -19049,162 +19049,167 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1002"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1000"/>
+        <source>New Component</source>
+        <translation>Neue Komponente</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1010"/>
         <source>New Device</source>
         <translation>Neues Bauteil</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1012"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1020"/>
         <source>New Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1024"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1032"/>
         <source>Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1043"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1051"/>
         <source>Save Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1053"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1061"/>
         <source>Close Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1054"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1062"/>
         <source>Close the currently opened category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1079"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1087"/>
         <source>Symbol</source>
         <translation>Symbol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1098"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1106"/>
         <source>Save Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1108"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1116"/>
         <source>Close Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1109"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1117"/>
         <source>Close the currently opened symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1119"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1127"/>
         <source>Reload Symbol From Disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1120"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1128"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1141"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
         <source>Package</source>
         <translation>Gehäuse</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1160"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1168"/>
         <source>Save Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1170"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1178"/>
         <source>Close Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1171"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1179"/>
         <source>Close the currently opened package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1181"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1189"/>
         <source>Reload Package From Disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1182"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1190"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1203"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
         <source>Component</source>
         <translation>Komponente</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1222"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1230"/>
         <source>Save Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1232"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1240"/>
         <source>Close Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1233"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1241"/>
         <source>Close the currently opened component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1254"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1262"/>
         <source>Device</source>
         <translation>Bauteil</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1273"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1281"/>
         <source>Save Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1283"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1291"/>
         <source>Close Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1284"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1292"/>
         <source>Close the currently opened device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1305"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1313"/>
         <source>Organization</source>
         <translation>Organisation</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1324"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1332"/>
         <source>Save Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1334"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1342"/>
         <source>Close Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1335"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1343"/>
         <source>Close the currently opened organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1356"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1364"/>
         <source>Project</source>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1395"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1403"/>
         <source>Save Project</source>
         <translation>Projekt speichern</translation>
     </message>
@@ -19214,17 +19219,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Datei</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1566"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1574"/>
         <source>Help</source>
         <translation>Hilfe</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1687"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1695"/>
         <source>read-only</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1917"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1925"/>
         <source>Quick Find</source>
         <translation>Schnellsuche</translation>
     </message>
@@ -19314,22 +19319,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Verwerfe: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="881"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="889"/>
         <source>Library</source>
         <translation>Bibliothek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="900"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="908"/>
         <source>Save Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="910"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="918"/>
         <source>Close Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="911"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="919"/>
         <source>Close the currently opened library</source>
         <translation type="unfinished"/>
     </message>
@@ -19344,29 +19349,24 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Wiederherstelle: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="952"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="960"/>
         <source>New Component Category</source>
         <translation>Neue Komponenten-Kategorie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="962"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="970"/>
         <source>New Package Category</source>
         <translation>Neue Gehäuse-Kategorie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="972"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="980"/>
         <source>New Symbol</source>
         <translation>Neues Symbol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="982"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="990"/>
         <source>New Package</source>
         <translation>Neues Gehäuse</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="992"/>
-        <source>New Component</source>
-        <translation>Neue Komponente</translation>
     </message>
 </context>
 <context>

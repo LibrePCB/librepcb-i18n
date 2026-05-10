@@ -7952,7 +7952,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="494"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
-        <translation type="unfinished"/>
+        <translation>Эта площадка не подключена ни к какой цепи, поэтому к ней нельзя прикрепить никакой дорожки. Чтобы можно было прикрепить дорожку, сначала подключите эту площадку к цепи на схеме. Так что это проблема схемы, а не платы.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="657"/>
@@ -7981,7 +7981,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="234"/>
         <source>Draw Board Zone</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать зону платы</translation>
     </message>
 </context>
 <context>
@@ -8060,12 +8060,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2357"/>
         <source>Net</source>
-        <translation type="unfinished"/>
+        <translation>Цепь</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2360"/>
         <source>Class</source>
-        <translation type="unfinished"/>
+        <translation>Класс</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2375"/>
@@ -8080,7 +8080,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2377"/>
         <source>MPN</source>
-        <translation type="unfinished"/>
+        <translation>MPN</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2385"/>
@@ -8101,48 +8101,48 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2398"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2448"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Размер</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2411"/>
         <source>Slot</source>
-        <translation type="unfinished"/>
+        <translation>Слот</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2417"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2443"/>
         <source>Drill</source>
-        <translation type="unfinished"/>
+        <translation>Сверловка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2428"/>
         <source>Layer</source>
-        <translation type="unfinished"/>
+        <translation>Слой</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
         <source>Height</source>
-        <translation type="unfinished"/>
+        <translation>Height</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2455"/>
         <source>Start Layer</source>
-        <translation type="unfinished"/>
+        <translation>Начальный слой</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2456"/>
         <source>End Layer</source>
-        <translation type="unfinished"/>
+        <translation>Конечный слой</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2461"/>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Положение</translation>
     </message>
 </context>
 <context>
@@ -8363,7 +8363,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="406"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверла превышает ширину или высоту площадки. Уменьшите диаметр сверла или увеличьте ширину и/или высоту площадки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="417"/>
@@ -8373,7 +8373,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="424"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Неверные свойства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="478"/>
@@ -8489,7 +8489,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="49"/>
         <source>Min. Copper Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Мин. зазор меди:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="56"/>
@@ -8544,12 +8544,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="139"/>
         <source>Min. Board Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Мин. зазор платы:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="146"/>
         <source>Min. Hole Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Мин. зазор отверстий:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="96"/>
@@ -8640,7 +8640,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
         <source>Default Trace Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ширина трассировки по умолчанию:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="280"/>
@@ -8685,7 +8685,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="365"/>
         <source>Default Via Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверловки переходных отверстий:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="372"/>
@@ -9005,7 +9005,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="202"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Неверные свойства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="235"/>
@@ -11794,7 +11794,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="457"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверла превышает ширину или высоту площадки. Уменьшите диаметр сверла или увеличьте ширину и/или высоту площадки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="468"/>
@@ -11804,7 +11804,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="475"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Неверные свойства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="530"/>
@@ -15731,17 +15731,17 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1363"/>
         <source>MPN</source>
-        <translation type="unfinished"/>
+        <translation>MPN</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1374"/>
         <source>Net</source>
-        <translation type="unfinished"/>
+        <translation>Цепь</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1377"/>
         <source>Class</source>
-        <translation type="unfinished"/>
+        <translation>Класс</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1381"/>
@@ -17086,7 +17086,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
@@ -17096,7 +17096,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
         <source>Height</source>
-        <translation type="unfinished"/>
+        <translation>Height</translation>
     </message>
 </context>
 <context>
@@ -17160,7 +17160,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Ширина</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
@@ -17170,7 +17170,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
         <source>Height</source>
-        <translation type="unfinished"/>
+        <translation>Height</translation>
     </message>
 </context>
 <context>
@@ -17653,7 +17653,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="296"/>
         <source>Net</source>
-        <translation type="unfinished"/>
+        <translation>Цепь</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="304"/>
@@ -19172,162 +19172,167 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1002"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1000"/>
+        <source>New Component</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1010"/>
         <source>New Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1012"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1020"/>
         <source>New Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1024"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1032"/>
         <source>Category</source>
         <translation>Категория</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1043"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1051"/>
         <source>Save Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1053"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1061"/>
         <source>Close Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1054"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1062"/>
         <source>Close the currently opened category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1079"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1087"/>
         <source>Symbol</source>
         <translation>Символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1098"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1106"/>
         <source>Save Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1108"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1116"/>
         <source>Close Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1109"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1117"/>
         <source>Close the currently opened symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1119"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1127"/>
         <source>Reload Symbol From Disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1120"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1128"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1141"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
         <source>Package</source>
         <translation>Корпус</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1160"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1168"/>
         <source>Save Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1170"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1178"/>
         <source>Close Package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1171"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1179"/>
         <source>Close the currently opened package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1181"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1189"/>
         <source>Reload Package From Disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1182"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1190"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1203"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
         <source>Component</source>
         <translation>Компонент</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1222"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1230"/>
         <source>Save Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1232"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1240"/>
         <source>Close Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1233"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1241"/>
         <source>Close the currently opened component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1254"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1262"/>
         <source>Device</source>
         <translation>Устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1273"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1281"/>
         <source>Save Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1283"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1291"/>
         <source>Close Device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1284"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1292"/>
         <source>Close the currently opened device</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1305"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1313"/>
         <source>Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1324"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1332"/>
         <source>Save Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1334"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1342"/>
         <source>Close Organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1335"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1343"/>
         <source>Close the currently opened organization</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1356"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1364"/>
         <source>Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1395"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1403"/>
         <source>Save Project</source>
         <translation>Сохранить проект</translation>
     </message>
@@ -19337,17 +19342,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1566"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1574"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1687"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1695"/>
         <source>read-only</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1917"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1925"/>
         <source>Quick Find</source>
         <translation type="unfinished"/>
     </message>
@@ -19437,22 +19442,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Отменить: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="881"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="889"/>
         <source>Library</source>
         <translation>Библиотека</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="900"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="908"/>
         <source>Save Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="910"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="918"/>
         <source>Close Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="911"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="919"/>
         <source>Close the currently opened library</source>
         <translation type="unfinished"/>
     </message>
@@ -19467,28 +19472,23 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Вернуть: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="952"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="960"/>
         <source>New Component Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="962"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="970"/>
         <source>New Package Category</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="972"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="980"/>
         <source>New Symbol</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="982"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="990"/>
         <source>New Package</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="992"/>
-        <source>New Component</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -20303,7 +20303,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="282"/>
         <source>Min. Copper Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Мин. зазор меди:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="293"/>
