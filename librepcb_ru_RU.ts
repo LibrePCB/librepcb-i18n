@@ -7635,72 +7635,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1431"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1428"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1433"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1471"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1773"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1430"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1468"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1770"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2435"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2432"/>
         <source>Add devices to board</source>
         <translation>Добавить устройство на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2463"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2546"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2600"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2460"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2512"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2543"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2597"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2481"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2478"/>
         <source>Preparing board...</source>
         <translation>Подготовка платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2481"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2478"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2534"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2531"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Экспорт списка цепей IPC D-356A</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2598"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2595"/>
         <source>Success!</source>
         <translation>Успешно!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2607"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2604"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Это новая функция, и мы смогли протестировать ее только на очень немногих внешних маршрутизаторах. Если у вас возникнут проблемы с совместимостью с вашим маршрутизатором, пожалуйста, сообщите нам об этом!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2645"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2642"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Разбор сессии Specctra „%1“...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2654"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2651"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Импорт не удался, никаких изменений на плате не произошло.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2659"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2656"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Импорт</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2669"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2666"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -11056,31 +11056,31 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="492"/>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="501"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="972"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1007"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1044"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1085"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="970"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1005"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1042"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1083"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="648"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="646"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="649"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="647"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1029"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1027"/>
         <source>Change Component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1066"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1064"/>
         <source>Change Package</source>
         <translation type="unfinished"/>
     </message>
