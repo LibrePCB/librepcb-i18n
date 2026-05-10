@@ -7776,7 +7776,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="329"/>
         <source>Running Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Запуск проверки правил проектирования</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="386"/>
@@ -7796,7 +7796,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="453"/>
         <source>Success! Please continue in the web browser:</source>
-        <translation type="unfinished"/>
+        <translation>Успех! Пожалуйста, продолжайте в веб-браузере:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="540"/>
@@ -7854,7 +7854,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="382"/>
         <source>Add Pad to Board</source>
-        <translation type="unfinished"/>
+        <translation>Добавить площадку на плату</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="404"/>
@@ -7901,7 +7901,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="224"/>
         <source>Draw Board Plane</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать плоскость на плате</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="254"/>
@@ -7918,7 +7918,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="388"/>
         <source>Could not determine the bounding box of board. Make sure a valid board outline polygon is present.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось определить ограничивающую рамку платы. Убедитесь, что присутствует допустимый контур многоугольника платы.</translation>
     </message>
 </context>
 <context>
