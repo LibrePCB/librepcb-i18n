@@ -6177,12 +6177,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="256"/>
+        <location filename="apps/librepcb/main.cpp" line="264"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="257"/>
+        <location filename="apps/librepcb/main.cpp" line="265"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>Не удалось открыть рабочее пространство &quot;%1&quot;:</translation>
     </message>
@@ -16939,12 +16939,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="276"/>
+        <location filename="apps/librepcb/main.cpp" line="284"/>
         <source>Unstable file format!</source>
         <translation>Нестабильный формат файла!</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="277"/>
+        <location filename="apps/librepcb/main.cpp" line="285"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;ВНИМАНИЕ: Эта НЕСТАБИЛЬНАЯ версия приложения!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Всё, что вы делаете с этим приложением, может привести к повреждению вашего рабочего пространства, библиотек или проектов! Сохранённые файлы не будут читаться стабильными версиями LibrePCB. Настоятельно рекомендуется создать резервную копию, прежде чем приступать к работе. Если вы не уверены, загрузите официальный стабильный релиз.&lt;/p&gt;&lt;p&gt;Для получения более подробной информации ознакомьтесь с &lt;a href=&quot;%1&quot;&gt;концепцией версионности&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Вы действительно уверены, что хотите продолжать работу, рискуя повредить свои файлы?!&lt;/p&gt;</translation>
     </message>

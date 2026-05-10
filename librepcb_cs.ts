@@ -6152,12 +6152,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="256"/>
+        <location filename="apps/librepcb/main.cpp" line="264"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="257"/>
+        <location filename="apps/librepcb/main.cpp" line="265"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>Nepodařilo se otevřít pracovní prostor &quot;%1&quot;:</translation>
     </message>
@@ -16881,12 +16881,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="276"/>
+        <location filename="apps/librepcb/main.cpp" line="284"/>
         <source>Unstable file format!</source>
         <translation>Formát souboru se může změnit!</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="277"/>
+        <location filename="apps/librepcb/main.cpp" line="285"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;UPOZORNĚNÍ: Toto není stálá verze programu!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práce s ní může poškodit váš pracovní prostor, knihovny anebo projekty! Soubory uložené touto verzí, nebudou čitelné stabilními verzemi LibrePCB. Před pokračováním doporučujeme, vytvořit si jejich kopie. Pokud si nejste jisti postupem, prosím raději použijte oficiálni stabilní verzi.&lt;/p&gt;&lt;p&gt;Pro více podrobností, si prosím podívejte &lt;a href=&quot;%1&quot;&gt;koncept verzování&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Opravdu chcete pokračovať i když může dojít k poškození Vašich souborů?!&lt;/p&gt;</translation>
     </message>

@@ -6140,12 +6140,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="256"/>
+        <location filename="apps/librepcb/main.cpp" line="264"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="257"/>
+        <location filename="apps/librepcb/main.cpp" line="265"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>无法打开工作区 &quot;%1&quot;:</translation>
     </message>
@@ -16849,12 +16849,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>main</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="276"/>
+        <location filename="apps/librepcb/main.cpp" line="284"/>
         <source>Unstable file format!</source>
         <translation>不稳定的文件格式！</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="277"/>
+        <location filename="apps/librepcb/main.cpp" line="285"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;注意：该应用非稳定版！&lt;/b&gt;&lt;/p&gt;&lt;p&gt;只要您使用了此应用，就有可能破坏你的工作区、库或项目！保存的文件也可能无法使用稳定版的LibrePCB打开。非常建议您在进行任何操作前进行备份。如果您自己没把握，请下载官方最新的稳定版本。&lt;/p&gt;&lt;p&gt;更多详情，请阅读LibrePCB的&lt;a href=&quot;%1&quot;&gt;版本控制文档&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;您真的确认继续操作并承担文件损坏的风险吗？！&lt;/p&gt;</translation>
     </message>
