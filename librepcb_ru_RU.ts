@@ -1114,7 +1114,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1837"/>
         <source>Please see &apos;%1&apos; for a possible replacement.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, рассмотрите &apos;%1&apos; на предмет возможной замены.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1840"/>
@@ -1681,7 +1681,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="217"/>
         <source>The pin of this device is connected to a net in the schematics, but the footprint doesn&apos;t expose a pad for it. Therefore it is impossible to make the electrical connection in the board. Check if another footprint or another device exposes a corresponding pad.</source>
-        <translation>На схеме вывод этого устройства подключен к сети, но на посадочном месте площадка для него не видна. Поэтому невозможно выполнить электрическое соединение на плате. Проверьте, есть ли на другом посадочном месте или другом устройстве соответствующая площадка.</translation>
+        <translation>На схеме вывод этого устройства подключен к цепи, но на посадочном месте площадка для него не видна. Поэтому невозможно выполнить электрическое соединение на плате. Проверьте, есть ли на другом посадочном месте или другом устройстве соответствующая площадка.</translation>
     </message>
 </context>
 <context>
@@ -3362,17 +3362,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1159"/>
         <source>Draw buses to route several related nets with a single wire</source>
-        <translation>Нарисовать шины для маршрутизации нескольких связанных сетей с помощью одного проводника</translation>
+        <translation>Нарисовать шины для маршрутизации нескольких связанных цепей с помощью одного проводника</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Add Label to Net or Bus</source>
-        <translation>Добавить метку в сеть или шину</translation>
+        <translation>Добавить метку в цепь или шину</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1168"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
-        <translation>Добавить метки, чтобы явно указать сеть или шину проводников</translation>
+        <translation>Добавить метки, чтобы явно указать цепь или шину проводников</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
@@ -4241,12 +4241,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="174"/>
         <source>Bus contains unused net: &apos;%1:%2&apos;</source>
-        <translation>Шина содержит неиспользуемую сеть: &apos;%1:%2&apos;</translation>
+        <translation>Шина содержит неиспользуемую цепь: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="176"/>
         <source>The net is connected to the bus, but is not leaving the bus ^anywhere. Check if you missed to make a connection.</source>
-        <translation>Сеть подключена к шине, но никуда от шины не уходит. Проверьте, не пропустили ли вы подключение.</translation>
+        <translation>Цепь подключена к шине, но никуда от шины не уходит. Проверьте, не пропустили ли вы подключение.</translation>
     </message>
 </context>
 <context>
@@ -4293,12 +4293,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="196"/>
         <source>Bus contains unnamed net: &apos;%1:%2&apos;</source>
-        <translation>Шина содержит безымянную сеть: &apos;%1:%2&apos;</translation>
+        <translation>Шина содержит безымянную цепь: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="198"/>
         <source>A wire without a net label is connected to the bus, which makes it impossible for this net to leave the bus somewhere else. Add a net label to the wire to explicitly specify the net.</source>
-        <translation>К шине подключается проводник без сетевой метки, что делает невозможным выход этой сети из шины куда-либо ещё. Добавьте метку цепи к проводнику, чтобы явно указать сеть.</translation>
+        <translation>К шине подключается проводник без метки цепи, что делает невозможным выход этой цепи из шины куда-либо ещё. Добавьте метку цепи к проводнику, чтобы явно указать цепь.</translation>
     </message>
 </context>
 <context>
@@ -5103,12 +5103,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/cat/librarycategorycheckmessages.cpp" line="35"/>
         <source>Invalid parent category</source>
-        <translation type="unfinished"/>
+        <translation>Недопустимая родительская категория</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cat/librarycategorycheckmessages.cpp" line="36"/>
         <source>The category has assigned itself as its parent category, which leads to an endless recursion and is thus invalid. Assign a different parent category.</source>
-        <translation type="unfinished"/>
+        <translation>Категория назначила себя в качестве родительской категории, что приводит к бесконечной рекурсии и, следовательно, является недействительной. Назначьте другую родительскую категорию.</translation>
     </message>
 </context>
 <context>
@@ -5468,7 +5468,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="500"/>
         <source>Pads must have at least %1 clearance between each other, as configured in the package. Either increase the clearance between those pads, or reduce the configured minimum clearance value if you are sure the PCB manufacturer can reliably handle it.</source>
-        <translation type="unfinished"/>
+        <translation>Контактные площадки должны иметь зазор не менее %1 между собой, как указано в комплектации. Либо увеличьте зазор между этими площадками, либо уменьшите настроенное минимальное значение зазора, если вы уверены, что производитель печатной платы справится с этим.</translation>
     </message>
 </context>
 <context>
@@ -5584,14 +5584,16 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="167"/>
         <source>Suspicious use of forced nets</source>
-        <translation type="unfinished"/>
+        <translation>Подозрительное использование принудительных цепей</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="168"/>
         <source>At least one signal of this component has a forced net set, which is very unusual and can cause serious troubles if not used intentionally.
 
 Please consult the user manual to ensure this is what you want. If you&apos;re unsure, clear the forced net on all component signals.</source>
-        <translation type="unfinished"/>
+        <translation>По крайней мере, один сигнал этого компонента имеет принудительную установку цепи, что очень необычно и может вызвать серьёзные проблемы, если не использовать это намеренно.
+
+Пожалуйста, обратитесь к руководству пользователя, чтобы убедиться, что это именно то, что вам нужно. Если вы не уверены, очистите принудительную цепь на всех сигналах компонентов.</translation>
     </message>
 </context>
 <context>
@@ -6034,7 +6036,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="485"/>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Неверный</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="490"/>
@@ -6049,7 +6051,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="526"/>
         <source>Suffix &apos;%1&apos; missing</source>
-        <translation type="unfinished"/>
+        <translation>Суффикс &apos;%1&apos; отсутствует</translation>
     </message>
 </context>
 <context>
@@ -6105,7 +6107,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/tag.h" line="53"/>
         <source>Invalid tag: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неверный тег: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -6121,7 +6123,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="99"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6129,7 +6131,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="127"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6137,7 +6139,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="134"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6153,7 +6155,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="92"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6437,7 +6439,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1801"/>
         <source>Check for invalid planes...</source>
-        <translation type="unfinished"/>
+        <translation>Проверить недействительные плоскости...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1816"/>
@@ -6467,7 +6469,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2068"/>
         <source>Check board cutouts...</source>
-        <translation type="unfinished"/>
+        <translation>Проверить вырезы на плате...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2197"/>
@@ -6487,7 +6489,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2317"/>
         <source>Check for impossible connections...</source>
-        <translation type="unfinished"/>
+        <translation>Проверить на невозможные соединения...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2335"/>
@@ -6519,7 +6521,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="319"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="344"/>
         <source>There is already a bus with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Шина с названием &quot;%1&quot; уже существует!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="393"/>
@@ -6569,7 +6571,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="125"/>
         <source>Write file...</source>
-        <translation type="unfinished"/>
+        <translation>Запись файла...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="128"/>
@@ -6579,12 +6581,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="138"/>
         <source>Remove temporary files...</source>
-        <translation type="unfinished"/>
+        <translation>Удаление временных файлов...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="149"/>
         <source>Extract ZIP...</source>
-        <translation type="unfinished"/>
+        <translation>Извлечение ZIP...</translation>
     </message>
 </context>
 <context>
@@ -6648,12 +6650,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="306"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings (choose &quot;Import Old Settings&quot;).</source>
-        <translation type="unfinished"/>
+        <translation>Специальный диалог генератора Gerber/Excellon был удален в пользу более мощных заданий вывода, а соответствующие настройки вывода будут удалены с плат в следующем выпуске. Рекомендуется добавить задание вывода Gerber/Excellon сейчас, поскольку это позволит перенести старые настройки экспорта (выберите «Импортировать старые настройки»).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="390"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
-        <translation type="unfinished"/>
+        <translation>В проекте установлены пользовательские атрибуты для BOM экспорта спецификации (%1). Но в LibrePCB 2.0 ручной экспорт спецификации был удален в пользу более мощной функции вывода заданий. Пожалуйста, используйте выходные задания сейчас для создания спецификации. Когда вы добавляете новое задание вывода спецификации, эти пользовательские атрибуты будут автоматически импортированы.</translation>
     </message>
 </context>
 <context>
@@ -6666,12 +6668,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="372"/>
         <source>Failed to export image &apos;%1&apos; due to unknown file extension. Supported extensions: %2</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось экспортировать изображение &apos;%1&apos; из-за неизвестного расширения файла. Поддерживаемые расширения: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="379"/>
         <source>Failed to export image &apos;%1&apos;. Check file permissions.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось экспортировать изображение &apos;%1&apos;. Проверьте права доступа к файлу.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="401"/>
@@ -6837,12 +6839,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="116"/>
         <source>The output file path &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Путь к выходному файлу &apos;%1&apos; недействителен.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="124"/>
         <source>Attempted to write file &apos;%1&apos; outside the output directory, which is not allowed!</source>
-        <translation type="unfinished"/>
+        <translation>Попытка записать файл &apos;%1&apos; за пределами выходного каталога, что запрещено!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="133"/>
