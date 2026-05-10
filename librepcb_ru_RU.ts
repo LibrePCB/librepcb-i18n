@@ -1676,12 +1676,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="214"/>
         <source>Impossible connection in &apos;%1&apos;: &apos;%2:%3&apos;</source>
         <comment>Placeholders: Net name, Component name, Signal name</comment>
-        <translation type="unfinished"/>
+        <translation>Невозможное соединение в &apos;%1&apos;: &apos;%2:%3&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="217"/>
         <source>The pin of this device is connected to a net in the schematics, but the footprint doesn&apos;t expose a pad for it. Therefore it is impossible to make the electrical connection in the board. Check if another footprint or another device exposes a corresponding pad.</source>
-        <translation type="unfinished"/>
+        <translation>На схеме вывод этого устройства подключен к сети, но на посадочном месте площадка для него не видна. Поэтому невозможно выполнить электрическое соединение на плате. Проверьте, есть ли на другом посадочном месте или другом устройстве соответствующая площадка.</translation>
     </message>
 </context>
 <context>
@@ -2040,7 +2040,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="316"/>
         <source>Plated cutouts detected</source>
-        <translation type="unfinished"/>
+        <translation>Обнаружены плакированные вырезы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="317"/>
@@ -2049,7 +2049,12 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 1. Unfortunately, there is no standardized way to let PCB manufacturers know that those cutouts need to be plated. The Gerber export just includes those cutouts in the normal board outlines layer (together with the non-plated cutouts), therefore you need to ensure that the manufacturer will recognize them correctly. Some manufacturers automatically detect plated vs. non-plated cutouts by the existence of copper on the top &amp; bottom layers along the cutout path. The DRC will raise a separate warning if this is not the case, but you should check if your manufacturer will follow this convention.
 
 2. The DRC does not yet detect every possible problem with such cutouts, you have to be careful not to accidentally create short-circuits with plated cutouts as the DRC won&apos;t warn you about this.</source>
-        <translation type="unfinished"/>
+        <translation>На плате имеются плакированные вырезы произвольной формы (многоугольники или круги). В настоящее время они считаются ЭКСПЕРИМЕНТАЛЬНЫМИ из-за проблем, описанных ниже. В будущих выпусках они могут вести себя по-другому.
+
+1. К сожалению, не существует стандартизированного способа сообщить производителям печатных плат о необходимости нанесения плакировки на эти вырезы. Экспорт в Gerber включает только эти вырезы в обычный слой контуров платы (вместе с вырезами без плакировки), поэтому вам необходимо убедиться, что производитель правильно их распознает. Некоторые производители автоматически определяют наличие вырезов с плакировкой и без плакировки по наличию меди в верхнем и нижнем слоях вдоль пути выреза. В противном случае DRC выдаст отдельное предупреждение, но вам следует проверить, будет ли ваш производитель следовать этому соглашению.
+
+2. DRC пока не обнаруживает все возможные проблемы с такими вырезами, поэтому будьте осторожны, чтобы случайно не создать короткое замыкание с плакированными вырезами, поскольку DRC не предупредит вас об этом.
+</translation>
     </message>
 </context>
 <context>
@@ -2057,14 +2062,16 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="424"/>
         <source>Non-plated cutout intersects with copper</source>
-        <translation type="unfinished"/>
+        <translation>Неплакированный вырез пересекается с медью</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="428"/>
         <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
 
 This cutout is on the &quot;%1&quot; layer but intersects with copper layers along its outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to remove any copper along the cutouts outline.</source>
-        <translation type="unfinished"/>
+        <translation>Вырезы с плакировкой и без плакировки экспортируются в один и тот же файл Gerber, поскольку не существует стандартизированного способа отправки вырезов с покрытием производителям. Некоторые производители просто определяют вырезы с плакировкой и без плакировки по наличию меди вдоль их контура.
+
+Этот вырез находится на слое &quot;%1&quot;, но пересекается со слоями меди по своему контуру, поэтому это обнаружение может не сработать, что может привести к неправильному изготовлению. Рекомендуется удалить медь по контуру вырезов.</translation>
     </message>
 </context>
 <context>
@@ -2110,17 +2117,17 @@ This cutout is on the &quot;%1&quot; layer but intersects with copper layers alo
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1819"/>
         <source>Ignored thermal spoke width of plane in &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>Игнорируется ширина терморазгружающей спицы плоскости в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1822"/>
         <source>The thermal spoke width of the plane is set to a value smaller than the planes minimum width, which is not allowed. Therefore the plane filling algorithm ignores the specified spoke width and uses the specified minimum width instead.</source>
-        <translation type="unfinished"/>
+        <translation>Ширина терморазгружающей спицы плоскости установлена на значение, меньшее минимальной ширины плоскости, что не допускается. Поэтому алгоритм заполнения плоскости игнорирует указанную ширину спицы и вместо этого использует указанную минимальную ширину.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1827"/>
         <source>It is recommended to explicitly set the thermal spoke width equal to or higher than the minimum width of the plane.</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется явно задать ширину терморазгружающей спицы, равной или больше минимальной ширины плоскости.</translation>
     </message>
 </context>
 <context>
@@ -2128,14 +2135,16 @@ This cutout is on the &quot;%1&quot; layer but intersects with copper layers alo
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="373"/>
         <source>Plated cutout not surrounded by copper</source>
-        <translation type="unfinished"/>
+        <translation>Плакированный вырез не окружён медью</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="377"/>
         <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
 
 This cutout is on the &quot;%1&quot; layer but does not have copper on both top &amp; bottom layers along its complete outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to draw copper along the complete cutout outline.</source>
-        <translation type="unfinished"/>
+        <translation>Вырезы с плакировкой и без плакировки экспортируются в один и тот же файл Gerber, поскольку не существует стандартизированного способа отправки вырезов с покрытием производителям. Некоторые производители просто определяют вырезы с плакировкой и без плакировки по наличию меди вдоль их контура.
+
+Этот вырез находится на слое &quot;%1&quot;, но не имеет меди ни в верхнем, ни в нижнем слоях по всему контуру, поэтому обнаружение может не сработать, что может привести к неправильному изготовлению. Рекомендуется рисовать медь по всему контуру вырезов.</translation>
     </message>
 </context>
 <context>
@@ -2356,12 +2365,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Manage installed part libraries</source>
-        <translation type="unfinished"/>
+        <translation>Управление установленными библиотеками деталей</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
@@ -2406,12 +2415,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Менеджер библиотеки проектов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>Review the project&apos;s library elements &amp; update them from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Просмотрите элементы библиотеки проекта и обновите их из библиотек рабочей области</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
@@ -2722,7 +2731,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="572"/>
         <source>Open the project&apos;s bill of materials (BOM) to see part availability, prices etc.</source>
-        <translation type="unfinished"/>
+        <translation>Открыть спецификацию проекта (BOM), чтобы увидеть наличие деталей, цены и т. д.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
@@ -3053,12 +3062,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
         <source>Flip View</source>
-        <translation type="unfinished"/>
+        <translation>Перевернуть вид</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="884"/>
         <source>Switch between top view and bottom view</source>
-        <translation type="unfinished"/>
+        <translation>Переключение между видом сверху и видом снизу</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
@@ -3218,12 +3227,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Добавить изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1041"/>
         <source>Add graphical image objects (e.g. a logo)</source>
-        <translation type="unfinished"/>
+        <translation>Добавить графические объекты изображений (например, логотип)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
@@ -3348,22 +3357,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
         <source>Draw Bus</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать шину</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1159"/>
         <source>Draw buses to route several related nets with a single wire</source>
-        <translation type="unfinished"/>
+        <translation>Нарисовать шины для маршрутизации нескольких связанных сетей с помощью одного проводника</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Add Label to Net or Bus</source>
-        <translation type="unfinished"/>
+        <translation>Добавить метку в сеть или шину</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1168"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
-        <translation type="unfinished"/>
+        <translation>Добавить метки, чтобы явно указать сеть или шину проводников</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
@@ -4119,12 +4128,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Place Remaining Gates</source>
-        <translation type="unfinished"/>
+        <translation>Разместить оставшиеся гейты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
         <source>Add more of the components gates to the schematic</source>
-        <translation type="unfinished"/>
+        <translation>Добавить на схему больше гейтов компонентов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
@@ -4232,12 +4241,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="174"/>
         <source>Bus contains unused net: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Шина содержит неиспользуемую сеть: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="176"/>
         <source>The net is connected to the bus, but is not leaving the bus ^anywhere. Check if you missed to make a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Сеть подключена к шине, но никуда от шины не уходит. Проверьте, не пропустили ли вы подключение.</translation>
     </message>
 </context>
 <context>
@@ -4263,7 +4272,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="390"/>
         <source>Unconnected junction in bus: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неподключённое соединение в шине: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4284,12 +4293,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="196"/>
         <source>Bus contains unnamed net: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Шина содержит безымянную сеть: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="198"/>
         <source>A wire without a net label is connected to the bus, which makes it impossible for this net to leave the bus somewhere else. Add a net label to the wire to explicitly specify the net.</source>
-        <translation type="unfinished"/>
+        <translation>К шине подключается проводник без сетевой метки, что делает невозможным выход этой сети из шины куда-либо ещё. Добавьте метку цепи к проводнику, чтобы явно указать сеть.</translation>
     </message>
 </context>
 <context>
@@ -4323,7 +4332,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="142"/>
         <source>Unused bus: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неиспользуемая шина: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4437,12 +4446,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/job/gerberx3outputjob.cpp" line="40"/>
         <source>Pick&amp;Place / Glue Mask</source>
-        <translation type="unfinished"/>
+        <translation>Выбор и размещение / Клеевая маска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/gerberx3outputjob.h" line="98"/>
         <source>Pick&amp;Place / Glue Mask (Gerber X3)</source>
-        <translation type="unfinished"/>
+        <translation>Выбор и размещение / Клеевая маска (Gerber X3)</translation>
     </message>
 </context>
 <context>
@@ -4460,7 +4469,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="216"/>
         <source>Board Rendering PDF</source>
-        <translation type="unfinished"/>
+        <translation>Рендеринг платы PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="122"/>
@@ -4480,12 +4489,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="154"/>
         <source>Rendering Top</source>
-        <translation type="unfinished"/>
+        <translation>Рендеринг Верх</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="158"/>
         <source>Rendering Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Рендеринг Низ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="162"/>
@@ -4503,7 +4512,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/geometry/image.cpp" line="265"/>
         <source>Unsupported image file format &apos;%1&apos;. Supported formats are: %2</source>
-        <translation type="unfinished"/>
+        <translation>Неподдерживаемый формат файла изображения &apos;%1&apos;. Поддерживаемые форматы: %2</translation>
     </message>
 </context>
 <context>
@@ -4511,32 +4520,32 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="149"/>
         <source>Image Files</source>
-        <translation type="unfinished"/>
+        <translation>Файлы изображений</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="151"/>
         <source>Choose Image File</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать файл изображения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="190"/>
         <source>The image will be copied into the symbol as a %1 file.</source>
-        <translation type="unfinished"/>
+        <translation>Изображение будет скопировано в символ как файл %1.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="193"/>
         <source>The image will be copied into the project as a %1 file.</source>
-        <translation type="unfinished"/>
+        <translation>Изображение будет скопировано в проект как файл %1.</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="197"/>
         <source>Basename of the new file (max. %n characters):</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Базовое имя нового файла (максимум %n символов):</numerusform><numerusform>Базовое имя нового файла (максимум %n символа):</numerusform><numerusform>Базовое имя нового файла (максимум %n символов):</numerusform><numerusform>Базовое имя нового файла (максимум %n символов):</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="200"/>
         <source>Image Name</source>
-        <translation type="unfinished"/>
+        <translation>Имя изображения</translation>
     </message>
 </context>
 <context>
@@ -4897,12 +4906,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>Ambiguous footprint tags</source>
-        <translation type="unfinished"/>
+        <translation>Неоднозначные теги посадочных мест</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="42"/>
         <source>The package provides multiple footprints, but they don&apos;t specify (enough) tags to make them uniquely identifiable just by their tags. This is not a problem at all, but adding unique tags to the footprints would make the automatic footprint selection of the board editor more sophisticated.</source>
-        <translation type="unfinished"/>
+        <translation>Корпус предоставляет несколько посадочных мест, но в них не указано (достаточно) тегов, чтобы их можно было однозначно идентифицировать только по тегам. Это вообще не проблема, но добавление уникальных тегов к посадочным местам сделало бы автоматический выбор посадочных мест в редакторе плат более сложным.</translation>
     </message>
 </context>
 <context>
@@ -5053,27 +5062,27 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="64"/>
         <source>Missing image file: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Отсутствует файл изображения: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="66"/>
         <source>Unsupported image format: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неподдерживаемый формат изображения: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="67"/>
         <source>Invalid image file: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неверный файл изображения: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="74"/>
         <source>The referenced file of an image does either not exist in the symbol or is not a valid image file. Try removing and re-adding the image from the symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Файл, на который ссылается изображение, либо не существует в символе, либо не является допустимым файлом изображения. Попробуйте удалить и заново добавить изображение из символа.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="78"/>
         <source>Details:</source>
-        <translation type="unfinished"/>
+        <translation>Подробности:</translation>
     </message>
 </context>
 <context>
@@ -7350,7 +7359,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
@@ -9953,7 +9962,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageadd.cpp" line="42"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Добавить изображение</translation>
     </message>
 </context>
 <context>
@@ -20411,7 +20420,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="351"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="405"/>
