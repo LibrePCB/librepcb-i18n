@@ -6849,7 +6849,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="133"/>
         <source>The file path &apos;%1&apos; is absolute, but only relative paths are allowed!</source>
-        <translation type="unfinished"/>
+        <translation>Путь к файлу &apos;%1&apos; является абсолютным, но разрешены только относительные пути!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="155"/>
@@ -6943,22 +6943,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="133"/>
         <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание. Это временный файл, поскольку проект ещё не сохранён на диске. При сохранении проекта этот журнал будет записан в каталог проекта &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="140"/>
         <source>Attention: After saving the project, the file format migration cannot be reverted. Check if everything looks good before saving the project.</source>
-        <translation type="unfinished"/>
+        <translation>Внимание: после сохранения проекта перенос формата файла не может быть отменён. Прежде чем сохранять проект, проверьте, всё ли в порядке.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="148"/>
         <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
-        <translation type="unfinished"/>
+        <translation>Проект был перенесён из формата файла &lt;strong&gt;%1 в %2&lt;/strong&gt;, что привело к появлению следующих сообщений:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="158"/>
         <source>No messages emitted.</source>
-        <translation type="unfinished"/>
+        <translation>Сообщений не было выпущено.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
@@ -7089,12 +7089,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/workspace/uitheme.cpp" line="73"/>
         <source>Light</source>
-        <translation type="unfinished"/>
+        <translation>Светлая</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/uitheme.cpp" line="140"/>
         <source>Dark</source>
-        <translation type="unfinished"/>
+        <translation>Тёмная</translation>
     </message>
 </context>
 <context>
@@ -7272,7 +7272,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/library/cat/categorytreebuilder.cpp" line="98"/>
         <source>Root Category</source>
-        <translation type="unfinished"/>
+        <translation>Корневая категория</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cat/categorytreelabeltextbuilder.cpp" line="81"/>
@@ -7356,7 +7356,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="229"/>
         <source>URL</source>
-        <translation type="unfinished"/>
+        <translation>URL</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
@@ -7366,7 +7366,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
         <source>Parts Info</source>
-        <translation type="unfinished"/>
+        <translation>Информация о деталях</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
@@ -7439,7 +7439,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="318"/>
         <source>There is already an attribute with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Атрибут с именем &quot;%1&quot; уже существует.</translation>
     </message>
 </context>
 <context>
@@ -7771,7 +7771,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="329"/>
         <source>Running Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>Запущена Быстрая проверка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="329"/>
@@ -9150,7 +9150,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/workspace/categorytreemodel.cpp" line="86"/>
         <source>Root Category</source>
-        <translation type="unfinished"/>
+        <translation>Корневая категория</translation>
     </message>
 </context>
 <context>
