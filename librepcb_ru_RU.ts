@@ -85,7 +85,7 @@
     <message>
         <location filename="libs/librepcb/core/types/busname.h" line="52"/>
         <source>Invalid bus name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Неверное имя шины: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -169,17 +169,17 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="100"/>
         <source>Buses</source>
-        <translation type="unfinished"/>
+        <translation>Шины</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="105"/>
         <source>Bus Labels</source>
-        <translation type="unfinished"/>
+        <translation>Метки шин</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="110"/>
         <source>Image Borders</source>
-        <translation type="unfinished"/>
+        <translation>Границы изображения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="115"/>
@@ -433,7 +433,7 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="430"/>
         <source>Inner Copper</source>
-        <translation type="unfinished"/>
+        <translation>Медь внутри</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="444"/>
@@ -443,7 +443,7 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="453"/>
         <source>Background/Foreground</source>
-        <translation type="unfinished"/>
+        <translation>Фон/Передний план</translation>
     </message>
 </context>
 <context>
@@ -461,12 +461,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
         <source>Open a symbol to execute symbol-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Открыть символ, чтобы выполнить задачи, связанные с символом.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
         <source>Open a package to execute package-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Открыть корпус чтобы выполнить задачи, связанные с корпусом.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
@@ -686,22 +686,22 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
         <source>Run the symbol check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Запустить проверку символов, распечатать все неутверждённые сообщения и сообщить об ошибке (код выхода = 1), если есть неутверждённые сообщения.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>Export the symbol to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Экспортировать символ в графический файл. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="291"/>
         <source>Run the package check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Запустить проверку корпуса, распечатать все неутверждённые сообщения и сообщить об ошибке (код выхода = 1), если есть неутверждённые сообщения.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="295"/>
         <source>Export the contained footprint(s) to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Экспортировать содержащиеся посад. место(-а) в графический файл. Поддерживаемые расширения файлов: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="303"/>
@@ -721,7 +721,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="322"/>
         <source>Deprecated, replaced by:</source>
-        <translation type="unfinished"/>
+        <translation>Устарело, заменено:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="341"/>
@@ -751,12 +751,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="403"/>
         <source>Path to symbol directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>Путь к каталогу символов (содержащему *.lp).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="411"/>
         <source>Path to package directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>Путь к каталогу корпусов (содержащему *.lp).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="419"/>
@@ -801,7 +801,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="626"/>
         <source>Attention: Project has been migrated to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Внимание: проект перенесён в новый формат файлов!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="638"/>
@@ -1014,12 +1014,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1291"/>
         <source>Process %1 organizations...</source>
-        <translation type="unfinished"/>
+        <translation>Обработано %1 организаций...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1326"/>
         <source>Run checks...</source>
-        <translation type="unfinished"/>
+        <translation>Запустить проверки...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1335"/>
@@ -1049,12 +1049,12 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1411"/>
         <source>Skip checks for &apos;%1&apos; (deprecated)</source>
-        <translation type="unfinished"/>
+        <translation>Пропустить проверки для &apos;%1&apos; (устарело)</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1416"/>
         <source>Run checks for &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Запустить проверки для &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1440"/>
@@ -1064,37 +1064,37 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1461"/>
         <source>Open symbol &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Открыть символ &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1467"/>
         <source>Opened symbol: %1</source>
-        <translation type="unfinished"/>
+        <translation>Открытый символ: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1485"/>
         <source>Export symbol to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Экспортировать символ в &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1558"/>
         <source>Open package &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Открыть корпус &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1564"/>
         <source>Opened package: %1</source>
-        <translation type="unfinished"/>
+        <translation>Открытый корпус: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1582"/>
         <source>Export footprint(s) to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Экспортировать посад. место(-а) в &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1665"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For footprint output files, you could add a placeholder like &apos;%1&apos; to the path.</source>
-        <translation type="unfinished"/>
+        <translation>ПРИМЕЧАНИЕ: Чтобы избежать многократной записи файлов, убедитесь, что все функции экспорта передают уникальные пути к файлам. Для посадочных мест выводных файлов вы можете добавить к пути заполнитель вроде &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1803"/>
@@ -1109,7 +1109,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1832"/>
         <source>The command or option &apos;%1&apos; is deprecated and will be removed in a future release.</source>
-        <translation type="unfinished"/>
+        <translation>Команда или параметр &apos;%1&apos; устарела и будет удалена в будущем выпуске.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1837"/>
@@ -1119,7 +1119,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1840"/>
         <source>For now, the command will be executed, but the CLI will return with a nonzero exit code. As a temporary workaround, this warning and the nonzero exit code can be suppressed with the environment variable &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>На данный момент команда будет выполнена, но CLI вернётся с ненулевым кодом выхода. В качестве временного решения это предупреждение и ненулевой код выхода можно подавить с помощью переменной среды &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1319,12 +1319,12 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="971"/>
         <source>The clearance between a pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Зазор между контактной площадкой и контуром платы меньше, чем зазор контура платы, заданный в настройках DRC.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="975"/>
         <source>Check the DRC settings and move the pad away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>Проверьте настройки DRC и при необходимости переместите контактную площадку от контура платы.</translation>
     </message>
 </context>
 <context>
@@ -1332,7 +1332,7 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="674"/>
         <source>pad</source>
-        <translation type="unfinished"/>
+        <translation>контактная площадка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="676"/>
