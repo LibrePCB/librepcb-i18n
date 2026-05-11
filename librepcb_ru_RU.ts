@@ -17705,12 +17705,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="291"/>
         <source>For specific components (e.g. \&quot;ESP32-S3R2\&quot;):</source>
-        <translation type="unfinished"/>
+        <translation>Для специфичных компонентов (например, \&quot;ESP32-S3R2\&quot;):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="314"/>
         <source>For generic components (e.g. \&quot;OpAmp\&quot;):</source>
-        <translation type="unfinished"/>
+        <translation>Для универсальных компонентов (например, \&quot;OpAmp\&quot;):</translation>
     </message>
 </context>
 <context>
@@ -17718,7 +17718,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="102"/>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="125"/>
@@ -17733,22 +17733,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="173"/>
         <source>If checked, an ERC error is raised when this signal is left unconnected in the schematics</source>
-        <translation type="unfinished"/>
+        <translation>Если этот флажок установлен, возникнет ошибка ERC, когда этот сигнал остается неподключённым на схеме</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="199"/>
         <source>Forced Net Name</source>
-        <translation type="unfinished"/>
+        <translation>Имя Принудительной цепи</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="300"/>
         <source>This package contains no signals (yet).</source>
-        <translation type="unfinished"/>
+        <translation>Этот корпус не содержит сигналов (пока).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="319"/>
         <source>Set Forced Net Name</source>
-        <translation type="unfinished"/>
+        <translation>Установить Имя Принудительной цепи</translation>
     </message>
 </context>
 <context>
@@ -17756,42 +17756,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="446"/>
         <source>Now review &amp; correct the list of signals, if needed (often it is not needed, then just proceed).</source>
-        <translation type="unfinished"/>
+        <translation>Теперь просмотрите и исправьте список сигналов, если это необходимо (часто это не нужно, тогда просто продолжайте).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="447"/>
         <source>If you add or remove any signals, don&apos;t forget to update the pinout afterwards (on the next step)!</source>
-        <translation type="unfinished"/>
+        <translation>Если вы добавляете или удаляете какие-либо сигналы, не забудьте потом обновить распиновку (на следующем шаге)!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="453"/>
         <source>This signal list should represent the *electrical* interface of the component, not the *mechanical* pads.</source>
-        <translation type="unfinished"/>
+        <translation>Этот список сигналов должен представлять *электрический* интерфейс компонента, а не *механические* площадки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="454"/>
         <source>For example, if an IC has two or more GND pads which are internally connected, only one GND signal should be added here.</source>
-        <translation type="unfinished"/>
+        <translation>Например, если IC (микросхема) имеет две или более площадки GND, которые соединены внутри, сюда следует добавить только один сигнал GND.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="455"/>
         <source>Note that once the component is finished, it is *not* possible anymore to add or remove signals.</source>
-        <translation type="unfinished"/>
+        <translation>Обратите внимание, что после завершения работы над компонентом больше невозможно добавлять или удалять сигналы.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="458"/>
         <source>Important:</source>
-        <translation type="unfinished"/>
+        <translation>Важно:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="469"/>
         <source>Add Signals:</source>
-        <translation type="unfinished"/>
+        <translation>Добавить сигналы:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="474"/>
         <source>Signal name (may contain ranges like \&quot;1..5\&quot;; use prefix \&quot;!\&quot; for inverted signals)</source>
-        <translation type="unfinished"/>
+        <translation>Имя сигнала (может содержать диапазоны типа  \&quot;1..5\&quot;; используйте префикс \&quot;!\&quot; для инвертированных сигналов)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="523"/>
@@ -17819,7 +17819,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="594"/>
         <source>Variants &amp; Gates</source>
-        <translation type="unfinished"/>
+        <translation>Варианты и Вентили</translation>
     </message>
 </context>
 <context>
@@ -17827,17 +17827,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="379"/>
         <source>Now define the names of the electrical signals of the component in the table below. Usually you can just keep the names from the symbol pins.</source>
-        <translation type="unfinished"/>
+        <translation>Теперь определите названия электрических сигналов компонента в таблице ниже. Обычно вы можете просто сохранить имена из выводов символов.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="380"/>
         <source>Note that unconnected or inter-connected pins (i.e. duplicate signal names) are not allowed in this step, but you can rework them on the following pages.</source>
-        <translation type="unfinished"/>
+        <translation>Обратите внимание, что на этом этапе не допускаются неподключённые или взаимосвязанные контакты (т. е. повторяющиеся имена сигналов), но вы можете переработать их на следующих страницах.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="397"/>
         <source>Variant</source>
-        <translation type="unfinished"/>
+        <translation>Вариант</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="424"/>
@@ -17852,27 +17852,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="524"/>
         <source>Component Preview Placement</source>
-        <translation type="unfinished"/>
+        <translation>Размещение пред.просмотра компонента</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="667"/>
         <source>This variant contains no gate!</source>
-        <translation type="unfinished"/>
+        <translation>В этом варианте нет вентиля!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="671"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
-        <translation type="unfinished"/>
+        <translation>Добавьте вентили к этому компоненту, выбрав соответствующие символы.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="672"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
-        <translation type="unfinished"/>
+        <translation>Большинство компонентов состоят только из одного вентиля, но, например, 4-канальный АЦП может быть построен с четырьмя одноканальными вентилями АЦП.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="673"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Все эти вентили являются частью одного и того же компонента, но на схемах их можно размещать по отдельности.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="683"/>
@@ -19868,7 +19868,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="88"/>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
 </context>
 <context>
@@ -19891,7 +19891,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="274"/>
         <source>Important:</source>
-        <translation type="unfinished"/>
+        <translation>Важно:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="285"/>
