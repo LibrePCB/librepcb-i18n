@@ -8725,12 +8725,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="644"/>
         <source>Load Settings...</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить настройки...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="656"/>
         <source>Allow vias which either start or end on an inner copper layer.</source>
-        <translation type="unfinished"/>
+        <translation>Разрешите переходы, которые начинаются или заканчиваются на внутреннем медном слое.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="659"/>
@@ -8875,7 +8875,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="158"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified minimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Использовать не заданную форму площадки, а автоматические пояски, рассчитанные по указанным ниже параметрам. Поясок несоединённых площадок уменьшается до указанного минимального значения.&lt;/p&gt;&lt;p&gt;Эта опция даёт более компактный результат, но работает надежно только если введённые параметры соответствуют возможностям производителя печатной платы.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="246"/>
