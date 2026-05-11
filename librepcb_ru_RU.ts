@@ -9084,7 +9084,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="14"/>
         <source>Review BOM</source>
-        <translation type="unfinished"/>
+        <translation>Просмотр спецификации</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="23"/>
@@ -9380,7 +9380,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdattributeedit.cpp" line="38"/>
         <source>Edit Attribute</source>
-        <translation type="unfinished"/>
+        <translation>Изменить атрибут</translation>
     </message>
 </context>
 <context>
