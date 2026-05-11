@@ -4128,12 +4128,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Place Remaining Gates</source>
-        <translation>Разместить оставшиеся гейты</translation>
+        <translation>Разместить оставшиеся вентили</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
         <source>Add more of the components gates to the schematic</source>
-        <translation>Добавить на схему больше гейтов компонентов</translation>
+        <translation>Добавить на схему больше вентилей компонентов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
@@ -7918,7 +7918,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="388"/>
         <source>Could not determine the bounding box of board. Make sure a valid board outline polygon is present.</source>
-        <translation>Не удалось определить ограничивающую рамку платы. Убедитесь, что присутствует допустимый контур многоугольника платы.</translation>
+        <translation>Не удалось определить ограничивающую рамку платы. Убедитесь, что присутствует допустимый контур полигона платы.</translation>
     </message>
 </context>
 <context>
@@ -8122,7 +8122,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
         <source>Height</source>
-        <translation>Height</translation>
+        <translation>Высота</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
@@ -9820,7 +9820,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentsymbolvariantitemedit.cpp" line="39"/>
         <source>Edit Component Gate</source>
-        <translation>Редактировать гейт компонента</translation>
+        <translation>Редактировать вентиль компонента</translation>
     </message>
 </context>
 <context>
@@ -10718,7 +10718,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentgateeditor.cpp" line="171"/>
         <source>Edit Component Gate</source>
-        <translation>Редактировать гейт компонента</translation>
+        <translation>Редактировать вентиль компонента</translation>
     </message>
 </context>
 <context>
@@ -10734,7 +10734,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="93"/>
         <source>Add Component Signal(s)</source>
-        <translation>Добавить сигнал(ы) компонента</translation>
+        <translation>Добавить компонентный сигнал(-ы) </translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="105"/>
@@ -10744,7 +10744,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="168"/>
         <source>Delete Component Signal</source>
-        <translation>Удалить сигнал компонента</translation>
+        <translation>Удалить компонентный сигнал</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="288"/>
@@ -13360,37 +13360,37 @@ Do you really want to close it?</source>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="593"/>
         <source>There are %n library update(s) available for installation.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Для установки доступно %n обновление библиотеки.</numerusform><numerusform>Для установки доступно %n обновления библиотеки.</numerusform><numerusform>Для установки доступно %n обновлений библиотеки.</numerusform><numerusform>Для установки доступно %n обновлений библиотеки.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="599"/>
         <source>See details in the libraries side panel, or click the button below to download &amp; install all updates.</source>
-        <translation type="unfinished"/>
+        <translation>Подробности смотрите на боковой панели библиотек или нажмите кнопку ниже, чтобы загрузить и установить все обновления.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="601"/>
         <source>Update Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Обновить библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="604"/>
         <source>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</source>
-        <translation type="unfinished"/>
+        <translation>Автоматическое обновление на этот раз недоступно из-за необходимости дополнительных установок или удалений. Пожалуйста, проверьте боковую панель библиотек, чтобы просмотреть и применить изменения.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="607"/>
         <source>Open Libraries Panel</source>
-        <translation type="unfinished"/>
+        <translation>Открыть панель библиотек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="610"/>
         <source>Library Updates Available</source>
-        <translation type="unfinished"/>
+        <translation>Доступны обновления библиотеки</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="637"/>
         <source>Updating %n libraries...</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Обновление %n библиотеки...</numerusform><numerusform>Обновление %n библиотек...</numerusform><numerusform>Обновление %n библиотек...</numerusform><numerusform>Обновление %n библиотек...</numerusform></translation>
     </message>
 </context>
 <context>
@@ -13406,13 +13406,14 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="129"/>
         <source>Save Library?</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить библиотеку?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="130"/>
         <source>The library '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Библиотека &apos;%1&apos; содержит несохранённые изменения.
+Хотите сохранить их перед закрытием?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="161"/>
@@ -13431,7 +13432,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="201"/>
         <source>No user name is defined in the workspace settings. Please open the workspace settings to set a default user name.</source>
-        <translation type="unfinished"/>
+        <translation>В настройках рабочего пространства не задано имя пользователя. Откройте настройки рабочего пространства, чтобы задать умолчальное имя пользователя.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="218"/>
@@ -13444,17 +13445,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="150"/>
         <source>Library element &apos;%1&apos; with UUID &apos;%2&apos; not found in workspace library.</source>
-        <translation type="unfinished"/>
+        <translation>Элемент библиотеки &apos;%1&apos; с UUID &apos;%2&apos; не найден в библиотеке рабочего пространства.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="156"/>
         <source>Please try again after the background library rescan has completed.</source>
-        <translation type="unfinished"/>
+        <translation>Повторите попытку после завершения повторного фонового сканирования библиотеки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="160"/>
         <source>Please make sure that all dependent libraries are installed.</source>
-        <translation type="unfinished"/>
+        <translation>Убедитесь, что все зависимые библиотеки установлены.</translation>
     </message>
 </context>
 <context>
@@ -13471,7 +13472,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="379"/>
         <source>Choose Library Icon</source>
-        <translation type="unfinished"/>
+        <translation>Выберите Значок библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="381"/>
@@ -13491,7 +13492,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
         <source>Invalid Parent</source>
-        <translation type="unfinished"/>
+        <translation>Неверный родитель</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1033"/>
@@ -13501,22 +13502,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1038"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Вы уверены что хотите скопировать эти элементы в библиотеку &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1051"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание. Эту операцию нельзя легко отменить, кроме как открытием целевой библиотеки и перемещением элементов библиотеки обратно тем же способом.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1057"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Важно: Эта операция копирует выбранные элементы библиотеки, сохраняя их UUID, поэтому их нельзя впоследствии изменять для представления другой части. Основная цель этой операции — переопределить элементы библиотеки из библиотеки, доступной только для чтения, с небольшими корректировками, что возможно только в локальных библиотеках с возможностью записи.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1067"/>
         <source>Move %1 Elements</source>
-        <translation type="unfinished"/>
+        <translation>Переместить %1 элементов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1117"/>
@@ -13535,7 +13536,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1134"/>
         <source>Remove %1 Elements</source>
-        <translation type="unfinished"/>
+        <translation>Удалить %1 элементов</translation>
     </message>
 </context>
 <context>
@@ -14031,12 +14032,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="201"/>
         <source>PCB Design Rules Name</source>
-        <translation type="unfinished"/>
+        <translation>Имя Правил проектирования PCB</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="202"/>
         <source>Name of the PCB design rules:</source>
-        <translation type="unfinished"/>
+        <translation>Имя Правил проектирования PCB:</translation>
     </message>
 </context>
 <context>
@@ -14044,7 +14045,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="91"/>
         <source>PCB Design Rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>Правила проектирования PCB: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="230"/>
@@ -14057,7 +14058,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="251"/>
         <source>Choose Organization Logo</source>
-        <translation type="unfinished"/>
+        <translation>Выбрать логотип организации</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="252"/>
@@ -14078,7 +14079,8 @@ For more information about licensing, click on this icon.</source>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="294"/>
         <source>The organization '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Организация &apos;%1&apos; содержит несохранённые изменения.
+Хотите сохранить их перед закрытием?</translation>
     </message>
 </context>
 <context>
@@ -14202,22 +14204,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="261"/>
         <source>New since LibrePCB 2.0: The fabrication output dialog has been removed in favor of the more powerful output jobs feature.</source>
-        <translation type="unfinished"/>
+        <translation>Новое после LibrePCB 2.0: диалоговое окно вывода данных для изготовления было удалено в пользу более мощной функции вывода заданий.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="265"/>
         <source>The project does not have a fabrication output job configured yet. At the bottom left of this dialog you can add one of the two pre-configured Gerber/Excellon output jobs and adjust it according your needs.</source>
-        <translation type="unfinished"/>
+        <translation>В проекте ещё не настроено задание вывода данных для производителя. В левом нижнем углу этого диалогового окна вы можете добавить одно из двух предварительно настроенных заданий вывода Gerber/Excellon и настроить его в соответствии со своими потребностями.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="271"/>
         <source>Or you can import the old settings from LibrePCB 1.x.</source>
-        <translation type="unfinished"/>
+        <translation>Или вы можете импортировать старые настройки из LibrePCB 1.x.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="276"/>
         <source>Since this project does not have any output jobs at all yet, you may even add a complete set of output jobs instead with the link at the bottom left. Just try it out!</source>
-        <translation type="unfinished"/>
+        <translation>Поскольку в этом проекте пока вообще нет заданий вывода, вы можете даже добавить вместо этого полный набор заданий вывода с помощью ссылки в левом нижнем углу. Просто попробуйте!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="281"/>
@@ -14252,7 +14254,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="359"/>
         <source>Board Rendering PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>Рендеринг платы PDF/изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="361"/>
@@ -14262,17 +14264,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="368"/>
         <source>Import Old Settings</source>
-        <translation type="unfinished"/>
+        <translation>Импортировать старые настройки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="372"/>
         <source>Generic Default Settings (*.gbr)</source>
-        <translation type="unfinished"/>
+        <translation>Общие умолчальные настройки (*.gbr)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="375"/>
         <source>Generic Default Settings (Protel Style)</source>
-        <translation type="unfinished"/>
+        <translation>Общие умолчальные настройки (Protel стиль)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="427"/>
@@ -14355,7 +14357,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="241"/>
         <source>The package category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Категория корпуса &apos;%1&apos; содержит несохранённые изменения.
+Хотите сохранить их перед закрытием?</translation>
     </message>
 </context>
 <context>
@@ -14406,7 +14409,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="135"/>
         <source>Add Footprint Hole</source>
-        <translation type="unfinished"/>
+        <translation>Добавить отверстие посадочного места</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="148"/>
@@ -14436,7 +14439,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="191"/>
         <source>Add Footprint Circle</source>
-        <translation type="unfinished"/>
+        <translation>Добавить окружность посадочного места</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="204"/>
@@ -14452,7 +14455,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="263"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="357"/>
         <source>Add Footprint Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Добавить полигон посадочного места</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="278"/>
@@ -14512,7 +14515,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="287"/>
         <source>Add Footprint Text</source>
-        <translation type="unfinished"/>
+        <translation>Добавить текст посадочного места</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="300"/>
@@ -14528,7 +14531,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="208"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="276"/>
         <source>Add Footprint Zone</source>
-        <translation type="unfinished"/>
+        <translation>Добавить зону посадочного места</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="223"/>
@@ -14707,7 +14710,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="95"/>
         <source>Add Package Pad(s)</source>
-        <translation type="unfinished"/>
+        <translation>Добавить контактную площадку(и) корпуса</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagepadlistmodel.cpp" line="105"/>
@@ -14741,7 +14744,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1067"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>Корпус &apos;%1&apos; содержит несохранённые изменения.
+Хотите сохранить их перед закрытием?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1698"/>
@@ -15042,22 +15046,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="170"/>
         <source>The project &apos;%1&apos; has been migrated to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
-        <translation type="unfinished"/>
+        <translation>Проект &apos;%1&apos; перенесён в новый формат файла. После сохранения открыть его более старой версией LibrePCB будет невозможно!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="176"/>
         <source>The migration produced %n message(s), please review before proceeding.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>В результате миграции было создано %n сообщение, пожалуйста, просмотрите его, прежде чем продолжить.</numerusform><numerusform>В результате миграции было создано %n сообщений, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform><numerusform>В результате миграции было создано %n сообщений, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform><numerusform>В результате миграции было создано %n сообщений, пожалуйста, просмотрите их, прежде чем продолжить.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="182"/>
         <source>ATTENTION: Project File Format Upgraded</source>
-        <translation type="unfinished"/>
+        <translation>ВНИМАНИЕ: обновлён формат файла проекта</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="183"/>
         <source>Show Messages</source>
-        <translation type="unfinished"/>
+        <translation>Показать сообщения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="385"/>
@@ -15068,7 +15072,8 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="386"/>
         <source>The project '%1' contains unsaved changes.
 Do you want to save them before closing the project?</source>
-        <translation type="unfinished"/>
+        <translation>Проект &apos;%1&apos; содержит несохранённые изменения.
+Хотите сохранить их перед закрытием?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="429"/>
@@ -15088,7 +15093,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="547"/>
         <source>Export succeeded!</source>
-        <translation type="unfinished"/>
+        <translation>Экспорт удался!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="550"/>
@@ -15104,7 +15109,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="555"/>
         <source>Sheet %1</source>
-        <translation type="unfinished"/>
+        <translation>Лист %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="561"/>
@@ -15114,7 +15119,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="562"/>
         <source>Choose a name for the new schematic page:</source>
-        <translation type="unfinished"/>
+        <translation>Выберите имя для новой страницы схемы:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="571"/>
@@ -15135,7 +15140,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
         <source>Board %1</source>
-        <translation type="unfinished"/>
+        <translation>Плата %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="632"/>
@@ -15201,7 +15206,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/library/projectlibrarytab.cpp" line="142"/>
         <source>Failed to copy library elements:</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось скопировать элементы библиотеки:</translation>
     </message>
 </context>
 <context>
@@ -15406,28 +15411,28 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="20"/>
         <source>Rename Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать сегмент шины</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="28"/>
         <source>Bus name:</source>
-        <translation type="unfinished"/>
+        <translation>Имя шины:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="50"/>
         <source>Rename only this bus segment</source>
-        <translation type="unfinished"/>
+        <translation>Переименовать только этот сегмент шины</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.ui" line="60"/>
         <source>Rename whole bus (%1 segments)</source>
         <extracomment>Number of segments (&gt;=1)</extracomment>
-        <translation type="unfinished"/>
+        <translation>Переименовать всю шину (%1 сегментов)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="134"/>
         <source>Change Bus of Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Изменить шину или сегмент шины</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="151"/>
@@ -15442,22 +15447,22 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="171"/>
         <source>The whole bus &apos;%1&apos; will be merged into the bus &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Вся шина &apos;%1&apos; будет объединена с шиной &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="175"/>
         <source>The whole bus &apos;%1&apos; will be renamed to &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Вся шина &apos;%1&apos; будет переименована в &apos;%2&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="179"/>
         <source>The segment will be moved to the existing bus &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Сегмент будет перемещен в существующую шину &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="184"/>
         <source>The segment will be moved to the new bus &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Сегмент будет перемещен в новую шину &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/renamebussegmentdialog.cpp" line="195"/>
@@ -15552,7 +15557,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="169"/>
         <source>Add Component Gate to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Добавить вентиль компонента в схему</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="269"/>
@@ -15575,7 +15580,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="234"/>
         <source>Add Schematic Image</source>
-        <translation type="unfinished"/>
+        <translation>Добавить изображение схемы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="249"/>
@@ -15590,7 +15595,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="181"/>
         <source>Add Bus Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Добавить метку шины к схеме</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="195"/>
@@ -15682,7 +15687,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="853"/>
         <source>Add New Bus Member</source>
-        <translation type="unfinished"/>
+        <translation>Добавить нового участника шины</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="865"/>
@@ -15749,7 +15754,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1381"/>
         <source>Bus</source>
-        <translation type="unfinished"/>
+        <translation>Шина</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1388"/>
@@ -15764,12 +15769,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1390"/>
         <source>Pad(s)</source>
-        <translation type="unfinished"/>
+        <translation>Площадка(-и)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1392"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
-        <translation type="unfinished"/>
+        <translation>Цепь проводника &apos;%1&apos; не совпадает с принудительной цепью &apos;%2&apos;!</translation>
     </message>
 </context>
 <context>
@@ -15930,7 +15935,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="217"/>
         <source>Add Symbol Image</source>
-        <translation type="unfinished"/>
+        <translation>Добавить изображение символа</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="231"/>
@@ -16154,12 +16159,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="136"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Вентиль</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="137"/>
         <source>Gate &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Вентиль &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="181"/>
@@ -17676,7 +17681,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="70"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Вентиль</translation>
     </message>
 </context>
 <context>
