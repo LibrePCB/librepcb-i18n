@@ -8900,22 +8900,22 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="381"/>
         <source>Configuration Base:</source>
-        <translation type="unfinished"/>
+        <translation>База конфигурации:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="411"/>
         <source>Load Preset:</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить пресет:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="468"/>
         <source>Reset to Default Settings</source>
-        <translation type="unfinished"/>
+        <translation>Сброс к настройкам по умолчанию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="471"/>
         <source>Remove Link to Imported Settings</source>
-        <translation type="unfinished"/>
+        <translation>Удалить ссылку на импортированные настройки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="614"/>
@@ -9000,7 +9000,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="194"/>
         <source>The drill diameter is exceeding the outer via size. Reduce the drill diameter or increase the via size.</source>
-        <translation type="unfinished"/>
+        <translation>Диаметр сверла превышает наружный размер переходного отверстия. Уменьшите диаметр сверла или увеличьте размер переходного отверстия.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="202"/>
