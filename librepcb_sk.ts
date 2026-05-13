@@ -6075,26 +6075,31 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
+        <source>sysctl() failed with errno=%1 (%2).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
         <translation>sysctl() neúspešné s návr. hodnotou=%1 a kódom chyby=%2.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="310"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
         <translation>Nedá sa nájsť súbor &quot;/proc/version&quot;.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="340"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
         <source>OpenProcess() failed with error %1.</source>
         <translation>Funkcia OpenProcess() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="348"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
         <translation>Funkcia QueryFullProcessImageNameW() neúspešne ukončená s chybou %1.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="374"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
         <source>Could not determine the process name of another process.</source>
         <translation>Nedá sa zistiť názov iného procesu.</translation>
     </message>

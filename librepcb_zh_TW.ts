@@ -6040,26 +6040,31 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
+        <source>sysctl() failed with errno=%1 (%2).</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
         <translation>sysctl() 錯誤 回傳值=%1 錯誤碼=%2.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="310"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
         <source>Could not find the file &quot;/proc/version&quot;.</source>
         <translation>找不到 &quot;/proc/version&quot;。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="340"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
         <source>OpenProcess() failed with error %1.</source>
         <translation>OpenProcess() 執行失敗，錯誤 %1。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="348"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
         <translation>QueryFullProcessImageNameW() 執行失敗，錯誤 %1。</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="374"/>
+        <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
         <source>Could not determine the process name of another process.</source>
         <translation>無法得知另一個處理程序的名稱。</translation>
     </message>
