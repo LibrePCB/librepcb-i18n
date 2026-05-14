@@ -18275,7 +18275,7 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DocumentsListItem</name>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="110"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="112"/>
         <source>Open 3D View</source>
         <translation>Otvoriť 3D zobrazenie</translation>
     </message>
@@ -19042,17 +19042,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::LibrarySection</name>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="272"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="282"/>
         <source>Close Library</source>
         <translation>Zavrieť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="273"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="283"/>
         <source>Close this library and all its opened tabs</source>
         <translation>Zatrieť túto knižnicu a všetky jej otvorené karty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="290"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="301"/>
         <source>Library Overview</source>
         <translation>Prehľad knižnice</translation>
     </message>
@@ -20410,32 +20410,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="166"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="177"/>
         <source>Home</source>
         <translation>Domov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="176"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="187"/>
         <source>Open Documents</source>
         <translation>Otvoriť dokumenty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="193"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="202"/>
         <source>Layers</source>
         <translation>Vrstvy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="217"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="220"/>
         <source>Place Devices</source>
         <translation>Umiestniť súčiastky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="351"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="340"/>
         <source>Libraries</source>
         <translation>Knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="405"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="394"/>
         <source>Help / About</source>
         <translation>Pomocník / O nás</translation>
     </message>

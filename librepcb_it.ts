@@ -18153,7 +18153,7 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::DocumentsListItem</name>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="110"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="112"/>
         <source>Open 3D View</source>
         <translation type="unfinished"/>
     </message>
@@ -18920,17 +18920,17 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::LibrarySection</name>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="272"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="282"/>
         <source>Close Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="273"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="283"/>
         <source>Close this library and all its opened tabs</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/documentspanel.slint" line="290"/>
+        <location filename="libs/librepcb/ui/documentspanel.slint" line="301"/>
         <source>Library Overview</source>
         <translation type="unfinished"/>
     </message>
@@ -20288,32 +20288,32 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="166"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="177"/>
         <source>Home</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="176"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="187"/>
         <source>Open Documents</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="193"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="202"/>
         <source>Layers</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="217"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="220"/>
         <source>Place Devices</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="351"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="340"/>
         <source>Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="405"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="394"/>
         <source>Help / About</source>
         <translation type="unfinished"/>
     </message>
