@@ -13619,9 +13619,9 @@ Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
         <translation>Kopírovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="958"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1223"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1251"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="969"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1234"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1262"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

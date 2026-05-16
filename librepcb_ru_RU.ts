@@ -13622,9 +13622,9 @@ Are you still sure to delete the following library elements?</source>
         <translation>Копировать</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="958"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1223"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1251"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="969"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1234"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1262"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
