@@ -2434,7 +2434,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Projektbibliothek</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
@@ -3081,7 +3081,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
         <source>Flip View</source>
-        <translation type="unfinished"/>
+        <translation>Ansicht umdrehen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="884"/>
@@ -16372,7 +16372,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="246"/>
         <source>Appearance</source>
-        <translation type="unfinished"/>
+        <translation>Erscheinungsbild</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="285"/>
@@ -16441,7 +16441,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="622"/>
         <source>External Applications</source>
-        <translation type="unfinished"/>
+        <translation>Externe Anwendungen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="675"/>
@@ -16456,7 +16456,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="723"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Tastenkürzel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="788"/>
@@ -16466,7 +16466,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="799"/>
         <source>Internet Access</source>
-        <translation type="unfinished"/>
+        <translation>Internetzugang</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="805"/>
