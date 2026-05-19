@@ -12631,58 +12631,58 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <translation>Zvolený pracovný priestor bude použitý po reštarte aplikácie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="372"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="374"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation>Teraz budú stiahnuté vzorové projekty z internetu a skopírované do pracovného priestoru, aby Vám pomohli vyskúšať LibrePCB so skutočnými projektami.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="376"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="378"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation>Keď ich už nebudete potrebovať, stačí odstrániť adresár s príkladmi.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="379"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="381"/>
         <source>Add Example Projects</source>
         <translation>Pridať vzorové projekty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="420"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="553"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="422"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="555"/>
         <source>Restore autosave backup?</source>
         <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="421"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="423"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom otvorení tejto knižnice došlo k zlyhaniu aplikácie. Chcete obnoviť poslednú zálohu automatického ukladania?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="458"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="460"/>
         <source>Failed to open library</source>
         <translation>Nepodarilo sa otvoriť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="506"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="508"/>
         <source>Could not create project</source>
         <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="520"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="522"/>
         <source>Open Project</source>
         <translation>Otvoriť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="521"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="523"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Súbory LibrePCB projektu (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="556"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom použití tohto projektu zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="629"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="631"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -14627,79 +14627,79 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="320"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="331"/>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="440"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="466"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="670"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="700"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1027"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1166"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1227"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1253"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1276"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1285"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1300"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1311"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1397"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1525"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1552"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1573"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1594"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1615"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="465"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="669"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="699"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1026"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1165"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1226"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1252"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1275"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1284"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1299"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1310"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1396"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1524"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1551"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1572"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1593"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1614"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="853"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1084"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="852"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1083"/>
         <source>Paste Geometry</source>
         <translation>Geometria vkladania</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="855"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="854"/>
         <source>Apply the same geometry as the object in the clipboard</source>
         <translation>Použiť rovnakú geometriu ako objekt v schránke</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1024"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1023"/>
         <source>Copied to clipboard!</source>
         <translation>Skopírované do schránky!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1181"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1180"/>
         <source>Paste Footprint Elements</source>
         <translation>Vložiť elementy puzdra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1322"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1321"/>
         <source>Generate package outline</source>
         <translation>Vytvoriť obrys puzdra súčiatky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1391"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1390"/>
         <source>No Content</source>
         <translation>Bez obsahu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1392"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1391"/>
         <source>No content (e.g. pads or documentation polygons) found to generate the package outline from. Please add at least the pads before invoking this command.</source>
         <translation>Nenašiel sa žiadny obsah (napr. plôšky vývodov alebo obrysy v dokumentácii), z ktorých by sa dal generovať obrys puzdra. Pred volaním tohto príkazu pridajte aspoň plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1409"/>
         <source>Courtyard Excess</source>
         <translation>Presah manipulačnej oblasti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1435"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1434"/>
         <source>Generate courtyard</source>
         <translation>Generovanie manipulačnej oblasti</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1518"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1517"/>
         <source>No Outline</source>
         <translation>Bez okrajov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1519"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1518"/>
         <source>The courtyard can only be generated if there&apos;s a package outline polygon or circle, so that needs to be added first.</source>
         <translation>Manipulačná oblasť puzdra môže byť vytvorená iba ak je vytvorený obrys puzdra pomocou oblúkov alebo viac uholníkov, preto ich najskôr pridajte.</translation>
     </message>
@@ -14766,46 +14766,46 @@ Chcete ich uložiť pred zatvorením?</translation>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="714"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="723"/>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="732"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2547"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2585"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2652"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2559"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2597"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2664"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1066"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1078"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1067"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1079"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1698"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1710"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2129"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2141"/>
         <source>New Line Width</source>
         <translation>Nová šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2352"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2364"/>
         <source>Apply to all unspecified pads</source>
         <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2374"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2386"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2729"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2741"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte puzdro.</translation>
     </message>
@@ -16097,26 +16097,26 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="317"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="328"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="432"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="458"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="598"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="628"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="863"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="923"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="943"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="958"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="971"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="998"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="1019"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="457"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="597"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="627"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="862"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="922"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="942"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="957"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="970"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="997"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="1018"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="860"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="859"/>
         <source>Copied to clipboard!</source>
         <translation>Skopírované do schránky!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="878"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="877"/>
         <source>Paste Symbol Elements</source>
         <translation>Vložiť elementy symbolu</translation>
     </message>
@@ -20177,32 +20177,32 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="206"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="208"/>
         <source>Deprecated</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="223"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="225"/>
         <source>Available in Library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="233"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="235"/>
         <source>Open \&quot;%1\&quot; from %2</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="264"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="266"/>
         <source>Waiting for rescan...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="266"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="268"/>
         <source>Not found in any library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="312"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="314"/>
         <source>Version</source>
         <translation>Verzia</translation>
     </message>
@@ -20210,42 +20210,42 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::ProjectLibraryTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="476"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="478"/>
         <source>This project contains no library elements (yet).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="501"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="503"/>
         <source>Update All Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="502"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="504"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
         <translation>Inovovanie elementov projektovej knižnice z knižníc pracovného priestoru</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="518"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="520"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="538"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="540"/>
         <source>Copy %n element(s) to local library</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="540"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="542"/>
         <source>%n element(s) not found in workspace</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="543"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="545"/>
         <source>Copy the checked library elements into a local workspace library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="558"/>
+        <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="560"/>
         <source>Attention: Some elements will be downgraded due to a current limitation of the project library updater! Update your workspace libraries first to avoid this.</source>
         <translation type="unfinished"/>
     </message>
