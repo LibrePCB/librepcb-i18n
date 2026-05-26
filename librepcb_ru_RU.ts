@@ -6465,62 +6465,62 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1492"/>
         <source>Check silkscreen text heights...</source>
-        <translation>Проверьте высоту текста, нанесенного методом шелкографии...</translation>
+        <translation>Проверка высоты текста шелкографии...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1513"/>
         <source>Check keepout zones...</source>
-        <translation>Проверьте зоны сохранения...</translation>
+        <translation>Проверка зоны сохранения...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1769"/>
         <source>Check for useless or disallowed vias...</source>
-        <translation>Проверьте, нет ли бесполезных или запрещенных виа...</translation>
+        <translation>Проверка, нет ли бесполезных или запрещенных переходов...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1801"/>
         <source>Check for invalid planes...</source>
-        <translation>Проверить недействительные плоскости...</translation>
+        <translation>Проверка недействительных плоскостей...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1816"/>
         <source>Check for disallowed NPTH slots...</source>
-        <translation>Проверьте наличие запрещённых прорезей NPTH...</translation>
+        <translation>Проверка наличия запрещённых слотов NPTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1849"/>
         <source>Check for disallowed PTH slots...</source>
-        <translation>Проверьте наличие запрещённых прорезей PTH...</translation>
+        <translation>Проверка наличия запрещённых слотов PTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1889"/>
         <source>Check pad connections...</source>
-        <translation>Проверьте соединения колодок...</translation>
+        <translation>Проверка соединения контактных площадок...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1934"/>
         <source>Check device clearances...</source>
-        <translation>Проверьте зазоры в устройствах...</translation>
+        <translation>Проверка зазоров в устройствах...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1990"/>
         <source>Check board outline...</source>
-        <translation>Проверьте контур платы...</translation>
+        <translation>Проверка контура платы...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2119"/>
         <source>Check board cutouts...</source>
-        <translation>Проверить вырезы на плате...</translation>
+        <translation>Проверка вырезов на плате...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2248"/>
         <source>Check used layers...</source>
-        <translation>Проверьте используемые элементы...</translation>
+        <translation>Проверка используемых элементов...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2311"/>
         <source>Check for unplaced components...</source>
-        <translation>Проверьте наличие неустановленных компонентов...</translation>
+        <translation>Проверка наличия неустановленных компонентов...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2322"/>
@@ -6530,12 +6530,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2368"/>
         <source>Check for impossible connections...</source>
-        <translation>Проверить на невозможные соединения...</translation>
+        <translation>Проверка на невозможные соединения...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2386"/>
         <source>Check for stale objects...</source>
-        <translation>Проверьте, не залежались ли объекты...</translation>
+        <translation>Проверка устаревших объектов...</translation>
     </message>
 </context>
 <context>
@@ -6550,7 +6550,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="163"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="196"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation>Уже существует чистый класс с названием &quot;%1&quot;!</translation>
+        <translation>Уже существует класс цепи с названием &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="250"/>
@@ -6589,7 +6589,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="118"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation>Чистый сигнал компонента &quot;%1:%2&quot; не может быть изменен, так как он все еще используется!</translation>
+        <translation>Сетевой сигнал компонента &quot;%1:%2&quot; не может быть изменен, так как он всё ещё используется!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="157"/>
@@ -6678,12 +6678,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="571"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
-        <translation>Расчеты площади плоскости были скорректированы, рекомендуется ручная проверка и запуск DRC.</translation>
+        <translation>Переходные отверстия внутри плоскостей со стилем соединения &apos;None&apos; теперь полностью соединены с плоскостями, поскольку стиль соединения больше не учитывается для переходных отверстий. Возможно, вы захотите удалить следы, которые больше не нужны для соединения этих переходных отверстий.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="581"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
-        <translation>Для вырезов платы теперь выделен отдельный слой, поэтому вложенные полигоны и круги контуров платы автоматически перемещаются на слой с вырезами. Поскольку автоопределение не идеально, проверьте, правильно ли преобразована каждая вырезка. Самый простой способ - просмотреть печатную плату в 3D-вьювере.</translation>
+        <translation>Для вырезов платы теперь выделен отдельный слой, поэтому вложенные полигоны и круги контуров платы автоматически перемещаются на слой с вырезами. Поскольку автоопределение не идеально, проверьте, правильно ли преобразован каждый вырез. Самый простой способ - просмотреть печатную плату в 3D-вьювере.</translation>
     </message>
 </context>
 <context>
@@ -6754,7 +6754,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="151"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Класс сети &quot;%1&quot; не может быть удален, потому что он все еще используется!</translation>
+        <translation>Класс цепи &quot;%1&quot; не может быть удалён, потому что он всё ещё используется!</translation>
     </message>
 </context>
 <context>
@@ -6762,7 +6762,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/circuit/netsignal.cpp" line="133"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation>Сетевой сигнал &quot;%1&quot; не может быть удален, потому что он все еще используется!</translation>
+        <translation>Сигнал цепи &quot;%1&quot; не может быть удалён, потому что он всё ещё используется!</translation>
     </message>
 </context>
 <context>
@@ -6778,7 +6778,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="124"/>
         <source>Start request...</source>
-        <translation>Начать запрос...</translation>
+        <translation>Начат запрос...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="127"/>
@@ -6788,7 +6788,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="134"/>
         <source>Abort request...</source>
-        <translation>Прервать запрос...</translation>
+        <translation>Прерывается запрос...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="147"/>
@@ -6928,12 +6928,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="736"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
-        <translation>Входной файл должен находиться в директории проекта, указанной относительным путем к файлу.</translation>
+        <translation>Входной файл должен находиться в директории проекта, указанной относительным путём к файлу.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="771"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
-        <translation>Архивное задание зависит от файлов другого задания, которое еще не было запущено. Обратите внимание, что архивные задания могут зависеть только от заданий, расположенных дальше в списке, поэтому вам может понадобиться изменить их порядок.</translation>
+        <translation>Архивное задание зависит от файлов другого задания, которое ещё не было запущено. Обратите внимание, что архивные задания могут зависеть только от заданий, расположенных дальше в списке, поэтому вам может понадобиться изменить их порядок.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="783"/>
@@ -6956,12 +6956,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="252"/>
         <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
-        <translation>Уже существует схема с именем каталога &quot;%1&quot;!</translation>
+        <translation>Уже существует схема с именем директории &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="279"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
-        <translation>В схеме &quot;%1&quot; еще есть элементы!</translation>
+        <translation>В схеме &quot;%1&quot; ещё есть элементы!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="332"/>
@@ -6971,12 +6971,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="339"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation>Уже существует плата с названием каталога &quot;%1&quot;!</translation>
+        <translation>Уже существует плата с названием директории &quot;%1&quot;!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="541"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
-        <translation>В папке &quot;%1&quot; уже есть проект LibrePCB.</translation>
+        <translation>В директории &quot;%1&quot; уже есть проект LibrePCB.</translation>
     </message>
 </context>
 <context>
@@ -6984,7 +6984,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="133"/>
         <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
-        <translation>Примечание. Это временный файл, поскольку проект ещё не сохранён на диске. При сохранении проекта этот журнал будет записан в каталог проекта &apos;%1&apos;.</translation>
+        <translation>Примечание. Это временный файл, поскольку проект ещё не сохранён на диске. При сохранении проекта этот журнал будет записан в директорию проекта &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="140"/>
@@ -7024,7 +7024,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="224"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
-        <translation>Каталог не содержит проекта LibrePCB: &apos;%1&apos;</translation>
+        <translation>Директория не содержит проекта LibrePCB: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="236"/>
@@ -7079,17 +7079,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="178"/>
         <source>Saving...</source>
-        <translation>Сохранить...</translation>
+        <translation>Сохранение...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="185"/>
         <source>The export completed, but there were %1 errors!</source>
-        <translation>Экспорт завершен, но возникла %1 ошибка!</translation>
+        <translation>Экспорт завершён, но возникла %1 ошибок!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="187"/>
         <source>The last error was:</source>
-        <translation>Последняя ошибка была:</translation>
+        <translation>Последняя ошибка:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="189"/>
@@ -7143,7 +7143,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/workspace/workspace.cpp" line="154"/>
         <source>The directory &quot;%1&quot; is not a valid LibrePCB workspace.</source>
-        <translation>Каталог &quot;%1&quot; не является действительной рабочим пространством LibrePCB.</translation>
+        <translation>Директория &quot;%1&quot; не является действительной рабочим пространством LibrePCB.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/workspace.cpp" line="166"/>
@@ -7178,7 +7178,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/eagleimport/eaglelibraryconverter.cpp" line="473"/>
         <source>Dependent package &quot;%1&quot; not imported.</source>
-        <translation>Зависимый корпус &quot;%1&quot; не импортирован.</translation>
+        <translation>Зависимый пакет &quot;%1&quot; не импортирован.</translation>
     </message>
 </context>
 <context>
@@ -7191,7 +7191,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="412"/>
         <source>Skipped package due to error: %1</source>
-        <translation>Корпус пропущен из-за ошибки: %1</translation>
+        <translation>Пропущен корпус из-за ошибки: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="438"/>
@@ -7560,12 +7560,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="65"/>
         <source>Discard image</source>
-        <translation>Выбросить изображение</translation>
+        <translation>Отбросить изображение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.ui" line="85"/>
         <source>Specify coordinates of reference points:</source>
-        <translation>Задайте координаты опорных точек:</translation>
+        <translation>Задать координаты опорных точек:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="332"/>
@@ -7595,7 +7595,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="468"/>
         <source>This tool allows you to set a background image (typically a datasheet drawing) in the footprint editor to easily verify the size &amp;amp; position of footprint pads etc. Note that the image won&apos;t appear on the board, it&apos;s only visible in the footprint editor.</source>
-        <translation>Этот инструмент позволяет установить фоновое изображение (обычно чертеж из технического паспорта) в редакторе отпечатков, чтобы легко проверить размеры и расположение площадок для отпечатков и т. д. Обратите внимание, что изображение не будет отображаться на плате, оно будет видно только в редакторе отпечатков.</translation>
+        <translation>Этот инструмент позволяет установить фоновое изображение (обычно чертеж из технического паспорта) в редакторе посад. мест, чтобы легко проверить размеры и расположение площадок для посадочных мест и т. д. Обратите внимание, что изображение не будет отображаться на плате, оно будет видно только в редакторе посад. мест.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="476"/>
@@ -7605,7 +7605,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="478"/>
         <source>Draw a line around the footprint to cut out the relevant area.</source>
-        <translation>Проведите линию вокруг отпечатка, чтобы вырезать соответствующую область.</translation>
+        <translation>Проведите линию вокруг посад. места, чтобы вырезать соответствующую область.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
@@ -7635,7 +7635,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="545"/>
         <source>Crop the image by drawing a line with the cursor around the footprint (single click to skip).</source>
-        <translation>Отрежь изображение, проведя курсором линию вокруг отпечатка (для пропуска нажмите одну кнопку мыши).</translation>
+        <translation>Отрежь изображение, проведя курсором линию вокруг посад. места (для пропуска - одиночный щелчок кнопкой мыши).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="549"/>
@@ -7723,7 +7723,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2604"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
-        <translation>Это новая функция, и мы смогли протестировать ее только на очень немногих внешних маршрутизаторах. Если у вас возникнут проблемы с совместимостью с вашим маршрутизатором, пожалуйста, сообщите нам об этом!</translation>
+        <translation>Это новая функция, и мы смогли протестировать её только на очень немногих внешних роутерах. Если у вас возникнут проблемы с совместимостью с вашим роутером, пожалуйста, сообщите нам об этом!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2642"/>
@@ -7993,7 +7993,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="494"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
-        <translation>Эта площадка не подключена ни к какой цепи, поэтому к ней нельзя прикрепить никакой дорожки. Чтобы можно было прикрепить дорожку, сначала подключите эту площадку к цепи на схеме. Так что это проблема схемы, а не платы.</translation>
+        <translation>Эта площадка не подключена ни к какой цепи, поэтому к ней нельзя прикрепить дорожку. Для прикрепления дорожки сначала подключите эту площадку к цепи на схеме. Так что это проблема схемы, а не платы.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="657"/>
@@ -8022,7 +8022,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="234"/>
         <source>Draw Board Zone</source>
-        <translation>Нарисовать зону платы</translation>
+        <translation>Нарисовать Зону платы</translation>
     </message>
 </context>
 <context>
@@ -8066,7 +8066,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1426"/>
         <source>Set Width</source>
-        <translation>Заданная ширина</translation>
+        <translation>Задать ширину</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1632"/>
@@ -8306,7 +8306,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="378"/>
         <source>Lock</source>
-        <translation>Блокировка (фиксация)</translation>
+        <translation>Блокировка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="388"/>
@@ -8379,7 +8379,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="657"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от реперных знаков.</translation>
+        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от координатных меток.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="671"/>
@@ -8404,7 +8404,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="406"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
-        <translation>Диаметр сверла превышает ширину или высоту площадки. Уменьшите диаметр сверла или увеличьте ширину и/или высоту площадки.</translation>
+        <translation>Диаметр сверловки превышает ширину или высоту площадки. Уменьшите диаметр сверловки или увеличьте ширину и/или высоту площадки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="417"/>
@@ -8482,7 +8482,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="142"/>
         <source>Browse Output Directory</source>
-        <translation>Открыть каталог вывода</translation>
+        <translation>Открыть директорию вывода</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="157"/>
@@ -8550,7 +8550,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="91"/>
         <source>Do not delete unconnected copper areas (islands)</source>
-        <translation>Не удаляйте неподключенные участки меди (острова).</translation>
+        <translation>Не удалять неподключённые участки меди (островки)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="94"/>
@@ -8565,17 +8565,17 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="110"/>
         <source>Clearance around thermal pads</source>
-        <translation>Зазор вокруг термопрокладок</translation>
+        <translation>Зазор вокруг термоплощадок</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="113"/>
         <source>Themal Gap:</source>
-        <translation>Тематический пробел:</translation>
+        <translation>Термический Зазор:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="120"/>
         <source>Width of the thermal pad spokes</source>
-        <translation>Ширина спиц термопрокладки</translation>
+        <translation>Ширина спиц термоплощадки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="123"/>
@@ -8606,7 +8606,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="122"/>
         <source>Solid</source>
-        <translation>Твердый</translation>
+        <translation>Сплошной</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="230"/>
@@ -8676,7 +8676,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="249"/>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="432"/>
         <source>Automatic Annular Ring</source>
-        <translation>Автоматическое круглое отверстие</translation>
+        <translation>Автоматическое окружающее кольцо</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
@@ -8686,7 +8686,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="280"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation>Автом. поясок площадки:</translation>
+        <translation>Автом. окружающее кольцо площадки:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="298"/>
@@ -8701,7 +8701,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="318"/>
         <source>Vias Annular Ring:</source>
-        <translation>Кольцо круглого сечения:</translation>
+        <translation>Окружающее кольцо переход. отверстий:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="325"/>
@@ -8741,7 +8741,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="404"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation>Проходы с диаметром сверла до этого диаметра будут покрыты резистом припоя (если это не отменить вручную). Для более крупных отверстий добавляется отверстие в маске для остановки.</translation>
+        <translation>Переходы с диаметром сверла до этого диаметра будут покрыты паяльным резистом (если это не отменить вручную). Для более крупных отверстий добавляется отверстие в стоп-маске.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="407"/>
@@ -8761,7 +8761,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="597"/>
         <source>NPTH Slots:</source>
-        <translation>Прорези NPTH:</translation>
+        <translation>Слоты NPTH:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="644"/>
@@ -8771,7 +8771,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="656"/>
         <source>Allow vias which either start or end on an inner copper layer.</source>
-        <translation>Разрешите переходы, которые начинаются или заканчиваются на внутреннем медном слое.</translation>
+        <translation>Разрешить переходы, которые начинаются или заканчиваются на внутреннем медном слое.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="659"/>
@@ -8841,7 +8841,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="771"/>
         <source>PTH Slots:</source>
-        <translation>Прорези PTH:</translation>
+        <translation>Слоты PTH:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="778"/>
@@ -8856,7 +8856,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="827"/>
         <source>NPTH Slot Width:</source>
-        <translation>Ширина прорези NPTH:</translation>
+        <translation>Ширина слота NPTH:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="853"/>
@@ -8891,7 +8891,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="943"/>
         <source>PTH Annular Ring:</source>
-        <translation>Поясок PTH:</translation>
+        <translation>Окружающее кольцо PTH:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="73"/>
@@ -10165,7 +10165,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="55"/>
         <source>Reload Package</source>
-        <translation>Перегрузить корпус</translation>
+        <translation>Перегрузить пакет</translation>
     </message>
 </context>
 <context>
@@ -10213,7 +10213,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdpolygonedit.cpp" line="40"/>
         <source>Edit polygon</source>
-        <translation>Редактировать многоугольник</translation>
+        <translation>Редактировать полигон</translation>
     </message>
 </context>
 <context>
@@ -10583,7 +10583,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdsymbolreload.cpp" line="41"/>
         <source>Reload Symbol</source>
-        <translation>Перегрузить символ</translation>
+        <translation>Перезагрузить символ</translation>
     </message>
 </context>
 <context>
@@ -10673,7 +10673,7 @@ Are you sure the footprint and pinout of the selected device are compatible with
         <source>The selected part is taken from a different device than this assembly option is valid for, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected part are compatible with the device?</source>
-        <translation>Выбранная деталь взята из другого устройства, для которого этот вариант сборки не подходит, поэтому LibrePCB не может проверить ее совместимость!
+        <translation>Выбранная деталь взята из другого устройства, для которого этот вариант сборки не подходит, поэтому LibrePCB не может проверить её совместимость!
 
 Вы уверены, что размеры и расположение выводов выбранной детали совместимы с устройством?</translation>
     </message>
@@ -11145,7 +11145,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation>Если вы абсолютно уверены, что к каталогу больше не обращается ни одно приложение, вы можете снять текущую блокировку и открыть этот каталог в любом случае. Но если к каталогу все еще обращается другой экземпляр приложения, это может привести к повреждению файлов, поэтому используйте эту опцию очень осторожно!</translation>
+        <translation>Если вы абсолютно уверены, что к каталогу больше не обращается ни одно приложение, вы можете снять текущую блокировку и открыть этот каталог в любом случае. Но если к каталогу всё ещё обращается другой экземпляр приложения, это может привести к повреждению файлов, поэтому используйте эту опцию очень осторожно!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="53"/>
@@ -11191,12 +11191,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
         <source>Line width:</source>
-        <translation>Толщина линии:</translation>
+        <translation>Ширина линии:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
         <source>The line width to set on the imported objects.</source>
-        <translation>Толщина линии, которую нужно установить для импортированных объектов.</translation>
+        <translation>Ширина линии, которую нужно установить для импортированных объектов.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
@@ -11367,7 +11367,7 @@ Do you really want to close it?</source>
 &lt;/ul&gt;</source>
         <translation>&lt;p&gt;После импорта настоятельно рекомендуется выполнить следующие действия с каждым из импортированных элементов:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Присвоить разумные категории (если это еще не сделано)&lt;/li&gt;
+  &lt;li&gt;Присвоить разумные категории (если это ещё не сделано)&lt;/li&gt;
   &lt;li&gt;Просмотреть и переработать геометрию символов и посад. мест&lt;/li&gt;
   &lt;li&gt;Исправить все оставшиеся предупреждения, отображаемые в редакторе библиотеки&lt;/li&gt;
 &lt;/ul&gt;</translation>
@@ -11418,7 +11418,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="263"/>
         <source>Packages</source>
-        <translation>Корпуса</translation>
+        <translation>Пакеты</translation>
     </message>
 </context>
 <context>
@@ -11473,7 +11473,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="108"/>
         <source>Additional Package Category</source>
-        <translation>Дополнительная категория корпуса</translation>
+        <translation>Дополнительная категория пакета</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="172"/>
@@ -11808,7 +11808,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от реперных знаков.</translation>
+        <translation>Примечание: Предназначен для того, чтобы держать медь подальше от координатных меток.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="649"/>
@@ -11886,12 +11886,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="94"/>
         <source>Drills PTH:</source>
-        <translation>Отверстия PTH:</translation>
+        <translation>Сверловка PTH:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="111"/>
         <source>Drills Blind/Buried:</source>
-        <translation>Сверление глухих/внутр.:</translation>
+        <translation>Сверловка глухие/внутр.:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="118"/>
@@ -11913,14 +11913,14 @@ Warning: This cannot be undone!</source>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation>Экспортируйте прорези как просверленные (G85), а не фрезерованные  (G00..G03).
+        <translation>Экспортируйте слоты как просверленные (G85), а не фрезерованные  (G00..G03).
 Не рекомендуется, если G00..G03 не вызывают проблем с производителем печатной платы.
-Внимание: Изогнутые прорези не поддерживаются в режиме G85 (будет выдана ошибка).</translation>
+Внимание: Изогнутые слоты не поддерживаются в режиме G85 (будет выдана ошибка).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="189"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation>Использовать команду сверления прорезей в файлах Excellon (G85)</translation>
+        <translation>Использовать команду сверления слотов в файлах Excellon (G85)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="196"/>
@@ -12022,12 +12022,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="67"/>
         <source>Top Components:</source>
-        <translation>Верхние компоненты:</translation>
+        <translation>Компоненты сверху:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="80"/>
         <source>Bottom Components:</source>
-        <translation>Нижние компоненты:</translation>
+        <translation>Компоненты снизу:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
@@ -12179,7 +12179,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="348"/>
         <source>Minimum line width:</source>
-        <translation>Минимальная толщина линии:</translation>
+        <translation>Минимальная ширина линии:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
@@ -12502,7 +12502,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="549"/>
         <source>Minimum line width:</source>
-        <translation>Минимальная толщина линии:</translation>
+        <translation>Минимальная ширина линии:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="559"/>
@@ -12542,7 +12542,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="368"/>
         <source>Rendering Top/Bottom</source>
-        <translation>Рендеринг Низ/Верх</translation>
+        <translation>Рендеринг Верх/Низ</translation>
     </message>
 </context>
 <context>
@@ -12580,7 +12580,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="205"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
-        <translation>Этот исполняемый файл приложения, похоже, не интегрирован в среду рабочего стола. При желании установите его сейчас, чтобы иметь возможность открывать проекты LibrePCB через файловый менеджер. Щелкните на кнопке, чтобы узнать подробности, или сделайте это из диалога настроек в любое время.</translation>
+        <translation>Этот исполняемый файл приложения, похоже, не интегрирован в среду рабочего стола. При желании установите его сейчас, чтобы иметь возможность открывать проекты LibrePCB через файловый менеджер. Щёлкните на кнопке, чтобы узнать подробности, или сделайте это из диалога настроек в любое время.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="209"/>
@@ -12635,7 +12635,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="374"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation>Это загружает несколько примеров проектов из Интернета и копирует их в рабочее пространство, чтобы помочь вам оценить LibrePCB с реальными проектами.</translation>
+        <translation>Загружаются несколько примеров проектов из Интернета и копируются в рабочее пространство, чтобы помочь вам оценить LibrePCB с реальными проектами.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="378"/>
@@ -12704,7 +12704,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="72"/>
         <source>Lock</source>
-        <translation>Блокировка (фиксация)</translation>
+        <translation>Блокировка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
@@ -12719,7 +12719,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="112"/>
         <source>Linear Slot</source>
-        <translation>Линейная прорезь</translation>
+        <translation>Линейный слот</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="131"/>
@@ -12739,7 +12739,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="176"/>
         <source>Arbitrary Slot</source>
-        <translation>Произвольная прорезь</translation>
+        <translation>Произвольный слот</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="256"/>
@@ -12861,12 +12861,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
         <source>Select Workspace Path</source>
-        <translation>Выберите путь к каталогу рабочего пространства</translation>
+        <translation>Выберите путь к директории рабочего пространства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation>Выберите каталог, чтобы открыть или создать рабочее пространство LibrePCB.</translation>
+        <translation>Выберите директорию, чтобы открыть или создать рабочее пространство LibrePCB.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
@@ -12878,22 +12878,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
         <source>Choose the workspace directory to open or create:</source>
-        <translation>Выберите каталог рабочего пространства для открытия или создания:</translation>
+        <translation>Выберите директорию рабочего пространства для открытия или создания:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="59"/>
         <source>Select Workspace Directory</source>
-        <translation>Выбрать каталог рабочего пространства</translation>
+        <translation>Выбрать директорию рабочего пространства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="122"/>
         <source>Please select a directory.</source>
-        <translation>Пожалуйста выберите каталог.</translation>
+        <translation>Пожалуйста выберите директорию.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="124"/>
         <source>Directory contains a valid workspace.</source>
-        <translation>Каталог содержит корректное рабочее пространство.</translation>
+        <translation>Директория содержит корректное рабочее пространство.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="126"/>
@@ -12903,7 +12903,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="128"/>
         <source>Directory is not empty!</source>
-        <translation>Каталог не является пустым!</translation>
+        <translation>Директория не пуста!</translation>
     </message>
 </context>
 <context>
@@ -13011,7 +13011,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="84"/>
         <source>Comma-separated attributes (optional)</source>
-        <translation>Атрибуты, разделённые запятыми (оционально)</translation>
+        <translation>Атрибуты, разделённые запятыми (опционально)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="98"/>
@@ -13100,7 +13100,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>An operation is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation>В настоящее время выполняется операция. Закрытие этого окна приведет к ее прерыванию.
+        <translation>В настоящее время выполняется операция. Закрытие этого окна приведет к её прерыванию.
 
 Вы действительно хотите закрыть его?</translation>
     </message>
@@ -13110,7 +13110,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="110"/>
         <source>No file or directory selected.</source>
-        <translation>Не выбран файл или каталог.</translation>
+        <translation>Не выбран файл или директория.</translation>
     </message>
 </context>
 <context>
