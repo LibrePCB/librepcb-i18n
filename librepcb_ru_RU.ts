@@ -19304,17 +19304,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1179"/>
         <source>Close the currently opened package</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущий открытый корпус</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1189"/>
         <source>Reload Package From Disk</source>
-        <translation type="unfinished"/>
+        <translation>Перезагрузить корпус с диска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1190"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
-        <translation type="unfinished"/>
+        <translation>Отменить все изменения и перезагрузить текущий открытый корпус с диска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
@@ -19324,17 +19324,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1230"/>
         <source>Save Component</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить компонент</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1240"/>
         <source>Close Component</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть компонент</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1241"/>
         <source>Close the currently opened component</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущий открытый компонент</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1262"/>
@@ -19344,42 +19344,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1281"/>
         <source>Save Device</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить устройство</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1291"/>
         <source>Close Device</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть устройство</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1292"/>
         <source>Close the currently opened device</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущее открытое устройство</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1313"/>
         <source>Organization</source>
-        <translation type="unfinished"/>
+        <translation>Организация</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1332"/>
         <source>Save Organization</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить организацию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1342"/>
         <source>Close Organization</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть организацию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1343"/>
         <source>Close the currently opened organization</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущую открытую организацию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1364"/>
         <source>Project</source>
-        <translation type="unfinished"/>
+        <translation>Проект</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1403"/>
@@ -19399,12 +19399,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1695"/>
         <source>read-only</source>
-        <translation type="unfinished"/>
+        <translation>только-для-чтения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1925"/>
         <source>Quick Find</source>
-        <translation type="unfinished"/>
+        <translation>Быстрый поиск</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="200"/>
@@ -19414,7 +19414,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="202"/>
         <source>Create a new local workspace library</source>
-        <translation type="unfinished"/>
+        <translation>Создать новую локальную библиотеку рабочего пространства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="211"/>
@@ -19424,7 +19424,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="213"/>
         <source>Manually download an existing library from the Internet</source>
-        <translation type="unfinished"/>
+        <translation>Вручную загрузить существующую библиотеку из Интернета </translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="351"/>
@@ -19474,12 +19474,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="705"/>
         <source>Split Window</source>
-        <translation type="unfinished"/>
+        <translation>Разделить окно</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="707"/>
         <source>Split the current window into one more section</source>
-        <translation type="unfinished"/>
+        <translation>Разделить текущее окно ещё на одну секцию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="86"/>
@@ -19499,7 +19499,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="908"/>
         <source>Save Library</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить библиотеку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="918"/>
@@ -19509,7 +19509,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="919"/>
         <source>Close the currently opened library</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущую открытую библиотеку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="93"/>
@@ -19563,12 +19563,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="69"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="78"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Да</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="87"/>
@@ -19628,32 +19628,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="144"/>
         <source>This project does not contain any board, so there&apos;s nothing you could order.</source>
-        <translation type="unfinished"/>
+        <translation>В этом проекте нет плат, поэтому вы ничего не сможете заказать.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="146"/>
         <source>Please open the board you like to order.</source>
-        <translation type="unfinished"/>
+        <translation>Пожалуйста, откройте плату, которую вы хотите заказать.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="148"/>
         <source>There may be some issues with your schematics or board, please check the messages above before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Могут возникнуть некоторые проблемы с вашей схемой или платой, пожалуйста, проверьте сообщения выше, прежде чем продолжить.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
         <source>Order %1</source>
-        <translation type="unfinished"/>
+        <translation>Заказать %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="199"/>
         <source>Open web browser after upload</source>
-        <translation type="unfinished"/>
+        <translation>Открыть веб-браузер после загрузки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="217"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
-        <translation type="unfinished"/>
+        <translation>Закончили дизайн печатной платы? Позвольте изготовить его у одного из наших партнеров-производителей - легко, безопасно и быстро!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="225"/>
@@ -19673,7 +19673,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
         <source>Checking availability</source>
-        <translation type="unfinished"/>
+        <translation>Проверка доступности</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
@@ -19683,17 +19683,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
-        <translation type="unfinished"/>
+        <translation>Этот инструмент поможет вам быстро и легко изготовить спроектированную вами печатную плату. Каталог проекта будет экспортирован в архив *.lppz и загружен на API-сервер, настроенный в вашем рабочем пространстве. После этого вы можете продолжить процесс заказа в веб-браузере, например выбрать предпочтительного партнера-производителя. Просто попробуйте!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"/>
+        <translation>Политика конфиденциальности</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
-        <translation type="unfinished"/>
+        <translation>Конфиденциальность и прозрачность важны для нас. Подробности о том, как эта функция работает «за кулисами», доступны здесь:</translation>
     </message>
 </context>
 <context>
@@ -19701,27 +19701,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="110"/>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Обновить</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="41"/>
         <source>Running...</source>
-        <translation type="unfinished"/>
+        <translation>Запущено...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="43"/>
         <source>Successful</source>
-        <translation type="unfinished"/>
+        <translation>Успешно!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="45"/>
         <source>%n Message(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Сообщений</numerusform><numerusform>%n Сообщений</numerusform><numerusform>%n Сообщений</numerusform><numerusform>%n Сообщений</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="47"/>
         <source>Outdated</source>
-        <translation type="unfinished"/>
+        <translation> Устарело</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="49"/>
@@ -19731,7 +19731,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="91"/>
         <source>No board selected</source>
-        <translation type="unfinished"/>
+        <translation>Не выбрана плата</translation>
     </message>
 </context>
 <context>
@@ -19739,38 +19739,38 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="234"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
-        <translation type="unfinished"/>
+        <translation>Организации с более высоким приоритетом появятся перед организациями с более низким приоритетом.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
         <source>Reserved for official organizations</source>
-        <translation type="unfinished"/>
+        <translation>Зарезервировано для официальных организаций</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Recommended for your personal organizations</source>
-        <translation type="unfinished"/>
+        <translation>Рекомендуется для ваших личных организаций</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Reserved for LibrePCB Fab</source>
-        <translation type="unfinished"/>
+        <translation>Зарезервировано для LibrePCB Fab</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Not recommended</source>
-        <translation type="unfinished"/>
+        <translation>Не рекомендуется</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="269"/>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="281"/>
         <source>%n output job(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n выходных заданий</numerusform><numerusform>%n выходных заданий</numerusform><numerusform>%n выходных заданий</numerusform><numerusform>%n выходных заданий</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="48"/>
         <source>Note: This is currently an experimental feature which will be polished in upcoming releases.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание. В настоящее время это экспериментальная функция, которая будет доработана в следующих выпусках.</translation>
     </message>
 </context>
 <context>
@@ -19778,7 +19778,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="73"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
