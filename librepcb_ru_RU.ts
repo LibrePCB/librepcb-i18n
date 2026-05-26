@@ -1459,17 +1459,17 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="340"/>
         <source>Cutout outside of board area</source>
-        <translation type="unfinished"/>
+        <translation>Вырез за пределами платы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="341"/>
         <source>A cutout polygon is outside the board area (either partially or fully), which will lead to invalid production data.</source>
-        <translation type="unfinished"/>
+        <translation>Вырезанный полигон находится за пределами платы (частично или полностью), что приведёт к неверным производственным данным.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="344"/>
         <source>Make sure all cutouts are fully inside the board area. Cutouts at the board edge need to be part of the board outlines polygon on the &apos;%1&apos; layer, not separate polygons.</source>
-        <translation type="unfinished"/>
+        <translation>Убедитесь, что все вырезы полностью находятся внутри платы. Вырезы на краю платы должны быть частью полигона контуров платы на слое &apos;%1&apos;, а не отдельными полигонами.</translation>
     </message>
 </context>
 <context>
@@ -1707,17 +1707,17 @@ Please make sure this tool is available in PATH.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="295"/>
         <source>Intersecting board outlines</source>
-        <translation type="unfinished"/>
+        <translation>Пересекающиеся контуры платы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="296"/>
         <source>Two board outline polygons are intersecting each other, which will lead to invalid production data.</source>
-        <translation type="unfinished"/>
+        <translation>Два полигона контура платы пересекаются друг с другом, что приведёт к неверным производственным данным.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="299"/>
         <source>Make sure there is exactly one board outline polygon. Cutouts at the board edge need to be part of the board outline polygon, not separate polygons. Cutouts inside the board need to be drawn on the &apos;%1&apos; layer.</source>
-        <translation type="unfinished"/>
+        <translation>Убедитесь, что существует ровно один полигон контура платы. Вырезы на краю платы должны быть частью полигона контура платы, а не отдельными полигонами. Вырезы внутри платы необходимо рисовать на слое &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -6115,7 +6115,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
         <source>sysctl() failed with errno=%1 (%2).</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() сбой с errno=%1 (%2).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
@@ -17919,7 +17919,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="683"/>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="700"/>
         <source>Add Gate</source>
-        <translation type="unfinished"/>
+        <translation>Добавить Вентиль</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="709"/>
@@ -17929,7 +17929,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="719"/>
         <source>Set as Default</source>
-        <translation type="unfinished"/>
+        <translation>Установить по умолчанию</translation>
     </message>
 </context>
 <context>
@@ -17937,7 +17937,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="776"/>
         <source>Add Variant</source>
-        <translation type="unfinished"/>
+        <translation>Добавить Вариант</translation>
     </message>
 </context>
 <context>
@@ -17991,7 +17991,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="119"/>
         <source>Examples:</source>
-        <translation type="unfinished"/>
+        <translation>Примеры:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="143"/>
@@ -18016,7 +18016,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="219"/>
         <source>e.g. URL to the Git repository (optional)</source>
-        <translation type="unfinished"/>
+        <translation>напр. URL Git репозитария (необязательно)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="235"/>
