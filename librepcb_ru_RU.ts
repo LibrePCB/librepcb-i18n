@@ -2066,7 +2066,7 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="253"/>
         <source>There are multiple, independent board outlines defined.</source>
-        <translation>Определены несколько независимых контуров совета.</translation>
+        <translation>Определены несколько независимых контуров платы.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="254"/>
@@ -2125,7 +2125,7 @@ This cutout is on the &quot;%1&quot; layer but intersects with copper layers alo
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="272"/>
         <source>Replace multiple coincident polygons with a single, connected polygon and append an explicit last vertex to make the polygon closed.</source>
-        <translation>Замените несколько совпадающих многоугольников одним соединенным многоугольником и добавьте явную последнюю вершину, чтобы сделать многоугольник замкнутым.</translation>
+        <translation>Замените несколько совпадающих многоугольников одним связным многоугольником и добавьте явную последнюю вершину, чтобы сделать многоугольник замкнутым.</translation>
     </message>
 </context>
 <context>
@@ -2220,7 +2220,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1999"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
-        <translation>Слой не содержит никаких медных объектов (кроме автоматически сгенерированных кольцевых колец со сквозными отверстиями, если таковые имеются), поэтому он бесполезен. Это не критично, но если вы собираетесь заполнить его медью, вам нужно добавить плоскость вручную. Или, если вам не нужен этот слой, вы можете уменьшить количество слоев в диалоге настройки платы, чтобы избежать лишних затрат на производство. Кроме того, некоторых производителей печатных плат могут смутить пустые слои.</translation>
+        <translation>Слой не содержит никаких медных объектов (кроме автоматически сгенерированных колец со сквозными отверстиями, если таковые имеются), поэтому он бесполезен. Это не критично, но если вы собираетесь заполнить его медью, вам нужно добавить плоскость вручную. Или, если вам не нужен этот слой, вы можете уменьшить количество слоёв в диалоге настройки платы, чтобы избежать лишних затрат на производство. Кроме того, некоторых производителей печатных плат могут смутить пустые слои.</translation>
     </message>
 </context>
 <context>
@@ -2296,7 +2296,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Open the selected item(s)</source>
-        <translation>Отрыть выделенный элемент(ы)</translation>
+        <translation>Открыть выделенный элемент(ы)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="104"/>
@@ -2326,7 +2326,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation>Выбрать все видимы объекты</translation>
+        <translation>Выбрать все видимые объекты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="131"/>
@@ -2396,7 +2396,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation>Просканируйте все библиотеки рабочего пространства для обновления кэша</translation>
+        <translation>Просканировать все библиотеки рабочего пространства для обновления кэша</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
@@ -2456,7 +2456,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>Review the project&apos;s library elements &amp; update them from workspace libraries</source>
-        <translation>Просмотрите элементы библиотеки проекта и обновите их из библиотек рабочей области</translation>
+        <translation>Просмотреть элементы библиотеки проекта и обновить их из библиотек рабочего пространства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
@@ -2566,7 +2566,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="386"/>
         <source>Make the filled areas of all planes visible</source>
-        <translation>Сделайте видимыми залитые области всех плоскостей</translation>
+        <translation>Сделать видимыми залитые области всех плоскостей</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
@@ -2576,7 +2576,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="395"/>
         <source>Make the filled areas of all planes invisible</source>
-        <translation>Сделайте залитые области всех плоскостей невидимыми</translation>
+        <translation>Сделать залитые области всех плоскостей невидимыми</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="403"/>
@@ -2586,7 +2586,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="404"/>
         <source>Re-calculate the filled areas of all planes</source>
-        <translation>Пересчитайте заполненные площади всех плоскостей</translation>
+        <translation>Пересчитать заполненные площади всех плоскостей</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="412"/>
@@ -2797,7 +2797,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="600"/>
         <source>Generate netlist file for automated PCB testing</source>
-        <translation>Сгенерируйте файл списка цепей для автоматического тестирования печатных плат</translation>
+        <translation>Сгенерировать файл списка цепей для автоматического тестирования печатных плат</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
@@ -2852,7 +2852,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="649"/>
         <source>Cut the selected object(s) to clipboard</source>
-        <translation>Вырезать выделенные объект(ы) в буфер обмена</translation>
+        <translation>Вырезать выделенные объект(-ы) в буфер обмена</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
@@ -2862,7 +2862,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="658"/>
         <source>Copy the selected object(s) to clipboard</source>
-        <translation>Копировать выделенные объект(ы) в буфер обмена</translation>
+        <translation>Копировать выделенные объект(-ы) в буфер обмена</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="666"/>
@@ -2872,7 +2872,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="667"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation>Вставить объект(ы) из буфера обмена</translation>
+        <translation>Вставить объект(-ы) из буфера обмена</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="675"/>
@@ -2882,7 +2882,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="676"/>
         <source>Move the selected object(s) to the left</source>
-        <translation>Переместить выбранный объект(ы) влево</translation>
+        <translation>Переместить выбранный объект(-ы) влево</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="684"/>
@@ -2892,7 +2892,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="685"/>
         <source>Move the selected object(s) to the right</source>
-        <translation>Переместить выбранный объект(ы) вправо</translation>
+        <translation>Переместить выбранный объект(-ы) вправо</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="693"/>
@@ -2902,7 +2902,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Move the selected object(s) up</source>
-        <translation>Переместить выбранный объект(ы) вверх</translation>
+        <translation>Переместить выбранный объект(-ы) вверх</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
@@ -2912,7 +2912,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>Move the selected object(s) down</source>
-        <translation>Переместить выбранный объект(ы) вниз</translation>
+        <translation>Переместить выбранный объект(-ы) вниз</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
@@ -2922,7 +2922,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation>Повернуть выделенный объект(ы) против часовой стрелки</translation>
+        <translation>Повернуть выделенный объект(-ы) против часовой стрелки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
@@ -2932,17 +2932,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation>Повернуть выделенный объект(ы) по часовой стрелке</translation>
+        <translation>Повернуть выделенный объект(-ы) по часовой стрелке</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Mirror Horizontally</source>
-        <translation>Зеркало горизонтальное</translation>
+        <translation>Зеркало по горизонтали</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Mirror the selected object(s) horizontally</source>
-        <translation>Отразить выбранный объект(ы) по горизонтали</translation>
+        <translation>Отразить выбранный объект(-ы) по горизонтали</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
@@ -2952,7 +2952,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Mirror the selected object(s) vertically</source>
-        <translation>Зеркальное отображение выбранного объекта (объектов) по вертикали</translation>
+        <translation>Отразить выбранный объект(-ы) по вертикали</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
@@ -2962,7 +2962,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
-        <translation>Переверните выбранный объект(ы) по горизонтали на другую сторону платы</translation>
+        <translation>Перевернуть выбранный объект(-ы) по горизонтали на другую сторону платы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
@@ -2972,7 +2972,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="758"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
-        <translation>Переверните выбранный объект(ы) вертикально на другую сторону платы</translation>
+        <translation>Перевернуть выбранный объект(-ы) вертикально на другую сторону платы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
@@ -2982,7 +2982,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="768"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
-        <translation>Перемещение и/или выравнивание выбранного объекта (объектов) по вертикали или горизонтали</translation>
+        <translation>Перемещение и/или выравнивание выбранного объекта (-ов) по вертикали или горизонтали</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="777"/>
@@ -2992,18 +2992,18 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="778"/>
         <source>Move the selected object(s) to snap the grid</source>
-        <translation>Переместите выбранный объект (объекты), чтобы привязать сетку</translation>
+        <translation>Переместить выбранный объект (-ы) для привязки к сетке</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Lock Placement</source>
-        <translation>Размещение замка</translation>
+        <translation>Заблокировать Размещение</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="787"/>
         <source>Lock the placement of the selected object(s)</source>
-        <translation>Зафиксировать размещение выбранного объекта (объектов)</translation>
+        <translation>Заблокировать размещение выбранного объекта (-ов)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
@@ -3013,12 +3013,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Unlock the placement of the selected object(s)</source>
-        <translation>Разблокируйте размещение выбранного объекта (объектов)</translation>
+        <translation>Разблокировать размещение выбранного объекта (-ов)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
         <source>Set Line Width</source>
-        <translation>Установите толщину линии</translation>
+        <translation>Установить толщину линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
@@ -3073,7 +3073,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="854"/>
         <source>Set the zoom level to fit the whole content</source>
-        <translation>Установите уровень масштабирования, чтобы поместить все содержимое</translation>
+        <translation>Установить уровень масштабирования, чтобы вместить всё содержимое</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="862"/>
@@ -3083,7 +3083,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="863"/>
         <source>Increase the zoom level</source>
-        <translation>Увеличить уровень увеличения</translation>
+        <translation>Увеличить уровень масштабирования</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
@@ -3093,7 +3093,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="875"/>
         <source>Decrease the zoom level</source>
-        <translation>Уменьшить уровень увеличения</translation>
+        <translation>Уменьшить уровень масштабирования</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
@@ -3108,7 +3108,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
         <source>Increase Grid Interval</source>
-        <translation>Увеличить интервал сетки</translation>
+        <translation>Увеличить интервал Сетки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="893"/>
@@ -3118,7 +3118,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="906"/>
         <source>Decrease Grid Interval</source>
-        <translation>Уменьшить интервал сетки</translation>
+        <translation>Уменьшить интервал Сетки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="907"/>
@@ -3138,7 +3138,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
         <source>Ignore Placement Locks</source>
-        <translation>Замки с игнорированием размещения</translation>
+        <translation>Игнорировать блокировку размещения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="930"/>
@@ -3153,7 +3153,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="939"/>
         <source>Use a datasheet drawing as the background for verification</source>
-        <translation>Используйте чертеж технического паспорта в качестве фона для проверки</translation>
+        <translation>Использовать чертёж технического паспорта в качестве фона для проверки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="947"/>
@@ -3188,7 +3188,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="969"/>
         <source>Draw graphical lines</source>
-        <translation>Рисуйте графические линии</translation>
+        <translation>Нарисовать графические линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
@@ -3198,7 +3198,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Draw graphical rectangles</source>
-        <translation>Рисуйте графические прямоугольники</translation>
+        <translation>Нарисовать графические прямоугольники</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
@@ -3208,7 +3208,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="987"/>
         <source>Draw graphical polygons</source>
-        <translation>Рисовать графические многоугольники</translation>
+        <translation>Нарисовать графические многоугольники</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
@@ -3218,7 +3218,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="996"/>
         <source>Draw graphical circles</source>
-        <translation>Рисовать графические круги</translation>
+        <translation>Нарисовать графические окружности</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
@@ -3228,7 +3228,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1005"/>
         <source>Draw graphical arcs</source>
-        <translation>Рисовать графические дуги</translation>
+        <translation>Нарисовать графические дуги</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
@@ -3238,7 +3238,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1014"/>
         <source>Add graphical text objects</source>
-        <translation>Добавление графических текстовых объектов</translation>
+        <translation>Добавить графические текстовые объекты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
@@ -3248,7 +3248,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1023"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
-        <translation>Добавьте графические текстовые объекты для &apos;{{НАЗВАНИЕ}}&apos;</translation>
+        <translation>Добавить графические текстовые объекты для &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
@@ -3258,7 +3258,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1032"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
-        <translation>Добавьте графические текстовые объекты для &apos;{{VALUE}}&apos;</translation>
+        <translation>Добавить графические текстовые объекты для &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
@@ -3278,7 +3278,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1050"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
-        <translation>Добавьте символы контактов (электрические соединения для схем)</translation>
+        <translation>Добавить символы контактов (электрические соединения для схем)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
@@ -3288,7 +3288,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1059"/>
         <source>Add plated through-hole copper pads</source>
-        <translation>Добавьте медные прокладки со сквозными отверстиями</translation>
+        <translation>Добавить медные прокладки со сквозными отверстиями</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
@@ -3298,7 +3298,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1068"/>
         <source>Add surface mounted (single layer) copper pads</source>
-        <translation>Добавьте медные прокладки для поверхностного монтажа (однослойные)</translation>
+        <translation>Добавить медные прокладки для поверхностного монтажа (однослойные)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
@@ -3308,7 +3308,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1077"/>
         <source>Add special SMT pads used as heat sink</source>
-        <translation>Добавьте специальные SMT-площадки, используемые в качестве теплоотвода</translation>
+        <translation>Добавить специальные SMT-площадки, используемые в качестве теплоотвода</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
@@ -3318,7 +3318,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1086"/>
         <source>Add special SMT pads used for ball grid arrays</source>
-        <translation>Добавьте специальные SMT-площадки, используемые для шариковых массивов</translation>
+        <translation>Добавить специальные SMT-площадки, используемые для шариковых массивов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
@@ -3328,7 +3328,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1095"/>
         <source>Add special SMT pads used as edge connector</source>
-        <translation>Добавьте специальные SMT-пластины, используемые в качестве краевых разъемов</translation>
+        <translation>Добавить специальные SMT-пластины, используемые в качестве краевых разъёмов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
@@ -3338,7 +3338,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1104"/>
         <source>Add special SMT pads used as test points</source>
-        <translation>Добавьте специальные площадки SMT, используемые в качестве контрольных точек</translation>
+        <translation>Добавить специальные площадки SMT, используемые в качестве контрольных точек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
@@ -3348,17 +3348,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1113"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation>Добавление специальных SMT площадок, используемых в качестве локальных реперных знаков</translation>
+        <translation>Добавить специальные SMT площадки, используемые в качестве локальных координатных меток</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
         <source>Add Global Fiducial Pad</source>
-        <translation>Добавить площадку глобального реперного знака</translation>
+        <translation>Добавить площадку глобальной координатной метки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1122"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation>Добавление специальных SMT площадок, используемых в качестве глобальных коорд. меток</translation>
+        <translation>Добавить специальные SMT площадки, используемые в качестве глобальных координатных меток</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
@@ -3368,7 +3368,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1131"/>
         <source>Draw keep-out zones</source>
-        <translation>Нарисуйте запретные зоны</translation>
+        <translation>Нарисовать запретные зоны</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
@@ -3383,12 +3383,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Draw Wire</source>
-        <translation>Рисовать дорожку</translation>
+        <translation>Нарисовать дорожку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
-        <translation>Рисуйте провода для создания электрических соединений между контактами символов</translation>
+        <translation>Нарисовать дорожки для создания электрических соединений между контактами символов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
@@ -3398,7 +3398,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1159"/>
         <source>Draw buses to route several related nets with a single wire</source>
-        <translation>Нарисовать шины для маршрутизации нескольких связанных цепей с помощью одного проводника</translation>
+        <translation>Нарисовать шины для маршрутизации нескольких связанных цепей с помощью одной дорожки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
@@ -3428,7 +3428,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1186"/>
         <source>Draw copper traces to interconnect devices</source>
-        <translation>Нарисуйте медные дорожки для соединения устройств</translation>
+        <translation>Нарисовать медные дорожки для соединения устройств</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
@@ -3438,7 +3438,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1195"/>
         <source>Add plated through-hole vias</source>
-        <translation>Добавить позолоченное переходное отверстие, проходящее через несколько слоев</translation>
+        <translation>Добавить металлизированные переходные отверстия</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
@@ -3448,7 +3448,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1204"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation>Нарисуйте медные области с автоматическим заполнением для соединительных площадок и каналов</translation>
+        <translation>Нарисовать автозаполняемые медные области для соединительных площадок и переходных отверстий</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
@@ -3498,7 +3498,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1251"/>
         <source>Go To Command Toolbar</source>
-        <translation>Перейти панели Команд</translation>
+        <translation>Перейти к панели Команд</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1252"/>
@@ -3523,7 +3523,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1270"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
-        <translation>Переключиться на следующий более высокий слой (нижний-&gt;верхний)</translation>
+        <translation>Переключиться на следующий вышележащий слой (нижний-&gt;верхний)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
@@ -3533,27 +3533,27 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1279"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
-        <translation>Переключиться на следующий более нижний слой (верхний-&gt;нижний)</translation>
+        <translation>Переключиться на следующий нижележащий слой (верхний-&gt;нижний)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Increase Line Width</source>
-        <translation>Увеличить толщину линии</translation>
+        <translation>Увеличить ширину линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1288"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation>Увеличить толщину линии/дорожки/штриха/площадки</translation>
+        <translation>Увеличить ширину линии/дорожки/штриха/площадки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Decrease Line Width</source>
-        <translation>Уменьшить толщину линии</translation>
+        <translation>Уменьшить ширину линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1297"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation>Уменьшить толщину линии/дорожки/штриха/площадки</translation>
+        <translation>Уменьшить ширину линии/дорожки/штриха/площадки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
@@ -3583,12 +3583,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1324"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation>Увеличение диаметра перех. отв./контактных площадок/отверстий</translation>
+        <translation>Увеличить диаметр перех. отв./контактных площадок/отверстий</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Decrease Drill</source>
-        <translation>Уменьшить Сверло</translation>
+        <translation>Уменьшить сверловку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
