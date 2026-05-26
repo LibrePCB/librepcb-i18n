@@ -3593,7 +3593,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation>Уменьшение диаметра перех. отв./контактных площадок/отвестий</translation>
+        <translation>Уменьшить диаметр перех. отв./контактных площадок/отверстий</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
@@ -3613,7 +3613,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1351"/>
         <source>Toggle the fill property state</source>
-        <translation>Переключение состояния свойства заполнения</translation>
+        <translation>Переключение состояния свойства заливки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
@@ -3654,7 +3654,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1387"/>
         <source>Horizontal alignment: Right</source>
-        <translation>Выравнивание по горизонтали: справо</translation>
+        <translation>Выравнивание по горизонтали: справа</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
@@ -3739,17 +3739,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1470"/>
         <source>Shape: Round</source>
-        <translation>Форма: Круглая</translation>
+        <translation>Форма: Круг</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Rounded Rectangle</source>
-        <translation>Закругленный прямоугольник</translation>
+        <translation>Закруглённый прямоугольник</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1479"/>
         <source>Shape: Rounded Rectangle</source>
-        <translation>Форма: Закругленный прямоугольник</translation>
+        <translation>Форма: Закруглённый прямоугольник</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
@@ -3869,7 +3869,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>Go to the layers dock</source>
-        <translation>Перейдите в панель слоев</translation>
+        <translation>Перейти в док слоёв</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
@@ -4019,7 +4019,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
         <source>Open the online user manual in the web browser</source>
-        <translation>Откройте онлайн-руководство пользователя в веб-браузере</translation>
+        <translation>Открыть онлайн-руководство пользователя в веб-браузере</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
@@ -4029,7 +4029,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
         <source>Open the support page in the web browser</source>
-        <translation>Откройте страницу поддержки в веб-браузере</translation>
+        <translation>Открыть страницу поддержки в веб-браузере</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
@@ -4039,7 +4039,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
         <source>Open the donation page in the web browser</source>
-        <translation>Откройте страницу пожертвования в веб-браузере</translation>
+        <translation>Открыть страницу пожертвования в веб-браузере</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
@@ -4159,7 +4159,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
         <source>Copy this MPN into the clipboard</source>
-        <translation>Скопируйте этот MPN в буфер обмена</translation>
+        <translation>Скопировать этот MPN в буфер обмена</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
@@ -4174,7 +4174,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
         <source>Open Product Website</source>
-        <translation>Открытый сайт продукта</translation>
+        <translation>Открыть сайт продукта</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
@@ -4184,7 +4184,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
         <source>Open Pricing Website</source>
-        <translation>Открытый веб-сайт по прайсам</translation>
+        <translation>Открыть веб-сайт с ценами</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
@@ -4217,7 +4217,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="499"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
-        <translation>Извините, для запрашиваемой детали не найдено ни одного технического описания :-(</translation>
+        <translation>Извините, для запрашиваемой детали не найдено технического описания :-(</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="512"/>
@@ -4256,7 +4256,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="265"/>
         <source>The component signal requires the attached net to be named &apos;%1&apos;, but it is named &apos;%2&apos;. Either rename the net manually or remove this connection.</source>
-        <translation>Сигнал компонента требует, чтобы подключенная сеть имела имя &apos;%1&apos;, но она имеет имя &apos;%2&apos;. Либо переименуйте сеть вручную, либо удалите это соединение.</translation>
+        <translation>Сигнал компонента требует, чтобы подключенная сеть имела имя &apos;%1&apos;, но её имя &apos;%2&apos;. Либо переименуйте сеть вручную, либо удалите это соединение.</translation>
     </message>
 </context>
 <context>
@@ -4269,7 +4269,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="158"/>
         <source>The net is connected to less than two pins, so it does not represent an electrical connection. Check if you missed to connect more pins.</source>
-        <translation>Цепь подключена менее чем к двум контактам, поэтому это не является электрическим соединением. Проверьте, не пропустили ли вы подключение большего количества контактов.</translation>
+        <translation>Цепь подключена менее чем к двум контактам, поэтому это не является электрическим соединением. Проверьте, не пропустили ли вы подключение контактов.</translation>
     </message>
 </context>
 <context>
@@ -4342,12 +4342,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="319"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation>Неустановленные ворота: &apos;%1:%2&apos;</translation>
+        <translation>Неустановленный вентиль: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="321"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation>Необязательный затвор &apos;%1&apos; из &apos;%2&apos; не добавлен в схему.</translation>
+        <translation>Необязательный вентиль &apos;%1&apos; из &apos;%2&apos; не добавлен в схему.</translation>
     </message>
 </context>
 <context>
@@ -4355,12 +4355,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="293"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation>Неустановленные необходимые ворота: &apos;%1:%2&apos;</translation>
+        <translation>Неустановленный необходимый вентиль: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="295"/>
         <source>The gate &apos;%1&apos; of &apos;%2&apos; is marked as required, but it is not added to the schematic.</source>
-        <translation>Затвор &apos;%1&apos; из &apos;%2&apos; отмечен как необходимый, но не добавлен в схему.</translation>
+        <translation>Вентиль &apos;%1&apos; из &apos;%2&apos; отмечен как необходимый, но не добавлен в схему.</translation>
     </message>
 </context>
 <context>
@@ -4389,7 +4389,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/export/excellongenerator.cpp" line="185"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation>Использование команды прорези G85 невозможно для изогнутых прорезей. Либо удалите изогнутые прорези, либо отключите опцию экспорта G85.</translation>
+        <translation>Использование команды слота G85 невозможно для изогнутых слотов. Либо удалите изогнутые слоты, либо отключите опцию экспорта G85.</translation>
     </message>
 </context>
 <context>
@@ -4602,7 +4602,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1168"/>
         <source>Unsupported footprint child: &apos;%1&apos;</source>
-        <translation>Неподдерживаемый дочерний отпечаток: &apos;%1&apos;</translation>
+        <translation>Неподдерживаемое дочернее посадочное место: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4610,22 +4610,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1018"/>
         <source>Unsupported pad clearance: &apos;%1&apos;</source>
-        <translation>Неподдерживаемый зазор колодки: &apos;%1&apos;</translation>
+        <translation>Неподдерживаемый зазор площадки: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1025"/>
         <source>Unsupported pad option: &apos;%1&apos;</source>
-        <translation>Неподдерживаемая опция прокладки: &apos;%1&apos;</translation>
+        <translation>Неподдерживаемая опция площадки: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1043"/>
         <source>Unsupported pad primitive: &apos;%1&apos;</source>
-        <translation>Неподдерживаемый примитив подкладки: &apos;%1&apos;</translation>
+        <translation>Неподдерживаемый примитив площадки: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1051"/>
         <source>Unsupported pad child: &apos;%1&apos;</source>
-        <translation>Неподдерживаемый дочерний блокнот: &apos;%1&apos;</translation>
+        <translation>Неподдерживаемая дочерняя площадка: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4641,7 +4641,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="708"/>
         <source>Unsupported symbol gate child: &apos;%1&apos;</source>
-        <translation>Неподдерживаемый дочерний символ ворот: &apos;%1&apos;</translation>
+        <translation>Неподдерживаемый дочерний символ вентиль: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4708,7 +4708,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="166"/>
         <source>Plated Board Cutouts</source>
-        <translation>Разрезные платы с покрытием</translation>
+        <translation>Металлизированные вырезы в плате</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="173"/>
@@ -4723,42 +4723,42 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="203"/>
         <source>Top Names</source>
-        <translation>Верх. имена</translation>
+        <translation>Названия сверху</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="209"/>
         <source>Bottom Names</source>
-        <translation>Нижние названия</translation>
+        <translation>Названия снизу</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="215"/>
         <source>Top Values</source>
-        <translation>Верх. значения</translation>
+        <translation>Значения сверху</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="221"/>
         <source>Bottom Values</source>
-        <translation>Нижние значения</translation>
+        <translation>Значения снизу</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="227"/>
         <source>Top Legend</source>
-        <translation>Топ-легенда</translation>
+        <translation>Легенда сверху</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="233"/>
         <source>Bottom Legend</source>
-        <translation>Нижняя легенда</translation>
+        <translation>Легенда снизу</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="239"/>
         <source>Top Documentation</source>
-        <translation>Верх. документация</translation>
+        <translation>Документация сверху</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="246"/>
         <source>Bottom Documentation</source>
-        <translation>Нижняя документация</translation>
+        <translation>Документация снизу</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="253"/>
@@ -4788,7 +4788,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="292"/>
         <source>Bottom Hidden Grab Areas</source>
-        <translation>Нижние скрытые зоны захвата</translation>
+        <translation>Нижние скрытые области захвата</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="299"/>
@@ -4818,7 +4818,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="333"/>
         <source>Bottom Finish</source>
-        <translation>Финишная отделка</translation>
+        <translation>Низ покрытие</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="339"/>
@@ -4992,9 +4992,9 @@ If this device doesn&apos;t represent an orderable part, just ignore this messag
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation>Все пакетные площадки должны иметь уникальные имена, иначе их невозможно будет различить в редакторе устройств. Если ваша деталь имеет несколько выводов с одинаковой функциональностью (например, несколько выводов GND), вы можете назначить все эти площадки одному и тому же сигналу компонента позже в редакторе устройств.
+        <translation>Все корпусные площадки должны иметь уникальные имена, иначе их невозможно будет различить в редакторе устройств. Если ваша деталь имеет несколько выводов с одинаковой функциональностью (например, несколько выводов GND), вы можете назначить все эти площадки одному и тому же сигналу компонента позже в редакторе устройств.
 
-Для нейтральных корпусов (например, SOT23) колодки в любом случае должны быть названы только по номерам, а не по функциональности (например, назовите их &apos;1&apos;, &apos;2&apos;, &apos;3&apos; вместо &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
+Для нейтральных корпусов (например, SOT23) площадки в любом случае должны быть названы только по номерам, а не по функциональности (например, назовите их &apos;1&apos;, &apos;2&apos;, &apos;3&apos; вместо &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</translation>
     </message>
 </context>
 <context>
@@ -5028,12 +5028,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="102"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation>Небольшой медный зазор на реперном знаке в &apos;%1&apos;</translation>
+        <translation>Небольшой медный зазор на координатной метке в &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="104"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation>Медный зазор реперного знака площадки меньше, чем расширение маски, что необычно. Обычно медный зазор должен быть равен или больше расширения маски, чтобы избежать попадания меди в отверстие маски.</translation>
+        <translation>Медный зазор координатной метки площадки меньше, чем расширение стоп-маски, что необычно. Обычно медный зазор должен быть равен расширению стоп-маски или быть больше, чтобы избежать попадания меди в отверстие маски.</translation>
     </message>
 </context>
 <context>
@@ -5046,7 +5046,7 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="129"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation>Расширение стоп-маски для площадки реперного знака установлено автоматически, что необычно. Как правило, расширение стоп-маски  реперных знаков необходимо устанавливать вручную на гораздо большее значение.</translation>
+        <translation>Расширение стоп-маски для площадки координатной метки установлено автоматически, что необычно. Как правило, расширение стоп-маски координатной метки необходимо устанавливать вручную на гораздо большее значение.</translation>
     </message>
 </context>
 <context>
@@ -5077,7 +5077,7 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="155"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
-        <translation>Отверстия без покрытия должны иметь отверстие для стоп-маски, чтобы избежать затекания припоя в отверстие. Автоматическое открытие маски можно включить в свойствах отверстия.</translation>
+        <translation>Отверстия без покрытия должны иметь отверстие для стоп-маски, чтобы избежать затекания припоя в отверстие. Автоматическое открытие стоп-маски можно включить в свойствах отверстия.</translation>
     </message>
 </context>
 <context>
@@ -5090,7 +5090,7 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="179"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
-        <translation>В блокноте задан пользовательский контур, который не представляет собой действительную область. Либо выберите другую форму блокнота, либо укажите правильный пользовательский контур.</translation>
+        <translation>В контактной площадке задан пользовательский контур, который не представляет собой действительную область. Либо выберите другую форму контактной площадки, либо укажите правильный пользовательский контур.</translation>
     </message>
 </context>
 <context>
@@ -5152,7 +5152,7 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="224"/>
         <source>It is recommended that polygons on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation>Рекомендуется, чтобы многоугольники на слое &apos;%1&apos; имели толщину линии не менее %2.</translation>
+        <translation>Рекомендуется, чтобы многоугольники на слое &apos;%1&apos; имели ширину линии не менее %2.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="244"/>
@@ -5258,7 +5258,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="323"/>
         <source>No footprint defined</source>
-        <translation>Не определено посад. место</translation>
+        <translation>Не определено посадочное место</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="324"/>
@@ -5289,7 +5289,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="359"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Большинство посадочных мест должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если посадочное место просто рисунок), для них вы можете проигнорировать это сообщение.</translation>
+        <translation>Большинство посадочных мест должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если посадочное место - просто рисунок), для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -5302,7 +5302,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="381"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation>Большинство посадочных мест должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если посадочное место просто рисунок), для них вы можете проигнорировать это сообщение.</translation>
+        <translation>Большинство посадочных мест должны содержать текстовый элемент для названия компонента, иначе вы не увидите это название на печатной плате (например, на шелкографии). Есть только несколько исключений, которым имя не нужно (например, если посадочное место - просто рисунок), для них вы можете проигнорировать это сообщение.</translation>
     </message>
 </context>
 <context>
@@ -5315,7 +5315,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="403"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation>Рекомендуется рисовать контур пакета одним замкнутым многоугольником или кругом нулевой толщины на слое &apos;%1&apos;. Это позволит DRC предупредить, если устройство будет размещено в  обл. установки другого устройства (т. е. слишком близко).</translation>
+        <translation>Рекомендуется рисовать контур пакета одним замкнутым многоугольником или кругом нулевой ширины на слое &apos;%1&apos;. Это позволит DRC предупредить, если устройство будет размещено в  обл. установки другого устройства (т. е. слишком близко).</translation>
     </message>
 </context>
 <context>
@@ -5388,7 +5388,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="53"/>
         <source>No pads connected</source>
-        <translation>Колодки не подключены</translation>
+        <translation>Контактные площадки не подключены</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="54"/>
@@ -5397,11 +5397,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation>Выбранная комплектация содержит площадки, но ни одна из них не подключена к сигналам компонента. Таким образом, эти площадки не имеют электрической функции, и при добавлении устройства на печатную плату к ним не могут быть подключены трассы.
+        <translation>Выбранный корпус содержит контактные площадки, но ни одна из них не подключена к сигналам компонента. Таким образом, эти площадки не имеют электрической функции, и при добавлении устройства на печатную плату к ним не могут быть подключены дорожки.
 
-Чтобы решить эту проблему, подключите площадки пакета к соответствующим сигналам компонентов в виджете таблицы.
+Чтобы решить эту проблему, подключите контактные площадки  к соответствующим сигналам компонентов в виджете таблицы.
 
-Если все площадки имеют только механическое назначение и поэтому не нуждаются в подключении к сигналам компонентов, это сообщение можно проигнорировать.</translation>
+Если все контактные площадки имеют только механическое назначение и поэтому не нуждаются в подключении к сигналам компонентов, это сообщение можно проигнорировать.</translation>
     </message>
 </context>
 <context>
@@ -5409,14 +5409,14 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="147"/>
         <source>No pins connected in &apos;%1&apos;</source>
-        <translation>В „%1“ нет подключенных контактов</translation>
+        <translation>В &apos;%1&apos; нет подключенных контактов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="149"/>
         <source>The chosen symbols contain pins, but none of them are connected to component signals. So when adding this component to a schematic, no wires can be attached to them.
 
 To fix this issue, connect the symbol pins to their corresponding component signals in the symbol variant editor dialog.</source>
-        <translation>Выбранные символы содержат контакты, но ни один из них не подключен к сигналам компонента. Поэтому при добавлении этого компонента в схему к нему не могут быть подключены провода.
+        <translation>Выбранные символы содержат контакты, но ни один из них не подключен к сигналам компонента. Поэтому при добавлении этого компонента в схему к нему не могут быть подключены дорожки.
 
 Чтобы исправить эту проблему, подключите контакты символа к соответствующим сигналам компонента в диалоговом окне редактора вариантов символов.</translation>
     </message>
@@ -5460,7 +5460,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="448"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation>Перекрытие колодок &apos;%1&apos; и &apos;%2&apos; в &apos;%3&apos;</translation>
+        <translation>Перекрытие контактных площадок &apos;%1&apos; и &apos;%2&apos; в &apos;%3&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="451"/>
@@ -5486,12 +5486,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="470"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Кольцевое кольцо колодки &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Кольцевое кольцо контактной площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="472"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation>Колодки должны иметь не менее %1 кольцевого кольца (медь вокруг каждого отверстия колодки). Обратите внимание, что это значение является лишь общей рекомендацией, точное значение зависит от возможностей производителя печатной платы.</translation>
+        <translation>Контактные площадки должны иметь не менее %1 кольцевого кольца (медь вокруг каждого отверстия площадки). Обратите внимание, что это значение является лишь общей рекомендацией, точное значение зависит от возможностей производителя печатной платы.</translation>
     </message>
 </context>
 <context>
@@ -5512,7 +5512,7 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="527"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Отверстие снаружи меди накладки &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Отверстие снаружи меди контактной площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="529"/>
@@ -5525,16 +5525,16 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="551"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Недопустимое происхождение колодки &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Недопустимое происхождение контактной площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="553"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
-        <translation>Начало каждой площадки должно быть расположено в пределах ее медной области, иначе трассы не будут соединены должным образом.
+        <translation>Начало каждой площадки должно быть расположено в пределах её медной области, иначе дорожки не будут соединены должным образом.
 
-Для площадок THT начало координат должно находиться в пределах отверстия, поскольку на некоторых слоях площадка может иметь только небольшое кольцевое кольцо, а не полную форму площадки.</translation>
+Для площадок THT начало координат должно находиться в пределах отверстия, поскольку на некоторых слоях площадка может иметь только небольшое кольцо вместо полноценной площадки.</translation>
     </message>
 </context>
 <context>
@@ -5542,12 +5542,12 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="578"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation>Очистка колодки &apos;%1&apos; в &apos;%2&apos; для легенды</translation>
+        <translation>Очистка контактной площадки &apos;%1&apos; в &apos;%2&apos; для легенды</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="580"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation>Колечки должны иметь не менее %1 расстояния до рисунков на легенде, поскольку эти рисунки будут обрезаны при экспорте в Gerber, если они используются как шелкография.</translation>
+        <translation>Контактные площадки должны иметь не менее %1 расстояния до рисунков на легенде, поскольку эти рисунки будут обрезаны при экспорте в Gerber, если они используются как шелкография.</translation>
     </message>
 </context>
 <context>
@@ -5560,7 +5560,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="605"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
-        <translation>На площадке не включено открытие маски остановки, поэтому медная площадка будет покрыта резистом припоя и, таким образом, не будет функционировать. Это очень необычно, вам следует перепроверить, действительно ли это то, что вы хотите.</translation>
+        <translation>На площадке не включено открытие маски остановки, поэтому медная площадка будет покрыта паяльным резистом и не будет функционировать. Это очень необычно, перепроверьте, действительно ли это то, что вы хотите.</translation>
     </message>
 </context>
 <context>
@@ -5573,7 +5573,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="630"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation>На этой площадке включен пользовательский медный зазор, что необычно для площадок, не представляющих собой реперные знаки. Обратите внимание, что значение зазора из правил проектирования платы в любом случае применяется ко всем площадкам, поэтому ручные значения зазора обычно не нужны. Если эта площадка является реперным знаком, обязательно установите для ее функции соответствующее значение.</translation>
+        <translation>На этой площадке включен пользовательский медный зазор, что необычно для площадок, не представляющих собой координатные метки. Обратите внимание, что значение зазора из правил проектирования платы в любом случае применяется ко всем площадкам, поэтому ручные значения зазора обычно не нужны. Если эта площадка является координатной меткой, обязательно установите для её функции соответствующее значение.</translation>
     </message>
 </context>
 <context>
@@ -5586,7 +5586,7 @@ For THT pads, the origin must be located within a drill hole since on some layer
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="657"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation>На SMT-площадке включена паяльная паста, но её функция указывает на то, что к ней не нужно припаивать выводы (например, реперный знак). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
+        <translation>На SMT-площадке включена паяльная паста, но её функция указывает на то, что к ней не нужно припаивать выводы (например, координатную метку). Обычно паяльная паста не нужна на таких специальных площадках, которые не будут паяться.</translation>
     </message>
 </context>
 <context>
@@ -5651,8 +5651,8 @@ Please consult the user manual to ensure this is what you want. If you&apos;re u
 
 - SMT площадка заявлена как THT
 - THT площадка заявлена как SMT
-- Площадка заявлена как электрическая, но не подключена
-- Площадка заявлена как реперный знак, но подключена</translation>
+- Функция заявлена как электрическая, но контактная площадка не подключена 
+- Функция заявлена как координатная метка, но подключена контактная площадка</translation>
     </message>
 </context>
 <context>
@@ -5660,7 +5660,7 @@ Please consult the user manual to ensure this is what you want. If you&apos;re u
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="139"/>
         <source>Origin not in center</source>
-        <translation>Происхождение не по центру</translation>
+        <translation>Начало координат не по центру</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="140"/>
@@ -5703,17 +5703,17 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="758"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Неопределенная функция прокладки &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Неопределённая функция контактной площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="760"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
-        <translation>Функция прокладки не указана, что может привести к неточным или неверным данным в экспортируемых файлах (например, файлах pick&amp;place). Кроме того, автоматические проверки могут обнаружить больше потенциальных проблем, если функция указана. Поэтому рекомендуется явно указывать функцию каждой накладки.</translation>
+        <translation>Функция контактной площадки не указана, что может привести к неточным или неверным данным в экспортируемых файлах (например, файлах pick&amp;place). Кроме того, автоматические проверки могут обнаружить больше потенциальных проблем, если функция указана. Поэтому рекомендуется явно указывать функцию каждой контактной площадки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="766"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
-        <translation>Однако функция прокладки не влияет на данные изображения печатной платы.</translation>
+        <translation>Однако функция контактной площадки не влияет на данные изображения печатной платы.</translation>
     </message>
 </context>
 <context>
@@ -5721,12 +5721,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="787"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation>Неиспользованный пользовательский контур площадки &apos;%1&apos; в &apos;%2&apos;</translation>
+        <translation>Неиспользованный пользовательский контур контактной площадки &apos;%1&apos; в &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="789"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
-        <translation>В подкладке задан пользовательский контур, но он не используется в качестве формы. Поэтому он не имеет никакого эффекта и должен быть удален, чтобы избежать путаницы.</translation>
+        <translation>В контактной площадке задан пользовательский контур, но он не используется в качестве формы. Поэтому он не имеет никакого эффекта и должен быть удалён, чтобы избежать путаницы.</translation>
     </message>
 </context>
 <context>
@@ -5800,27 +5800,27 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
         <source>Standard Pad (soldered)</source>
-        <translation>Стандартная колодка (припаяна)</translation>
+        <translation>Стандартная контактная площадка (припаяна)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation>Прижимная колодка (THT, припаяна)</translation>
+        <translation>Прижимная контактная площадка (THT, припаяна)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation>Тепловая панель (SMT, паяная)</translation>
+        <translation>Термальная контактная площадка (SMT, припаяна)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="395"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation>Площадка BGA (SMT, паяная)</translation>
+        <translation>Площадка BGA (SMT, припаяна)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="397"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation>Краевая соединительная колодка (SMT, без пайки)</translation>
+        <translation>Краевая соединительная контактная площадка (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="399"/>
@@ -5830,12 +5830,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="401"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation>Локальные реперные знаки посад. площадки (SMT, без пайки)</translation>
+        <translation>Локальная координатная метка посад. площадки (SMT, без пайки)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="403"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation>Глобальные реперные знаки платы (SMT, без пайки)</translation>
+        <translation>Глобальная координатная метка платы (SMT, без пайки)</translation>
     </message>
 </context>
 <context>
@@ -5856,12 +5856,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="82"/>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Чёрный</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
         <source>Black Matte</source>
-        <translation>Черный матовый</translation>
+        <translation>Чёрный матовый</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="95"/>
@@ -5876,12 +5876,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="107"/>
         <source>Green</source>
-        <translation>Зеленый</translation>
+        <translation>Зелёный</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="113"/>
         <source>Green Matte</source>
-        <translation>Зеленый матовый</translation>
+        <translation>Зелёный матовый</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="119"/>
@@ -5901,7 +5901,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
         <source>Yellow</source>
-        <translation>Желтый</translation>
+        <translation>Жёлтый</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="145"/>
@@ -5936,7 +5936,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="363"/>
         <source>right click</source>
-        <translation>щелкните правой кнопкой мыши</translation>
+        <translation>щелчок правой кнопкой мыши</translation>
     </message>
 </context>
 <context>
@@ -5948,7 +5948,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="529"/>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
         <source>Shift</source>
-        <translation>Смена</translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="541"/>
@@ -6000,7 +6000,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation>Ключ &quot;%1&quot; определен несколько раз.</translation>
+        <translation>Ключ &quot;%1&quot; определён несколько раз.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="98"/>
@@ -6067,17 +6067,17 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="483"/>
         <source>Required</source>
-        <translation>Обязательный</translation>
+        <translation>Обязательно</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="485"/>
         <source>Invalid</source>
-        <translation>Неверный</translation>
+        <translation>Неверно</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="490"/>
         <source>Duplicate</source>
-        <translation>Дублировать</translation>
+        <translation>Дубликат</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="494"/>
@@ -6258,7 +6258,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="86"/>
         <source>Looking for files to copy...</source>
-        <translation>Определяем файлы для копирования...</translation>
+        <translation>Определение файлов для копирования...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="100"/>
@@ -6371,12 +6371,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="112"/>
         <source>Could not change the vias start/end layers because there are still traces connected on other layers.</source>
-        <translation>Не удалось изменить начальный/конечный слои vias, так как на других слоях все еще остаются подключенные трассы.</translation>
+        <translation>Не удалось изменить начальный/конечный слои переходных отверстий, так как на других слоях остаются подключённые дорожки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="201"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
-        <translation>Не удалось подключить дорожку к перех. отв., поскольку оно глухое или скрытое, не включающий соответствующий слой.</translation>
+        <translation>Не удалось подключить дорожку к перех. отв., поскольку оно глухое или скрытое, не включающее соответствующий слой.</translation>
     </message>
 </context>
 <context>
@@ -6395,7 +6395,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="358"/>
         <source>Prepare &apos;%1&apos;...</source>
-        <translation>Подготовить „%1“...</translation>
+        <translation>Подготовка &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="380"/>
@@ -6410,57 +6410,57 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="880"/>
         <source>Check hole clearances...</source>
-        <translation>Проверьте зазоры в отверстиях...</translation>
+        <translation>Проверка зазоров в отверстиях...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="937"/>
         <source>Check drill clearances...</source>
-        <translation>Проверьте зазоры в сверлах...</translation>
+        <translation>Проверка зазоров в сверловках...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1031"/>
         <source>Check drill to board edge clearances...</source>
-        <translation>Проверьте зазоры между сверлом и краем доски...</translation>
+        <translation>Проверка зазоров между сверлом и краем платы...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1121"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation>Проверьте зазоры между шелкографией и стоп-маской...</translation>
+        <translation>Проверка зазоров между шелкографией и стоп-маской...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1205"/>
         <source>Check copper widths...</source>
-        <translation>Проверьте ширину меди...</translation>
+        <translation>Проверка ширины меди...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1222"/>
         <source>Check PTH annular rings...</source>
-        <translation>Проверьте кольцевые кольца PTH...</translation>
+        <translation>Проверка окружающих колец PTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1306"/>
         <source>Check NPTH drill diameters...</source>
-        <translation>Проверьте диаметры сверл NPTH...</translation>
+        <translation>Проверка диаметров сверловки NPTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1342"/>
         <source>Check NPTH slot widths...</source>
-        <translation>Проверьте ширину прорезей NPTH...</translation>
+        <translation>Проверка ширины слотов NPTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1371"/>
         <source>Check PTH drill diameters...</source>
-        <translation>Проверьте диаметры сверл PTH...</translation>
+        <translation>Проверка диаметров сверловки PTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1428"/>
         <source>Check PTH slot widths...</source>
-        <translation>Проверьте ширину прорезей PTH...</translation>
+        <translation>Проверка ширины слотов PTH...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1474"/>
         <source>Check silkscreen widths...</source>
-        <translation>Проверьте ширину шелкографии...</translation>
+        <translation>Проверка ширины шелкографии...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1492"/>
