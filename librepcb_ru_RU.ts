@@ -13123,12 +13123,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the directory containing KiCad libraries to import.</source>
-        <translation>Выберите каталог, содержащий библиотеки KiCad для импорта.</translation>
+        <translation>Выберите директорию, содержащую библиотеки KiCad для импорта.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Select the directory where all *.kicad_sym files, *.pretty folders and *.3dshapes folders are located. They may be located in a subdirectory (maximum 1 nesting level).</source>
-        <translation>Выберите каталог, в котором находятся все файлы *.kicad_sym, папки *.pretty и *.3dshapes. Они могут быть расположены в подкаталоге (не более 1 уровня вложенности).</translation>
+        <translation>Выберите директорию, в которой находятся все файлы *.kicad_sym, папки *.pretty и *.3dshapes. Они могут быть расположены в поддиректории (не более 1 уровня вложенности).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="36"/>
@@ -13138,12 +13138,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
         <source>Select root directory of libraries</source>
-        <translation>Выберите корневой каталог библиотек</translation>
+        <translation>Выберите корневую директорию библиотек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="89"/>
         <source>Choose directory</source>
-        <translation>Выбрать каталог</translation>
+        <translation>Выбрать директорию</translation>
     </message>
 </context>
 <context>
@@ -13151,12 +13151,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="17"/>
         <source>Scanning Directory</source>
-        <translation>Каталог сканирования</translation>
+        <translation>Сканирование директории</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="20"/>
         <source>The selected directory will be scanned for KiCad libraries.</source>
-        <translation>Выбранный каталог будет просканирован на наличие библиотек KiCad.</translation>
+        <translation>Выбранная директория будет просканирована на наличие библиотек KiCad.</translation>
     </message>
 </context>
 <context>
@@ -13237,7 +13237,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="367"/>
         <source>Packages</source>
-        <translation>Корпуса</translation>
+        <translation>Пакеты</translation>
     </message>
 </context>
 <context>
@@ -13292,7 +13292,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="108"/>
         <source>Additional Package Category</source>
-        <translation>Дополнительная категория корпуса</translation>
+        <translation>Дополнительная категория пакета</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="172"/>
@@ -13327,8 +13327,8 @@ Do you really want to close it?</source>
 &lt;/ul&gt;</source>
         <translation>Пожалуйста, примите во внимание эти важные замечания при использовании данного инструмента:
 &lt;ul&gt;
-&lt;li&gt;Настоятельно рекомендуется создать отдельную библиотеку LibrePCB для элементов KiCad, чтобы сохранить четкое разделение с неимпортируемыми элементами и избежать конфликтов имен.&lt;/li&gt;
-&lt;li&gt;Не следует переименовывать контакты, колодки и сигналы компонентов после импорта. В противном случае последующие импорты KiCad, ссылающиеся на эти элементы, будут неудачными.
+&lt;li&gt;Настоятельно рекомендуется создать отдельную библиотеку LibrePCB для элементов KiCad, чтобы сохранить чёткое разделение с неимпортируемыми элементами и избежать конфликтов имен.&lt;/li&gt;
+&lt;li&gt;Не следует переименовывать контакты, контактные площадки и сигналы компонентов после импорта. В противном случае последующие импорты KiCad, ссылающиеся на эти элементы, будут неудачными.
 &lt;li&gt;Библиотеки LibrePCB организованы иначе, чем библиотеки KiCad, поэтому качество импортированных элементов, скорее всего, будет не таким высоким, как при создании их вручную с нуля. После импорта может потребоваться некоторая ручная доработка.&lt;/li&gt;
 &lt;/ul&gt;</translation>
     </message>
@@ -13906,7 +13906,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="46"/>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="92"/>
         <source>Directory:</source>
-        <translation>Каталог:</translation>
+        <translation>Директория:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="69"/>
@@ -13962,7 +13962,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="134"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be appended automatically.</source>
-        <translation>Проект LibrePCB состоит из целого каталога, а не только из одного файла. Просто выберите родительский каталог нового проекта, и подкаталог и имя файла будут добавлены автоматически.</translation>
+        <translation>Проект LibrePCB состоит из целой директории, а не только из одного файла. Просто выберите родительскую директорию нового проекта, и поддиректория и имя файла будут добавлены автоматически.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="84"/>
@@ -14032,7 +14032,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="217"/>
         <source>Project&apos;s parent directory</source>
-        <translation>Каталог родительского проекта.</translation>
+        <translation>Директория родительского проекта</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="240"/>
@@ -14042,7 +14042,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="252"/>
         <source>The selected directory is not empty.</source>
-        <translation>Выбранный каталог не пуст.</translation>
+        <translation>Выбранная Директория не пуста.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="275"/>
@@ -14052,7 +14052,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
-        <translation>Каталок проекта уже существует и не является пустым.</translation>
+        <translation>Директория проекта уже существует и не пуста.</translation>
     </message>
 </context>
 <context>
@@ -14060,7 +14060,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/3d/openglscenebuilder.cpp" line="128"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation>Контур платы неправильный. Добавьте ровно один многоугольник на слой &apos;%1&apos; и убедитесь, что он закрыт. Для получения дополнительной информации ознакомьтесь с документацией.</translation>
+        <translation>Контур платы неправильный. Добавьте ровно один полигон на слой &apos;%1&apos; и убедитесь, что он закрыт. Для получения дополнительной информации ознакомьтесь с документацией.</translation>
     </message>
 </context>
 <context>
@@ -14139,12 +14139,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="65"/>
         <source>For each project version, a separate output directory is created.</source>
-        <translation>Для каждой версии проекта создается отдельный выходной каталог.</translation>
+        <translation>Для каждой версии проекта создается отдельная выходная директория.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="67"/>
         <source>The current output directory is &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;.</source>
-        <translation>Текущий выходной каталог это &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;.</translation>
+        <translation>Текущая выходная директория это &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="72"/>
@@ -14154,7 +14154,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="75"/>
         <source>To detect them, a file named &lt;tt&gt;%1&lt;/tt&gt; is created within the output directory.</source>
-        <translation>Для их определения, в выходном каталоге создан файл &lt;tt&gt;%1&lt;/tt&gt;.</translation>
+        <translation>Для их определения, в выходной директории создан файл &lt;tt&gt;%1&lt;/tt&gt;.</translation>
     </message>
 </context>
 <context>
@@ -14167,7 +14167,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.ui" line="135"/>
         <source>Open the output directory</source>
-        <translation>Открыть выходной каталог.</translation>
+        <translation>Открыть выходную директорию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
@@ -14235,7 +14235,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="277"/>
         <source>Remove unknown files in output directory</source>
-        <translation>Удалить неизвестные файлы из выходного каталога.</translation>
+        <translation>Удалить неизвестные файлы из выходной директории</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="144"/>
@@ -14270,7 +14270,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="290"/>
         <source>Discard Changes?</source>
-        <translation>Выбросить изменения?</translation>
+        <translation>Отбросить изменения?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="291"/>
@@ -14330,7 +14330,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="515"/>
         <source>No unknown files in output directory.</source>
-        <translation>В выходном каталоге нет неизвестных файлов.</translation>
+        <translation>В выходной директории нет неизвестных файлов.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="520"/>
@@ -14351,7 +14351,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="618"/>
         <source>Unknown files in output folder</source>
-        <translation>Неизвестные файлы в выходном каталоге</translation>
+        <translation>Неизвестные файлы в выходной директории</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="624"/>
@@ -14361,7 +14361,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="719"/>
         <source>Unknown job type. You may need a more recent LibrePCB version to modify this job.</source>
-        <translation>Неизвестный тип задания. Для изменения этого задания может потребоваться более свежая версия Libpcap.</translation>
+        <translation>Неизвестный тип задания. Для изменения этого задания может потребоваться более свежая версия LibrePCB.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="765"/>
@@ -14398,7 +14398,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="241"/>
         <source>The package category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation>Категория корпуса &apos;%1&apos; содержит несохранённые изменения.
+        <translation>Категория пакета &apos;%1&apos; содержит несохранённые изменения.
 Хотите сохранить их перед закрытием?</translation>
     </message>
 </context>
@@ -14407,7 +14407,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.ui" line="17"/>
         <source>Choose Package</source>
-        <translation>Выберите корпус</translation>
+        <translation>Выберите пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.ui" line="31"/>
@@ -14422,17 +14422,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="206"/>
         <source>Could not load packages</source>
-        <translation>Не могу загрузить корпуса</translation>
+        <translation>Не могу загрузить пакеты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="213"/>
         <source>No package selected</source>
-        <translation>Корпус не выбран</translation>
+        <translation>Пакет не выбран</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="223"/>
         <source>Could not load package metadata</source>
-        <translation>Не могу загрузить метаданные корпуса</translation>
+        <translation>Не могу загрузить метаданные пакета</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="257"/>
@@ -14442,7 +14442,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagechooserdialog.cpp" line="258"/>
         <source>Please select a package.</source>
-        <translation>Пожалуйста, выберите корпус.</translation>
+        <translation>Пожалуйста, выберите пакет.</translation>
     </message>
 </context>
 <context>
@@ -14785,7 +14785,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1079"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation>Корпус &apos;%1&apos; содержит несохранённые изменения.
+        <translation>Пакет &apos;%1&apos; содержит несохранённые изменения.
 Хотите сохранить их перед закрытием?</translation>
     </message>
     <message>
@@ -14801,12 +14801,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2364"/>
         <source>Apply to all unspecified pads</source>
-        <translation>Применить для всех неопределенных контактных площадок</translation>
+        <translation>Применить для всех неопределённых контактных площадок</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2386"/>
         <source>Fix Unspecified Pad Functions</source>
-        <translation>Исправить  функции неопределенных контактных площадок</translation>
+        <translation>Исправить  функции неопределённых контактных площадок</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2741"/>
@@ -14986,17 +14986,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="211"/>
         <source>Output Top:</source>
-        <translation>Выход верх:</translation>
+        <translation>Вывод верх:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="221"/>
         <source>Output Bottom:</source>
-        <translation>Выход низ:</translation>
+        <translation>Вывод низ:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="231"/>
         <source>Output Combined:</source>
-        <translation>Комбинированный выход:</translation>
+        <translation>Комбинированный вывод:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="247"/>
@@ -15031,7 +15031,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="291"/>
         <source>Fiducial</source>
-        <translation>Реперный знак</translation>
+        <translation>Координатная метка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
@@ -15044,7 +15044,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="14"/>
         <source>Polygon Properties</source>
-        <translation>Свойства многоугольника</translation>
+        <translation>Свойства полигона</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="25"/>
@@ -15054,7 +15054,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="35"/>
         <source>Line Width:</source>
-        <translation>Толщина линии:</translation>
+        <translation>Ширина линии:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="45"/>
@@ -15074,7 +15074,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="68"/>
         <source>Lock</source>
-        <translation>Блокировка (фиксация)</translation>
+        <translation>Блокировка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.cpp" line="154"/>
@@ -15688,7 +15688,7 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="182"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="228"/>
         <source>Draw schematic polygon</source>
-        <translation>Нарисовать многоугольник схемы</translation>
+        <translation>Нарисовать полигон схемы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="198"/>
@@ -16386,7 +16386,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="111"/>
         <source>Lock</source>
-        <translation>Блокировка (фиксация)</translation>
+        <translation>Блокировка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.cpp" line="142"/>
@@ -16466,7 +16466,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="146"/>
         <source>Dismissed Messages:</source>
-        <translation>Отклоненные сообщения:</translation>
+        <translation>Отклонённые сообщения:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="178"/>
@@ -16785,7 +16785,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="693"/>
         <source>Installed</source>
-        <translation>Установлена</translation>
+        <translation>Установлено</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="698"/>
@@ -16795,7 +16795,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="704"/>
         <source>Not installed</source>
-        <translation>Не установлен</translation>
+        <translation>Не установлено</translation>
     </message>
 </context>
 <context>
@@ -16858,7 +16858,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
         <source>Lock</source>
-        <translation>Блокировка (фиксация)</translation>
+        <translation>Блокировка</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
@@ -16917,12 +16917,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="686"/>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="976"/>
         <source>Aborted.</source>
-        <translation>Прерван.</translation>
+        <translation>Прервано.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="689"/>
         <source>Found %1 symbols and %2 footprints.</source>
-        <translation>Найдено %1 символов и %2 следов.</translation>
+        <translation>Найдено %1 символов и %2 посадочных мест.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="694"/>
@@ -16942,7 +16942,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="824"/>
         <source>Skipped footprint due to error: %1</source>
-        <translation>Пропущенный след из-за ошибки: %1</translation>
+        <translation>Пропущено посадочное место из-за ошибки: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="879"/>
@@ -16957,7 +16957,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="955"/>
         <source>Skipped device due to error: %1</source>
-        <translation>Из-за ошибки %1 устройство проигнорировано.</translation>
+        <translation>Пропущено устройство из-за ошибки %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="964"/>
@@ -17032,7 +17032,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="122"/>
         <source>Open the source code in the web browser</source>
-        <translation>Откройте исходный код в веб-браузере</translation>
+        <translation>Открыть исходный код в веб-браузере</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="161"/>
@@ -17413,7 +17413,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
         <source>Choose the desired device (which defines the package to use).</source>
-        <translation>Выберите желаемое устройство (которое определяет используемый корпус).</translation>
+        <translation>Выберите желаемое устройство (которое определяет используемый пакет).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
@@ -18031,7 +18031,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="275"/>
         <source>Directory:</source>
-        <translation>Каталог:</translation>
+        <translation>Директория:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="309"/>
@@ -18138,7 +18138,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="426"/>
         <source>Finish</source>
-        <translation>Finish</translation>
+        <translation>Финиш</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="428"/>
@@ -18174,7 +18174,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="56"/>
         <source>Select the package &amp; component of the new device.</source>
-        <translation>Выберите корпус и компонент нового устройства.</translation>
+        <translation>Выберите пакет и компонент нового устройства.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="93"/>
@@ -18195,7 +18195,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="117"/>
         <source>Specify the metadata of the device. Some values have already been initialized from the selected package &amp; component, you may need to adjust it accordingly.</source>
-        <translation>Укажите метаданные устройства. Некоторые значения уже инициализированы из выбранного корпуса и компонента, возможно, вам придется соответствующим образом их изменить.</translation>
+        <translation>Укажите метаданные устройства. Некоторые значения уже инициализированы из выбранного пакета и компонента, возможно, вам придется соответствующим образом их изменить.</translation>
     </message>
 </context>
 <context>
@@ -18223,7 +18223,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="226"/>
         <source>Reset all pads to &apos;unconnected&apos; state</source>
-        <translation>Сбросьте все площадки в состояние &quot;не соединено&quot;.</translation>
+        <translation>Сбросить все площадки в состояние &quot;не соединено&quot;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="239"/>
@@ -18309,7 +18309,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="536"/>
         <source>Pinout &amp; Parts</source>
-        <translation>Расположение выводов &amp; части</translation>
+        <translation>Распиновка выводов &amp; Детали</translation>
     </message>
 </context>
 <context>
@@ -18338,7 +18338,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="147"/>
         <source>Directory:</source>
-        <translation>Каталог:</translation>
+        <translation>Директория:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="193"/>
@@ -18376,7 +18376,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="36"/>
         <source>Line Width</source>
-        <translation>Толщина линии</translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="58"/>
@@ -18476,7 +18476,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="32"/>
         <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="31"/>
         <source>Line Width</source>
-        <translation>Толщина линии</translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="54"/>
@@ -18495,7 +18495,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="35"/>
         <source>Line Width</source>
-        <translation>Толщина линии</translation>
+        <translation>Ширина линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="57"/>
@@ -18545,7 +18545,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="76"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="139"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation>Сохраняет введенное значение в правилах проектирования плат как значение по умолчанию.</translation>
+        <translation>Сохранить введённое значение в правилах проектирования плат как значение по умолчанию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="85"/>
@@ -18557,7 +18557,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="86"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="149"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation>Сохранить введённое значение как значение по умолчанию для текущего класса цепей.</translation>
+        <translation>Сохранить введённое значение как значение по умолчанию для текущего класса цепей</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="99"/>
@@ -18759,7 +18759,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="224"/>
         <source>Package Check</source>
-        <translation>Проверка корпуса</translation>
+        <translation>Проверка пакета</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="226"/>
@@ -18966,7 +18966,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="545"/>
         <source>New Package Category</source>
-        <translation>Новая категория корпусов</translation>
+        <translation>Новая категория пакетов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="626"/>
@@ -18991,7 +18991,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="678"/>
         <source>New Package</source>
-        <translation>Новый корпус</translation>
+        <translation>Новый пакет</translation>
     </message>
 </context>
 <context>
@@ -19135,7 +19135,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
         <source>Package Categories</source>
-        <translation>Категории корпусов</translation>
+        <translation>Категории пакетов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
@@ -19145,7 +19145,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="186"/>
         <source>Packages</source>
-        <translation>Корпуса</translation>
+        <translation>Пакеты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
@@ -19289,32 +19289,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
         <source>Package</source>
-        <translation>Корпус</translation>
+        <translation>Пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1168"/>
         <source>Save Package</source>
-        <translation>Сохранить корпус</translation>
+        <translation>Сохранить пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1178"/>
         <source>Close Package</source>
-        <translation>Закрыть корпус</translation>
+        <translation>Закрыть пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1179"/>
         <source>Close the currently opened package</source>
-        <translation>Закрыть текущий открытый корпус</translation>
+        <translation>Закрыть текущий открытый пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1189"/>
         <source>Reload Package From Disk</source>
-        <translation>Перезагрузить корпус с диска</translation>
+        <translation>Перезагрузить пакет с диска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1190"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
-        <translation>Отменить все изменения и перезагрузить текущий открытый корпус с диска</translation>
+        <translation>Отменить все изменения и перезагрузить текущий открытый пакет с диска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
@@ -19529,7 +19529,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="970"/>
         <source>New Package Category</source>
-        <translation>Новая категория корпусов</translation>
+        <translation>Новая категория пакетов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="980"/>
@@ -19539,7 +19539,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="990"/>
         <source>New Package</source>
-        <translation>Новый корпус</translation>
+        <translation>Новый пакет</translation>
     </message>
 </context>
 <context>
@@ -19786,17 +19786,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="224"/>
         <source>Package</source>
-        <translation>Корпус</translation>
+        <translation>Пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="226"/>
         <source>Failed to load package</source>
-        <translation>Не удалось загрузить корпус</translation>
+        <translation>Не удалось загрузить пакет</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="227"/>
         <source>No package selected</source>
-        <translation>Корпус не выбран</translation>
+        <translation>Пакет не выбран</translation>
     </message>
 </context>
 <context>
@@ -20104,7 +20104,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="322"/>
         <source>No device or package found</source>
-        <translation>Устройство или корпус не найдены</translation>
+        <translation>Устройство или пакет не найдены</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="337"/>
