@@ -18744,37 +18744,37 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="218"/>
         <source>Component Category Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка категории компонента</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="220"/>
         <source>Package Category Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка категории корпуса</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="222"/>
         <source>Symbol Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка символов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="224"/>
         <source>Package Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка корпуса</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="226"/>
         <source>Component Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка компонентов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="228"/>
         <source>Device Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка устройства</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="230"/>
         <source>Organization Check</source>
-        <translation type="unfinished"/>
+        <translation>Проверка организации</translation>
     </message>
 </context>
 <context>
@@ -18823,12 +18823,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="69"/>
         <source>Click to change the icon.</source>
-        <translation type="unfinished"/>
+        <translation>Нажмите, чтобы изменить значок.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="69"/>
         <source>Preferred:</source>
-        <translation type="unfinished"/>
+        <translation>Предпочтительно:</translation>
     </message>
 </context>
 <context>
@@ -18836,7 +18836,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="35"/>
         <source>Icon:</source>
-        <translation type="unfinished"/>
+        <translation>Значок:</translation>
     </message>
 </context>
 <context>
@@ -18844,22 +18844,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="19"/>
         <source>IPC Density Level A (max protrusion)</source>
-        <translation type="unfinished"/>
+        <translation>IPC плотность уровень A (макс. выступ)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="21"/>
         <source>IPC Density Level B (medium protrusion)</source>
-        <translation type="unfinished"/>
+        <translation>IPC плотность уровень B (сред. выступ)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="23"/>
         <source>IPC Density Level C (min protrusion)</source>
-        <translation type="unfinished"/>
+        <translation>IPC плотность уровень C (мин. выступ)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="25"/>
         <source>No density level preference</source>
-        <translation type="unfinished"/>
+        <translation>Нет предпочтений по уровню плотности</translation>
     </message>
 </context>
 <context>
@@ -18875,22 +18875,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="553"/>
         <source>Local Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Локальные библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="568"/>
         <source>Remote Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Отдалённые библиотеки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="615"/>
         <source>Pending Operations</source>
-        <translation type="unfinished"/>
+        <translation>Ожидающие операции</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
-        <translation type="unfinished"/>
+        <translation>Некоторые библиотеки, отмеченные для удаления, на данный момент недоступны для установки, поэтому их удаление будет необратимым!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
@@ -18905,7 +18905,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
         <source>Apply %n Modification(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Применить %n модификацию</numerusform><numerusform>Применить %n модификации</numerusform><numerusform>Применить %n модификаций</numerusform><numerusform>Применить %n модификаций</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="702"/>
@@ -18918,42 +18918,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="337"/>
         <source>Toggle All</source>
-        <translation type="unfinished"/>
+        <translation>Переключить все</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="364"/>
         <source>Download a Library by URL</source>
-        <translation type="unfinished"/>
+        <translation>Скачать библиотеку по URL</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="376"/>
         <source>Create a New Library</source>
-        <translation type="unfinished"/>
+        <translation>Создать новую библиотеку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="389"/>
         <source>Check For Updates</source>
-        <translation type="unfinished"/>
+        <translation>Проверить обновления</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="402"/>
         <source>Cancel Update Check</source>
-        <translation type="unfinished"/>
+        <translation>Отменить проверку обновлений</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="431"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
-        <translation type="unfinished"/>
+        <translation>Библиотеки отдалённых деталей в настоящее время не установлены. Чтобы получить такие детали, как резисторы, светодиоды, микроконтроллеры и т. д., выберите библиотеки, которые нужно загрузить из Интернета.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="443"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
-        <translation type="unfinished"/>
+        <translation>В этой рабочей области нет локальных библиотек. Чтобы создать свои собственные детали, сначала добавьте новую локальную библиотеку с помощью кнопки выше.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="454"/>
         <source>No libraries matching the filter.</source>
-        <translation type="unfinished"/>
+        <translation>Нет библиотек, соответствующих фильтру.</translation>
     </message>
 </context>
 <context>
@@ -18961,37 +18961,37 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="535"/>
         <source>New Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Новая категория компонентов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="545"/>
         <source>New Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Новая категория корпусов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="626"/>
         <source>The selected category does not contain any library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Выбранная категория не содержит элементов библиотеки.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="650"/>
         <source>New Device</source>
-        <translation type="unfinished"/>
+        <translation>Новое устройство</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="659"/>
         <source>New Component</source>
-        <translation type="unfinished"/>
+        <translation>Новый компонент</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="669"/>
         <source>New Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Новый символ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="678"/>
         <source>New Package</source>
-        <translation type="unfinished"/>
+        <translation>Новый корпус</translation>
     </message>
 </context>
 <context>
@@ -18999,12 +18999,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="336"/>
         <source>Import %1 Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Импортировать %1 библиотек</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="349"/>
         <source>Start populating this library by importing %1 library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Начните заполнять эту библиотеку, импортировав %1 элементов библиотеки.</translation>
     </message>
 </context>
 <context>
@@ -19030,22 +19030,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="237"/>
         <source>Uninstall</source>
-        <translation type="unfinished"/>
+        <translation>Удалить</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="71"/>
         <source>Duplicate, will be removed</source>
-        <translation type="unfinished"/>
+        <translation>Дубликат, будет удалено</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="76"/>
         <source>Outdated:</source>
-        <translation type="unfinished"/>
+        <translation> Устарело:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="81"/>
         <source>Up-to-date:</source>
-        <translation type="unfinished"/>
+        <translation>Обновлено:</translation>
     </message>
 </context>
 <context>
@@ -19053,12 +19053,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="203"/>
         <source>Check this if this library should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Установите этот флажок, если эта библиотека больше не должна использоваться.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="253"/>
         <source>If this is a manufacturer-specific library (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Если это библиотека конкретного производителя (необязательно)</translation>
     </message>
 </context>
 <context>
@@ -19066,17 +19066,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="11"/>
         <source>%n approved message(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n одобренных сообщений</numerusform><numerusform>%n одобренных сообщений</numerusform><numerusform>%n одобренных сообщений</numerusform><numerusform>%n одобренных сообщений</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="13"/>
         <source>All checks passed!</source>
-        <translation type="unfinished"/>
+        <translation>Все проверки пройдены!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="9"/>
         <source>%n warning(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n предупреждений</numerusform><numerusform>%n предупреждений</numerusform><numerusform>%n предупреждений</numerusform><numerusform>%n предупреждений</numerusform></translation>
     </message>
 </context>
 <context>
@@ -19084,17 +19084,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="282"/>
         <source>Close Library</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть библиотеку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="283"/>
         <source>Close this library and all its opened tabs</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть эту библиотеку и все открытые вкладки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="301"/>
         <source>Library Overview</source>
-        <translation type="unfinished"/>
+        <translation>Обзор библиотеки</translation>
     </message>
 </context>
 <context>
@@ -19107,12 +19107,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="757"/>
         <source>Import</source>
-        <translation type="unfinished"/>
+        <translation>Импорт</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="758"/>
         <source>Library Content</source>
-        <translation type="unfinished"/>
+        <translation>Содержание библиотеки</translation>
     </message>
 </context>
 <context>
@@ -19120,12 +19120,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
         <source>All Elements</source>
-        <translation type="unfinished"/>
+        <translation>Все элементы</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
         <source>Uncategorized</source>
-        <translation type="unfinished"/>
+        <translation>Без категории</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
@@ -19160,12 +19160,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="192"/>
         <source>Organizations</source>
-        <translation type="unfinished"/>
+        <translation>Организации</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="212"/>
         <source>Deprecated</source>
-        <translation type="unfinished"/>
+        <translation>Устарело</translation>
     </message>
 </context>
 <context>
@@ -19173,17 +19173,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="459"/>
         <source>%n selected item(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n выбранных элементов</numerusform><numerusform>%n выбранных элементов</numerusform><numerusform>%n выбранных элементов</numerusform><numerusform>%n выбранных элементов</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="473"/>
         <source>Copy to Other Library</source>
-        <translation type="unfinished"/>
+        <translation>Копировать в другую библиотеку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="475"/>
         <source>Copy library element(s) to another library while keeping all UUIDs, e.g. for overriding a read-only element</source>
-        <translation type="unfinished"/>
+        <translation>Скопировать элементы библиотеки в другую библиотеку, сохранив все UUID, например для переопределения элемента, доступного только для чтения</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="482"/>
@@ -19193,7 +19193,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="484"/>
         <source>Move library element(s) to another library</source>
-        <translation type="unfinished"/>
+        <translation>Переместить этот элемент в другую библиотеку</translation>
     </message>
 </context>
 <context>
@@ -19201,7 +19201,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="26"/>
         <source>Uninstall %1</source>
-        <translation type="unfinished"/>
+        <translation>Удалить %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="35"/>
@@ -19211,12 +19211,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="35"/>
         <source>This will remove the whole library directory and is not reversible:</source>
-        <translation type="unfinished"/>
+        <translation>Это удалит весь каталог библиотеки и это необратимо:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="47"/>
         <source>Are you really sure to remove &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Вы действительно хотите удалить &apos;%1&apos;?</translation>
     </message>
 </context>
 <context>
@@ -19224,17 +19224,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1000"/>
         <source>New Component</source>
-        <translation type="unfinished"/>
+        <translation>Новый компонент</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1010"/>
         <source>New Device</source>
-        <translation type="unfinished"/>
+        <translation>Новое устройство</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1020"/>
         <source>New Organization</source>
-        <translation type="unfinished"/>
+        <translation>Новая организация</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1032"/>
@@ -19244,17 +19244,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1051"/>
         <source>Save Category</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить категорию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1061"/>
         <source>Close Category</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть категорию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1062"/>
         <source>Close the currently opened category</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущую открытую категорию</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1087"/>
@@ -19264,27 +19264,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1106"/>
         <source>Save Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить символ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1116"/>
         <source>Close Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть символ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1117"/>
         <source>Close the currently opened symbol</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть текущий открытый символ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1127"/>
         <source>Reload Symbol From Disk</source>
-        <translation type="unfinished"/>
+        <translation>Перезагрузить символ с диска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1128"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
-        <translation type="unfinished"/>
+        <translation>Отменить все изменения и перезагрузить текущий открытый символ с диска</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
@@ -19294,12 +19294,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1168"/>
         <source>Save Package</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить корпус</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1178"/>
         <source>Close Package</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть корпус</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1179"/>
@@ -19504,7 +19504,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="918"/>
         <source>Close Library</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть библиотеку</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="919"/>
@@ -19524,22 +19524,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="960"/>
         <source>New Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Новая категория компонентов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="970"/>
         <source>New Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Новая категория корпусов</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="980"/>
         <source>New Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Новый символ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="990"/>
         <source>New Package</source>
-        <translation type="unfinished"/>
+        <translation>Новый корпус</translation>
     </message>
 </context>
 <context>
@@ -20183,7 +20183,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="208"/>
         <source>Deprecated</source>
-        <translation type="unfinished"/>
+        <translation>Устарело</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="225"/>
