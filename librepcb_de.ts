@@ -4,7 +4,7 @@
     <message>
         <location filename="libs/librepcb/core/job/archiveoutputjob.cpp" line="42"/>
         <source>Output Archive</source>
-        <translation type="unfinished"/>
+        <translation>Ausgabe Archiv</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/archiveoutputjob.h" line="71"/>
@@ -38,7 +38,7 @@
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP-Modell</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.h" line="73"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="64"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(kein Netz)</translation>
     </message>
 </context>
 <context>
@@ -85,7 +85,7 @@
     <message>
         <location filename="libs/librepcb/core/types/busname.h" line="52"/>
         <source>Invalid bus name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Bus Name: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -106,12 +106,12 @@
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>Symbol Pin Name</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>Komponenten Signal Name</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
@@ -6315,7 +6315,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(kein Netz)</translation>
     </message>
 </context>
 <context>
