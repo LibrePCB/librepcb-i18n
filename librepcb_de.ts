@@ -17,7 +17,7 @@
     <message>
         <location filename="libs/librepcb/core/attribute/attributekey.h" line="50"/>
         <source>Invalid attribute key: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Attribut-Schlüssel: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -125,7 +125,7 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="60"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="185"/>
         <source>Background/Grid</source>
-        <translation type="unfinished"/>
+        <translation>Hintergrund/Raster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="65"/>
@@ -143,7 +143,7 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="75"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="200"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Selektion</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="80"/>
@@ -154,32 +154,32 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="85"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="210"/>
         <source>Frames</source>
-        <translation type="unfinished"/>
+        <translation>Rahmen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="90"/>
         <source>Wires</source>
-        <translation type="unfinished"/>
+        <translation>Leitungen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="95"/>
         <source>Net Labels</source>
-        <translation type="unfinished"/>
+        <translation>Netz Namen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="100"/>
         <source>Buses</source>
-        <translation type="unfinished"/>
+        <translation>Busse</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="105"/>
         <source>Bus Labels</source>
-        <translation type="unfinished"/>
+        <translation>Bus Namen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="110"/>
         <source>Image Borders</source>
-        <translation type="unfinished"/>
+        <translation>Bildränder</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="115"/>
@@ -203,7 +203,7 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="130"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="215"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Kontour</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="135"/>
@@ -228,17 +228,17 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="156"/>
         <source>Optional Pins</source>
-        <translation type="unfinished"/>
+        <translation>Optionale Pins</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="161"/>
         <source>Required Pins</source>
-        <translation type="unfinished"/>
+        <translation>Benötigte Pins</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="166"/>
         <source>Pin Lines</source>
-        <translation type="unfinished"/>
+        <translation>Pin Linien</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="171"/>
@@ -1009,7 +1009,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1273"/>
         <source>Process %1 devices...</source>
-        <translation type="unfinished"/>
+        <translation>Verarbeite %1 Bauteile...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1291"/>
@@ -1495,12 +1495,12 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1345"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Bauteil in Freihalte-Zone: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1366"/>
         <source>There is a device within a keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Es ist ein Bauteil innerhalb der Freihalte-Zone.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1367"/>
@@ -2124,7 +2124,7 @@ This cutout is on the &quot;%1&quot; layer but intersects with copper layers alo
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1321"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>Zwei Bauteile sind überlappend und können deshalb möglicherweise nicht gleichzeitig bestückt werden.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1324"/>
@@ -2449,7 +2449,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="268"/>
         <source>View/modify the grid properties</source>
-        <translation type="unfinished"/>
+        <translation>Zeige/modifiziere die Raster Eigenschaften</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
@@ -3116,7 +3116,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="921"/>
         <source>Show or hide symbol pin numbers</source>
-        <translation type="unfinished"/>
+        <translation>Zeige oder verberge Symbol Pinnummern</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
@@ -3546,7 +3546,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1306"/>
         <source>Increase the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Vergrössere die Via/Pad/Pin/Text Grösse</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
@@ -3556,7 +3556,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1315"/>
         <source>Decrease the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Reduziere die Via/Pad/Pin/Text Grösse</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
@@ -4032,7 +4032,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Öffne eine Kurzanleitung über Tastenkombinationen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
@@ -4221,7 +4221,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="343"/>
         <source>Connected pin without wire: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Angeschlossener Pin ohne Leitung: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="345"/>
@@ -4247,7 +4247,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="157"/>
         <source>Less than two pins in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Weniger als zwei Pins in Netz: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="158"/>
@@ -4656,7 +4656,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="117"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Kontour</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="123"/>
@@ -5952,7 +5952,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>Schlüssel &quot;%1&quot; ist mehrfach definiert.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="98"/>
@@ -5988,7 +5988,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="99"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="105"/>
@@ -7145,7 +7145,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="464"/>
         <source>Skipped device due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Bauteil wegen Fehler übersprungen: %1</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/eagleimport/eaglelibraryimport.cpp" line="471"/>
@@ -7305,7 +7305,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="871"/>
         <source>No device selected</source>
-        <translation type="unfinished"/>
+        <translation>Kein Bauteil selektiert</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="1021"/>
@@ -7441,7 +7441,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="192"/>
         <source>Attribute key</source>
-        <translation type="unfinished"/>
+        <translation>Attribut Schlüssel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="275"/>
@@ -7476,7 +7476,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="437"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>Es existiert bereits ein Attribut mit dem Schlüssel: &quot;%1&quot;.</translation>
     </message>
 </context>
 <context>
@@ -7634,7 +7634,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2432"/>
         <source>Add devices to board</source>
-        <translation type="unfinished"/>
+        <translation>Bauteile zu Board hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2460"/>
@@ -7807,7 +7807,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_adddevice.cpp" line="174"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>Bauteil zu Board hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_adddevice.cpp" line="192"/>
@@ -9257,27 +9257,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="218"/>
         <source>INVALID INPUT</source>
-        <translation type="unfinished"/>
+        <translation>UNGÜLTIGE EINGABE</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="221"/>
         <source>DUPLICATE</source>
-        <translation type="unfinished"/>
+        <translation>DUPLIKAT</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="224"/>
         <source>NAME CONFLICT</source>
-        <translation type="unfinished"/>
+        <translation>NAMENSKONFLIKT</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="245"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Eingabe</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="246"/>
         <source>Result</source>
-        <translation type="unfinished"/>
+        <translation>Resultat</translation>
     </message>
 </context>
 <context>
@@ -9290,7 +9290,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdaddcomponenttocircuit.cpp" line="90"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the workspace library!</source>
-        <translation type="unfinished"/>
+        <translation>Die Komponente mit der UUID &quot;%1&quot; existiert nicht in der Arbeitsbereich Library!</translation>
     </message>
 </context>
 <context>
@@ -9298,7 +9298,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="62"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>Bauteil zu Board hinzufügen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdadddevicetoboard.cpp" line="94"/>
@@ -9819,7 +9819,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddeviceinstanceadd.cpp" line="41"/>
         <source>Add device to board</source>
-        <translation type="unfinished"/>
+        <translation>Bauteil zu Board hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -16825,7 +16825,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="955"/>
         <source>Skipped device due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Bauteil wegen Fehler übersprungen: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="964"/>
