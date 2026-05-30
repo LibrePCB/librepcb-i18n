@@ -10620,12 +10620,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="512"/>
         <source>Package: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="543"/>
         <source>Alternative %1:</source>
         <translation type="unfinished"/>
     </message>

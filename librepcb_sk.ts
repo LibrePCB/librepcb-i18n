@@ -10675,12 +10675,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčiastkou?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="512"/>
         <source>Package: %1</source>
         <translation>Puzdro: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="543"/>
         <source>Alternative %1:</source>
         <translation>Alternatíva %1:</translation>
     </message>

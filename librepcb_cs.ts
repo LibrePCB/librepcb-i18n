@@ -10649,12 +10649,12 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 Jste si jisti, že pouzdro a jeho zapojení vývodů jsou slučitelné s danou součástkou?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="512"/>
         <source>Package: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="543"/>
         <source>Alternative %1:</source>
         <translation type="unfinished"/>
     </message>
