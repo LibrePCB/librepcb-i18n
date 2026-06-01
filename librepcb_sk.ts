@@ -12647,7 +12647,7 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="422"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="555"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="556"/>
         <source>Restore autosave backup?</source>
         <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
@@ -12657,32 +12657,32 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
         <translation>Zdá sa, že pri poslednom otvorení tejto knižnice došlo k zlyhaniu aplikácie. Chcete obnoviť poslednú zálohu automatického ukladania?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="460"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="461"/>
         <source>Failed to open library</source>
         <translation>Nepodarilo sa otvoriť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="508"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="509"/>
         <source>Could not create project</source>
         <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="522"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="523"/>
         <source>Open Project</source>
         <translation>Otvoriť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="523"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="524"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Súbory LibrePCB projektu (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="556"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="557"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom použití tohto projektu zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="631"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="632"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
