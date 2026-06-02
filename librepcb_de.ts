@@ -6929,52 +6929,52 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::ProjectLoader</name>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="133"/>
-        <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="160"/>
+        <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, the final log file will be persisted in the projects &apos;%1&apos; directory.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="140"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="167"/>
         <source>Attention: After saving the project, the file format migration cannot be reverted. Check if everything looks good before saving the project.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="148"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
         <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
         <translation>Das Projekt wurde von Dateiformat &lt;strong&gt;%1 auf %2&lt;/strong&gt; migriert, was folgende Meldungen produzierte:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="158"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="185"/>
         <source>No messages emitted.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="202"/>
         <source>Version</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="176"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="203"/>
         <source>Occurrences</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="177"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="204"/>
         <source>Message</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="218"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="245"/>
         <source>File does not exist: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="224"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="251"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="236"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="263"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -14983,125 +14983,130 @@ Do you want to save them before closing it?</source>
         <translation>Das Projekt &apos;%1&apos; wurde auf ein neues Dateiformat migriert. Nach dem Speichern wird es nicht mehr möglich sein, es mit einer älteren LibrePCB Version zu öffnen!</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="177"/>
         <source>The migration produced %n message(s), please review before proceeding.</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="182"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="183"/>
         <source>ATTENTION: Project File Format Upgraded</source>
         <translation>ACHTUNG: Projekt-Dateiformat wurde migriert</translation>
     </message>
+    <message numerus="yes">
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="185"/>
+        <source>Show %n Message(s)</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+    </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="183"/>
-        <source>Show Messages</source>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="197"/>
+        <source>Migration log saved to &apos;%1&apos;.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="385"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="398"/>
         <source>Save Project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="386"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="399"/>
         <source>The project '%1' contains unsaved changes.
 Do you want to save them before closing the project?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="429"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="442"/>
         <source>Project saved!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="435"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="448"/>
         <source>Error while saving the project</source>
         <translation>Fehler während dem Speichern des Projekts</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="517"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="530"/>
         <source>Export project to *.lppz</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="547"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="560"/>
         <source>Export succeeded!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="550"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="581"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="604"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="563"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="594"/>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="617"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="663"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="683"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="818"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="676"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="696"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="846"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="555"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="568"/>
         <source>Sheet %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="561"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="574"/>
         <source>New Sheet</source>
         <translation>Neue Schaltplanseite</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="562"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="575"/>
         <source>Choose a name for the new schematic page:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="571"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="654"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="584"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="667"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Ungültiger name: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="592"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
         <source>Rename sheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="592"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
         <source>Choose new name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
         <source>Board %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="632"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="645"/>
         <source>Copy of %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
         <source>Copy Board</source>
         <translation>Board kopieren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
         <source>Add New Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="644"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="657"/>
         <source>Choose a name:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="673"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="686"/>
         <source>Remove board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="674"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="687"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation type="unfinished"/>
     </message>

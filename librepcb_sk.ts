@@ -6979,52 +6979,52 @@ Potrebujete najnovšiu verziu LibrePCB %1 pre jeho otvorenie.
 <context>
     <name>librepcb::ProjectLoader</name>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="133"/>
-        <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, this log will be written to the projects &apos;%1&apos; directory.</source>
-        <translation>Poznámka: Toto je dočasný súbor, pretože projekt ešte nebol uložený na disk. Po uložení projektu, bude tento protokol zapísaný do adresára projektu &apos;%1&apos;.</translation>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="160"/>
+        <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, the final log file will be persisted in the projects &apos;%1&apos; directory.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="140"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="167"/>
         <source>Attention: After saving the project, the file format migration cannot be reverted. Check if everything looks good before saving the project.</source>
         <translation>Upozornenie: Po uložení projektu migráciu formátu súboru nebude možné vrátiť späť. Pred uložením projektu skontrolujte, či všetko vyzerá v poriadku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="148"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
         <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
         <translation>Projekt bol migrovaný z formátu súbou &lt;strong&gt;%1 do %2&lt;/strong&gt;, čo  spôsobilo nasledujúce oznámenia:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="158"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="185"/>
         <source>No messages emitted.</source>
         <translation>Žiadne oznámenia.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="202"/>
         <source>Version</source>
         <translation>Verzia</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="176"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="203"/>
         <source>Occurrences</source>
         <translation>Výskyt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="177"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="204"/>
         <source>Message</source>
         <translation>Správa</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="218"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="245"/>
         <source>File does not exist: &apos;%1&apos;</source>
         <translation>Súbor neexistuje: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="224"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="251"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
         <translation>Adresár neobsahuje projekt LibrePCB: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/project/projectloader.cpp" line="236"/>
+        <location filename="libs/librepcb/core/project/projectloader.cpp" line="263"/>
         <source>This project was created with a newer application version.
 You need at least LibrePCB %1 to open it.
 
@@ -15086,126 +15086,131 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Projekt &apos;%1&apos; bol migrovaný do nového formátu súboru. Po uložení ho už nebude možné otvoriť so staršou verziou LibrePCB!</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="176"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="177"/>
         <source>The migration produced %n message(s), please review before proceeding.</source>
         <translation><numerusform>Migrácia vytvorila %n oznámenie. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Migrácia vytvorila %n oznámenia. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Migrácia vytvorila %n oznámení. Pred pokračovaním ich najskôr prezrite.</numerusform><numerusform>Migrácia vytvorila %n oznámení. Pred pokračovaním ich najskôr prezrite.</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="182"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="183"/>
         <source>ATTENTION: Project File Format Upgraded</source>
         <translation>UPOZORNENIE: Formát projektového súboru bol inovovaný</translation>
     </message>
-    <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="183"/>
-        <source>Show Messages</source>
-        <translation>Zobraziť oznámenia</translation>
+    <message numerus="yes">
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="185"/>
+        <source>Show %n Message(s)</source>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="385"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="197"/>
+        <source>Migration log saved to &apos;%1&apos;.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="398"/>
         <source>Save Project?</source>
         <translation>Uložiť projekt?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="386"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="399"/>
         <source>The project '%1' contains unsaved changes.
 Do you want to save them before closing the project?</source>
         <translation>Projekt &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="429"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="442"/>
         <source>Project saved!</source>
         <translation>Projekt bol uložený!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="435"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="448"/>
         <source>Error while saving the project</source>
         <translation>Vyskytla sa chyba počas ukladania projektu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="517"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="530"/>
         <source>Export project to *.lppz</source>
         <translation>Exportovanie projektu do *.lppz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="547"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="560"/>
         <source>Export succeeded!</source>
         <translation>Export bol úspešný!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="550"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="581"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="604"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="563"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="594"/>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="617"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="663"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="683"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="818"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="676"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="696"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="846"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="555"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="568"/>
         <source>Sheet %1</source>
         <translation>Výkres %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="561"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="574"/>
         <source>New Sheet</source>
         <translation>Nový výkres</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="562"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="575"/>
         <source>Choose a name for the new schematic page:</source>
         <translation>Zvoľte názov pre nový schematický list:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="571"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="654"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="584"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="667"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>Neplatný názov: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="592"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
         <source>Rename sheet</source>
         <translation>Premenovať výkres</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="592"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
         <source>Choose new name:</source>
         <translation>Zvoľte nový názov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
         <source>Board %1</source>
         <translation>Doska &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="632"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="645"/>
         <source>Copy of %1</source>
         <translation>Kópia z %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
         <source>Copy Board</source>
         <translation>Kopírovať dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
         <source>Add New Board</source>
         <translation>Pridať novú dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="644"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="657"/>
         <source>Choose a name:</source>
         <translation>Zvoľte názov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="673"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="686"/>
         <source>Remove board</source>
         <translation>Odstrániť dosku</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="674"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="687"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>Naozaj chcete odstrániť dosku &quot;%1&quot;?</translation>
     </message>
