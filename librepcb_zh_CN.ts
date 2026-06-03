@@ -7435,7 +7435,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::AttributeListModel</name>
     <message>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="318"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="328"/>
         <source>There is already an attribute with the name &quot;%1&quot;.</source>
         <translation>已存在名称为 &quot;%1&quot; 的属性。</translation>
     </message>
@@ -7447,7 +7447,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="125"/>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="142"/>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="159"/>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="387"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="398"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
@@ -7487,7 +7487,7 @@ You need at least LibrePCB %1 to open it.
         <translation>添加一个新属性</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="437"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="448"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation>属性键已存在“%1”</translation>
     </message>
@@ -18208,12 +18208,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="535"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="537"/>
         <source>Metadata</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="536"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="538"/>
         <source>Pinout &amp; Parts</source>
         <translation type="unfinished"/>
     </message>
@@ -20435,22 +20435,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="369"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="371"/>
         <source>Import Pins From Datasheet</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="377"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="381"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="383"/>
         <source>Import Pins</source>
         <translation>导入引脚</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="395"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="397"/>
         <source>Learn how to create symbols</source>
         <translation>了解如何创建符号</translation>
     </message>
@@ -20458,12 +20458,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="700"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Metadata</source>
         <translation>元数据</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
         <source>Graphics</source>
         <translation>图形</translation>
     </message>

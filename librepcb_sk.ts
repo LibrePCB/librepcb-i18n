@@ -7475,7 +7475,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::AttributeListModel</name>
     <message>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="318"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="328"/>
         <source>There is already an attribute with the name &quot;%1&quot;.</source>
         <translation>Atribút s názvom „%1“ už existuje.</translation>
     </message>
@@ -7487,7 +7487,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="125"/>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="142"/>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="159"/>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="387"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="398"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -7527,7 +7527,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Pridať nový atribút</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="437"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="448"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation>Atribút s kľúčom &quot;%1&quot; už existuje.</translation>
     </message>
@@ -18303,12 +18303,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="535"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="537"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="536"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="538"/>
         <source>Pinout &amp; Parts</source>
         <translation>Zapojenie vývodov a súčiastky</translation>
     </message>
@@ -20530,22 +20530,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="369"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="371"/>
         <source>Import Pins From Datasheet</source>
         <translation>Importovanie definície vývodov z technického listu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="377"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Odporúča sa začať kreslenie nového symbolu pridaním všetkých vývodov. Najmä v prípade väčších symbolov je najrýchlejším spôsobom ich import z technického listu alebo akejkoľvek inej dokumentácie k súčiastke.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="381"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="383"/>
         <source>Import Pins</source>
         <translation>Importovať vývody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="395"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="397"/>
         <source>Learn how to create symbols</source>
         <translation>Naučte sa, ako vytvárať schematické značky.</translation>
     </message>
@@ -20553,12 +20553,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="700"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
         <source>Graphics</source>
         <translation>Grafické objekty</translation>
     </message>

@@ -7478,7 +7478,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::AttributeListModel</name>
     <message>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="318"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodel.cpp" line="328"/>
         <source>There is already an attribute with the name &quot;%1&quot;.</source>
         <translation>Атрибут с именем &quot;%1&quot; уже существует.</translation>
     </message>
@@ -7490,7 +7490,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="125"/>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="142"/>
         <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="159"/>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="387"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="398"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -7530,7 +7530,7 @@ You need at least LibrePCB %1 to open it.
         <translation>Добавить новый атрибут</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="437"/>
+        <location filename="libs/librepcb/editor/modelview/attributelistmodellegacy.cpp" line="448"/>
         <source>There is already an attribute with the key &quot;%1&quot;.</source>
         <translation>Атрибут с ключом &quot;%1&quot; уже существует.</translation>
     </message>
@@ -18307,12 +18307,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="535"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="537"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="536"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="538"/>
         <source>Pinout &amp; Parts</source>
         <translation>Распиновка выводов &amp; Детали</translation>
     </message>
@@ -20534,22 +20534,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="369"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="371"/>
         <source>Import Pins From Datasheet</source>
         <translation>Импортировать пины из Технического паспорта</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="377"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Начинать рисовать новый символ рекомендуется с добавления всех пинов. Самый быстрый способ сделать это, особенно для более крупных символов, — импортировать их из технического паспорта или любой другой документации детали.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="381"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="383"/>
         <source>Import Pins</source>
         <translation>Импортировать пины</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="395"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="397"/>
         <source>Learn how to create symbols</source>
         <translation>Научитесь создавать символы</translation>
     </message>
@@ -20557,12 +20557,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="700"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
         <source>Graphics</source>
         <translation>Графика</translation>
     </message>
