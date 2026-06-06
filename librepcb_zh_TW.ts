@@ -9555,37 +9555,37 @@ You need at least LibrePCB %1 to open it.
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="266"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="269"/>
         <source>Specctra session file parsed successfully.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="451"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="454"/>
         <source>Component &apos;%1&apos; from Specctra session does not exist in this board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="459"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="462"/>
         <source>Component &apos;%1&apos; has been flipped, which is not supported yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="483"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="486"/>
         <source>The component &apos;%1&apos; does not exist in the Specctra session.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="500"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="503"/>
         <source>The net &apos;%1&apos; from Specctra session does not exist in this project, skipping it.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="766"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="769"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="769"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="772"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
         <translation type="unfinished"/>
     </message>

@@ -9595,37 +9595,37 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Zvolený súbor nie je relácia Specctra (SES).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="266"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="269"/>
         <source>Specctra session file parsed successfully.</source>
         <translation>Analýza súboru relácie Specctra bola úspešná.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="451"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="454"/>
         <source>Component &apos;%1&apos; from Specctra session does not exist in this board.</source>
         <translation>Komponent &apos;%1&apos; z relácie Specctra, sa nenachádza na tejto doske.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="459"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="462"/>
         <source>Component &apos;%1&apos; has been flipped, which is not supported yet.</source>
         <translation>Komponent &apos;%1&apos; bol prevrátený, čo zatiaľ nie je podporované.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="483"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="486"/>
         <source>The component &apos;%1&apos; does not exist in the Specctra session.</source>
         <translation>Komponent &apos;%1&apos; v relácii Specctra neexistuje.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="500"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="503"/>
         <source>The net &apos;%1&apos; from Specctra session does not exist in this project, skipping it.</source>
         <translation>Prepojenie &apos;%1&apos; z relácie Specctra v tomto projekte neexistuje a bude ignorované.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="766"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="769"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
         <translation>Aktualizovaných bolo %1 komponentov (%2 nebolo upravených a boli ignorované).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="769"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="772"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
         <translation>Aktualizovaných bolo %1 prepojení (%2 nebolo upravených  a boli ignorované).</translation>
     </message>
