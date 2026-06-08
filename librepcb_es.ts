@@ -16903,62 +16903,62 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::AboutPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="121"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="126"/>
         <source>View Source Code</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="122"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="127"/>
         <source>Open the source code in the web browser</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="161"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="166"/>
         <source>Details</source>
         <translation>Detalles</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="162"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="167"/>
         <source>(please copy this into bug reports)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="193"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="198"/>
         <source>Credits</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="201"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="202"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="207"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="216"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="221"/>
         <source>For the list of current sponsors, see %1.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="251"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="256"/>
         <source>License</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="263"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="268"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="66"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="71"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="67"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="72"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
         <translation type="unfinished"/>
     </message>
