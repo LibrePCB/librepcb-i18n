@@ -7568,107 +7568,112 @@ You need at least LibrePCB %1 to open it.
         <translation>Задать координаты опорных точек:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="332"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="333"/>
         <source>Screen %1</source>
         <translation>Экран %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="370"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="371"/>
         <source>Could not take a screenshot. Note that this feature does not work on some systems due to security mechanisms.</source>
         <translation>Не удалось сделать снимок экрана. Обратите внимание, что эта функция не работает на некоторых системах из-за механизмов безопасности.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="386"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="387"/>
         <source>No image found in the clipboard.</source>
         <translation>Изображение не найдено в буфере обмена.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="403"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="404"/>
         <source>Choose image</source>
         <translation>Выбрать изображение</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="410"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="411"/>
         <source>Failed to open the selected image file.</source>
         <translation>Не удалось открыть выбранный файл изображения.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="468"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="470"/>
+        <source>This tool allows you to set a background image (typically a PCB scan) in the board editor to easily verify or reproduce an existing printed circuit board. Note that the image is exclusively visible in the board editor, not in any exported files.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="478"/>
         <source>This tool allows you to set a background image (typically a datasheet drawing) in the footprint editor to easily verify the size &amp;amp; position of footprint pads etc. Note that the image won&apos;t appear on the board, it&apos;s only visible in the footprint editor.</source>
         <translation>Этот инструмент позволяет установить фоновое изображение (обычно чертеж из технического паспорта) в редакторе посад. мест, чтобы легко проверить размеры и расположение площадок для посадочных мест и т. д. Обратите внимание, что изображение не будет отображаться на плате, оно будет видно только в редакторе посад. мест.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="476"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="487"/>
         <source>Load an image with one of the buttons on the left side.</source>
         <translation>Загрузите изображение с помощью одной из кнопок слева.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="478"/>
-        <source>Draw a line around the footprint to cut out the relevant area.</source>
-        <translation>Проведите линию вокруг посад. места, чтобы вырезать соответствующую область.</translation>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="489"/>
+        <source>Draw a line around the area of interest to crop the image.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="490"/>
         <source>Rotate/mirror the image.</source>
         <translation>Поворот/зеркальное отображение изображения.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="481"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="492"/>
         <source>Specify two reference points to calculate X/Y scale &amp; offset.</source>
         <translation>Укажите две опорные точки для расчета масштаба X/Y и смещения.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="487"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="498"/>
         <source>Important: Make sure to zoom in as much as possible when taking the screenshot, to get a reasonably high resolution!</source>
         <translation>Важно: при создании скриншота максимально увеличьте его масштаб, чтобы получить достаточно высокое разрешение!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="537"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="548"/>
         <source>Step %1:</source>
         <translation>Шаг %1:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="539"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="550"/>
         <source>Note that the two points must be located diagonally to get a large distance in both X- and Y-direction.</source>
         <translation>Обратите внимание, что две точки должны быть расположены по диагонали, чтобы получить большое расстояние по оси X и Y.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="545"/>
-        <source>Crop the image by drawing a line with the cursor around the footprint (single click to skip).</source>
-        <translation>Отрежь изображение, проведя курсором линию вокруг посад. места (для пропуска - одиночный щелчок кнопкой мыши).</translation>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="556"/>
+        <source>Crop the image by drawing a line with the cursor around the area of interest (single click to skip).</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="549"/>
-        <source>Rotate/mirror the image to match the orientation of the footprint.</source>
-        <translation>Поверните/отзеркальте изображение, чтобы оно соответствовало ориентации отпечатка.</translation>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="560"/>
+        <source>Rotate/mirror the image to get the desired orientation.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="564"/>
         <source>Click into the image to select the first reference point with known X/Y coordinates.</source>
         <translation>Щелкните на изображении, чтобы выбрать первую опорную точку с известными координатами X/Y.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="560"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="570"/>
         <source>Click into the image to select the second reference point with known X/Y coordinates.</source>
         <translation>Щелкните на изображении, чтобы выбрать вторую опорную точку с известными координатами X/Y.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="566"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="576"/>
         <source>Too few reference points (2 required).</source>
         <translation>Слишком мало опорных точек (требуется 2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="569"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="579"/>
         <source>Specify the target coordinates for the chosen reference points.</source>
         <translation>Укажите целевые координаты для выбранных опорных точек.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="590"/>
         <source>There&apos;s not enough distance in either X- or Y direction. Choose reference points with a large distance in both directions.</source>
         <translation>Недостаточно расстояния в направлении X или Y. Выберите опорные точки с большим расстоянием в обоих направлениях.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="584"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="594"/>
         <source>There is a high deviation between X- and Y scale factor. Please check the reference points.</source>
         <translation>Наблюдается большое отклонение между коэффициентами масштабирования X и Y. Проверьте опорные точки.</translation>
     </message>

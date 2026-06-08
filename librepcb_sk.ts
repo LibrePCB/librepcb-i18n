@@ -7565,107 +7565,112 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Zadajte súradnice referenčných bodov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="332"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="333"/>
         <source>Screen %1</source>
         <translation>Obrazovka %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="370"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="371"/>
         <source>Could not take a screenshot. Note that this feature does not work on some systems due to security mechanisms.</source>
         <translation>Nepodarilo sa vytvoriť snímok obrazovky. Upozorňujeme, že táto funkcia nefunguje na niektorých systémoch kvôli bezpečnostným mechanizmom.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="386"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="387"/>
         <source>No image found in the clipboard.</source>
         <translation>V schránke sa nenachádza žiaden obrázok.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="403"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="404"/>
         <source>Choose image</source>
         <translation>Zvoliť obrázok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="410"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="411"/>
         <source>Failed to open the selected image file.</source>
         <translation>Chyba pri otváraní súboru zvoleného obrázka.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="468"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="470"/>
+        <source>This tool allows you to set a background image (typically a PCB scan) in the board editor to easily verify or reproduce an existing printed circuit board. Note that the image is exclusively visible in the board editor, not in any exported files.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="478"/>
         <source>This tool allows you to set a background image (typically a datasheet drawing) in the footprint editor to easily verify the size &amp;amp; position of footprint pads etc. Note that the image won&apos;t appear on the board, it&apos;s only visible in the footprint editor.</source>
         <translation>Tento nástroj umožňuje nastaviť obrázok na pozadie (zvyčajne výkres z technického listu) v editore puzdier, aby ste si mohli jednoducho overiť veľkosť &amp;amp; polohu plôšok vývodov atď. Poznámka: obrázok bude viditeľný iba v editore puzdier a nebude zobrazený na doske spojov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="476"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="487"/>
         <source>Load an image with one of the buttons on the left side.</source>
         <translation>Načítať obrázok pomocou jedného z tlačidiel na ľavej strane.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="478"/>
-        <source>Draw a line around the footprint to cut out the relevant area.</source>
-        <translation>Označiť čiarou oblasť pre vystrihnutie okolo puzdra.</translation>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="489"/>
+        <source>Draw a line around the area of interest to crop the image.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="479"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="490"/>
         <source>Rotate/mirror the image.</source>
         <translation>Otočenie/zrkadlenie obrázku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="481"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="492"/>
         <source>Specify two reference points to calculate X/Y scale &amp; offset.</source>
         <translation>Zadať dva referenčné body pre výpočet mierky X/Y a posunu.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="487"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="498"/>
         <source>Important: Make sure to zoom in as much as possible when taking the screenshot, to get a reasonably high resolution!</source>
         <translation>Dôležité: Pri vytváraní snímky obrazovky sa uistite, že ste ju čo najviac priblížili, aby ste získali dostatočne vysoké rozlíšenie!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="537"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="548"/>
         <source>Step %1:</source>
         <translation>Krok %1:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="539"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="550"/>
         <source>Note that the two points must be located diagonally to get a large distance in both X- and Y-direction.</source>
         <translation>Všimnite si, že dva body musia byť umiestnené diagonálne, aby ste získali veľkú vzdialenosť v smere X aj Y.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="545"/>
-        <source>Crop the image by drawing a line with the cursor around the footprint (single click to skip).</source>
-        <translation>Orežte obrázok nakreslením čiary pomocou kurzoru okolo puzdra (preskočte jedným kliknutím).</translation>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="556"/>
+        <source>Crop the image by drawing a line with the cursor around the area of interest (single click to skip).</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="549"/>
-        <source>Rotate/mirror the image to match the orientation of the footprint.</source>
-        <translation>Otočiť/zrkadliť obrázok tak, aby zodpovedal orientácii puzdra.</translation>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="560"/>
+        <source>Rotate/mirror the image to get the desired orientation.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="564"/>
         <source>Click into the image to select the first reference point with known X/Y coordinates.</source>
         <translation>Kliknutím do obrázka vyberať prvý referenčný bod so známymi súradnicami X/Y.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="560"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="570"/>
         <source>Click into the image to select the second reference point with known X/Y coordinates.</source>
         <translation>Kliknutím do obrázka vyberať druhý referenčný bod so známymi súradnicami X/Y.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="566"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="576"/>
         <source>Too few reference points (2 required).</source>
         <translation>Príliš málo referenčných bodov (potrebné sú 2).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="569"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="579"/>
         <source>Specify the target coordinates for the chosen reference points.</source>
         <translation>Zadať cieľové súradnice pre zvolené referenčné body.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="590"/>
         <source>There&apos;s not enough distance in either X- or Y direction. Choose reference points with a large distance in both directions.</source>
         <translation>Nie je dostatočná vzdialenosť ani v smere X, ani v smere Y. Zvoľte referenčné body s veľkou vzdialenosťou v oboch smeroch.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="584"/>
+        <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="594"/>
         <source>There is a high deviation between X- and Y scale factor. Please check the reference points.</source>
         <translation>Medzi pomerom mierok X a Y je príliš veľká odchýlka. Skontrolujte referenčné body.</translation>
     </message>
