@@ -4205,22 +4205,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>EditorToolbox</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="411"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="444"/>
         <source>Search datasheet for &apos;%1&apos;</source>
         <translation>Поиск технического паспорта для &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="498"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="531"/>
         <source>No datasheet found</source>
         <translation>Технический паспорт не найден</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="499"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="532"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
         <translation>Извините, для запрашиваемой детали не найдено технического описания :-(</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="512"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="545"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -5932,36 +5932,31 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     </message>
 </context>
 <context>
-    <name>QCoreApplication</name>
-    <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="363"/>
-        <source>right click</source>
-        <translation>щелчок правой кнопкой мыши</translation>
-    </message>
-</context>
-<context>
     <name>QShortcut</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="362"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="78"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="529"/>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
-        <source>Shift</source>
-        <translation>Shift</translation>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="80"/>
+        <source>Return</source>
+        <translation>Return</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="541"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="77"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="530"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="175"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="79"/>
-        <source>Return</source>
-        <translation>Return</translation>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="177"/>
+        <source>Shift</source>
+        <translation>Shift</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="179"/>
+        <source>Alt</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="181"/>
+        <source>Meta</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14574,30 +14569,35 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawZone</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="208"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="276"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="209"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="277"/>
         <source>Add Footprint Zone</source>
         <translation>Добавить зону посадочного места</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="223"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="246"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="294"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="224"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="295"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="361"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="362"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(нажмите %1, чтобы отключить привязку, %2 - для отмены)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="366"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="364"/>
+        <source>right click</source>
+        <translation>щелкните правой кнопкой мыши</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="367"/>
         <source>Click to specify the first point</source>
         <translation>Нажмите, чтобы указать первую точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="369"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="370"/>
         <source>Click to specify the next point</source>
         <translation>Нажмите, чтобы указать следующую точку</translation>
     </message>
@@ -14605,25 +14605,25 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_ReNumberPads</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="75"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="76"/>
         <source>(press %1 for single-selection, %2 to change numbering mode, %3 to finish)</source>
         <translation>( нажать %1 для одиночного выбора, %2 для изменения режима нумерации, %3 для завершения)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="80"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="81"/>
         <source>Click on the next pad</source>
         <translation>Нажмите на следующую панель</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="166"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="212"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="332"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="167"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="213"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="333"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="351"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="201"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="202"/>
         <source>Re-number pads</source>
         <translation>Перенумеровать контактные площадки</translation>
     </message>
@@ -15711,37 +15711,37 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="261"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="262"/>
         <source>Draw Wire</source>
         <translation>Рисовать дорожку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="301"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="641"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="302"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="642"/>
         <source>Invalid net name</source>
         <translation>Недопустимое имя цепи</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="302"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="643"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="303"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="644"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>Не удалось принудительно применить имя, поскольку &apos;%1&apos; не является допустимым именем цепи.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="429"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="658"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="677"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="706"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="430"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="659"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="678"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="707"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="853"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
         <source>Add New Bus Member</source>
         <translation>Добавить нового участника шины</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="865"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="866"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
@@ -19232,167 +19232,162 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::MainMenuBar</name>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1000"/>
-        <source>New Component</source>
-        <translation>Новый компонент</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1010"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1004"/>
         <source>New Device</source>
         <translation>Новое устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1020"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1014"/>
         <source>New Organization</source>
         <translation>Новая организация</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1032"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1026"/>
         <source>Category</source>
         <translation>Категория</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1051"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1045"/>
         <source>Save Category</source>
         <translation>Сохранить категорию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1061"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1055"/>
         <source>Close Category</source>
         <translation>Закрыть категорию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1062"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1056"/>
         <source>Close the currently opened category</source>
         <translation>Закрыть текущую открытую категорию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1087"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1081"/>
         <source>Symbol</source>
         <translation>Символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1106"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1100"/>
         <source>Save Symbol</source>
         <translation>Сохранить символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1116"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1110"/>
         <source>Close Symbol</source>
         <translation>Закрыть символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1117"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1111"/>
         <source>Close the currently opened symbol</source>
         <translation>Закрыть текущий открытый символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1127"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1121"/>
         <source>Reload Symbol From Disk</source>
         <translation>Перезагрузить символ с диска</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1128"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1122"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
         <translation>Отменить все изменения и перезагрузить текущий открытый символ с диска</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1149"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1143"/>
         <source>Package</source>
         <translation>Пакет</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1168"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1162"/>
         <source>Save Package</source>
         <translation>Сохранить пакет</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1178"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1172"/>
         <source>Close Package</source>
         <translation>Закрыть пакет</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1179"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1173"/>
         <source>Close the currently opened package</source>
         <translation>Закрыть текущий открытый пакет</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1189"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1183"/>
         <source>Reload Package From Disk</source>
         <translation>Перезагрузить пакет с диска</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1190"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1184"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
         <translation>Отменить все изменения и перезагрузить текущий открытый пакет с диска</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1211"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1205"/>
         <source>Component</source>
         <translation>Компонент</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1230"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1224"/>
         <source>Save Component</source>
         <translation>Сохранить компонент</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1240"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1234"/>
         <source>Close Component</source>
         <translation>Закрыть компонент</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1241"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1235"/>
         <source>Close the currently opened component</source>
         <translation>Закрыть текущий открытый компонент</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1262"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1256"/>
         <source>Device</source>
         <translation>Устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1281"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1275"/>
         <source>Save Device</source>
         <translation>Сохранить устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1291"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1285"/>
         <source>Close Device</source>
         <translation>Закрыть устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1292"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1286"/>
         <source>Close the currently opened device</source>
         <translation>Закрыть текущее открытое устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1313"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1307"/>
         <source>Organization</source>
         <translation>Организация</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1332"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1326"/>
         <source>Save Organization</source>
         <translation>Сохранить организацию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1342"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1336"/>
         <source>Close Organization</source>
         <translation>Закрыть организацию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1343"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1337"/>
         <source>Close the currently opened organization</source>
         <translation>Закрыть текущую открытую организацию</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1364"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1358"/>
         <source>Project</source>
         <translation>Проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1403"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1397"/>
         <source>Save Project</source>
         <translation>Сохранить проект</translation>
     </message>
@@ -19402,17 +19397,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1574"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1568"/>
         <source>Help</source>
         <translation>Справка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1695"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1689"/>
         <source>read-only</source>
         <translation>только-для-чтения</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1925"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1919"/>
         <source>Quick Find</source>
         <translation>Быстрый поиск</translation>
     </message>
@@ -19447,47 +19442,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Правка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="434"/>
-        <source>Cut</source>
-        <translation>Вырезать</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="436"/>
-        <source>Cut the selected object(s) to clipboard</source>
-        <translation>Вырезать выделенные объект(ы) в буфер обмена</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="447"/>
-        <source>Copy</source>
-        <translation>Копировать</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="449"/>
-        <source>Copy the selected object(s) to clipboard</source>
-        <translation>Копировать выделенные объект(ы) в буфер обмена</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="460"/>
-        <source>Paste</source>
-        <translation>Вставить</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="462"/>
-        <source>Paste object(s) from the clipboard</source>
-        <translation>Вставить объект(ы) из буфера обмена</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="670"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="664"/>
         <source>View</source>
         <translation>Вид</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="705"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="699"/>
         <source>Split Window</source>
         <translation>Разделить окно</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="707"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="701"/>
         <source>Split the current window into one more section</source>
         <translation>Разделить текущее окно ещё на одну секцию</translation>
     </message>
@@ -19502,22 +19467,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Отменить: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="889"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="883"/>
         <source>Library</source>
         <translation>Библиотека</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="908"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="902"/>
         <source>Save Library</source>
         <translation>Сохранить библиотеку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="918"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="912"/>
         <source>Close Library</source>
         <translation>Закрыть библиотеку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="919"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="913"/>
         <source>Close the currently opened library</source>
         <translation>Закрыть текущую открытую библиотеку</translation>
     </message>
@@ -19532,24 +19497,29 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Вернуть: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="960"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="954"/>
         <source>New Component Category</source>
         <translation>Новая категория компонентов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="970"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="964"/>
         <source>New Package Category</source>
         <translation>Новая категория пакетов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="980"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="974"/>
         <source>New Symbol</source>
         <translation>Новый символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="990"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="984"/>
         <source>New Package</source>
         <translation>Новый пакет</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="994"/>
+        <source>New Component</source>
+        <translation>Новый компонент</translation>
     </message>
 </context>
 <context>
