@@ -17615,17 +17615,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentAddGatesTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="410"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="411"/>
         <source>Next</source>
         <translation>Далее</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="410"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="411"/>
         <source>Skip</source>
         <translation>Пропустить</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="421"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="422"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -17739,27 +17739,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentMetadataTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="223"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="224"/>
         <source>Check this if this component cannot be placed on boards (e.g. supply symbols, sheet frames, ...).</source>
         <translation>Проверьте это, если этот компонент нельзя разместить на платах (например, символы питания, рамки листов и т. д.).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="242"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="243"/>
         <source>E.g. \&quot;%1\&quot; for resistors, or \&quot;%2\&quot; for integrated circuits</source>
         <translation>Напр. \&quot;%1\&quot; для резисторов, или \&quot;%2\&quot; для интегральных схем</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="280"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="281"/>
         <source>The VALUE the component gets when added to the schematics.</source>
         <translation>ЗНАЧЕНИЕ, которое получает компонент при добавлении в схему.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="291"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="292"/>
         <source>For specific components (e.g. \&quot;ESP32-S3R2\&quot;):</source>
         <translation>Для специфичных компонентов (например, \&quot;ESP32-S3R2\&quot;):</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="314"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="315"/>
         <source>For generic components (e.g. \&quot;OpAmp\&quot;):</source>
         <translation>Для универсальных компонентов (например, \&quot;OpAmp\&quot;):</translation>
     </message>
@@ -17805,52 +17805,52 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentSignalsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="446"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="447"/>
         <source>Now review &amp; correct the list of signals, if needed (often it is not needed, then just proceed).</source>
         <translation>Теперь просмотрите и исправьте список сигналов, если это необходимо (часто это не нужно, тогда просто продолжайте).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="447"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="448"/>
         <source>If you add or remove any signals, don&apos;t forget to update the pinout afterwards (on the next step)!</source>
         <translation>Если вы добавляете или удаляете какие-либо сигналы, не забудьте потом обновить распиновку (на следующем шаге)!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="453"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="454"/>
         <source>This signal list should represent the *electrical* interface of the component, not the *mechanical* pads.</source>
         <translation>Этот список сигналов должен представлять *электрический* интерфейс компонента, а не *механические* площадки.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="454"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="455"/>
         <source>For example, if an IC has two or more GND pads which are internally connected, only one GND signal should be added here.</source>
         <translation>Например, если IC (микросхема) имеет две или более площадки GND, которые соединены внутри, сюда следует добавить только один сигнал GND.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="455"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="456"/>
         <source>Note that once the component is finished, it is *not* possible anymore to add or remove signals.</source>
         <translation>Обратите внимание, что после завершения работы над компонентом больше невозможно добавлять или удалять сигналы.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="458"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="459"/>
         <source>Important:</source>
         <translation>Важно:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="469"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="470"/>
         <source>Add Signals:</source>
         <translation>Добавить сигналы:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="474"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="475"/>
         <source>Signal name (may contain ranges like \&quot;1..5\&quot;; use prefix \&quot;!\&quot; for inverted signals)</source>
         <translation>Имя сигнала (может содержать диапазоны типа  \&quot;1..5\&quot;; используйте префикс \&quot;!\&quot; для инвертированных сигналов)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="523"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="524"/>
         <source>Finish</source>
         <translation>Finish</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="533"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="534"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -17858,17 +17858,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="592"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="593"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="593"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="594"/>
         <source>Signals</source>
         <translation>Сигналы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="594"/>
+        <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="595"/>
         <source>Variants &amp; Gates</source>
         <translation>Варианты и Вентили</translation>
     </message>
@@ -18136,32 +18136,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceContentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="335"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="336"/>
         <source>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</source>
         <translation>Определите распиновку, т.е. соедините контактные площадки корпуса с компонентными сигналами. Это можно сделать либо вручную, шаг за шагом, либо автоматически, используя одну из кнопок ниже.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="343"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="344"/>
         <source>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</source>
         <translation>При желании укажите конкретные номера деталей этого устройства. Затем их можно использовать для создания спецификации материалов (BOM) проекта.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="426"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
         <source>Finish</source>
         <translation>Финиш</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="428"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="429"/>
         <source>Next</source>
         <translation>Следующий</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="430"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="431"/>
         <source>Skip</source>
         <translation>Пропустить</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="442"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="443"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -18312,12 +18312,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="537"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="538"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="538"/>
+        <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="539"/>
         <source>Pinout &amp; Parts</source>
         <translation>Распиновка выводов &amp; Детали</translation>
     </message>
@@ -18969,37 +18969,37 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryContentTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="535"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="536"/>
         <source>New Component Category</source>
         <translation>Новая категория компонентов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="545"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="546"/>
         <source>New Package Category</source>
         <translation>Новая категория пакетов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="626"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="627"/>
         <source>The selected category does not contain any library elements.</source>
         <translation>Выбранная категория не содержит элементов библиотеки.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="650"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="651"/>
         <source>New Device</source>
         <translation>Новое устройство</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="659"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="660"/>
         <source>New Component</source>
         <translation>Новый компонент</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="669"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="670"/>
         <source>New Symbol</source>
         <translation>Новый символ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="678"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="679"/>
         <source>New Package</source>
         <translation>Новый пакет</translation>
     </message>
@@ -19007,12 +19007,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryImportButton</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="336"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="337"/>
         <source>Import %1 Libraries</source>
         <translation>Импортировать %1 библиотек</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="349"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="350"/>
         <source>Start populating this library by importing %1 library elements.</source>
         <translation>Начните заполнять эту библиотеку, импортировав %1 элементов библиотеки.</translation>
     </message>
@@ -19020,12 +19020,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryImportTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="396"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="397"/>
         <source>Finish</source>
         <translation>Finish</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="406"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="407"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -19061,12 +19061,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryMetadataTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="203"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="204"/>
         <source>Check this if this library should no longer be used.</source>
         <translation>Установите этот флажок, если эта библиотека больше не должна использоваться.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="253"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="254"/>
         <source>If this is a manufacturer-specific library (optional)</source>
         <translation>Если это библиотека конкретного производителя (необязательно)</translation>
     </message>
@@ -19110,17 +19110,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="756"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="757"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="757"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="758"/>
         <source>Import</source>
         <translation>Импорт</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="758"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="759"/>
         <source>Library Content</source>
         <translation>Содержание библиотеки</translation>
     </message>
@@ -19181,27 +19181,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::LibraryTreeViewToolBar</name>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="459"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="460"/>
         <source>%n selected item(s)</source>
         <translation><numerusform>%n выбранных элементов</numerusform><numerusform>%n выбранных элементов</numerusform><numerusform>%n выбранных элементов</numerusform><numerusform>%n выбранных элементов</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="473"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="474"/>
         <source>Copy to Other Library</source>
         <translation>Копировать в другую библиотеку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="475"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="476"/>
         <source>Copy library element(s) to another library while keeping all UUIDs, e.g. for overriding a read-only element</source>
         <translation>Скопировать элементы библиотеки в другую библиотеку, сохранив все UUID, например для переопределения элемента, доступного только для чтения</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="482"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="483"/>
         <source>Move to Other Library</source>
         <translation>Перейти в другую библиотеку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="484"/>
+        <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="485"/>
         <source>Move library element(s) to another library</source>
         <translation>Переместить этот элемент в другую библиотеку</translation>
     </message>
@@ -19717,33 +19717,33 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::OrganizationTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="234"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
         <translation>Организации с более высоким приоритетом появятся перед организациями с более низким приоритетом.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Reserved for official organizations</source>
         <translation>Зарезервировано для официальных организаций</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Recommended for your personal organizations</source>
         <translation>Рекомендуется для ваших личных организаций</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Reserved for LibrePCB Fab</source>
         <translation>Зарезервировано для LibrePCB Fab</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
         <source>Not recommended</source>
         <translation>Не рекомендуется</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="269"/>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="281"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="270"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="282"/>
         <source>%n output job(s)</source>
         <translation><numerusform>%n выходных заданий</numerusform><numerusform>%n выходных заданий</numerusform><numerusform>%n выходных заданий</numerusform><numerusform>%n выходных заданий</numerusform></translation>
     </message>
@@ -19831,32 +19831,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="771"/>
         <source>Helper Tools</source>
         <translation>Вспомогательные инструменты</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="871"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="872"/>
         <source>Background Image</source>
         <translation>Фоновое изображение</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="890"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="891"/>
         <source>Devices</source>
         <translation>Устройства</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="903"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="904"/>
         <source>Solder Paste</source>
         <translation>Паяльная паста</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="916"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="917"/>
         <source>Silkscreen</source>
         <translation>Шелкография</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="929"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="930"/>
         <source>Solder Resist</source>
         <translation>Паяльный резист</translation>
     </message>
@@ -19895,42 +19895,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="266"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="267"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation>Добавьте все (потенциально паяемые) контактные площадки корпуса, электрически независимые, неважно, действительно ли они выполняют электрическую функцию в определённой части.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="267"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="268"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation>Например, здесь должна быть указана термоплощадка, даже если она не имеет электрических функций.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="268"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="269"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation>После завершения корпусировки станет *не* возможно добавлять или удалять площадки.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="274"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="275"/>
         <source>Important:</source>
         <translation>Важно:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="285"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="286"/>
         <source>Add Pads:</source>
         <translation>Добавить площадки:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="290"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="291"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation>Имя площадки (может содержать диапазоны типа\&quot;1..5\&quot;)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="338"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="339"/>
         <source>Finish</source>
         <translation>Finish</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="348"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="349"/>
         <source>Back</source>
         <translation>Назад</translation>
     </message>
@@ -19938,22 +19938,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
         <source>Pads</source>
         <translation>Контактные площадки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1114"/>
         <source>Footprints</source>
         <translation>Посадочные места</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1114"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1115"/>
         <source>3D Models</source>
         <translation>3D-модели</translation>
     </message>
@@ -20509,22 +20509,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="371"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
         <source>Import Pins From Datasheet</source>
         <translation>Импортировать пины из Технического паспорта</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="377"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Начинать рисовать новый символ рекомендуется с добавления всех пинов. Самый быстрый способ сделать это, особенно для более крупных символов, — импортировать их из технического паспорта или любой другой документации детали.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="383"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
         <source>Import Pins</source>
         <translation>Импортировать пины</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="397"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
         <source>Learn how to create symbols</source>
         <translation>Научитесь создавать символы</translation>
     </message>
@@ -20532,12 +20532,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
         <source>Metadata</source>
         <translation>Метаданные</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="704"/>
         <source>Graphics</source>
         <translation>Графика</translation>
     </message>
