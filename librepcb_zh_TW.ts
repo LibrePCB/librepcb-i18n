@@ -4188,22 +4188,22 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
 <context>
     <name>EditorToolbox</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="444"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="443"/>
         <source>Search datasheet for &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="531"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="530"/>
         <source>No datasheet found</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="532"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="531"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="545"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="544"/>
         <source>Error</source>
         <translation>錯誤</translation>
     </message>
@@ -5901,22 +5901,22 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="175"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="174"/>
         <source>Ctrl</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="177"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="176"/>
         <source>Shift</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="179"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="178"/>
         <source>Alt</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="181"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="180"/>
         <source>Meta</source>
         <translation type="unfinished"/>
     </message>
@@ -12452,7 +12452,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="154"/>
         <source>Custom (adjust to content)</source>
         <translation type="unfinished"/>
     </message>
@@ -12462,17 +12462,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation>線路圖</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="350"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="352"/>
         <source>Board Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="356"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="358"/>
         <source>Assembly Top/Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="368"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="370"/>
         <source>Rendering Top/Bottom</source>
         <translation type="unfinished"/>
     </message>
@@ -14088,22 +14088,22 @@ Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="55"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="56"/>
         <source>Output Jobs</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="106"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="107"/>
         <source>Run this job</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="107"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="108"/>
         <source>Run all dependencies and this job</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="109"/>
+        <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="110"/>
         <source>Run all jobs</source>
         <translation type="unfinished"/>
     </message>
@@ -17354,17 +17354,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="646"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="644"/>
         <source>Background Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="694"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
         <source>DRC Messages: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="705"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="703"/>
         <source>Unplaced: %1</source>
         <translation type="unfinished"/>
     </message>
@@ -17372,22 +17372,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board3dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="101"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="100"/>
         <source>Devices</source>
         <translation>裝置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="114"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="113"/>
         <source>Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="127"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="126"/>
         <source>Silkscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="140"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="139"/>
         <source>Solder Resist</source>
         <translation type="unfinished"/>
     </message>
@@ -17541,17 +17541,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="203"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="202"/>
         <source>Component</source>
         <translation>元件</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="205"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="204"/>
         <source>Failed to load component</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="206"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="205"/>
         <source>No component selected</source>
         <translation>沒有選擇的元件</translation>
     </message>
@@ -19672,17 +19672,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageCard</name>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="224"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="223"/>
         <source>Package</source>
         <translation>封裝</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="226"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="225"/>
         <source>Failed to load package</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="227"/>
+        <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="226"/>
         <source>No package selected</source>
         <translation>沒有選擇的封裝</translation>
     </message>
@@ -19739,32 +19739,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="771"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
         <source>Helper Tools</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="872"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="870"/>
         <source>Background Image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="891"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
         <source>Devices</source>
         <translation>裝置</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="904"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
         <source>Solder Paste</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="917"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="915"/>
         <source>Silkscreen</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="930"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="928"/>
         <source>Solder Resist</source>
         <translation type="unfinished"/>
     </message>
@@ -19846,22 +19846,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1110"/>
         <source>Metadata</source>
         <translation>後設資料</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
         <source>Pads</source>
         <translation>焊墊</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1114"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
         <source>Footprints</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1115"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
         <source>3D Models</source>
         <translation type="unfinished"/>
     </message>
@@ -20330,7 +20330,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="503"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="501"/>
         <source>Pin Numbers</source>
         <translation>引腳數字</translation>
     </message>
@@ -20440,12 +20440,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
         <source>Metadata</source>
         <translation>後設資料</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="704"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Graphics</source>
         <translation type="unfinished"/>
     </message>
