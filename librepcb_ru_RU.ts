@@ -17822,7 +17822,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="455"/>
         <source>For example, if an IC has two or more GND pads which are internally connected, only one GND signal should be added here.</source>
-        <translation>Например, если IC (микросхема) имеет две или более площадки GND, которые соединены внутри, сюда следует добавить только один сигнал GND.</translation>
+        <translation>Например, если IC (микросхема) имеет две или более площадки GND (земля), которые соединены внутри, сюда следует добавить только один сигнал GND (земля).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="456"/>
@@ -18368,7 +18368,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="66"/>
         <source>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</source>
-        <translation>Обратите внимание, что это не лучший способ установки библиотек, поскольку они не будут обновляться. Для наших официальных библиотек рекомендуется вместо этого устанавливать их с панели библиотек, что позволяет поддерживать библиотеки в актуальном состоянии.</translation>
+        <translation>Обратите внимание, что это не лучший способ установки библиотек, поскольку они не будут обновляться. Для наших официальных библиотек рекомендуется установка из панели библиотек, что позволяет поддерживать библиотеки в актуальном состоянии.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="84"/>
@@ -19022,7 +19022,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="397"/>
         <source>Finish</source>
-        <translation>Finish</translation>
+        <translation>Финиш</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="407"/>
