@@ -5951,12 +5951,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="178"/>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="180"/>
         <source>Meta</source>
-        <translation type="unfinished"/>
+        <translation>Meta</translation>
     </message>
 </context>
 <context>
@@ -6979,7 +6979,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="160"/>
         <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, the final log file will be persisted in the projects &apos;%1&apos; directory.</source>
-        <translation type="unfinished"/>
+        <translation>Примечание. Это временный файл, поскольку проект ещё не сохранён на диске. При сохранении проекта окончательный файл журнала будет сохранён в каталоге проекта &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="167"/>
@@ -7590,7 +7590,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="470"/>
         <source>This tool allows you to set a background image (typically a PCB scan) in the board editor to easily verify or reproduce an existing printed circuit board. Note that the image is exclusively visible in the board editor, not in any exported files.</source>
-        <translation type="unfinished"/>
+        <translation>Этот инструмент позволяет вам установить фоновое изображение (обычно сканирование печатной платы) в редакторе плат, чтобы легко проверить или воспроизвести существующую печатную плату. Обратите внимание, что изображение видно только в редакторе плат, а не в каких-либо экспортированных файлах.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="478"/>
@@ -7605,7 +7605,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="489"/>
         <source>Draw a line around the area of interest to crop the image.</source>
-        <translation type="unfinished"/>
+        <translation>Нарисуйте линию вокруг интересующей области, чтобы обрезать изображение.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="490"/>
@@ -7635,12 +7635,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="556"/>
         <source>Crop the image by drawing a line with the cursor around the area of interest (single click to skip).</source>
-        <translation type="unfinished"/>
+        <translation>Обрежьте изображение, проведя курсором линию вокруг интересующей области (одиночный щелчок, чтобы пропустить).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="560"/>
         <source>Rotate/mirror the image to get the desired orientation.</source>
-        <translation type="unfinished"/>
+        <translation>Поверните/отразите изображение, чтобы получить желаемую ориентацию.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="564"/>
@@ -15107,12 +15107,12 @@ Do you want to save them before closing it?</source>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="185"/>
         <source>Show %n Message(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Показать %n сообщение</numerusform><numerusform>Показать %n сообщения</numerusform><numerusform>Показать %n сообщений</numerusform><numerusform>Показать %n сообщений</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="197"/>
         <source>Migration log saved to &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Журнал миграции сохранен в &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="398"/>
@@ -16050,7 +16050,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="531"/>
         <source>right click</source>
-        <translation>щелкните правой кнопкой мыши</translation>
+        <translation>щёлкните правой кнопкой мыши</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="535"/>
@@ -16273,7 +16273,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="47"/>
         <source>Move text automatically when changing the pin length.</source>
-        <translation>Автоматическое перемещение текста при изменении длины штифта.</translation>
+        <translation>Автоматическое перемещение текста при изменении длины вывода.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="50"/>
@@ -16342,7 +16342,7 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="721"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation>СИмвол &apos;%1&apos; содержит несохранённые изменения.
+        <translation>Символ &apos;%1&apos; содержит несохранённые изменения.
 Хотите сохранить их перед закрытием?</translation>
     </message>
     <message>
@@ -17156,7 +17156,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
         <source>Height</source>
-        <translation>Height</translation>
+        <translation>Высота</translation>
     </message>
 </context>
 <context>
@@ -17230,7 +17230,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
         <source>Height</source>
-        <translation>Height</translation>
+        <translation>Высота</translation>
     </message>
 </context>
 <context>
