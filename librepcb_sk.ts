@@ -12546,143 +12546,143 @@ Upozornenie: Zaoblené sloty nie sú podporované v režime G85 (vyvolá chybu).
 <context>
     <name>librepcb::editor::GuiApplication</name>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="169"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="193"/>
         <source>Older Application Version Used</source>
         <translation>Použitá staršia verzia aplikácie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="170"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="194"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
         <translation>Tento pracovný priestor bol už použitý s novšou verziou LibrePCB. Je to v poriadku, len si uvedomte, že všetky zmeny v knižniciach a nastaveniach pracovného priestoru nebudú dostupné v novších verziách LibrePCB.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="183"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="207"/>
         <source>No Libraries Installed</source>
         <translation>Nie sú nainštalované žiadne knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="184"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="208"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
         <translation>Tento pracovný priestor neobsahuje žiadne knižnice, ktoré sú nevyhnutné na tvorbu a úpravu projektov. Mali by ste otvoriť panel knižníc a pridať niektoré knižnice.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="187"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="211"/>
         <source>Open Library Manager</source>
         <translation>Otvoriť správcu knižníc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="204"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="228"/>
         <source>Application is Not Installed</source>
         <translation>Aplikácia nie je nainštalovaná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="205"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="229"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
         <translation>Zdá sa, že tento spustiteľný súbor aplikácie nie je integrovaný do prostredia pracovnej plochy. V prípade potreby ho nainštalujte teraz, aby ste mohli otvárať projekty LibrePCB prostredníctvom správcu súborov. Kliknutím na tlačidlo získate podrobnosti, alebo to môžete kedykoľvek urobiť z dialógového okna predvolieb.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="209"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="233"/>
         <source>Install Desktop Integration</source>
         <translation>Inštalovať integráciu do pracovnej plochy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="232"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="256"/>
         <source>Light System Theme Detected</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="233"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="257"/>
         <source>LibrePCB now provides a light theme in addition to the dark theme. It has been activated automatically due to your operating system settings. If you like, you can switch back to the dark theme.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="236"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="260"/>
         <source>Use Dark Theme</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="250"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="274"/>
         <source>Scanning Libraries</source>
         <translation>Skenovanie knižníc</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="275"/>
         <source>The internal libraries database is being updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
         <translation>Interná databáza knižníc sa aktualizuje. Môže to trvať niekoľko minút a medzitým sa môžu zobrazovať neaktuálne informácie o knižniciach.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="267"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="291"/>
         <source>Scanning Libraries Failed</source>
         <translation>Skenovanie knižníc zlyhalo</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="268"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="292"/>
         <source>Clear Cache</source>
         <translation>Vymazať vyrovnávaciu pamäť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="357"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="381"/>
         <source>Workspace changed</source>
         <translation>Pracovný priestor bol zmenený</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="358"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="382"/>
         <source>The chosen workspace will be used after restarting the application.</source>
         <translation>Zvolený pracovný priestor bude použitý po reštarte aplikácie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="374"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="398"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation>Teraz budú stiahnuté vzorové projekty z internetu a skopírované do pracovného priestoru, aby Vám pomohli vyskúšať LibrePCB so skutočnými projektami.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="378"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="402"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation>Keď ich už nebudete potrebovať, stačí odstrániť adresár s príkladmi.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="381"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="405"/>
         <source>Add Example Projects</source>
         <translation>Pridať vzorové projekty</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="422"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="556"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="446"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="580"/>
         <source>Restore autosave backup?</source>
         <translation>Obnoviť z automatickej zálohy?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="423"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="447"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom otvorení tejto knižnice došlo k zlyhaniu aplikácie. Chcete obnoviť poslednú zálohu automatického ukladania?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="461"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="485"/>
         <source>Failed to open library</source>
         <translation>Nepodarilo sa otvoriť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="509"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="533"/>
         <source>Could not create project</source>
         <translation>Projekt sa nedá vytvoriť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="523"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="547"/>
         <source>Open Project</source>
         <translation>Otvoriť projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="524"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="548"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Súbory LibrePCB projektu (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="557"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="581"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation>Zdá sa, že pri poslednom použití tohto projektu zlyhala aplikácia. Želáte si obnoviť poslednú automaticky uloženú zálohu?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="632"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="656"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -20541,17 +20541,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::TabButton</name>
     <message>
-        <location filename="libs/librepcb/ui/windowsection.slint" line="211"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="212"/>
         <source>Move to Window %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/windowsection.slint" line="221"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="222"/>
         <source>Move to New Window</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/windowsection.slint" line="230"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="231"/>
         <source>Close Tab</source>
         <translation>Zavrieť kartu</translation>
     </message>
@@ -20614,12 +20614,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::WindowSection</name>
     <message>
-        <location filename="libs/librepcb/ui/windowsection.slint" line="299"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="296"/>
         <source>Split Section</source>
         <translation>Rozdeliť sekciu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/windowsection.slint" line="312"/>
+        <location filename="libs/librepcb/ui/windowsection.slint" line="309"/>
         <source>Close Section</source>
         <translation>Zavrieť sekciu</translation>
     </message>
