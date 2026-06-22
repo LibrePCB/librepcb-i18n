@@ -13502,66 +13502,66 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::LibraryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="361"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="370"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="551"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1092"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1143"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="376"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="385"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="566"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1107"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1158"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="379"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="394"/>
         <source>Choose Library Icon</source>
         <translation>Выберите Значок библиотеки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="381"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="396"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="387"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="402"/>
         <source>Could not open file</source>
         <translation>Не удалось открыть файл</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="708"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
         <source>Unknown</source>
         <translation>Неизвестный</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="738"/>
         <source>Invalid Parent</source>
         <translation>Неверный родитель</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1033"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1048"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Вы уверены что хотите переместить эти элементы в библиотеку &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1038"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1053"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>Вы уверены что хотите скопировать эти элементы в библиотеку &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1051"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1066"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation>Примечание. Эту операцию нельзя легко отменить, кроме как открытием целевой библиотеки и перемещением элементов библиотеки обратно тем же способом.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1057"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation>Важно: Эта операция копирует выбранные элементы библиотеки, сохраняя их UUID, поэтому их нельзя впоследствии изменять для представления другой части. Основная цель этой операции — переопределить элементы библиотеки из библиотеки, доступной только для чтения, с небольшими корректировками, что возможно только в локальных библиотеках с возможностью записи.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1067"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1082"/>
         <source>Move %1 Elements</source>
         <translation>Переместить %1 элементов</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1117"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1132"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -13570,12 +13570,12 @@ Are you still sure to delete the following library elements?</source>
 Вы по прежнему хотите удалить эти элементы библиотеки?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1130"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1145"/>
         <source>This cannot be undone!</source>
         <translation>Это не может быть отменено!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1134"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1149"/>
         <source>Remove %1 Elements</source>
         <translation>Удалить %1 элементов</translation>
     </message>
