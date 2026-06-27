@@ -137,7 +137,7 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="70"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="195"/>
         <source>Info Box</source>
-        <translation type="unfinished"/>
+        <translation>Info Sektion</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="75"/>
@@ -197,7 +197,7 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="125"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="270"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Anleitung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="130"/>
@@ -253,17 +253,17 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="205"/>
         <source>DRC Marker</source>
-        <translation type="unfinished"/>
+        <translation>DRC Markierung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="220"/>
         <source>Plated Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>aufgekupferter Ausschnitt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="225"/>
         <source>Holes</source>
-        <translation type="unfinished"/>
+        <translation>Bohrung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="230"/>
@@ -278,7 +278,7 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="240"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Zone</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="245"/>
@@ -288,7 +288,7 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="250"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Messungen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="255"/>
@@ -298,152 +298,152 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="275"/>
         <source>Names Top</source>
-        <translation type="unfinished"/>
+        <translation>Name Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="280"/>
         <source>Names Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Name Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="285"/>
         <source>Values Top</source>
-        <translation type="unfinished"/>
+        <translation>Werte Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="290"/>
         <source>Values Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Werte Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="295"/>
         <source>Legend Top</source>
-        <translation type="unfinished"/>
+        <translation>Legende Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="300"/>
         <source>Legend Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Legende Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="306"/>
         <source>Documentation Top</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentation Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="312"/>
         <source>Documentation Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentation Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="318"/>
         <source>Package Outlines Top</source>
-        <translation type="unfinished"/>
+        <translation>Gehäuse Umrahmung Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="324"/>
         <source>Package Outlines Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Gehäuse Umrahmung Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="329"/>
         <source>Courtyard Top</source>
-        <translation type="unfinished"/>
+        <translation>Vorhof Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="335"/>
         <source>Courtyard Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Vorhof Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="340"/>
         <source>Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="346"/>
         <source>Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Grifffläche Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="352"/>
         <source>Hidden Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Versteckte Griffläche Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="358"/>
         <source>Hidden Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Versteckte Grifffläche Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="363"/>
         <source>References Top</source>
-        <translation type="unfinished"/>
+        <translation>Referenzen Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="369"/>
         <source>References Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Referenzen Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="374"/>
         <source>Stop Mask Top</source>
-        <translation type="unfinished"/>
+        <translation>Lötstoppmaske Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="380"/>
         <source>Stop Mask Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Lötstoppmaske Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="386"/>
         <source>Solder Paste Top</source>
-        <translation type="unfinished"/>
+        <translation>Lötpaste Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="392"/>
         <source>Solder Paste Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Lötpaste Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="397"/>
         <source>Finish Top</source>
-        <translation type="unfinished"/>
+        <translation>Oberflächenbeschichtung Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="402"/>
         <source>Finish Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Oberflächenbeschichtung Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="407"/>
         <source>Glue Top</source>
-        <translation type="unfinished"/>
+        <translation>Kleber Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="412"/>
         <source>Glue Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Kleber Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="417"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Kupfer Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="430"/>
         <source>Inner Copper</source>
-        <translation type="unfinished"/>
+        <translation>Inneres Kupfer</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="444"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Kupfer Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="453"/>
         <source>Background/Foreground</source>
-        <translation type="unfinished"/>
+        <translation>Hintergrund/Vordergrund</translation>
     </message>
 </context>
 <context>
@@ -461,17 +461,17 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
         <source>Open a symbol to execute symbol-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Öffne ein Symbol, um Symbol relevante Tasks auszuführen.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
         <source>Open a package to execute package-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Öffne ein Gehäuse, um ein Gehäuse relevante Tasks auszuführen.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
         <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
-        <translation type="unfinished"/>
+        <translation>Öffne ein STEP Modell, um STEP relevante Tasks ausserhalb einer Bibliothek auszuführen.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
@@ -4651,7 +4651,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/types/layer.cpp" line="111"/>
         <location filename="libs/librepcb/core/types/layer.cpp" line="197"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Anleitung</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="117"/>
@@ -4696,7 +4696,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="173"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Messungen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="179"/>
@@ -12240,12 +12240,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="559"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Kupfer Oben</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="570"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Kupfer Unten</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="891"/>
