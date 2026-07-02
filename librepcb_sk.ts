@@ -7673,72 +7673,72 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1428"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1427"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1430"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1468"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1770"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1429"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1769"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2432"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2431"/>
         <source>Add devices to board</source>
         <translation>Pridať súčiastky na dosku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2460"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2512"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2543"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2597"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2459"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2511"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2542"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2596"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2478"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2477"/>
         <source>Preparing board...</source>
         <translation>Pripravovanie dát dosky...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2478"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2477"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2531"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2530"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Export IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2595"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2594"/>
         <source>Success!</source>
         <translation>Úspešné!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2604"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2603"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Toto je nová funkcia a mohli sme ju otestovať iba s veľmi málo externými autorotrami. Ak narazíte na akýkoľvek problém s kompatibilitou s Vašim autoroutrom, dajte nám vedieť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2642"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Analýza relácie Specctra &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2651"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2650"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Import zlyhal, na doske neboli vykonané žiadne zmeny.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2656"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2655"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Import</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2666"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2665"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>
