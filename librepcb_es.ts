@@ -7620,72 +7620,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1427"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1433"/>
         <source>Auto</source>
         <translation>Automático</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1429"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1769"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1435"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1473"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1775"/>
         <source>None</source>
         <translation>Ninguno</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2431"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2437"/>
         <source>Add devices to board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2459"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2511"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2542"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2596"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2465"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2517"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2548"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2602"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2477"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2483"/>
         <source>Preparing board...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2477"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2483"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2530"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2536"/>
         <source>Export IPC D-356A Netlist</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2594"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2600"/>
         <source>Success!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2603"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2609"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2647"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2650"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2656"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2655"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2661"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2665"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2671"/>
         <source>Close</source>
         <translation>Cerrar</translation>
     </message>
@@ -12544,58 +12544,58 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="398"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="410"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="402"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="414"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="405"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="417"/>
         <source>Add Example Projects</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="446"/>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="580"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="458"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="592"/>
         <source>Restore autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="447"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="459"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="485"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="497"/>
         <source>Failed to open library</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="533"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="545"/>
         <source>Could not create project</source>
         <translation>No se pudo crear el proyecto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="547"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="559"/>
         <source>Open Project</source>
         <translation>Abrir proyecto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="548"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="560"/>
         <source>LibrePCB project files (%1)</source>
         <translation>Archivos de proyecto de LibrePCB (%1)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="581"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="593"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/guiapplication.cpp" line="656"/>
+        <location filename="libs/librepcb/editor/guiapplication.cpp" line="668"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -14666,48 +14666,48 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="714"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="723"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="732"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2559"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2597"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2664"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="717"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="726"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="735"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2562"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2600"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2667"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1078"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1081"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1079"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1082"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1710"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1713"/>
         <source>(unconnected)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2141"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2144"/>
         <source>New Line Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2364"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2367"/>
         <source>Apply to all unspecified pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2386"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2389"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2741"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2744"/>
         <source>Please select a footprint.</source>
         <translation type="unfinished"/>
     </message>
@@ -15708,17 +15708,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1247"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1252"/>
         <source>Preparing schematics...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1247"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1252"/>
         <source>Cancel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1276"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1281"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
@@ -16201,28 +16201,28 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="462"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="471"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="480"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1576"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1615"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1673"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="464"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="473"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="482"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1578"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1617"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1675"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="720"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="722"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="721"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="723"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1557"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1559"/>
         <source>Edit Symbol Properties</source>
         <translation type="unfinished"/>
     </message>
