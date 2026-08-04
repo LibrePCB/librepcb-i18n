@@ -6057,27 +6057,27 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>SlintHelpers</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="483"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="488"/>
         <source>Required</source>
         <translation>Vyžadovaný</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="485"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="490"/>
         <source>Invalid</source>
         <translation>Neplatné</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="495"/>
         <source>Duplicate</source>
         <translation>Duplikovať</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="494"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="499"/>
         <source>Recommended</source>
         <translation>Odporúčaná</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="526"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="531"/>
         <source>Suffix &apos;%1&apos; missing</source>
         <translation>Chýbajúca prípona &apos;%1&apos;</translation>
     </message>
@@ -11094,34 +11094,34 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="492"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="501"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="970"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1005"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1042"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1083"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="494"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="503"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="972"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1007"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1044"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1085"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="646"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="648"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="647"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="649"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Súčiastka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1027"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1029"/>
         <source>Change Component</source>
         <translation>Zameniť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1064"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1066"/>
         <source>Change Package</source>
         <translation>Zameniť puzdro</translation>
     </message>
