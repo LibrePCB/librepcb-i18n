@@ -5755,12 +5755,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>OccModel</name>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="499"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="500"/>
         <source>Failed to write STEP file.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="710"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
         <source>Failed to read STEP file!</source>
         <translation type="unfinished"/>
     </message>
@@ -6188,12 +6188,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Workspace</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="264"/>
+        <location filename="apps/librepcb/main.cpp" line="267"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="265"/>
+        <location filename="apps/librepcb/main.cpp" line="268"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
         <translation>Nepodařilo se otevřít pracovní prostor &quot;%1&quot;:</translation>
     </message>
@@ -14026,40 +14026,40 @@ For more information about licensing, click on this icon.</source>
 <context>
     <name>librepcb::editor::OrganizationTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="91"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="92"/>
         <source>PCB Design Rules: %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="230"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="239"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="428"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="460"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="231"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="240"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="429"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="461"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="252"/>
         <source>Choose Organization Logo</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="252"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="253"/>
         <source>Portable Network Graphics (*.png)</source>
         <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="258"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="259"/>
         <source>Could not open file</source>
         <translation>Nepodařilo se otevřít soubor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="293"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="294"/>
         <source>Save Changes?</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="294"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="295"/>
         <source>The organization '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation type="unfinished"/>
@@ -16932,12 +16932,12 @@ Pozor: Tato změna bude provedena okamžitě a je nevratná!</translation>
 <context>
     <name>main</name>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="284"/>
+        <location filename="apps/librepcb/main.cpp" line="287"/>
         <source>Unstable file format!</source>
         <translation>Formát souboru se může změnit!</translation>
     </message>
     <message>
-        <location filename="apps/librepcb/main.cpp" line="285"/>
+        <location filename="apps/librepcb/main.cpp" line="288"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;b&gt;UPOZORNĚNÍ: Toto není stálá verze programu!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Práce s ní může poškodit váš pracovní prostor, knihovny anebo projekty! Soubory uložené touto verzí, nebudou čitelné stabilními verzemi LibrePCB. Před pokračováním doporučujeme, vytvořit si jejich kopie. Pokud si nejste jisti postupem, prosím raději použijte oficiálni stabilní verzi.&lt;/p&gt;&lt;p&gt;Pro více podrobností, si prosím podívejte &lt;a href=&quot;%1&quot;&gt;koncept verzování&lt;/a&gt; LibrePCB.&lt;/p&gt;&lt;p&gt;Opravdu chcete pokračovať i když může dojít k poškození Vašich souborů?!&lt;/p&gt;</translation>
     </message>
