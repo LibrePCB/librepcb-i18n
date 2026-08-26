@@ -191,79 +191,79 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="120"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="265"/>
         <source>Comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="125"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="270"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="130"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="215"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Dış Hatlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="135"/>
         <source>Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="141"/>
         <source>Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="146"/>
         <source>Names</source>
-        <translation type="unfinished"/>
+        <translation>İsimler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="151"/>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Değerler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="156"/>
         <source>Optional Pins</source>
-        <translation type="unfinished"/>
+        <translation>İsteğe Bağlı Pinler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="161"/>
         <source>Required Pins</source>
-        <translation type="unfinished"/>
+        <translation>Zorunlu Pinler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="166"/>
         <source>Pin Lines</source>
-        <translation type="unfinished"/>
+        <translation>Pin Çizgileri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="171"/>
         <source>Pin Names</source>
-        <translation type="unfinished"/>
+        <translation>Pin İsimleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="176"/>
         <source>Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pin Numaraları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="205"/>
         <source>DRC Marker</source>
-        <translation type="unfinished"/>
+        <translation>DRC İşaretçisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="220"/>
         <source>Plated Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı Kesimler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="225"/>
         <source>Holes</source>
-        <translation type="unfinished"/>
+        <translation>Delikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="230"/>
@@ -4645,38 +4645,38 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/types/layer.cpp" line="105"/>
         <location filename="libs/librepcb/core/types/layer.cpp" line="191"/>
         <source>Comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="111"/>
         <location filename="libs/librepcb/core/types/layer.cpp" line="197"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="117"/>
         <source>Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Dış Hatlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="123"/>
         <source>Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="129"/>
         <source>Names</source>
-        <translation type="unfinished"/>
+        <translation>İsimler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="135"/>
         <source>Values</source>
-        <translation type="unfinished"/>
+        <translation>Değerler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="141"/>
         <source>Pin Names</source>
-        <translation type="unfinished"/>
+        <translation>Pin İsimleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="153"/>
@@ -20292,7 +20292,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="501"/>
         <source>Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pin Numaraları</translation>
     </message>
 </context>
 <context>
