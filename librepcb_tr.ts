@@ -38,12 +38,12 @@
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.cpp" line="39"/>
         <source>STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP Modeli</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/board3doutputjob.h" line="73"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D Model</translation>
     </message>
 </context>
 <context>
@@ -64,12 +64,12 @@
     <message>
         <location filename="libs/librepcb/core/job/bomoutputjob.cpp" line="40"/>
         <source>Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme Listesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/bomoutputjob.h" line="79"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme Listesi</translation>
     </message>
 </context>
 <context>
@@ -77,7 +77,7 @@
     <message>
         <location filename="libs/librepcb/core/types/boundedunsignedratio.cpp" line="108"/>
         <source>Minimum value must not be greater than maximum value.</source>
-        <translation type="unfinished"/>
+        <translation>Asgari değer, azami değerden fazla olmamalıdır.</translation>
     </message>
 </context>
 <context>
@@ -85,7 +85,7 @@
     <message>
         <location filename="libs/librepcb/core/types/busname.h" line="52"/>
         <source>Invalid bus name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz veri yolu adı: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -93,7 +93,7 @@
     <message>
         <location filename="libs/librepcb/core/types/circuitidentifier.h" line="53"/>
         <source>Invalid identifier: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz tanımlayıcı: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -106,17 +106,17 @@
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
         <source>Symbol pin name</source>
-        <translation type="unfinished"/>
+        <translation>Sembol pin adı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="107"/>
         <source>Component signal name</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen sinyal adı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="113"/>
         <source>Schematic net name</source>
-        <translation type="unfinished"/>
+        <translation> Şema ağ adı</translation>
     </message>
 </context>
 <context>
@@ -125,67 +125,67 @@
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="60"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="185"/>
         <source>Background/Grid</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan/Izgara</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="65"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="190"/>
         <source>Overlays</source>
-        <translation type="unfinished"/>
+        <translation>Yardımcı Görünümler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="70"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="195"/>
         <source>Info Box</source>
-        <translation type="unfinished"/>
+        <translation>Bilgi Kutusu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="75"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="200"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Seçim</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="80"/>
         <source>References</source>
-        <translation type="unfinished"/>
+        <translation>Referanslar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="85"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="210"/>
         <source>Frames</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeveler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="90"/>
         <source>Wires</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantılar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="95"/>
         <source>Net Labels</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Etiketleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="100"/>
         <source>Buses</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="105"/>
         <source>Bus Labels</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Etiketleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="110"/>
         <source>Image Borders</source>
-        <translation type="unfinished"/>
+        <translation>Görsel Kenarlıkları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="115"/>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="260"/>
         <source>Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="120"/>
@@ -2745,7 +2745,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
         <source>Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme Listesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="572"/>
@@ -4639,7 +4639,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/types/layer.cpp" line="99"/>
         <location filename="libs/librepcb/core/types/layer.cpp" line="185"/>
         <source>Documentation</source>
-        <translation type="unfinished"/>
+        <translation> Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="105"/>
@@ -7687,7 +7687,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2671"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
 </context>
 <context>
@@ -13748,7 +13748,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="160"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="202"/>
@@ -14175,7 +14175,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="351"/>
         <source>Documentation</source>
-        <translation type="unfinished"/>
+        <translation> Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="353"/>
@@ -15264,7 +15264,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="57"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="64"/>
@@ -17472,7 +17472,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="645"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="655"/>
@@ -17884,7 +17884,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="187"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="211"/>
@@ -20079,7 +20079,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="520"/>
         <source>Close</source>
-        <translation type="unfinished"/>
+        <translation>Kapat</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="540"/>
@@ -20480,7 +20480,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="91"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm:</translation>
     </message>
 </context>
 <context>
