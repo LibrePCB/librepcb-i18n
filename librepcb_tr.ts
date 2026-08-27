@@ -318,12 +318,12 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="295"/>
         <source>Legend Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Serigrafi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="300"/>
         <source>Legend Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Serigrafi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="306"/>
