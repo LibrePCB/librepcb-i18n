@@ -268,22 +268,22 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="230"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Padler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="235"/>
         <source>Vias</source>
-        <translation type="unfinished"/>
+        <translation>Vialar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="240"/>
         <source>Zones</source>
-        <translation type="unfinished"/>
+        <translation>Bölgeler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="245"/>
         <source>Air Wires</source>
-        <translation type="unfinished"/>
+        <translation>Kılavuz Çizgiler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="250"/>
@@ -293,27 +293,27 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="255"/>
         <source>Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="275"/>
         <source>Names Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst İsimler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="280"/>
         <source>Names Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Al İsimler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="285"/>
         <source>Values Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Değerler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="290"/>
         <source>Values Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Değerler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="295"/>
@@ -4701,7 +4701,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="179"/>
         <source>Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="203"/>
@@ -19813,7 +19813,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
         <source>Pads</source>
-        <translation type="unfinished"/>
+        <translation>Padler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
