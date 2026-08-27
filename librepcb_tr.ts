@@ -288,7 +288,7 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="250"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Ölçüler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="255"/>
@@ -721,22 +721,22 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="322"/>
         <source>Deprecated, replaced by:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanımdan kaldırıldı, yerine geçen:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="341"/>
         <source>Commands:</source>
-        <translation type="unfinished"/>
+        <translation>Komutlar:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="345"/>
         <source>List command-specific options:</source>
-        <translation type="unfinished"/>
+        <translation>Komuta özgü seçenekleri listele:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="348"/>
         <source>Help:</source>
-        <translation type="unfinished"/>
+        <translation>Yardım:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="362"/>
@@ -4696,7 +4696,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="173"/>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation>Ölçüler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="179"/>
