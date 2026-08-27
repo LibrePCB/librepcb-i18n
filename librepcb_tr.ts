@@ -741,62 +741,62 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="362"/>
         <source>Path to project file (*.lpp[z]).</source>
-        <translation type="unfinished"/>
+        <translation>Proje dosyasının yolu (*.lpp[z]).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="392"/>
         <source>Path to library directory (*.lplib).</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane dizininin yolu (*.lplib).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="403"/>
         <source>Path to symbol directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>Sembol dizininin yolu (*.lp içeren).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="411"/>
         <source>Path to package directory (containing *.lp).</source>
-        <translation type="unfinished"/>
+        <translation>Paket dizininin yolu (*.lp içeren).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="419"/>
         <source>Path to the STEP file (%1).</source>
-        <translation type="unfinished"/>
+        <translation>STEP dosyasının yolu (%1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="425"/>
         <source>Unknown command &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen komut: &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="484"/>
         <source>Missing arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Eksik argümanlar:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="490"/>
         <source>Unknown arguments:</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen argümanlar:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="570"/>
         <source>Finished with errors!</source>
-        <translation type="unfinished"/>
+        <translation>Hatalarla tamamlandı!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="573"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Uyarılarla tamamlandı!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="576"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"/>
+        <translation>BAŞARILI</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="605"/>
         <source>Open project &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Proje açılıyor: &apos;%1&apos;...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="626"/>
@@ -7033,7 +7033,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="189"/>
         <source>Finished with errors!</source>
-        <translation type="unfinished"/>
+        <translation>Hatalarla tamamlandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="192"/>
@@ -14251,7 +14251,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="624"/>
         <source>Finished with warnings!</source>
-        <translation type="unfinished"/>
+        <translation>Uyarılarla tamamlandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="719"/>
