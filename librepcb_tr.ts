@@ -328,122 +328,122 @@
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="306"/>
         <source>Documentation Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="312"/>
         <source>Documentation Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="318"/>
         <source>Package Outlines Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Kılıf Anahatları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="324"/>
         <source>Package Outlines Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Kılıf Anahatları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="329"/>
         <source>Courtyard Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Yerleşim Alanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="335"/>
         <source>Courtyard Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Yerleşim Alanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="340"/>
         <source>Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="346"/>
         <source>Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="352"/>
         <source>Hidden Grab Areas Top</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Üst Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="358"/>
         <source>Hidden Grab Areas Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Gizli Alt Tutma Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="363"/>
         <source>References Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Referanslar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="369"/>
         <source>References Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Referanslar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="374"/>
         <source>Stop Mask Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Lehim Maskesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="380"/>
         <source>Stop Mask Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Lehim Maskesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="386"/>
         <source>Solder Paste Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Lehim Pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="392"/>
         <source>Solder Paste Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Lehim Pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="397"/>
         <source>Finish Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Kaplama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="402"/>
         <source>Finish Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Kaplama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="407"/>
         <source>Glue Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Yapıştırıcı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="412"/>
         <source>Glue Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Yapıştırıcı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="417"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="430"/>
         <source>Inner Copper</source>
-        <translation type="unfinished"/>
+        <translation>İç Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="444"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/workspace/colorrole.cpp" line="453"/>
         <source>Background/Foreground</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan/Ön Plan</translation>
     </message>
 </context>
 <context>
@@ -451,67 +451,67 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="91"/>
         <source>Open a project to execute project-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Proje ile ilgili görevleri yürütmek için bir proje açın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="94"/>
         <source>Open a library to execute library-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane ile ilgili görevleri yürütmek için bir kütüphane açın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="97"/>
         <source>Open a symbol to execute symbol-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Sembol ile ilgili görevleri yürütmek için bir sembol açın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="100"/>
         <source>Open a package to execute package-related tasks.</source>
-        <translation type="unfinished"/>
+        <translation>Paket ile ilgili görevleri yürütmek için bir paket açın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="103"/>
         <source>Open a STEP model to execute STEP-related tasks outside of a library.</source>
-        <translation type="unfinished"/>
+        <translation>Bir kütüphane dışında STEP ile ilgili görevleri yürütmek için bir STEP modeli açın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="110"/>
         <source>LibrePCB Command Line Interface</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Komut Satırı Arayüzü</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="113"/>
         <source>Print this message.</source>
-        <translation type="unfinished"/>
+        <translation>Bu mesajı yazdır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="116"/>
         <source>Displays version information.</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm bilgilerini gösterir.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="118"/>
         <source>Verbose output.</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılı çıktı.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="121"/>
         <source>The command to execute (see list below).</source>
-        <translation type="unfinished"/>
+        <translation>Yürütülecek komut (aşağıdaki listeye bakın).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="127"/>
         <source>Run the electrical rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Elektriksel kural kontrolünü çalıştırır, onaylanmamış tüm uyarıları/hataları yazdırır ve onaylanmamış mesaj varsa hatayla sonlanır (çıkış kodu = 1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="132"/>
         <source>Run the design rule check, print all non-approved warnings/errors and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım kural kontrolünü çalıştırır, onaylanmamış tüm uyarıları/hataları yazdırır ve onaylanmamış mesaj varsa hatayla sonlanır (çıkış kodu = 1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="137"/>
         <source>Override DRC settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Özel ayarlar içeren bir *.lp dosyası vererek DRC ayarlarını geçersiz kılar. Belirtilmezse, kartlardaki ayarlar kullanılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="140"/>
@@ -527,12 +527,12 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="298"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="316"/>
         <source>file</source>
-        <translation type="unfinished"/>
+        <translation>dosya</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="143"/>
         <source>Run a particular output job. Can be given multiple times to run multiple jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Belirli bir çıktı işini çalıştırır. Birden fazla iş çalıştırmak için birden çok kez verilebilir.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="145"/>
@@ -540,183 +540,183 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="232"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="244"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>ad</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="147"/>
         <source>Run all existing output jobs.</source>
-        <translation type="unfinished"/>
+        <translation>Var olan tüm çıktı işlerini çalıştırır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="150"/>
         <source>Override output jobs with a *.lp file containing custom jobs. If not set, the jobs from the project will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Özel işler içeren bir *.lp dosyasıyla çıktı işlerini geçersiz kılar. Belirtilmezse, projedeki işler kullanılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="155"/>
         <source>Override the output base directory of jobs. If not set, the standard output directory from the project is used.</source>
-        <translation type="unfinished"/>
+        <translation>İşlerin çıktı ana dizinini geçersiz kılar. Belirtilmezse, projedeki standart çıktı dizini kullanılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="157"/>
         <source>path</source>
-        <translation type="unfinished"/>
+        <translation>yol</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="160"/>
         <source>Export schematics to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Şematikleri verilen dosya(lar)a dışa aktarır. Var olan dosyaların üzerine yazılır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="166"/>
         <source>Export generic BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Genel malzeme listesini (BOM) verilen dosya(lar)a dışa aktarır. Var olan dosyaların üzerine yazılır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="172"/>
         <source>Export board-specific BOM to given file(s). Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Karta özel malzeme listesini (BOM) verilen dosya(lar)a dışa aktarır. Var olan dosyaların üzerine yazılır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="178"/>
         <source>Comma-separated list of additional attributes to be exported to the BOM. Example: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme listesine (BOM) dışa aktarılacak ek özniteliklerin virgülle ayrılmış listesi. Örnek: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="181"/>
         <source>attributes</source>
-        <translation type="unfinished"/>
+        <translation>öznitelikler</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="184"/>
         <source>Export PCB fabrication data (Gerber/Excellon) according the fabrication output settings of boards. Existing files will be overwritten.</source>
-        <translation type="unfinished"/>
+        <translation>Kartların üretim çıktısı ayarlarına göre PCB üretim verilerini (Gerber/Excellon) dışa aktarır. Var olan dosyaların üzerine yazılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="189"/>
         <source>Override PCB fabrication output settings by providing a *.lp file containing custom settings. If not set, the settings from the boards will be used instead.</source>
-        <translation type="unfinished"/>
+        <translation>Özel ayarlar içeren bir *.lp dosyası vererek PCB üretim çıktısı ayarlarını geçersiz kılar. Belirtilmezse, kartlardaki ayarlar kullanılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="195"/>
         <source>Export pick&amp;place file for automated assembly of the top board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kartın üst yüzü için otomatik montaj amacıyla yerleştirme (pick&amp;place) dosyası dışa aktarır. Var olan dosyaların üzerine yazılır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="201"/>
         <source>Export pick&amp;place file for automated assembly of the bottom board side. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Kartın alt yüzü için otomatik montaj amacıyla yerleştirme (pick&amp;place) dosyası dışa aktarır. Var olan dosyaların üzerine yazılır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="208"/>
         <source>Export netlist file for automated PCB testing. Existing files will be overwritten. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik PCB testi için netliste dosyası dışa aktarır. Var olan dosyaların üzerine yazılır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="213"/>
         <source>The name of the board(s) to export. Can be given multiple times. If not set, all boards are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarılacak kart(lar)ın adı. Birden çok kez verilebilir. Belirtilmezse, tüm kartlar dışa aktarılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="218"/>
         <source>Same as &apos;%1&apos;, but allows to specify boards by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ile aynıdır, ancak kartları ad yerine dizin numarasıyla belirtmeye olanak tanır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="221"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="238"/>
         <source>index</source>
-        <translation type="unfinished"/>
+        <translation>dizin</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="224"/>
         <source>Remove all boards not specified with &apos;%1&apos; from the project before executing all the other actions. If &apos;%1&apos; is not passed, all boards will be removed. Pass &apos;%2&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Diğer tüm işlemleri yürütmeden önce &apos;%1&apos; ile belirtilmeyen tüm kartları projeden kaldırır. &apos;%1&apos; verilmezse tüm kartlar kaldırılır. Değiştirilmiş projeyi diske kaydetmek için &apos;%2&apos; verin.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="230"/>
         <source>The name of the assembly variant(s) to export. Can be given multiple times. If not set, all assembly variants are exported.</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarılacak montaj varyantının/varyantlarının adı. Birden çok kez verilebilir. Belirtilmezse, tüm montaj varyantları dışa aktarılır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="235"/>
         <source>Same as &apos;%1&apos;, but allows to specify assembly variants by index instead of by name.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ile aynıdır, ancak montaj varyantlarını ad yerine dizin numarasıyla belirtmeye olanak tanır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="241"/>
         <source>Move the specified assembly variant to the top before executing all the other actions. Pass &apos;%1&apos; to save the modified project to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Diğer tüm işlemleri yürütmeden önce belirtilen montaj varyantını en üste taşır. Değiştirilmiş projeyi diske kaydetmek için &apos;%1&apos; verin.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="247"/>
         <source>Save project before closing it (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Kapatmadan önce projeyi kaydeder (dosya biçimini yükseltmek için kullanışlıdır).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="250"/>
         <source>Fail if the project files are not strictly canonical, i.e. there would be changes when saving the project. Note that this option is not available for *.lppz files.</source>
-        <translation type="unfinished"/>
+        <translation>Proje dosyaları tam olarak kanonik değilse (yani proje kaydedildiğinde değişiklik olacaksa) hatayla sonlanır. Bu seçeneğin *.lppz dosyaları için kullanılamadığını unutmayın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="257"/>
         <source>Perform the selected action(s) on all elements contained in the opened library.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen işlem(ler)i açılan kütüphanedeki tüm öğeler üzerinde gerçekleştirir.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="261"/>
         <source>Run the library element check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane öğesi kontrolünü çalıştırır, onaylanmamış tüm mesajları yazdırır ve onaylanmamış mesaj varsa hatayla sonlanır (çıkış kodu = 1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="265"/>
         <source>Minify the STEP models of all packages. Only works in conjunction with &apos;--all&apos;. Pass &apos;--save&apos; to write the minified files to disk.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm paketlerin STEP modellerini küçültür. Yalnızca &apos;--all&apos; ile birlikte çalışır. Küçültülmüş dosyaları diske yazmak için &apos;--save&apos; verin.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="269"/>
         <source>Save library (and contained elements if &apos;--all&apos; is given) before closing them (useful to upgrade file format).</source>
-        <translation type="unfinished"/>
+        <translation>Kapatmadan önce kütüphaneyi (ve &apos;--all&apos; verilmişse içerdiği öğeleri) kaydeder (dosya biçimini yükseltmek için kullanışlıdır).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="273"/>
         <source>Fail if the opened files are not strictly canonical, i.e. there would be changes when saving the library elements.</source>
-        <translation type="unfinished"/>
+        <translation>Açılan dosyalar tam olarak kanonik değilse (yani kütüphane öğeleri kaydedildiğinde değişiklik olacaksa) hatayla sonlanır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="279"/>
         <source>Run the symbol check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Sembol kontrolünü çalıştırır, onaylanmamış tüm mesajları yazdırır ve onaylanmamış mesaj varsa hatayla sonlanır (çıkış kodu = 1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="283"/>
         <source>Export the symbol to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sembolü grafik dosyasına dışa aktarır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="291"/>
         <source>Run the package check, print all non-approved messages and report failure (exit code = 1) if there are non-approved messages.</source>
-        <translation type="unfinished"/>
+        <translation>Paket kontrolünü çalıştırır, onaylanmamış tüm mesajları yazdırır ve onaylanmamış mesaj varsa hatayla sonlanır (çıkış kodu = 1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="295"/>
         <source>Export the contained footprint(s) to a graphical file. Supported file extensions: %1</source>
-        <translation type="unfinished"/>
+        <translation>İçerdiği ayak izini/izlerini grafik dosyasına dışa aktarır. Desteklenen dosya uzantıları: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="303"/>
         <source>Minify the STEP model before validating it. Use in conjunction with &apos;%1&apos; to save the output of the operation.</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulamadan önce STEP modelini küçültür. İşlemin çıktısını kaydetmek için &apos;%1&apos; ile birlikte kullanın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="308"/>
         <source>Tesselate the loaded STEP model to check if LibrePCB is able to render it. Reports failure (exit code = 1) if no content is detected.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB&apos;nin işleyip işleyemediğini kontrol etmek için yüklenen STEP modelini teselasyona tabi tutar. İçerik algılanmazsa hatayla sonlanır (çıkış kodu = 1).</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="313"/>
         <source>Write the (modified) STEP file to this output location (may be equal to the opened file path). Only makes sense in conjunction with &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>(Değiştirilmiş) STEP dosyasını bu çıktı konumuna yazar (açılan dosya yoluyla aynı olabilir). Yalnızca &apos;%1&apos; ile birlikte kullanıldığında anlamlıdır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="322"/>
@@ -12240,12 +12240,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="559"/>
         <source>Copper Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="570"/>
         <source>Copper Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="891"/>
