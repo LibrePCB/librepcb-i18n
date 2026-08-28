@@ -999,127 +999,127 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1237"/>
         <source>Process %1 packages...</source>
-        <translation type="unfinished"/>
+        <translation>%1 paket işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1255"/>
         <source>Process %1 components...</source>
-        <translation type="unfinished"/>
+        <translation>%1 bileşen işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1273"/>
         <source>Process %1 devices...</source>
-        <translation type="unfinished"/>
+        <translation>%1 aygıt işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1291"/>
         <source>Process %1 organizations...</source>
-        <translation type="unfinished"/>
+        <translation>%1 kuruluş işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1326"/>
         <source>Run checks...</source>
-        <translation type="unfinished"/>
+        <translation>Denetimler çalıştırılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1335"/>
         <source>Approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Onaylanmış mesajlar: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1336"/>
         <source>Non-approved messages: %1</source>
-        <translation type="unfinished"/>
+        <translation>Onaylanmamış mesajlar: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1365"/>
         <source>Minify STEP model &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>STEP modeli &apos;%1&apos; küçültülüyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1371"/>
         <source>  - Minified &apos;%1&apos; from %2 to %3 bytes</source>
-        <translation type="unfinished"/>
+        <translation>- &apos;%1&apos; dosyası %2 bayttan %3 bayta küçültüldü</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1390"/>
         <source>Check &apos;%1&apos; for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; standart dışı dosyalar için denetleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1411"/>
         <source>Skip checks for &apos;%1&apos; (deprecated)</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; için denetimler atlanıyor (kullanımdan kaldırıldı)</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1416"/>
         <source>Run checks for &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; için denetimler çalıştırılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1440"/>
         <source>Save &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; kaydediliyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1461"/>
         <source>Open symbol &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation> &apos;%1&apos; sembolü açılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1467"/>
         <source>Opened symbol: %1</source>
-        <translation type="unfinished"/>
+        <translation>Açılan sembol: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1485"/>
         <source>Export symbol to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Sembol &apos;%1&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1558"/>
         <source>Open package &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; paketi açılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1564"/>
         <source>Opened package: %1</source>
-        <translation type="unfinished"/>
+        <translation>Açılan paket: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1582"/>
         <source>Export footprint(s) to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi/izleri &apos;%1&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1665"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For footprint output files, you could add a placeholder like &apos;%1&apos; to the path.</source>
-        <translation type="unfinished"/>
+        <translation>NOT: Dosyalara birden fazla kez yazılmasını önlemek için tüm dışa aktarma işlevlerine benzersiz dosya yolları verdiğinizden emin olun. Ayak izi çıktı dosyaları için, yola &apos;%1&apos; gibi bir yer tutucu ekleyebilirsiniz.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1803"/>
         <source>This application version is UNSTABLE! Option &apos;%1&apos; is disabled to avoid breaking projects or libraries. Please use a stable release instead.</source>
-        <translation type="unfinished"/>
+        <translation>Bu uygulama sürümü KARARSIZ! Projelerin veya kütüphanelerin bozulmasını önlemek amacıyla &apos;%1&apos; seçeneği devre dışı bırakıldı. Lütfen bunun yerine kararlı bir sürüm kullanın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1831"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Uyarı</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1832"/>
         <source>The command or option &apos;%1&apos; is deprecated and will be removed in a future release.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; komutu veya seçeneği kullanımdan kaldırılmıştır ve gelecekteki bir sürümde tamamen çıkarılacaktır.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1837"/>
         <source>Please see &apos;%1&apos; for a possible replacement.</source>
-        <translation type="unfinished"/>
+        <translation>Olası bir alternatif için lütfen &apos;%1&apos; adresine/bölümüne bakın.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1840"/>
         <source>For now, the command will be executed, but the CLI will return with a nonzero exit code. As a temporary workaround, this warning and the nonzero exit code can be suppressed with the environment variable &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Şimdilik komut çalıştırılacak, ancak CLI sıfırdan farklı bir çıkış kodu (exit code) ile dönecektir. Geçici bir çözüm olarak, bu uyarı ve sıfırdan farklı çıkış kodu &apos;%1&apos; ortam değişkeni ile bastırılabilir.</translation>
     </message>
 </context>
 <context>
@@ -1127,7 +1127,7 @@
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentprefix.h" line="53"/>
         <source>Invalid component prefix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz bileşen ön eki: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1135,7 +1135,7 @@
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentsymbolvariantitemsuffix.h" line="52"/>
         <source>Invalid component symbol suffix: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz bileşen sembolü son eki: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -1143,12 +1143,12 @@
     <message>
         <location filename="libs/librepcb/core/job/copyoutputjob.cpp" line="39"/>
         <source>Custom File</source>
-        <translation type="unfinished"/>
+        <translation>Özel Dosya</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/copyoutputjob.h" line="78"/>
         <source>File Copy</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Kopyalama</translation>
     </message>
 </context>
 <context>
@@ -1156,27 +1156,27 @@
     <message>
         <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="131"/>
         <source>To avoid troubles, only proceed if there are no other (installed) LibrePCB applications on this computer.</source>
-        <translation type="unfinished"/>
+        <translation>Sorun yaşamamak için, yalnızca bu bilgisayarda başka (kurulu) LibrePCB uygulaması olmadığından eminseniz devam edin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="144"/>
         <source>Install Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü Entegrasyonunu Kur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="145"/>
         <source>This installs the following files to register the executable &lt;i&gt;%1&lt;/i&gt;:</source>
-        <translation type="unfinished"/>
+        <translation>Bu işlem, &lt;i&gt;%1&lt;/i&gt; yürütülebilir dosyasını sisteme kaydetmek için aşağıdaki dosyaları kurar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="153"/>
         <source>Uninstall Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü Entegrasyonunu Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="154"/>
         <source>This removes the following files:</source>
-        <translation type="unfinished"/>
+        <translation>Bu işlem aşağıdaki dosyaları kaldırır:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/desktopintegration.cpp" line="177"/>
@@ -1188,7 +1188,8 @@
         <source>Failed to run '%1'.
 
 Please make sure this tool is available in PATH.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;&apos;%1&apos; çalıştırılamadı.
+Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1198,7 @@ Please make sure this tool is available in PATH.</source>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="79"/>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="191"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini mevcut değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
@@ -4423,7 +4424,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="101"/>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="171"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini mevcut değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="123"/>
@@ -5934,7 +5935,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="74"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Uyarı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="76"/>
@@ -12496,7 +12497,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="233"/>
         <source>Install Desktop Integration</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü Entegrasyonunu Kur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="256"/>
@@ -14642,7 +14643,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagemodellistmodel.cpp" line="303"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Uyarı</translation>
     </message>
 </context>
 <context>
@@ -18773,7 +18774,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Uyarı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
