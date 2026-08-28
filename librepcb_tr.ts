@@ -801,112 +801,112 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="626"/>
         <source>Attention: Project has been migrated to a newer file format!</source>
-        <translation type="unfinished"/>
+        <translation>Dikkat: Proje daha yeni bir dosya biçimine dönüştürüldü!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="638"/>
         <source>Set default assembly variant to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan montaj varyantı &apos;%1&apos; olarak ayarlanıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="643"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="657"/>
         <source>ERROR: No assembly variant with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;%1&apos; adında bir montaj varyantı bulunamadı.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="672"/>
         <source>ERROR: Assembly variant index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;%1&apos; montaj varyantı indeksi geçersiz.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="694"/>
         <source>ERROR: No board with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;%1&apos; adında bir devre kartı bulunamadı.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="707"/>
         <source>ERROR: Board index &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;%1&apos; devre kartı indeksi geçersiz.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="715"/>
         <source>Remove other boards...</source>
-        <translation type="unfinished"/>
+        <translation>Diğer devre kartları kaldırılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="744"/>
         <source>Check for non-canonical files...</source>
-        <translation type="unfinished"/>
+        <translation>Standart dışı biçimdeki dosyalar denetleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="747"/>
         <source>ERROR: The option &apos;--strict&apos; is not available for *.lppz files!</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;--strict&apos; seçeneği *.lppz dosyaları için kullanılamaz!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="770"/>
         <source>Run ERC...</source>
-        <translation type="unfinished"/>
+        <translation>ERC çalıştırılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="792"/>
         <source>Run DRC...</source>
-        <translation type="unfinished"/>
+        <translation>DRC çalıştırılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="804"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1018"/>
         <source>ERROR: Failed to load custom settings: %1</source>
-        <translation type="unfinished"/>
+        <translation>HATA: Özel ayarlar yüklenemedi: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="810"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1024"/>
         <source>Board &apos;%1&apos;:</source>
-        <translation type="unfinished"/>
+        <translation>Devre Kartı &apos;%1&apos;:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="850"/>
         <source>ERROR: Failed to load custom output jobs: %1</source>
-        <translation type="unfinished"/>
+        <translation>HATA: Özel çıktı işleri yüklenemedi: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="866"/>
         <source>ERROR: No output job with the name &apos;%1&apos; found.</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;%1&apos; adında bir çıktı işi bulunamadı.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="877"/>
         <source>Run output job &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; çıktı işi çalıştırılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="896"/>
         <source>ERROR:</source>
-        <translation type="unfinished"/>
+        <translation>HATA:</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="904"/>
         <source>Export schematics to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Şematikler &apos;%1&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="932"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1537"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1646"/>
         <source>ERROR</source>
-        <translation type="unfinished"/>
+        <translation>HATA</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="961"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Karta özel malzeme listesi &apos;%2&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="964"/>
         <source>Export generic BOM to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Genel malzeme (BOM) listesi &apos;%1&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="994"/>
@@ -13773,7 +13773,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="244"/>
         <source>ERROR:</source>
-        <translation type="unfinished"/>
+        <translation>HATA:</translation>
     </message>
 </context>
 <context>
@@ -14266,7 +14266,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="864"/>
         <source>ERROR</source>
-        <translation type="unfinished"/>
+        <translation>HATA</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="870"/>
