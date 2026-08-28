@@ -901,7 +901,7 @@
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="961"/>
         <source>Export board-specific BOM to &apos;%1&apos;...</source>
-        <translation>Karta özel malzeme listesi &apos;%2&apos; konumuna aktarılıyor...</translation>
+        <translation>Karta özel malzeme listesi (BO)M) &apos;%2&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="964"/>
@@ -913,48 +913,48 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1084"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1111"/>
         <source>ERROR: Unknown extension &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>HATA: Bilinmeyen uzantı &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1004"/>
         <source>Export PCB fabrication data...</source>
-        <translation type="unfinished"/>
+        <translation>PCB üretim verileri dışa aktarılıyor..</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1047"/>
         <source>top</source>
-        <translation type="unfinished"/>
+        <translation>üst</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1051"/>
         <source>bottom</source>
-        <translation type="unfinished"/>
+        <translation>alt</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1055"/>
         <source>Export %1 assembly data to &apos;%2&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>%1 montaj verileri &apos;%2&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1094"/>
         <source>Export netlist to &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>Netlist &apos;%1&apos; konumuna aktarılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1119"/>
         <source>Save project...</source>
-        <translation type="unfinished"/>
+        <translation>Proje kaydediliyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1140"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1659"/>
         <source>ERROR: The file &apos;%1&apos; was written multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>HATA: &apos;%1&apos; dosyasına birden fazla kez yazıldı!</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1145"/>
         <source>NOTE: To avoid writing files multiple times, make sure to pass unique filepaths to all export functions. For board output files, you could either add the placeholder &apos;%1&apos; to the path or specify the boards to export with the &apos;%2&apos; argument.</source>
-        <translation type="unfinished"/>
+        <translation>NOT: Dosyalara birden fazla kez yazılmasını önlemek için tüm dışa aktarma işlevlerine benzersiz dosya yolları verdiğinizden emin olun. Kart çıktı dosyaları için, yola &apos;%1&apos; yer tutucusunu ekleyebilir veya &apos;%2&apos; argümanıyla dışa aktarılacak kartları belirtebilirsiniz.</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1156"/>
@@ -963,17 +963,17 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1675"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1751"/>
         <source>ERROR: %1</source>
-        <translation type="unfinished"/>
+        <translation>HATA: %1</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1169"/>
         <source>Open library &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; kütüphanesi açılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1183"/>
         <source>Process %1 component categories...</source>
-        <translation type="unfinished"/>
+        <translation>%1 bileşen kategorisi işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1186"/>
@@ -984,17 +984,17 @@
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1276"/>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1294"/>
         <source>Open &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; açılıyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1201"/>
         <source>Process %1 package categories...</source>
-        <translation type="unfinished"/>
+        <translation>%1 paket kategorisi işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1219"/>
         <source>Process %1 symbols...</source>
-        <translation type="unfinished"/>
+        <translation>%1 sembol işleniyor...</translation>
     </message>
     <message>
         <location filename="apps/librepcb-cli/commandlineinterface.cpp" line="1237"/>
