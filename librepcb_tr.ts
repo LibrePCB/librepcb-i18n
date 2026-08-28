@@ -1203,12 +1203,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
         <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation type="unfinished"/>
+        <translation>Kilit dosyası &quot;%1&quot; çok az satır içeriyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini kilitlenemedi çünkü zaten &quot;%2&quot; tarafından kilitlenmiş durumda. Bu dizine erişen tüm uygulamaları kapatıp tekrar deneyin.</translation>
     </message>
 </context>
 <context>
@@ -1217,113 +1217,113 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="890"/>
         <source>Clearance via ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: via ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="893"/>
         <source>The clearance between a via and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir via ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="897"/>
         <source>Check the DRC settings and move the via away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse via&apos;yı kart dış hattından uzaklaştırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="912"/>
         <source>Clearance trace ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: iz ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="915"/>
         <source>The clearance between a trace and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir iz ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="919"/>
         <source>Check the DRC settings and move the trace away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse izi kart dış hattından uzaklaştırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="948"/>
         <source>Clearance plane ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: düzlem ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="951"/>
         <source>The clearance between a plane and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir düzlem ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="955"/>
         <source>Check the DRC settings and increase the configured plane clearance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse yapılandırılmış düzlem boşluğunu artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="969"/>
         <source>Clearance copper polygon ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: bakır poligon ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="972"/>
         <source>The clearance between a polygon and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir poligon ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="975"/>
         <source>Check the DRC settings and move the polygon away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse poligonu kart dış hattından uzaklaştırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="992"/>
         <source>Clearance copper circle ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: bakır daire ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="995"/>
         <source>The clearance between a circle and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir daire ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="998"/>
         <source>Check the DRC settings and move the circle away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse daireyi kart dış hattından uzaklaştırın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1014"/>
         <source>Clearance copper text ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: bakır metin ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1017"/>
         <source>The clearance between a stroke text and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir vektör metin ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1021"/>
         <source>Check the DRC settings and move the stroke text away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse vektör metni kart dış hattından uzaklaştırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1036"/>
         <source>Clearance pad ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: ped ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1044"/>
         <source>The clearance between a pad and the board outline is smaller than the board outline clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir ped ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış kart dış hattı boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1048"/>
         <source>Check the DRC settings and move the pad away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse pedi kart dış hattından uzaklaştırın.</translation>
     </message>
 </context>
 <context>
@@ -1331,59 +1331,59 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="747"/>
         <source>pad</source>
-        <translation type="unfinished"/>
+        <translation>ped</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="749"/>
         <source>trace</source>
-        <translation type="unfinished"/>
+        <translation>iz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="751"/>
         <source>via</source>
-        <translation type="unfinished"/>
+        <translation>via</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="753"/>
         <source>plane</source>
-        <translation type="unfinished"/>
+        <translation>düzlem</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="755"/>
         <source>polygon</source>
-        <translation type="unfinished"/>
+        <translation>poligon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="757"/>
         <source>circle</source>
-        <translation type="unfinished"/>
+        <translation>daire</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="759"/>
         <source>text</source>
-        <translation type="unfinished"/>
+        <translation>metin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="834"/>
         <source>Clearance on %1: %2 ↔ %3 &lt; %4 %5</source>
         <comment>Placeholders: Layer name, object name, object name, Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>%1 katmanında boşluk: %2 ↔ %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="839"/>
         <source>The clearance between two copper objects of different nets is smaller than the minimum copper clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Farklı ağlara (net) ait iki bakır nesne arasındaki boşluk, DRC ayarlarında yapılandırılmış minimum bakır boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="843"/>
         <source>Check the DRC settings and move the objects to increase their clearance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse aralarındaki boşluğu artırmak için nesneleri taşıyın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="865"/>
         <source>%1 layers</source>
         <comment>Placeholder is a number &gt; 1.</comment>
-        <translation type="unfinished"/>
+        <translation>%1 katman</translation>
     </message>
 </context>
 <context>
@@ -1392,12 +1392,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1062"/>
         <source>Clearance copper ↔ hole &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: bakır ↔ delik &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1065"/>
         <source>The clearance between a non-plated hole and copper objects is smaller than the hole clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplanmamış bir delik ile bakır nesneler arasındaki boşluk, DRC ayarlarında yapılandırılmış delik boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1068"/>
