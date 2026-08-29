@@ -1402,7 +1402,7 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1068"/>
         <source>Check the DRC settings and move the copper objects away from the hole if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse bakır nesneleri delikten uzaklaştırın.</translation>
     </message>
 </context>
 <context>
@@ -1411,46 +1411,46 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1121"/>
         <source>Via in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Via, bakır yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1138"/>
         <source>Trace in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>İz, bakır yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1152"/>
         <source>Polygon in copper keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Poligon, bakır yasak bölgesinde</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1167"/>
         <source>Polygon in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Poligon, bakır yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1184"/>
         <source>Circle in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Daire, bakır yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1215"/>
         <source>Pad in copper keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad- or net name</comment>
-        <translation type="unfinished"/>
+        <translation>Ped, bakır yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1221"/>
         <source>There is a copper object within a copper keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Bakır yasak bölgesi içinde bir bakır nesne bulunuyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1222"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi yasak bölgenin dışına taşıyın.</translation>
     </message>
 </context>
 <context>
@@ -1458,17 +1458,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="340"/>
         <source>Cutout outside of board area</source>
-        <translation type="unfinished"/>
+        <translation>Kart alanı dışında kesim</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="341"/>
         <source>A cutout polygon is outside the board area (either partially or fully), which will lead to invalid production data.</source>
-        <translation type="unfinished"/>
+        <translation>Bir kesim poligonu kart alanının dışında (kısmen veya tamamen), bu durum geçersiz üretim verisine yol açacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="344"/>
         <source>Make sure all cutouts are fully inside the board area. Cutouts at the board edge need to be part of the board outlines polygon on the &apos;%1&apos; layer, not separate polygons.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kesimlerin kart alanının tamamen içinde olduğundan emin olun. Kart kenarındaki kesimler, ayrı poligonlar olarak değil, &apos;%1&apos; katmanındaki kart dış hattı poligonunun bir parçası olarak tanımlanmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -1477,12 +1477,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1289"/>
         <source>Device in courtyard: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Aygıt, courtyard alanında: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1293"/>
         <source>A device is placed within the courtyard of another device, which might cause troubles during assembly of these parts.</source>
-        <translation type="unfinished"/>
+        <translation>Bir aygıt, başka bir aygıtın courtyard alanı içine yerleştirilmiş; bu durum bu parçaların montajı sırasında sorunlara yol açabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1296"/>
@@ -1608,7 +1608,7 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1498"/>
         <source>Move the object to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Nesneyi yasak bölgenin dışına taşıyın.</translation>
     </message>
 </context>
 <context>
