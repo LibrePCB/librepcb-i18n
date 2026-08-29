@@ -1487,7 +1487,7 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1296"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems.</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtları taşıyarak aralarındaki boşluğu artırın veya sorunsuz monte edilebileceklerinden eminseniz bu mesajı onaylayın.</translation>
     </message>
 </context>
 <context>
@@ -1496,17 +1496,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1345"/>
         <source>Device in keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Aygıt, yasak bölgede: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1366"/>
         <source>There is a device within a keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Yasak bölge içinde bir aygıt bulunuyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1367"/>
         <source>Move the device to outside the keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtı yasak bölgenin dışına taşıyın.</translation>
     </message>
 </context>
 <context>
@@ -1514,12 +1514,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1980"/>
         <source>Objects on disabled layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Devre dışı katmandaki nesneler: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1981"/>
         <source>The layer contains copper objects, but it is disabled in the board setup dialog and thus will be ignored in any production data exports. Either increase the layer count to get this layer exported, or remove all objects on this layer (by temporarily enabling this layer to see them).</source>
-        <translation type="unfinished"/>
+        <translation>Bu katman bakır nesneler içeriyor, ancak kart kurulum penceresinde devre dışı bırakılmış ve bu nedenle üretim verisi dışa aktarımlarında yok sayılacaktır. Bu katmanın dışa aktarılmasını sağlamak için katman sayısını artırın veya bu katmandaki tüm nesneleri kaldırın (nesneleri görmek için katmanı geçici olarak etkinleştirebilirsiniz).</translation>
     </message>
 </context>
 <context>
@@ -1528,17 +1528,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1265"/>
         <source>Clearance drill ↔ board outline &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: delik ↔ kart dış hattı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1268"/>
         <source>The clearance between a drill and the board outline is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Bir delik ile kart dış hattı arasındaki boşluk, DRC ayarlarında yapılandırılmış delik boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1271"/>
         <source>Check the DRC settings and move the drill away from the board outline if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse deliği kart dış hattından uzaklaştırın.</translation>
     </message>
 </context>
 <context>
@@ -1547,17 +1547,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1233"/>
         <source>Clearance drill ↔ drill &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: delik ↔ delik &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1236"/>
         <source>The clearance between two drills is smaller than the drill clearance configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>İki delik arasındaki boşluk, DRC ayarlarında yapılandırılmış delik boşluğundan daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1239"/>
         <source>Check the DRC settings and move the drills to increase their distance if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse delikleri aralarındaki mesafeyi artıracak şekilde taşıyın.</translation>
     </message>
 </context>
 <context>
@@ -1566,7 +1566,7 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="519"/>
         <source>Empty segment of net &apos;%1&apos;: &apos;%2&apos;</source>
         <comment>Placeholders: Net name, segment UUID</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağının boş segmenti: &apos;%2&apos;</translation>
     </message>
 </context>
 <context>
@@ -1575,35 +1575,35 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1411"/>
         <source>Via in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is net name</comment>
-        <translation type="unfinished"/>
+        <translation>Via, açıklık yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1425"/>
         <source>Polygon in exposure keepout zone</source>
-        <translation type="unfinished"/>
+        <translation>Poligon, açıklık yasak bölgesinde</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1439"/>
         <source>Polygon in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Poligon, açıklık yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1457"/>
         <source>Circle in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is device name</comment>
-        <translation type="unfinished"/>
+        <translation>Daire, açıklık yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1490"/>
         <source>Pad in exposure keepout zone: &apos;%1&apos;</source>
         <comment>Placeholder is pad- or net name</comment>
-        <translation type="unfinished"/>
+        <translation>Ped, açıklık yasak bölgesinde: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1496"/>
         <source>There is a solder resist opening within an exposure keepout zone.</source>
-        <translation type="unfinished"/>
+        <translation>Açıklık yasak bölgesi içinde bir lehim maskesi açıklığı bulunuyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1498"/>
@@ -1616,47 +1616,47 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1788"/>
         <source>Hole is a slot with curves</source>
-        <translation type="unfinished"/>
+        <translation>Delik, eğrili bir yuva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1790"/>
         <source>Hole is a multi-segment slot</source>
-        <translation type="unfinished"/>
+        <translation>Delik, çok segmentli bir yuva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1792"/>
         <source>Hole is a slot</source>
-        <translation type="unfinished"/>
+        <translation>Delik bir yuva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1799"/>
         <source>Either avoid them or check if your PCB manufacturer supports them.</source>
-        <translation type="unfinished"/>
+        <translation>Bunlardan kaçının veya PCB üreticinizin bunları destekleyip desteklemediğini kontrol edin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1801"/>
         <source>Choose the desired Excellon slot mode when generating the production data (G85 vs. G00..G03).</source>
-        <translation type="unfinished"/>
+        <translation>Üretim verisi oluşturulurken istenen Excellon yuva modunu seçin (G85 - G00..G03 arası).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1804"/>
         <source>The drilled slot mode (G85) will not be available when generating production data.</source>
-        <translation type="unfinished"/>
+        <translation>Delinmiş yuva modu (G85), üretim verisi oluşturulurken kullanılamayacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1808"/>
         <source>Curved slots are a very unusual thing and may cause troubles with many PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Eğrili yuvalar oldukça sıra dışı bir durumdur ve birçok PCB üreticisinde sorunlara yol açabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1812"/>
         <source>Multi-segment slots are a rather unusual thing and may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Çok segmentli yuvalar biraz sıra dışı bir durumdur ve bazı PCB üreticilerinde sorunlara yol açabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1816"/>
         <source>Slots may cause troubles with some PCB manufacturers.</source>
-        <translation type="unfinished"/>
+        <translation>Yuvalar bazı PCB üreticilerinde sorunlara yol açabilir.</translation>
     </message>
 </context>
 <context>
@@ -1664,27 +1664,27 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1841"/>
         <source>Blind via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında kör via</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1843"/>
         <source>Buried via in net &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında gömülü via</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1850"/>
         <source>Either avoid them or check if your PCB manufacturer supports them and adjust the DRC settings accordingly.</source>
-        <translation type="unfinished"/>
+        <translation>Bunlardan kaçının veya PCB üreticinizin bunları destekleyip desteklemediğini kontrol edip DRC ayarlarını buna göre uyarlayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1853"/>
         <source>Blind vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Kör via&apos;ların üretimi pahalıdır ve her PCB üreticisi bunları oluşturamaz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1857"/>
         <source>Buried vias are expensive to manufacture and not every PCB manufacturer is able to create them.</source>
-        <translation type="unfinished"/>
+        <translation>Gömülü via&apos;ların üretimi pahalıdır ve her PCB üreticisi bunları oluşturamaz.</translation>
     </message>
 </context>
 <context>
@@ -1693,12 +1693,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="214"/>
         <source>Impossible connection in &apos;%1&apos;: &apos;%2:%3&apos;</source>
         <comment>Placeholders: Net name, Component name, Signal name</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; içinde imkansız bağlantı: &apos;%2:%3&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="217"/>
         <source>The pin of this device is connected to a net in the schematics, but the footprint doesn&apos;t expose a pad for it. Therefore it is impossible to make the electrical connection in the board. Check if another footprint or another device exposes a corresponding pad.</source>
-        <translation type="unfinished"/>
+        <translation>Bu aygıtın pini şematikte bir ağa bağlı, ancak ayak izi bunun için bir ped sunmuyor. Bu nedenle kartta elektriksel bağlantının kurulması imkansız. Başka bir ayak izinin veya aygıtın karşılık gelen bir ped sunup sunmadığını kontrol edin.</translation>
     </message>
 </context>
 <context>
