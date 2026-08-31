@@ -3016,452 +3016,452 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
         <source>Set Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliğini Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)in çizgi/iz/vektör çizgi genişliğini değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="814"/>
         <source>Reset All Texts</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Metinleri Sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="815"/>
         <source>Reset all texts of the footprint to their initial state</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izindeki tüm metinleri ilk durumlarına sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="823"/>
         <source>Properties</source>
-        <translation type="unfinished"/>
+        <translation>Özellikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="824"/>
         <source>View/modify the object properties</source>
-        <translation type="unfinished"/>
+        <translation>Nesne özelliklerini görüntüle/değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="832"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="833"/>
         <source>Rename the selected object</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesneyi yeniden adlandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="842"/>
         <source>Delete the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i sil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="849"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="853"/>
         <source>Zoom to Fit Contents</source>
-        <translation type="unfinished"/>
+        <translation>İçeriğe Sığdır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="854"/>
         <source>Set the zoom level to fit the whole content</source>
-        <translation type="unfinished"/>
+        <translation>Tüm içeriği sığdıracak şekilde yakınlaştırma düzeyini ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="862"/>
         <source>Zoom In</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="863"/>
         <source>Increase the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma düzeyini artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
         <source>Zoom Out</source>
-        <translation type="unfinished"/>
+        <translation>Uzaklaştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="875"/>
         <source>Decrease the zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Yakınlaştırma düzeyini azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
         <source>Flip View</source>
-        <translation type="unfinished"/>
+        <translation>Görünümü Çevir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="884"/>
         <source>Switch between top view and bottom view</source>
-        <translation type="unfinished"/>
+        <translation>Üst görünüm ve alt görünüm arasında geçiş yap</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
         <source>Increase Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Izgara Aralığını Artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="893"/>
         <source>Increase the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>Izgara aralığını artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="906"/>
         <source>Decrease Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Izgara Aralığını Azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="907"/>
         <source>Decrease the grid interval</source>
-        <translation type="unfinished"/>
+        <translation>Izgara aralığını azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="920"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pin Numaralarını Göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="921"/>
         <source>Show or hide symbol pin numbers</source>
-        <translation type="unfinished"/>
+        <translation>Sembol pin numaralarını göster veya gizle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
         <source>Ignore Placement Locks</source>
-        <translation type="unfinished"/>
+        <translation>Yerleşim Kilitlerini Yok Say</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="930"/>
         <source>Allow dragging locked items</source>
-        <translation type="unfinished"/>
+        <translation>Kilitli öğelerin sürüklenmesine izin ver</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
         <source>Set/Unset Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmini Ayarla/Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="939"/>
         <source>Use a datasheet drawing as the background for verification</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulama için arka plan olarak bir datasheet çizimi kullan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="947"/>
         <source>Toggle 2D/3D Mode</source>
-        <translation type="unfinished"/>
+        <translation>2B/3B Modu Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="948"/>
         <source>Switch between 2D and 3D viewer mode</source>
-        <translation type="unfinished"/>
+        <translation>2B ve 3B görüntüleyici modu arasında geçiş yap</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="955"/>
         <source>Tools</source>
-        <translation type="unfinished"/>
+        <translation>Araçlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="959"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="960"/>
         <source>Select &amp; modify existing objects</source>
-        <translation type="unfinished"/>
+        <translation>Var olan nesneleri seç ve değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
         <source>Draw Line</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="969"/>
         <source>Draw graphical lines</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel çizgiler çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
         <source>Draw Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Draw graphical rectangles</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel dikdörtgenler çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
         <source>Draw Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligon Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="987"/>
         <source>Draw graphical polygons</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel poligonlar çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
         <source>Draw Circle</source>
-        <translation type="unfinished"/>
+        <translation>Daire Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="996"/>
         <source>Draw graphical circles</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel daireler çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
         <source>Draw Arc</source>
-        <translation type="unfinished"/>
+        <translation>Yay Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1005"/>
         <source>Draw graphical arcs</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel yaylar çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
         <source>Add Text</source>
-        <translation type="unfinished"/>
+        <translation>Metin Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1014"/>
         <source>Add graphical text objects</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel metin nesneleri ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
         <source>Add Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1023"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;{{NAME}}&apos; için grafiksel metin nesneleri ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
         <source>Add Value</source>
-        <translation type="unfinished"/>
+        <translation>Değer Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1032"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;{{VALUE}}&apos; için grafiksel metin nesneleri ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1041"/>
         <source>Add graphical image objects (e.g. a logo)</source>
-        <translation type="unfinished"/>
+        <translation>Grafiksel resim nesneleri ekle (örn. bir logo)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
         <source>Add Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pin Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1050"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
-        <translation type="unfinished"/>
+        <translation>Sembol pinleri ekle (şematikler için elektriksel bağlantılar)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
         <source>Add THT Pad</source>
-        <translation type="unfinished"/>
+        <translation>THT Ped Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1059"/>
         <source>Add plated through-hole copper pads</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı delikli (through-hole) bakır pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
         <source>Add SMT Pad</source>
-        <translation type="unfinished"/>
+        <translation> SMT Ped Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1068"/>
         <source>Add surface mounted (single layer) copper pads</source>
-        <translation type="unfinished"/>
+        <translation>Yüzey montajlı (tek katmanlı) bakır pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
         <source>Add Thermal Pad</source>
-        <translation type="unfinished"/>
+        <translation>Termal Ped Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1077"/>
         <source>Add special SMT pads used as heat sink</source>
-        <translation type="unfinished"/>
+        <translation>Isı emici (heat sink) olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
         <source>Add BGA Pad</source>
-        <translation type="unfinished"/>
+        <translation>BGA Ped Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1086"/>
         <source>Add special SMT pads used for ball grid arrays</source>
-        <translation type="unfinished"/>
+        <translation>Top matrisi dizileri (ball grid array) için kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
         <source>Add Edge Connector Pad</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Konnektörü Pedi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1095"/>
         <source>Add special SMT pads used as edge connector</source>
-        <translation type="unfinished"/>
+        <translation>Kenar konnektörü olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
         <source>Add Test Pad</source>
-        <translation type="unfinished"/>
+        <translation>Test Pedi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1104"/>
         <source>Add special SMT pads used as test points</source>
-        <translation type="unfinished"/>
+        <translation>Test noktası olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
         <source>Add Local Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Referans Pedi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1113"/>
         <source>Add special SMT pads used as local fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Yerel referans işareti olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
         <source>Add Global Fiducial Pad</source>
-        <translation type="unfinished"/>
+        <translation>Genel Referans Pedi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1122"/>
         <source>Add special SMT pads used as global fiducials</source>
-        <translation type="unfinished"/>
+        <translation>Genel referans işareti olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
         <source>Draw Keepout Zone</source>
-        <translation type="unfinished"/>
+        <translation>Yasak Bölge Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1131"/>
         <source>Draw keep-out zones</source>
-        <translation type="unfinished"/>
+        <translation>Yasak bölgeler çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Add Hole</source>
-        <translation type="unfinished"/>
+        <translation>Delik Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
         <source>Add non-plated holes (NPTH drills)</source>
-        <translation type="unfinished"/>
+        <translation>Kaplanmamış delikler ekle (NPTH delikleri)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Tel Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
-        <translation type="unfinished"/>
+        <translation>Sembol pinleri arasında elektriksel bağlantılar oluşturmak için teller çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
         <source>Draw Bus</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1159"/>
         <source>Draw buses to route several related nets with a single wire</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla ilgili ağı tek bir telle yönlendirmek için veri yolları çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Add Label to Net or Bus</source>
-        <translation type="unfinished"/>
+        <translation>Ağa veya Veri Yoluna Etiket Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1168"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
-        <translation type="unfinished"/>
+        <translation>Tellerin ağını veya veri yolunu açıkça belirtmek için etiketler ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1177"/>
         <source>Insert components from the workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma alanı kütüphanelerinden bileşen ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
         <source>Draw Trace</source>
-        <translation type="unfinished"/>
+        <translation>İz Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1186"/>
         <source>Draw copper traces to interconnect devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtları birbirine bağlamak için bakır izler çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
         <source>Add Via</source>
-        <translation type="unfinished"/>
+        <translation>Via Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1195"/>
         <source>Add plated through-hole vias</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı delikli (through-hole) via&apos;lar ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
         <source>Draw Plane</source>
-        <translation type="unfinished"/>
+        <translation>Düzlem Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1204"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
-        <translation type="unfinished"/>
+        <translation>Pedleri ve via&apos;ları birbirine bağlamak için otomatik doldurulan bakır alanlar çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
         <source>Generate Outline</source>
-        <translation type="unfinished"/>
+        <translation>Dış Hat Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1213"/>
         <source>Automatically generate the outline polygon</source>
-        <translation type="unfinished"/>
+        <translation>Dış hat poligonunu otomatik olarak oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
         <source>Generate Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Courtyard Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1222"/>
@@ -7290,7 +7290,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="14"/>
         <source>Add Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="34"/>
@@ -9962,7 +9962,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageadd.cpp" line="42"/>
         <source>Add Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Ekle</translation>
     </message>
 </context>
 <context>
@@ -12130,7 +12130,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="411"/>
         <source>Show Pin Numbers</source>
-        <translation type="unfinished"/>
+        <translation>Pin Numaralarını Göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
@@ -15573,7 +15573,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="253"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Tel Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="356"/>
@@ -15605,7 +15605,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="262"/>
         <source>Draw Wire</source>
-        <translation type="unfinished"/>
+        <translation>Tel Çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="302"/>
@@ -16032,7 +16032,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="14"/>
         <source>Properties</source>
-        <translation type="unfinished"/>
+        <translation>Özellikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="28"/>
@@ -19327,7 +19327,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="664"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="699"/>
@@ -19693,7 +19693,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="166"/>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="181"/>
