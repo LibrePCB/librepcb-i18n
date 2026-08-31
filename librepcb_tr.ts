@@ -1706,17 +1706,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="295"/>
         <source>Intersecting board outlines</source>
-        <translation type="unfinished"/>
+        <translation>Kesişen kart dış hatları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="296"/>
         <source>Two board outline polygons are intersecting each other, which will lead to invalid production data.</source>
-        <translation type="unfinished"/>
+        <translation>İki kart dış hattı poligonu birbirini kesiyor, bu durum geçersiz üretim verisine yol açacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="299"/>
         <source>Make sure there is exactly one board outline polygon. Cutouts at the board edge need to be part of the board outline polygon, not separate polygons. Cutouts inside the board need to be drawn on the &apos;%1&apos; layer.</source>
-        <translation type="unfinished"/>
+        <translation>Tam olarak bir tane kart dış hattı poligonu olduğundan emin olun. Kart kenarındaki kesimler, ayrı poligonlar olarak değil, kart dış hattı poligonunun bir parçası olarak tanımlanmalıdır. Kart içindeki kesimler &apos;%1&apos; katmanına çizilmelidir.</translation>
     </message>
 </context>
 <context>
@@ -1725,12 +1725,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1731"/>
         <source>Invalid connection of pad &apos;%1&apos; on &apos;%2&apos;</source>
         <comment>Placeholders: Pad- or net name, layer name</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; üzerindeki &apos;%1&apos; pedinin geçersiz bağlantısı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1737"/>
         <source>The pad origin must be located within the pads copper area, or for THT pads within a hole. Otherwise traces might not beconnected fully. This issue needs to be fixed in the library.</source>
-        <translation type="unfinished"/>
+        <translation>Ped orijini, pedin bakır alanı içinde veya THT pedler için bir delik içinde bulunmalıdır. Aksi takdirde izler tam olarak bağlanamayabilir. Bu sorunun kütüphanede düzeltilmesi gerekir.</translation>
     </message>
 </context>
 <context>
@@ -1739,12 +1739,12 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1871"/>
         <source>Invalid via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında geçersiz via</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1873"/>
         <source>The via is only drilled between one layer and is therefore invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Via yalnızca tek bir katman arasında delinmiş ve bu nedenle geçersiz.</translation>
     </message>
 </context>
 <context>
@@ -1753,33 +1753,33 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1511"/>
         <source>Via annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Net name, minimum annular width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağının via halka genişliği &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1515"/>
         <source>The via annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Via halka genişliği (yani deliğin etrafındaki bakır), DRC ayarlarında yapılandırılmış minimum halka genişliğinden daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1519"/>
         <source>Check the DRC settings and increase the via size if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse via boyutunu artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1570"/>
         <source>Pad annular ring of &apos;%1&apos; &lt; %2 %3</source>
         <comment>Placeholders: Pad- or net name, minimum annular width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; pedinin halka genişliği &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1578"/>
         <source>The through-hole pad annular ring width (i.e. the copper around the hole) is smaller than the minimum annular width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Delikli (through-hole) pedin halka genişliği (yani deliğin etrafındaki bakır), DRC ayarlarında yapılandırılmış minimum halka genişliğinden daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1582"/>
         <source>Check the DRC settings and increase the pad size if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse ped boyutunu artırın.</translation>
     </message>
 </context>
 <context>
@@ -1788,17 +1788,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="368"/>
         <source>Board outline inner radius &lt; %1 %2</source>
         <comment>Placeholders: Minimum radius, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Kart dış hattı iç yarıçapı &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="371"/>
         <source>The board outline polygon is not manufacturable with the minimum tool diameter configured in the DRC settings due to edges with a smaller radius. Thus the actually produced board outline might contain larger edge radii and too small cutouts might even be missing completely.</source>
-        <translation type="unfinished"/>
+        <translation>Kart dış hattı poligonu, daha küçük yarıçaplı kenarlar nedeniyle DRC ayarlarında yapılandırılmış minimum takım çapıyla üretilebilir değil. Bu nedenle fiilen üretilen kart dış hattı daha büyük kenar yarıçapları içerebilir ve çok küçük kesimler tamamen kayıp bile olabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="377"/>
         <source>Check the DRC settings and add/increase the radius of inner board edges if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse iç kart kenarlarının yarıçapını ekleyin/artırın.</translation>
     </message>
 </context>
 <context>
