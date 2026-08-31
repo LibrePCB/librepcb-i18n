@@ -3466,52 +3466,52 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1222"/>
         <source>Automatically generate the courtyard polygon</source>
-        <translation type="unfinished"/>
+        <translation>Courtyard poligonunu otomatik olarak oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Re-Number Pads</source>
-        <translation type="unfinished"/>
+        <translation>Pedleri Yeniden Numaralandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1231"/>
         <source>Helper tool to interactively change pad numbers</source>
-        <translation type="unfinished"/>
+        <translation>Ped numaralarını etkileşimli olarak değiştirmek için yardımcı araç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1239"/>
         <source>Measure Distance</source>
-        <translation type="unfinished"/>
+        <translation>Mesafe Ölç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1240"/>
         <source>Measure the distance between two points</source>
-        <translation type="unfinished"/>
+        <translation>İki nokta arasındaki mesafeyi ölç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Commands</source>
-        <translation type="unfinished"/>
+        <translation>Komutlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1251"/>
         <source>Go To Command Toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Komut Araç Çubuğuna Git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1252"/>
         <source>Move the focus into the command toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Odağı komut araç çubuğuna taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
         <source>Abort Command</source>
-        <translation type="unfinished"/>
+        <translation>Komutu İptal Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1261"/>
         <source>Abort the currently active command</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda etkin olan komutu iptal et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
