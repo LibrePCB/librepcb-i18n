@@ -1807,39 +1807,39 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1603"/>
         <source>Via drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; via delik çapı: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1608"/>
         <source>Pad drill diameter of &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Net name, actual diameter, minimum diameter</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ped delik çapı: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1613"/>
         <source>NPTH drill diameter: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual diameter, minimum diameter, unit</comment>
-        <translation type="unfinished"/>
+        <translation>NPTH delik çapı: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1624"/>
         <source>The drill diameter of the via is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Via&apos;nın delik çapı, DRC ayarlarında yapılandırılmış minimum kaplamalı delik çapından daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1628"/>
         <source>The drill diameter of the through-hole pad is smaller than the minimum plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Delikli (through-hole) pedin delik çapı, DRC ayarlarında yapılandırılmış minimum kaplamalı delik çapından daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1632"/>
         <source>The drill diameter of the non-plated hole is smaller than the minimum non-plated drill diameter configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplanmamış deliğin delik çapı, DRC ayarlarında yapılandırılmış minimum kaplanmamış delik çapından daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1636"/>
         <source>Check the DRC settings and increase the drill diameter if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse delik çapını artırın.</translation>
     </message>
 </context>
 <context>
@@ -1848,28 +1848,28 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1661"/>
         <source>Plated slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı yuva genişliği: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1665"/>
         <source>NPTH slot width: %1 &lt; %2 %3</source>
         <comment>Placeholders: Actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>NPTH yuva genişliği: %1 &lt; %2 %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1676"/>
         <source>The width of the plated slot is smaller than the minimum plated slot width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı yuvanın genişliği, DRC ayarlarında yapılandırılmış minimum kaplamalı yuva genişliğinden daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1680"/>
         <source>The width of the non-plated slot is smaller than the minimum non-plated slot width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplanmamış yuvanın genişliği, DRC ayarlarında yapılandırılmış minimum kaplanmamış yuva genişliğinden daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1684"/>
         <source>Check the DRC settings and increase the slot width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse yuva genişliğini artırın.</translation>
     </message>
 </context>
 <context>
@@ -1878,17 +1878,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="565"/>
         <source>Text height on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual height, minimum height, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; üzerindeki metin yüksekliği: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="569"/>
         <source>The text height is smaller than the minimum height configured in the DRC settings. If the text is smaller than the minimum height specified by the PCB manufacturer, it may not be readable after production.</source>
-        <translation type="unfinished"/>
+        <translation>Metin yüksekliği, DRC ayarlarında yapılandırılmış minimum yükseklikten daha küçük. Metin, PCB üreticisinin belirttiği minimum yükseklikten daha küçükse, üretimden sonra okunamayabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="574"/>
         <source>Check the DRC settings and increase the text height if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse metin yüksekliğini artırın.</translation>
     </message>
 </context>
 <context>
@@ -1897,89 +1897,89 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="595"/>
         <source>Trace width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; üzerindeki iz genişliği: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="599"/>
         <source>The trace is thinner than the minimum copper width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>İz, DRC ayarlarında yapılandırılmış minimum bakır genişliğinden daha ince.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="602"/>
         <source>Check the DRC settings and increase the trace width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse iz genişliğini artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="617"/>
         <source>Min. plane width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; üzerindeki min. düzlem genişliği: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="621"/>
         <source>The configured minimum width of the plane is smaller than the minimum copper width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Düzlem için yapılandırılmış minimum genişlik, DRC ayarlarında yapılandırılmış minimum bakır genişliğinden daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="624"/>
         <source>Check the DRC settings and increase the minimum plane width in its properties if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse düzlemin özelliklerinden minimum genişliğini artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="637"/>
         <source>Polygon width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; üzerindeki poligon genişliği: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="641"/>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="691"/>
         <source>The polygon line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Poligon çizgi genişliği, DRC ayarlarında yapılandırılmış minimum genişlikten daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="644"/>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="695"/>
         <source>Check the DRC settings and increase the polygon line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse poligon çizgi genişliğini artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="658"/>
         <source>Stroke width on &apos;%1&apos;: %2 &lt; %3 %4</source>
         <comment>Placeholders: Layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; üzerindeki vektör çizgi genişliği: %2 &lt; %3 %4</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="662"/>
         <source>The text stroke width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Metnin vektör çizgi genişliği, DRC ayarlarında yapılandırılmış minimum genişlikten daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="665"/>
         <source>Check the DRC settings and increase the text stroke width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse metnin vektör çizgi genişliğini artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="683"/>
         <source>Polygon width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; üzerindeki &apos;%1&apos; poligon genişliği: %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="710"/>
         <source>Circle width of &apos;%1&apos; on &apos;%2&apos;: %3 &lt; %4 %5</source>
         <comment>Placeholders: Device name, layer name, actual width, minimum width, unit</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; üzerindeki &apos;%1&apos; daire genişliği: %3 &lt; %4 %5</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="718"/>
         <source>The circle line width is smaller than the minimum width configured in the DRC settings.</source>
-        <translation type="unfinished"/>
+        <translation>Daire çizgi genişliği, DRC ayarlarında yapılandırılmış minimum genişlikten daha küçük.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="721"/>
         <source>Check the DRC settings and increase the circle line width if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse daire çizgi genişliğini artırın.</translation>
     </message>
 </context>
 <context>
