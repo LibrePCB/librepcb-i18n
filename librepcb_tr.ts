@@ -1987,17 +1987,17 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="235"/>
         <source>Missing board outline</source>
-        <translation type="unfinished"/>
+        <translation>Eksik kart dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="236"/>
         <source>There&apos;s no board outline defined at all, so the board cannot be manufactured.</source>
-        <translation type="unfinished"/>
+        <translation>Hiç kart dış hattı tanımlanmamış, bu nedenle kart üretilemez.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="239"/>
         <source>Add a closed, zero-width polygon on the layer &apos;%1&apos; to draw the board outline.</source>
-        <translation type="unfinished"/>
+        <translation>Kart dış hattını çizmek için &apos;%1&apos; katmanına kapalı, sıfır genişlikli bir poligon ekleyin.</translation>
     </message>
 </context>
 <context>
@@ -2005,23 +2005,23 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="140"/>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>Ped</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="142"/>
         <source>Via</source>
-        <translation type="unfinished"/>
+        <translation>Via</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="144"/>
         <source>Trace</source>
-        <translation type="unfinished"/>
+        <translation>İz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="179"/>
         <source>Missing connection in &apos;%1&apos;: %2 ↔ %3</source>
         <comment>Placeholders: Net name, connection count</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında eksik bağlantı: %2 ↔ %3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="182"/>
@@ -2030,7 +2030,11 @@ Lütfen bu aracın PATH içinde bulunduğundan emin olun.</translation>
 Add traces and/or planes to create the missing connections.
 
 Note that traces need to be snapped to the origin of footprint pads to make the airwire and this message disappearing.</source>
-        <translation type="unfinished"/>
+        <translation>Ağda eksik bir bağlantı var, yani tüm ağ öğeleri birbirine bağlı değil.
+
+Eksik bağlantıları oluşturmak için iz ve/veya düzlem ekleyin.
+
+İzlerin, hava telini (airwire) ve bu mesajı ortadan kaldırmak için ayak izi pedlerinin orijinine tam olarak bağlanması (snap) gerektiğini unutmayın.</translation>
     </message>
 </context>
 <context>
@@ -2039,14 +2043,16 @@ Note that traces need to be snapped to the origin of footprint pads to make the 
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="117"/>
         <source>Missing device: &apos;%1&apos;</source>
         <comment>Placeholders: Device name</comment>
-        <translation type="unfinished"/>
+        <translation>Eksik aygıt: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="118"/>
         <source>There's a component in the schematics without a corresponding device in the board, so the circuit of the PCB is not complete.
 
 Use the &quot;Place Devices&quot; dock to add the device.</source>
-        <translation type="unfinished"/>
+        <translation>Şematikte, kartta karşılık gelen bir aygıtı olmayan bir bileşen var, bu nedenle PCB devresi tam değil.
+
+Aygıtı eklemek için &quot;Aygıt Yerleştir&quot; panelini kullanın.</translation>
     </message>
 </context>
 <context>
@@ -2054,22 +2060,22 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="252"/>
         <source>Multiple board outlines</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla kart dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="253"/>
         <source>There are multiple, independent board outlines defined.</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla, birbirinden bağımsız kart dış hattı tanımlanmış.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="254"/>
         <source>Either add only a single board outline or make sure the PCB manufacturer can handle production data containing multiple PCBs.</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca tek bir kart dış hattı ekleyin veya PCB üreticinizin birden fazla PCB içeren üretim verisini işleyebildiğinden emin olun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="389"/>
         <source>Plated cutouts detected</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı kesimler tespit edildi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="390"/>
@@ -2078,7 +2084,11 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
 1. Unfortunately, there is no standardized way to let PCB manufacturers know that those cutouts need to be plated. The Gerber export just includes those cutouts in the normal board outlines layer (together with the non-plated cutouts), therefore you need to ensure that the manufacturer will recognize them correctly. Some manufacturers automatically detect plated vs. non-plated cutouts by the existence of copper on the top &amp; bottom layers along the cutout path. The DRC will raise a separate warning if this is not the case, but you should check if your manufacturer will follow this convention.
 
 2. The DRC does not yet detect every possible problem with such cutouts, you have to be careful not to accidentally create short-circuits with plated cutouts as the DRC won&apos;t warn you about this.</source>
-        <translation type="unfinished"/>
+        <translation>Kart, keyfi şekilli (poligon veya daire) kaplamalı kesimler içeriyor. Bunlar, aşağıda açıklanan sorunlar nedeniyle şu anda DENEYSEL olarak kabul edilmektedir. Gelecek sürümlerde farklı şekilde davranabilirler.
+
+1. Ne yazık ki, bu kesimlerin kaplamalı olması gerektiğini PCB üreticilerine bildirmenin standart bir yolu yoktur. Gerber dışa aktarımı bu kesimleri (kaplanmamış kesimlerle birlikte) normal kart dış hatları katmanına dahil eder, bu nedenle üreticinin bunları doğru şekilde tanıyacağından emin olmanız gerekir. Bazı üreticiler, kesim yolu boyunca üst ve alt katmanlardaki bakırın varlığına bakarak kaplamalı ve kaplanmamış kesimleri otomatik olarak ayırt eder. Durum böyle değilse DRC ayrı bir uyarı verecektir, ancak üreticinizin bu kurala uyup uymadığını kontrol etmelisiniz.
+
+2. DRC henüz bu tür kesimlerle ilgili her olası sorunu tespit edemez; DRC sizi bu konuda uyarmayacağı için kaplamalı kesimlerle yanlışlıkla kısa devre oluşturmamaya dikkat etmelisiniz.</translation>
     </message>
 </context>
 <context>
@@ -2086,14 +2096,16 @@ Use the &quot;Place Devices&quot; dock to add the device.</source>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="497"/>
         <source>Non-plated cutout intersects with copper</source>
-        <translation type="unfinished"/>
+        <translation>Kaplanmamış kesim bakırla kesişiyor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="501"/>
         <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
 
 This cutout is on the &quot;%1&quot; layer but intersects with copper layers along its outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to remove any copper along the cutouts outline.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı ve kaplanmamış kesimler aynı Gerber dosyasına aktarılır, çünkü kaplamalı kesimleri üreticilere bildirmenin standart bir yolu yoktur. Bazı üreticiler, kaplamalı ile kaplanmamış kesimleri yalnızca dış hatları boyunca bakır varlığına bakarak ayırt eder.
+
+Bu kesim &quot;%1&quot; katmanında, ancak dış hattı boyunca bakır katmanlarıyla kesişiyor, bu nedenle bu tespit başarısız olabilir ve yanlış üretime yol açabilir. Kesimin dış hattı boyunca tüm bakırın kaldırılması önerilir.</translation>
     </message>
 </context>
 <context>
@@ -8074,7 +8086,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2389"/>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>Ped</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2393"/>
