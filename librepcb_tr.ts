@@ -2615,147 +2615,147 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
         <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="841"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="434"/>
         <source>Remove this item</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="443"/>
         <source>Add this item</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeyi ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="451"/>
         <source>Import/Export</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktar/Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="454"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Örnek Projeler Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="455"/>
         <source>Add some example projects to the workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma alanına birkaç örnek proje ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Import DXF</source>
-        <translation type="unfinished"/>
+        <translation>DXF İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="464"/>
         <source>Import a 2D mechanical drawing</source>
-        <translation type="unfinished"/>
+        <translation>2B mekanik çizim içe aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import EAGLE Library</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Kütüphanesi İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="473"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
-        <translation type="unfinished"/>
+        <translation>Bir EAGLE *.lbr dosyasından kütüphane öğelerini içe aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import EAGLE Project</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Projesi İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="482"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE .sch/.brd dosyalarından şematik/kart içe aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Import KiCad Library</source>
-        <translation type="unfinished"/>
+        <translation>KiCad Kütüphanesi İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="491"/>
         <source>Import symbols and footprints from KiCad libraries</source>
-        <translation type="unfinished"/>
+        <translation>KiCad kütüphanelerinden semboller ve ayak izlerini içe aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Import Specctra SES</source>
-        <translation type="unfinished"/>
+        <translation>Specctra SES İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="500"/>
         <source>Import a Specctra session, e.g. from external autorouters</source>
-        <translation type="unfinished"/>
+        <translation>Bir Specctra oturumunu içe aktarın, örn. harici otomatik yönlendiricilerden (autorouter)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
         <source>Export *.lppz Archive</source>
-        <translation type="unfinished"/>
+        <translation>*.lppz Arşivi Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="509"/>
         <source>Export the project as a self-contained *.lppz archive</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi kendi kendine yeten bir *.lppz arşivi olarak dışa aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="518"/>
         <source>Export graphics as a pixmap</source>
-        <translation type="unfinished"/>
+        <translation>Grafikleri piksel görüntü olarak dışa aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF Olarak Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="527"/>
         <source>Export graphics as a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Grafikleri PDF olarak dışa aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Export Specctra DSN</source>
-        <translation type="unfinished"/>
+        <translation>Specctra DSN Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="536"/>
         <source>Export PCB to Specctra format for external autorouters etc.</source>
-        <translation type="unfinished"/>
+        <translation>PCB&apos;yi harici otomatik yönlendiriciler (autorouter) vb. için Specctra formatına dışa aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP Modeli Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="545"/>
         <source>Export PCB as a STEP file for loading it into MCAD software</source>
-        <translation type="unfinished"/>
+        <translation>PCB&apos;yi MCAD yazılımına yüklemek için STEP dosyası olarak dışa aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="553"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="554"/>
         <source>Send graphics to a printer</source>
-        <translation type="unfinished"/>
+        <translation>Grafikleri yazıcıya gönder</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
@@ -2765,62 +2765,62 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="572"/>
         <source>Open the project&apos;s bill of materials (BOM) to see part availability, prices etc.</source>
-        <translation type="unfinished"/>
+        <translation>Parça bulunabilirliğini, fiyatları vb. görmek için projenin malzeme listesini (BOM) açın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
         <source>Generate Fabrication Data</source>
-        <translation type="unfinished"/>
+        <translation>Üretim Verisi Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="582"/>
         <source>Generate Gerber/Excellon files for PCB fabrication</source>
-        <translation type="unfinished"/>
+        <translation>PCB üretimi için Gerber/Excellon dosyaları oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirme (Pick&amp;Place) Dosyaları Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="591"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik PCB montajı için yerleştirme (pick&amp;place) dosyaları oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
         <source>Generate IPC-D-356A Netlist</source>
-        <translation type="unfinished"/>
+        <translation>IPC-D-356A Netlist Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="600"/>
         <source>Generate netlist file for automated PCB testing</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik PCB testi için netlist dosyası oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı İşleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="609"/>
         <source>Modify or run output jobs</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı işlerini değiştir veya çalıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="617"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>PCB Sipariş Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="618"/>
         <source>Start ordering the PCB online</source>
-        <translation type="unfinished"/>
+        <translation>PCB&apos;yi çevrimiçi sipariş etmeye başla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="625"/>
         <source>Modify</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="629"/>
@@ -2830,7 +2830,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="630"/>
         <source>Revert the last modification</source>
-        <translation type="unfinished"/>
+        <translation>Son değişikliği geri al</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="638"/>
@@ -2840,178 +2840,178 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="639"/>
         <source>Re-apply the last reverted modification</source>
-        <translation type="unfinished"/>
+        <translation>Son geri alınan değişikliği yeniden uygula</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="648"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Kes</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="649"/>
         <source>Cut the selected object(s) to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i panoya kes</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="658"/>
         <source>Copy the selected object(s) to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i panoya kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="666"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Yapıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="667"/>
         <source>Paste object(s) from the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Nesne(ler)i panodan yapıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="675"/>
         <source>Move Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="676"/>
         <source>Move the selected object(s) to the left</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i sola taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="684"/>
         <source>Move Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="685"/>
         <source>Move the selected object(s) to the right</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i sağa taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="693"/>
         <source>Move Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Move the selected object(s) up</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i yukarı taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
         <source>Move Down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>Move the selected object(s) down</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i aşağı taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
         <source>Rotate Counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünün Tersine Döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Rotate the selected object(s) counterclockwise</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i saat yönünün tersine döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Rotate Clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Saat Yönünde Döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Rotate the selected object(s) clockwise</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i saat yönünde döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Mirror Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Mirror the selected object(s) horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i yatay olarak aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
         <source>Mirror Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Mirror the selected object(s) vertically</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i dikey olarak aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Yatay Çevir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i yatay olarak kartın diğer yüzüne çevir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Dikey Çevir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="758"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i dikey olarak kartın diğer yüzüne çevir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Move/Align Objects</source>
-        <translation type="unfinished"/>
+        <translation>Nesneleri Taşı/Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="768"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i dikey veya yatay olarak taşı ve/veya hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="777"/>
         <source>Snap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>Izgaraya Yasla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="778"/>
         <source>Move the selected object(s) to snap the grid</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)i ızgaraya yaslanacak şekilde taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Lock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Yerleşimi Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="787"/>
         <source>Lock the placement of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)in yerleşimini kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
         <source>Unlock Placement</source>
-        <translation type="unfinished"/>
+        <translation>Yerleşimin Kilidini Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Unlock the placement of the selected object(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili nesne(ler)in yerleşiminin kilidini aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
@@ -7366,7 +7366,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
         <source>Order PCB</source>
-        <translation type="unfinished"/>
+        <translation>PCB Sipariş Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="243"/>
@@ -7781,7 +7781,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="386"/>
         <source>Export STEP Model</source>
-        <translation type="unfinished"/>
+        <translation>STEP Modeli Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="411"/>
@@ -11492,7 +11492,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="224"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="229"/>
@@ -11507,12 +11507,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="237"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="245"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
 </context>
 <context>
@@ -11530,7 +11530,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="296"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="297"/>
@@ -12195,17 +12195,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="95"/>
         <source>Export Image</source>
-        <translation type="unfinished"/>
+        <translation>Resim Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="98"/>
         <source>Export PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dışa Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="101"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Yazdır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="120"/>
@@ -12571,7 +12571,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="417"/>
         <source>Add Example Projects</source>
-        <translation type="unfinished"/>
+        <translation>Örnek Projeler Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="458"/>
@@ -13532,7 +13532,7 @@ Are you still sure to delete the following library elements?</source>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="123"/>
         <source>Copy</source>
         <comment>The noun (a copy of), not the verb (to copy)</comment>
-        <translation type="unfinished"/>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="969"/>
@@ -14039,7 +14039,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.ui" line="37"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı İşleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobhomewidget.cpp" line="58"/>
@@ -14082,7 +14082,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="56"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı İşleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjoblistwidgetitem.cpp" line="107"/>
@@ -14105,7 +14105,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="14"/>
         <source>Output Jobs</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı İşleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.ui" line="92"/>
@@ -14175,7 +14175,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="281"/>
         <source>Generate Fabrication Data</source>
-        <translation type="unfinished"/>
+        <translation>Üretim Verisi Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/outputjobsdialog.cpp" line="290"/>
@@ -17611,7 +17611,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="336"/>
         <source>Move Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="70"/>
@@ -17817,7 +17817,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="709"/>
         <source>Move Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="719"/>
@@ -19688,7 +19688,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="151"/>
         <source>Move Up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="166"/>
@@ -19708,7 +19708,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="211"/>
         <source>Remove</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır</translation>
     </message>
 </context>
 <context>
