@@ -2113,17 +2113,17 @@ Bu kesim &quot;%1&quot; katmanında, ancak dış hattı boyunca bakır katmanlar
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="268"/>
         <source>Non-closed board outline</source>
-        <translation type="unfinished"/>
+        <translation>Kapalı olmayan kart dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="269"/>
         <source>The board outline polygon is not closed, i.e. the last vertex is not at the same coordinate as the first vertex.</source>
-        <translation type="unfinished"/>
+        <translation>Kart dış hattı poligonu kapalı değil, yani son köşe noktası ilk köşe noktasıyla aynı koordinatta değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="272"/>
         <source>Replace multiple coincident polygons with a single, connected polygon and append an explicit last vertex to make the polygon closed.</source>
-        <translation type="unfinished"/>
+        <translation>Çakışan birden fazla poligonu tek, bağlı bir poligonla değiştirin ve poligonu kapatmak için açıkça bir son köşe noktası ekleyin.</translation>
     </message>
 </context>
 <context>
@@ -2132,17 +2132,17 @@ Bu kesim &quot;%1&quot; katmanında, ancak dış hattı boyunca bakır katmanlar
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1317"/>
         <source>Device overlap: &apos;%1&apos; ↔ &apos;%2&apos;</source>
         <comment>Placeholders: Device 1 name, device 2 name</comment>
-        <translation type="unfinished"/>
+        <translation>Aygıt çakışması: &apos;%1&apos; ↔ &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1321"/>
         <source>Two devices are overlapping and thus probably cannot be assembled both at the same time.</source>
-        <translation type="unfinished"/>
+        <translation>İki aygıt çakışıyor ve bu nedenle muhtemelen ikisi aynı anda monte edilemez.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1324"/>
         <source>Either move the devices to increase their clearance or approve this message if you&apos;re sure they can be assembled without problems (or only one of them gets assembled).</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtları taşıyarak aralarındaki boşluğu artırın veya sorunsuz monte edilebileceklerinden (ya da yalnızca birinin monte edileceğinden) eminseniz bu mesajı onaylayın.</translation>
     </message>
 </context>
 <context>
@@ -2151,17 +2151,17 @@ Bu kesim &quot;%1&quot; katmanında, ancak dış hattı boyunca bakır katmanlar
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1892"/>
         <source>Ignored thermal spoke width of plane in &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağındaki düzlemin termal bacak genişliği yok sayıldı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1895"/>
         <source>The thermal spoke width of the plane is set to a value smaller than the planes minimum width, which is not allowed. Therefore the plane filling algorithm ignores the specified spoke width and uses the specified minimum width instead.</source>
-        <translation type="unfinished"/>
+        <translation>Düzlemin termal bacak genişliği, düzlemin minimum genişliğinden daha küçük bir değere ayarlanmış, bu ise izin verilmiyor. Bu nedenle düzlem doldurma algoritması, belirtilen bacak genişliğini yok sayarak bunun yerine belirtilen minimum genişliği kullanır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1900"/>
         <source>It is recommended to explicitly set the thermal spoke width equal to or higher than the minimum width of the plane.</source>
-        <translation type="unfinished"/>
+        <translation>Termal bacak genişliğinin, düzlemin minimum genişliğine eşit veya daha yüksek olacak şekilde açıkça ayarlanması önerilir.</translation>
     </message>
 </context>
 <context>
@@ -2169,14 +2169,16 @@ Bu kesim &quot;%1&quot; katmanında, ancak dış hattı boyunca bakır katmanlar
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="446"/>
         <source>Plated cutout not surrounded by copper</source>
-        <translation type="unfinished"/>
+        <translation>Bakırla çevrelenmemiş kaplamalı kesim</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="450"/>
         <source>Plated- and non-plated cutouts are exported to the same Gerber file because there is no standardized way to send plated cutouts to manufacturers. Some manufacturers just detect plated vs. non-plated cutouts by the existence of copper along their outline.
 
 This cutout is on the &quot;%1&quot; layer but does not have copper on both top &amp; bottom layers along its complete outline, therefore this detection might fail, possibly leading to wrong manufacturing. It is recommended to draw copper along the complete cutout outline.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı ve kaplanmamış kesimler aynı Gerber dosyasına aktarılır, çünkü kaplamalı kesimleri üreticilere bildirmenin standart bir yolu yoktur. Bazı üreticiler, kaplamalı ile kaplanmamış kesimleri yalnızca dış hatları boyunca bakır varlığına bakarak ayırt eder.
+
+Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst hem alt katmanlarda bakır bulunmuyor, bu nedenle bu tespit başarısız olabilir ve yanlış üretime yol açabilir. Kesimin tüm dış hattı boyunca bakır çizilmesi önerilir.</translation>
     </message>
 </context>
 <context>
@@ -2185,17 +2187,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1918"/>
         <source>Clearance silkscreen text ↔ stop mask &lt; %1 %2</source>
         <comment>Placeholders: Clearance value, unit</comment>
-        <translation type="unfinished"/>
+        <translation>Boşluk: serigrafi metni ↔ lehim maskesi &lt; %1 %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1921"/>
         <source>The clearance between a silkscreen text and a solder resist opening is smaller than the minimum clearance configured in the DRC settings. This could lead to clipped silkscreen during production.</source>
-        <translation type="unfinished"/>
+        <translation>Bir serigrafi metni ile lehim maskesi açıklığı arasındaki boşluk, DRC ayarlarında yapılandırılmış minimum boşluktan daha küçük. Bu durum üretim sırasında serigrafinin kırpılmasına yol açabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1926"/>
         <source>Check the DRC settings and move the text away from the solder resist opening if needed.</source>
-        <translation type="unfinished"/>
+        <translation>DRC ayarlarını kontrol edin ve gerekirse metni lehim maskesi açıklığından uzaklaştırın.</translation>
     </message>
 </context>
 <context>
@@ -2203,7 +2205,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="542"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında bağlantısız kavşak</translation>
     </message>
 </context>
 <context>
@@ -2211,12 +2213,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1998"/>
         <source>Unused layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılmayan katman: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1999"/>
         <source>The layer contains no copper objects (except the automatically generated through-hole annular rings, if any) so it is useless. This is not critical, but if your intention is to flood it with copper, you need to add a plane manually. Or if you don&apos;t need this layer, you might want to reduce the layer count in the board setup dialog to avoid unnecessary production costs. Also some PCB manufacturers might be confused by empty layers.</source>
-        <translation type="unfinished"/>
+        <translation>Bu katman (varsa otomatik oluşturulan delikli halka genişlikleri hariç) hiç bakır nesne içermiyor, bu nedenle işlevsiz. Bu kritik bir durum değildir, ancak katmanı bakırla doldurmak istiyorsanız manuel olarak bir düzlem eklemeniz gerekir. Ya da bu katmana ihtiyacınız yoksa, gereksiz üretim maliyetlerinden kaçınmak için kart kurulum penceresinden katman sayısını azaltabilirsiniz. Ayrıca bazı PCB üreticileri boş katmanlar karşısında kafası karışabilir.</translation>
     </message>
 </context>
 <context>
@@ -2225,12 +2227,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1961"/>
         <source>Useless via in net &apos;%1&apos;</source>
         <comment>Placeholders: Net name</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında işlevsiz via</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1963"/>
         <source>The via is connected on less than two layers, thus it seems to be useless.</source>
-        <translation type="unfinished"/>
+        <translation>Via, ikiden az katmana bağlı, bu nedenle işlevsiz görünüyor.</translation>
     </message>
 </context>
 <context>
@@ -2238,12 +2240,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1945"/>
         <source>Useless zone</source>
-        <translation type="unfinished"/>
+        <translation>İşlevsiz bölge</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="1946"/>
         <source>The zone has no layer or rule enabled so it is useless.</source>
-        <translation type="unfinished"/>
+        <translation>Bölgede hiçbir katman veya kural etkin değil, bu nedenle işlevsiz.</translation>
     </message>
 </context>
 <context>
@@ -2251,12 +2253,12 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/import/dxfreader.cpp" line="189"/>
         <source>File does not exist or is not readable.</source>
-        <translation type="unfinished"/>
+        <translation>Dosya mevcut değil veya okunabilir değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/import/dxfreader.cpp" line="195"/>
         <source>Failed to read DXF file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; DXF dosyası okunamadı: %2</translation>
     </message>
 </context>
 <context>
@@ -2264,7 +2266,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/eagleimport/eagletypeconverter.cpp" line="550"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli/noktalı çizgi desteklenmiyor, düz çizgiye dönüştürülüyor.</translation>
     </message>
 </context>
 <context>
@@ -2272,342 +2274,342 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="82"/>
         <source>Editor</source>
-        <translation type="unfinished"/>
+        <translation>Düzenleyici</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="86"/>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Yeni</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="87"/>
         <source>Add a new item</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir öğe ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="95"/>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="96"/>
         <source>Open the selected item(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili öğe(ler)i aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="104"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="105"/>
         <source>Save changes to filesystem</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri dosya sistemine kaydet</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="113"/>
         <source>Save All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Kaydet</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="114"/>
         <source>Save all elements to filesystem</source>
-        <translation type="unfinished"/>
+        <translation>Tüm öğeleri dosya sistemine kaydet</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="122"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="123"/>
         <source>Select all visible objects</source>
-        <translation type="unfinished"/>
+        <translation>Görünen tüm nesneleri seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="131"/>
         <source>Find</source>
-        <translation type="unfinished"/>
+        <translation>Bul</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="132"/>
         <source>Find or filter objects</source>
-        <translation type="unfinished"/>
+        <translation>Nesneleri bul veya filtrele</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="140"/>
         <source>Find Next</source>
-        <translation type="unfinished"/>
+        <translation>Sonrakini Bul</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="141"/>
         <source>Go to the next found object</source>
-        <translation type="unfinished"/>
+        <translation>Bulunan bir sonraki nesneye git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="149"/>
         <source>Find Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekini Bul</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="150"/>
         <source>Go to the previous found object</source>
-        <translation type="unfinished"/>
+        <translation>Bulunan bir önceki nesneye git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="158"/>
         <source>Show in File Manager</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yöneticisinde Göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Open the directory in the file manager</source>
-        <translation type="unfinished"/>
+        <translation>Dizini dosya yöneticisinde aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
         <source>Switch Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanını Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="168"/>
         <source>Choose another workspace to open</source>
-        <translation type="unfinished"/>
+        <translation>Açmak için başka bir çalışma alanı seçin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="176"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı Ayarları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="177"/>
         <source>Open the workspace settings dialog</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma alanı ayarları penceresini aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="185"/>
         <source>Rescan Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneleri Yeniden Tara</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Scan all workspace libraries to update the cache</source>
-        <translation type="unfinished"/>
+        <translation>Önbelleği güncellemek için tüm çalışma alanı kütüphanelerini tara</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Manage installed part libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kurulu parça kütüphanelerini yönet</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Çoğalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="213"/>
         <source>Create a new element by duplicating this one</source>
-        <translation type="unfinished"/>
+        <translation>Bunu çoğaltarak yeni bir öğe oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="221"/>
         <source>New Project</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Proje</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new project</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir proje oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="230"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Proje Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Open an existing project</source>
-        <translation type="unfinished"/>
+        <translation>Var olan bir projeyi aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="248"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Proje Kurulumu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="249"/>
         <source>View/modify the project setup</source>
-        <translation type="unfinished"/>
+        <translation>Proje kurulumunu görüntüle/değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Proje Kütüphane Yöneticisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>Review the project&apos;s library elements &amp; update them from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Projenin kütüphane öğelerini incele ve çalışma alanı kütüphanelerinden güncelle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>Grid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Izgara Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="268"/>
         <source>View/modify the grid properties</source>
-        <translation type="unfinished"/>
+        <translation>Izgara özelliklerini görüntüle/değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
         <source>Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>Kart Kurulumu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="277"/>
         <source>View/modify the board setup</source>
-        <translation type="unfinished"/>
+        <translation>Kart kurulumunu görüntüle/değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Run Quick Check</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Denetim Çalıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
         <source>Run only the most important copper checks from the DRC</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca DRC&apos;deki en önemli bakır denetimlerini çalıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>Run Design Rule Check</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kural Kontrolünü Çalıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="295"/>
         <source>Run the design rule check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım kural kontrolünü (DRC) çalıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="322"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="323"/>
         <source>Add a new schematic sheet to the project</source>
-        <translation type="unfinished"/>
+        <translation>Projeye yeni bir şematik sayfası ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
         <source>Rename Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Yeniden Adlandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="332"/>
         <source>Rename the current schematic sheet</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli şematik sayfasını yeniden adlandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>Remove Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Sayfayı Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="341"/>
         <source>Remove the current schematic sheet from the project</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli şematik sayfasını projeden kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
         <source>New Board</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Kart</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="359"/>
         <source>Add a new board to the project</source>
-        <translation type="unfinished"/>
+        <translation>Projeye yeni bir kart ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>Kartı Kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="368"/>
         <source>Add a copy of the current board to the project</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli kartın bir kopyasını projeye ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
         <source>Remove Board</source>
-        <translation type="unfinished"/>
+        <translation>Kartı Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="377"/>
         <source>Remove the current board from the project</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli kartı projeden kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
         <source>Show All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Düzlemleri Göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="386"/>
         <source>Make the filled areas of all planes visible</source>
-        <translation type="unfinished"/>
+        <translation>Tüm düzlemlerin doldurulmuş alanlarını görünür yap</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
         <source>Hide All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Düzlemleri Gizle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="395"/>
         <source>Make the filled areas of all planes invisible</source>
-        <translation type="unfinished"/>
+        <translation>Tüm düzlemlerin doldurulmuş alanlarını görünmez yap</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="403"/>
         <source>Rebuild All Planes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Düzlemleri Yeniden Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="404"/>
         <source>Re-calculate the filled areas of all planes</source>
-        <translation type="unfinished"/>
+        <translation>Tüm düzlemlerin doldurulmuş alanlarını yeniden hesapla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="412"/>
         <source>Text Input</source>
-        <translation type="unfinished"/>
+        <translation>Metin Girişi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="415"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Gözat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="416"/>
         <source>Open file or directory browser</source>
-        <translation type="unfinished"/>
+        <translation>Dosya veya dizin tarayıcısını aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="424"/>
         <source>Change Unit</source>
-        <translation type="unfinished"/>
+        <translation>Birimi Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="425"/>
         <source>Change the measurement unit of the text input</source>
-        <translation type="unfinished"/>
+        <translation>Metin girişinin ölçü birimini değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
@@ -4299,7 +4301,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="368"/>
         <source>Unconnected junction in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında bağlantısız kavşak</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="390"/>
@@ -6037,7 +6039,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="495"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Çoğalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="499"/>
@@ -7222,7 +7224,7 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="586"/>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="744"/>
         <source>Dashed/dotted line is not supported, converting to continuous.</source>
-        <translation type="unfinished"/>
+        <translation>Kesikli/noktalı çizgi desteklenmiyor, düz çizgiye dönüştürülüyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/eagleimport/eagleprojectimport.cpp" line="749"/>
@@ -7354,7 +7356,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
@@ -8574,7 +8576,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="14"/>
         <source>Board Setup</source>
-        <translation type="unfinished"/>
+        <translation>Kart Kurulumu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="24"/>
@@ -11480,7 +11482,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="199"/>
         <source>Browse</source>
-        <translation type="unfinished"/>
+        <translation>Gözat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="219"/>
@@ -12595,7 +12597,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="559"/>
         <source>Open Project</source>
-        <translation type="unfinished"/>
+        <translation>Proje Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="560"/>
@@ -12724,7 +12726,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.cpp" line="54"/>
         <source>Switch Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanını Değiştir</translation>
     </message>
 </context>
 <context>
@@ -15070,7 +15072,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="574"/>
         <source>New Sheet</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="575"/>
@@ -15106,7 +15108,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
         <source>Copy Board</source>
-        <translation type="unfinished"/>
+        <translation>Kartı Kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
@@ -15257,7 +15259,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="14"/>
         <source>Project Setup</source>
-        <translation type="unfinished"/>
+        <translation>Proje Kurulumu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="24"/>
@@ -16314,7 +16316,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="17"/>
         <source>Workspace Settings</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı Ayarları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="33"/>
@@ -16402,7 +16404,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="402"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="527"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Çoğalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="304"/>
@@ -17395,7 +17397,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="77"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Çoğalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="78"/>
@@ -19447,7 +19449,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="557"/>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="567"/>
@@ -19696,7 +19698,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="181"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Çoğalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="196"/>
@@ -20333,7 +20335,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="340"/>
         <source>Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="394"/>
