@@ -3516,468 +3516,468 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
         <source>Layer Up</source>
-        <translation type="unfinished"/>
+        <translation>Katman Yukarı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1270"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
-        <translation type="unfinished"/>
+        <translation>Bir sonraki üst katmana geç (alttan üste)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
         <source>Layer Down</source>
-        <translation type="unfinished"/>
+        <translation>Katman Aşağı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1279"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
-        <translation type="unfinished"/>
+        <translation>Bir sonraki alt katmana geç (üstten alta)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Increase Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliğini Artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1288"/>
         <source>Increase the line/trace/stroke/pad width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi/iz/vektör çizgi/ped genişliğini artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Decrease Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliğini Azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1297"/>
         <source>Decrease the line/trace/stroke/pad width</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi/iz/vektör çizgi/ped genişliğini azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
         <source>Increase Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyutu Artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1306"/>
         <source>Increase the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Via/ped/pin/metin boyutunu artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
         <source>Decrease Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyutu Azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1315"/>
         <source>Decrease the via/pad/pin/text size</source>
-        <translation type="unfinished"/>
+        <translation>Via/ped/pin/metin boyutunu azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
         <source>Increase Drill</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapını Artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1324"/>
         <source>Increase the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via/ped/delik delik çapını artır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Decrease Drill</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapını Azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
         <source>Decrease the via/pad/hole drill diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via/ped/delik çapını azalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
         <source>Toggle Auto-Width</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Genişliği Aç/Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1342"/>
         <source>Toggle the auto-width property state</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik genişlik özelliğinin durumunu aç/kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
         <source>Toggle Fill</source>
-        <translation type="unfinished"/>
+        <translation>Dolguyu Aç/Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1351"/>
         <source>Toggle the fill property state</source>
-        <translation type="unfinished"/>
+        <translation>Dolgu özelliğinin durumunu aç/kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
         <source>Toggle Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Kavrama Alanını Aç/Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1360"/>
         <source>Toggle the grab area property state</source>
-        <translation type="unfinished"/>
+        <translation>Kavrama alanı özelliğinin durumunu aç/kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1369"/>
         <source>Horizontal alignment: Left</source>
-        <translation type="unfinished"/>
+        <translation>Yatay hizalama: Sol</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Ortaya Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1378"/>
         <source>Horizontal alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Yatay hizalama: Orta</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
         <source>Align Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1387"/>
         <source>Horizontal alignment: Right</source>
-        <translation type="unfinished"/>
+        <translation>Yatay hizalama: Sağ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alta Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1396"/>
         <source>Vertical alignment: Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Dikey hizalama: Alt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1405"/>
         <source>Vertical alignment: Center</source>
-        <translation type="unfinished"/>
+        <translation>Dikey hizalama: Orta</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Align Top</source>
-        <translation type="unfinished"/>
+        <translation>Üste Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
         <source>Vertical alignment: Top</source>
-        <translation type="unfinished"/>
+        <translation>Dikey hizalama: Üst</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Horizontal - Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Yatay - Dikey</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
-        <translation type="unfinished"/>
+        <translation>Tel modu: İlk segment yatay, ikinci segment dikey</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>Vertical - Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Dikey - Yatay</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1433"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Tel modu: İlk segment dikey, ikinci segment yatay</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
         <source>90° - 45°</source>
-        <translation type="unfinished"/>
+        <translation>90° - 45°</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1443"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
-        <translation type="unfinished"/>
+        <translation>Tel modu: İlk segment 90°, ikinci segment 45°</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>45° - 90°</source>
-        <translation type="unfinished"/>
+        <translation>45° - 90°</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1452"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
-        <translation type="unfinished"/>
+        <translation>Tel modu: İlk segment 45°, ikinci segment 90°</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>Straight</source>
-        <translation type="unfinished"/>
+        <translation>Düz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1461"/>
         <source>Wire mode: Straight line</source>
-        <translation type="unfinished"/>
+        <translation>Tel modu: Düz çizgi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Round</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlak</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1470"/>
         <source>Shape: Round</source>
-        <translation type="unfinished"/>
+        <translation>Şekil: Yuvarlak</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1479"/>
         <source>Shape: Rounded Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Şekil: Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
         <source>Shape: Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Şekil: Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
         <source>Shape: Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Şekil: Sekizgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1508"/>
         <source>Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Direnç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1509"/>
         <source>Add standard component: Resistor</source>
-        <translation type="unfinished"/>
+        <translation>Standart bileşen ekle: Direnç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Bobin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1518"/>
         <source>Add standard component: Inductor</source>
-        <translation type="unfinished"/>
+        <translation>Standart bileşen ekle: Bobin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
         <source>Bipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Bipolar Kondansatör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1527"/>
         <source>Add standard component: Bipolar capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Standart bileşen ekle: Bipolar kondansatör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
         <source>Unipolar Capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Unipolar Kondansatör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
         <source>Add standard component: Unipolar capacitor</source>
-        <translation type="unfinished"/>
+        <translation>Standart bileşen ekle: Unipolar kondansatör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
         <source>GND Supply</source>
-        <translation type="unfinished"/>
+        <translation>GND Kaynağı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
         <source>Add standard component: GND supply</source>
-        <translation type="unfinished"/>
+        <translation>Standart bileşen ekle: GND kaynağı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1553"/>
         <source>VCC Supply</source>
-        <translation type="unfinished"/>
+        <translation>VCC Kaynağı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
         <source>Add standard component: VCC supply</source>
-        <translation type="unfinished"/>
+        <translation>Standart bileşen ekle: VCC kaynağı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1561"/>
         <source>Docks</source>
-        <translation type="unfinished"/>
+        <translation>Paneller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1574"/>
         <source>Electrical Rule Check (ERC)</source>
-        <translation type="unfinished"/>
+        <translation>Elektriksel Kural Kontrolü (ERC)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1575"/>
         <source>Go to the ERC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>ERC mesajları paneline git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
         <source>Design Rule Check (DRC)</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kural Kontrolü (DRC)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1584"/>
         <source>Go to the DRC messages dock</source>
-        <translation type="unfinished"/>
+        <translation>DRC mesajları paneline git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>Go to the layers dock</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar paneline git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>Go to the dock for placing devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt yerleştirme paneline git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
         <source>Window Management</source>
-        <translation type="unfinished"/>
+        <translation>Pencere Yönetimi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1614"/>
         <source>Next Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Sekme/Sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1615"/>
         <source>Navigate to the next tab or page</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sekmeye veya sayfaya git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
         <source>Previous Tab/Page</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Sekme/Sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1624"/>
         <source>Navigate to the previous tab or page</source>
-        <translation type="unfinished"/>
+        <translation>Önceki sekmeye veya sayfaya git</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeyi Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1633"/>
         <source>Close the currently opened tab</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda açık olan sekmeyi kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Close All Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Sekmeleri Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
         <source>Close all currently opened tabs</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda açık olan tüm sekmeleri kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
         <source>New Window</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Pencere</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
         <source>Open a new window</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir pencere aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Close Window</source>
-        <translation type="unfinished"/>
+        <translation>Pencereyi Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
         <source>Close this window</source>
-        <translation type="unfinished"/>
+        <translation>Bu pencereyi kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Close Project</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Close the currently opened project</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda açık olan projeyi kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
         <source>Close All Projects</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Projeleri Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1679"/>
         <source>Close all currently opened projects</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda açık olan tüm projeleri kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Çık</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1688"/>
         <source>Close the whole application</source>
-        <translation type="unfinished"/>
+        <translation>Uygulamanın tamamını kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1695"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Yardım</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1699"/>
@@ -3987,32 +3987,32 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1700"/>
         <source>Show information about the application</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama hakkında bilgi göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
         <source>About Qt</source>
-        <translation type="unfinished"/>
+        <translation>Qt Hakkında</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1709"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Qt hakkında bilgi göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
         <source>LibrePCB Website</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Web Sitesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1718"/>
         <source>Open the LibrePCB website in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB web sitesini web tarayıcısında aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
         <source>User Manual &amp;&amp; Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Kılavuzu ve Eğitimler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
@@ -8223,12 +8223,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="259"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="285"/>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="311"/>
@@ -11347,7 +11347,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="257"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="260"/>
@@ -11640,12 +11640,12 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="262"/>
         <source>Rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="288"/>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="314"/>
@@ -12443,7 +12443,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="154"/>
@@ -13148,7 +13148,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="361"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="364"/>
@@ -16756,7 +16756,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="67"/>
@@ -17321,7 +17321,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="372"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="386"/>
@@ -18302,7 +18302,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="15"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="18"/>
@@ -18566,7 +18566,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="142"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="149"/>
@@ -18604,17 +18604,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="45"/>
         <source>Align Left</source>
-        <translation type="unfinished"/>
+        <translation>Sola Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="46"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Ortaya Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="47"/>
         <source>Align Right</source>
-        <translation type="unfinished"/>
+        <translation>Sağa Hizala</translation>
     </message>
 </context>
 <context>
@@ -19043,7 +19043,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
         <source>Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="190"/>
@@ -19282,7 +19282,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1568"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Yardım</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1689"/>
@@ -19846,7 +19846,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="18"/>
         <source>Round</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlak</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="24"/>
@@ -19861,7 +19861,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="36"/>
         <source>Octagon</source>
-        <translation type="unfinished"/>
+        <translation>Sekizgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="72"/>
@@ -19937,7 +19937,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="105"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="135"/>
@@ -20325,12 +20325,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="202"/>
         <source>Layers</source>
-        <translation type="unfinished"/>
+        <translation>Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="220"/>
         <source>Place Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="340"/>
@@ -20440,7 +20440,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/windowsection.slint" line="231"/>
         <source>Close Tab</source>
-        <translation type="unfinished"/>
+        <translation>Sekmeyi Kapat</translation>
     </message>
 </context>
 <context>
@@ -20477,17 +20477,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="84"/>
         <source>Align Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alta Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="85"/>
         <source>Align Center</source>
-        <translation type="unfinished"/>
+        <translation>Ortaya Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/alignmentselector.slint" line="86"/>
         <source>Align Top</source>
-        <translation type="unfinished"/>
+        <translation>Üste Hizala</translation>
     </message>
 </context>
 <context>
