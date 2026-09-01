@@ -4796,57 +4796,57 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="306"/>
         <source>Bottom Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Alt Lehim Maskesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="313"/>
         <source>Top Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Üst Lehim Pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="320"/>
         <source>Bottom Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Alt Lehim Pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="327"/>
         <source>Top Finish</source>
-        <translation type="unfinished"/>
+        <translation>Üst Kaplama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="333"/>
         <source>Bottom Finish</source>
-        <translation type="unfinished"/>
+        <translation>Alt Kaplama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="339"/>
         <source>Top Glue</source>
-        <translation type="unfinished"/>
+        <translation>Üst Yapıştırıcı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="345"/>
         <source>Bottom Glue</source>
-        <translation type="unfinished"/>
+        <translation>Alt Yapıştırıcı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="351"/>
         <source>Top Copper</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="357"/>
         <source>Bottom Copper</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bakır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="370"/>
         <source>Inner Copper %1</source>
-        <translation type="unfinished"/>
+        <translation>İç Bakır %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="456"/>
         <source>Unknown layer: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen katman: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4854,12 +4854,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/length.h" line="479"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Değer &gt;= 0 olmalıdır!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/length.h" line="595"/>
         <source>Value must be &gt; 0!</source>
-        <translation type="unfinished"/>
+        <translation>Değer &gt; 0 olmalıdır!</translation>
     </message>
 </context>
 <context>
@@ -4892,7 +4892,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/lengthunit.cpp" line="242"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz uzunluk birimi: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -4901,7 +4901,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
         <location filename="libs/librepcb/core/job/lppzoutputjob.cpp" line="40"/>
         <location filename="libs/librepcb/core/job/lppzoutputjob.h" line="66"/>
         <source>Project Archive</source>
-        <translation type="unfinished"/>
+        <translation>Proje Arşivi</translation>
     </message>
 </context>
 <context>
@@ -4909,7 +4909,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/utils/mathparser.cpp" line="81"/>
         <source>Failed to parse expression:</source>
-        <translation type="unfinished"/>
+        <translation>İfade ayrıştırılamadı:</translation>
     </message>
 </context>
 <context>
@@ -4917,22 +4917,22 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/utils/menubuilder.cpp" line="113"/>
         <source>Change &amp;Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtı Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/menubuilder.cpp" line="118"/>
         <source>Change &amp;Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzini Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/menubuilder.cpp" line="123"/>
         <source>Change 3D &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>3B Modeli Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/menubuilder.cpp" line="128"/>
         <source>More Resources</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Kaynaklar</translation>
     </message>
 </context>
 <context>
@@ -4940,12 +4940,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="41"/>
         <source>Ambiguous footprint tags</source>
-        <translation type="unfinished"/>
+        <translation>Belirsiz ayak izi etiketleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="42"/>
         <source>The package provides multiple footprints, but they don&apos;t specify (enough) tags to make them uniquely identifiable just by their tags. This is not a problem at all, but adding unique tags to the footprints would make the automatic footprint selection of the board editor more sophisticated.</source>
-        <translation type="unfinished"/>
+        <translation>Paket birden fazla ayak izi sunuyor, ancak bunlar yalnızca etiketleriyle benzersiz şekilde tanımlanabilmeleri için (yeterli) etiket belirtmiyor. Bu hiç de bir sorun değil, ancak ayak izlerine benzersiz etiketler eklemek, kart editörünün otomatik ayak izi seçimini daha gelişmiş hale getirir.</translation>
     </message>
 </context>
 <context>
@@ -4953,12 +4953,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="55"/>
         <source>Non-recommended assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Önerilmeyen montaj türü</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="56"/>
         <source>The assembly type &apos;Auto-detect&apos; is not recommended as the detection might not be correct in every case. It&apos;s safer to specify the assembly type manually.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Otomatik algıla&apos; montaj türü önerilmez, çünkü algılama her durumda doğru olmayabilir. Montaj türünü manuel olarak belirtmek daha güvenlidir.</translation>
     </message>
 </context>
 <context>
@@ -4966,14 +4966,16 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="36"/>
         <source>No part numbers added</source>
-        <translation type="unfinished"/>
+        <translation>Parça numarası eklenmemiş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="37"/>
         <source>There are no orderable parts added to the device. It's recommended (but not mandatory) to add the concrete manufacturer part numbers this device is valid for. These MPNs are used by the BOM export to make BOMs of projects much more complete and accurate.
 
 If this device doesn&apos;t represent an orderable part, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Aygıta sipariş edilebilir hiçbir parça eklenmemiş. Bu aygıtın geçerli olduğu somut üretici parça numaralarını eklemeniz önerilir (ancak zorunlu değildir). Bu MPN&apos;ler, projelerin malzeme listelerini çok daha eksiksiz ve doğru hale getirmek için BOM dışa aktarımında kullanılır.
+
+Bu aygıt sipariş edilebilir bir parçayı temsil etmiyorsa, bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -4981,14 +4983,16 @@ If this device doesn&apos;t represent an orderable part, just ignore this messag
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="81"/>
         <source>Duplicate pad name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen ped adı: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="82"/>
         <source>All package pads must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several leads with same functionality (e.g. multiple GND leads), you can assign all these pads to the same component signal later in the device editor.
 
 For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, not by functionality (e.g. name them &apos;1&apos;, &apos;2&apos;, &apos;3&apos; instead of &apos;D&apos;, &apos;G&apos;, &apos;S&apos;).</source>
-        <translation type="unfinished"/>
+        <translation>Tüm paket pedlerinin benzersiz adları olmalıdır, aksi takdirde daha sonra aygıt editöründe ayırt edilemezler. Parçanızın aynı işleve sahip birden fazla ucu (lead) varsa (örn. birden fazla GND ucu), tüm bu pedleri daha sonra aygıt editöründe aynı bileşen sinyaline atayabilirsiniz.
+
+Nötr paketler için (örn. SOT23), pedler zaten işlevine göre değil, yalnızca numaralara göre adlandırılmalıdır (örn. &apos;D&apos;, &apos;G&apos;, &apos;S&apos; yerine &apos;1&apos;, &apos;2&apos;, &apos;3&apos; olarak adlandırın).</translation>
     </message>
 </context>
 <context>
@@ -4996,12 +5000,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="41"/>
         <source>Duplicate pin name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen pin adı: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="42"/>
         <source>All symbol pins must have unique names, otherwise they cannot be distinguished later in the component editor. If your part has several pins with same functionality (e.g. multiple GND pins), you should add only one of these pins to the symbol. The assignment to multiple leads should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sembol pinlerinin benzersiz adları olmalıdır, aksi takdirde daha sonra bileşen editöründe ayırt edilemezler. Parçanızın aynı işleve sahip birden fazla pini varsa (örn. birden fazla GND pini), bu pinlerden yalnızca birini sembole eklemelisiniz. Birden fazla uca atama işlemi bunun yerine aygıt editöründe yapılmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -5009,12 +5013,12 @@ For neutral packages (e.g. SOT23), pads should be named only by numbers anyway, 
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="41"/>
         <source>Duplicate signal name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Yinelenen sinyal adı: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="42"/>
         <source>All component signals must have unique names, otherwise they cannot be distinguished later in the device editor. If your part has several pins which are electrically exactly equal (e.g. multiple GND pins), you should add only one of these pins as a component signal. The assignment to multiple pins should be done in the device editor instead.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm bileşen sinyallerinin benzersiz adları olmalıdır, aksi takdirde daha sonra aygıt editöründe ayırt edilemezler. Parçanızın elektriksel olarak birbirine tamamen eşit birden fazla pini varsa (örn. birden fazla GND pini), bu pinlerden yalnızca birini bileşen sinyali olarak eklemelisiniz. Birden fazla pine atama işlemi bunun yerine aygıt editöründe yapılmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -5931,7 +5935,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/ratio.h" line="310"/>
         <source>Value must be &gt;= 0!</source>
-        <translation type="unfinished"/>
+        <translation>Değer &gt;= 0 olmalıdır!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/ratio.h" line="356"/>
