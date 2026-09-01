@@ -4017,187 +4017,187 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
         <source>Open the online user manual in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi kullanıcı kılavuzunu web tarayıcısında aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
-        <translation type="unfinished"/>
+        <translation>Geri Bildirim Ver ve Destek Al</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
         <source>Open the support page in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Destek sayfasını web tarayıcısında aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
         <source>Support the LibrePCB Project</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Projesini Destekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
         <source>Open the donation page in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Bağış sayfasını web tarayıcısında</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
         <source>Keyboard Shortcuts Reference</source>
-        <translation type="unfinished"/>
+        <translation>Klavye Kısayolları Referansı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Klavye kısayolları hakkında hızlı bir referans aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
         <source>Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Bağlam Menüsü</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1766"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1767"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir klasör oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
         <source>Add To Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Favorilere Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1777"/>
         <source>Add project to favorites</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi favorilere ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
         <source>Remove From Favorites</source>
-        <translation type="unfinished"/>
+        <translation>Favorilerden Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1787"/>
         <source>Remove project from favorites</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi favorilerden kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
         <source>Add Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Noktası Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1796"/>
         <source>Insert a new vertex into the selected polygon edge</source>
-        <translation type="unfinished"/>
+        <translation>Seçili poligon kenarına yeni bir köşe noktası ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
         <source>Remove Vertex</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Noktasını Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1805"/>
         <source>Remove the selected vertex from the polygon</source>
-        <translation type="unfinished"/>
+        <translation>Seçili köşe noktasını poligondan kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
         <source>Select Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>Tüm İzi Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1814"/>
         <source>Select the whole trace</source>
-        <translation type="unfinished"/>
+        <translation> Tüm izi seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
         <source>Measure Selected Segments Length</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Segmentlerin Uzunluğunu Ölç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1823"/>
         <source>Measure the total length of all selected trace segments</source>
-        <translation type="unfinished"/>
+        <translation>Seçili tüm iz segmentlerinin toplam uzunluğunu ölç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
         <source>Remove Whole Trace</source>
-        <translation type="unfinished"/>
+        <translation>Tüm İzi Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1832"/>
         <source>Remove the whole trace</source>
-        <translation type="unfinished"/>
+        <translation>Tüm izi kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1841"/>
         <source>Toggle placement lock</source>
-        <translation type="unfinished"/>
+        <translation>Yerleşim kilidini aç/kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Visible</source>
-        <translation type="unfinished"/>
+        <translation>Görünür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1850"/>
         <source>Toggle visibility</source>
-        <translation type="unfinished"/>
+        <translation>Görünürlüğü aç/kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
         <source>Copy MPN to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>MPN&apos;yi Panoya Kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
         <source>Copy this MPN into the clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Bu MPN&apos;yi panoya kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Place Remaining Gates</source>
-        <translation type="unfinished"/>
+        <translation>Kalan Kapıları Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
         <source>Add more of the components gates to the schematic</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenin diğer kapılarını şematiğe ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
         <source>Open Product Website</source>
-        <translation type="unfinished"/>
+        <translation>Ürün Web Sitesini Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
         <source>Open product details about this part in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Bu parçayla ilgili ürün detaylarını web tarayıcısında aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
         <source>Open Pricing Website</source>
-        <translation type="unfinished"/>
+        <translation>Fiyatlandırma Web Sitesini Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
         <source>Open pricing details about this part in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Bu parçayla ilgili fiyatlandırma detaylarını web tarayıcısında aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
         <source>Generate Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1896"/>
         <source>Various helper tools to generate or modify objects</source>
-        <translation type="unfinished"/>
+        <translation>Nesneleri oluşturmak veya değiştirmek için çeşitli yardımcı araçlar</translation>
     </message>
 </context>
 <context>
@@ -4205,17 +4205,17 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="443"/>
         <source>Search datasheet for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; için datasheet ara</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="530"/>
         <source>No datasheet found</source>
-        <translation type="unfinished"/>
+        <translation>Datasheet bulunamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="531"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
-        <translation type="unfinished"/>
+        <translation>Üzgünüz, istenen parça için datasheet bulunamadı :-(</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="544"/>
@@ -4228,7 +4228,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/elementname.h" line="52"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz ad: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4236,12 +4236,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="343"/>
         <source>Connected pin without wire: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Telsiz bağlı pin: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="345"/>
         <source>The pin is electrically connected to a net, but has no wire attached so this connection is not visible in the schematic. Add a wire to make the connection visible.</source>
-        <translation type="unfinished"/>
+        <translation>Pin elektriksel olarak bir ağa bağlı, ancak bağlı bir teli yok, bu nedenle bu bağlantı şematikte görünmüyor. Bağlantıyı görünür kılmak için bir tel ekleyin.</translation>
     </message>
 </context>
 <context>
@@ -4249,12 +4249,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="261"/>
         <source>Net name conflict: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</source>
-        <translation type="unfinished"/>
+        <translation>Ağ adı çakışması: &apos;%1&apos; != &apos;%2&apos; (&apos;%3:%4&apos;)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="265"/>
         <source>The component signal requires the attached net to be named &apos;%1&apos;, but it is named &apos;%2&apos;. Either rename the net manually or remove this connection.</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen sinyali, bağlı ağın &apos;%1&apos; olarak adlandırılmasını gerektiriyor, ancak ağ &apos;%2&apos; olarak adlandırılmış. Ağı manuel olarak yeniden adlandırın veya bu bağlantıyı kaldırın.</translation>
     </message>
 </context>
 <context>
@@ -4262,12 +4262,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="157"/>
         <source>Less than two pins in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında ikiden az pin var</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="158"/>
         <source>The net is connected to less than two pins, so it does not represent an electrical connection. Check if you missed to connect more pins.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ ikiden az pine bağlı, bu nedenle bir elektriksel bağlantıyı temsil etmiyor. Daha fazla pin bağlamayı unutup unutmadığınızı kontrol edin.</translation>
     </message>
 </context>
 <context>
@@ -4275,12 +4275,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="174"/>
         <source>Bus contains unused net: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Veri yolu kullanılmayan bir ağ içeriyor: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="176"/>
         <source>The net is connected to the bus, but is not leaving the bus ^anywhere. Check if you missed to make a connection.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ veri yoluna bağlı, ancak veri yolunu hiçbir yerde terk etmiyor. Bir bağlantı yapmayı unutup unutmadığınızı kontrol edin.</translation>
     </message>
 </context>
 <context>
@@ -4288,12 +4288,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="219"/>
         <source>Open wire in net: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ağında açık uçlu tel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="220"/>
         <source>The wire has an open (unconnected) end with no net label attached, thus is looks like a mistake. Check if a connection to another wire or pin is missing (denoted by a cross mark).</source>
-        <translation type="unfinished"/>
+        <translation>Telin, bağlı bir ağ etiketi olmayan açık (bağlantısız) bir ucu var, bu nedenle bir hata gibi görünüyor. Başka bir tele veya pine bağlantının eksik olup olmadığını kontrol edin (bir çarpı işaretiyle gösterilir).</translation>
     </message>
 </context>
 <context>
@@ -4306,7 +4306,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="390"/>
         <source>Unconnected junction in bus: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; veri yolunda bağlantısız kavşak</translation>
     </message>
 </context>
 <context>
@@ -4314,12 +4314,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="237"/>
         <source>Unconnected component signal: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantısız bileşen sinyali: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="240"/>
         <source>The component signal is marked as required, but is not connected to any net. Add a wire to the corresponding symbol pin to connect it to a net.</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen sinyali zorunlu olarak işaretlenmiş, ancak herhangi bir ağa bağlı değil. Bunu bir ağa bağlamak için karşılık gelen sembol pinine bir tel ekleyin.</translation>
     </message>
 </context>
 <context>
@@ -4327,12 +4327,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="196"/>
         <source>Bus contains unnamed net: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Veri yolu adsız bir ağ içeriyor: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="198"/>
         <source>A wire without a net label is connected to the bus, which makes it impossible for this net to leave the bus somewhere else. Add a net label to the wire to explicitly specify the net.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ etiketi olmayan bir tel veri yoluna bağlı, bu da bu ağın veri yolunu başka bir yerde terk etmesini imkansız kılıyor. Ağı açıkça belirtmek için tele bir ağ etiketi ekleyin.</translation>
     </message>
 </context>
 <context>
@@ -4340,12 +4340,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="319"/>
         <source>Unplaced gate: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirilmemiş kapı: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="321"/>
         <source>The optional gate &apos;%1&apos; of &apos;%2&apos; is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; bileşeninin isteğe bağlı &apos;%1&apos; kapısı şematiğe eklenmemiş.</translation>
     </message>
 </context>
 <context>
@@ -4353,12 +4353,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="293"/>
         <source>Unplaced required gate: &apos;%1:%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirilmemiş zorunlu kapı: &apos;%1:%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="295"/>
         <source>The gate &apos;%1&apos; of &apos;%2&apos; is marked as required, but it is not added to the schematic.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; bileşeninin &apos;%1&apos; kapısı zorunlu olarak işaretlenmiş, ancak şematiğe eklenmemiş.</translation>
     </message>
 </context>
 <context>
@@ -4366,7 +4366,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="142"/>
         <source>Unused bus: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılmayan veri yolu: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4374,12 +4374,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="130"/>
         <source>Unused net class: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılmayan ağ sınıfı: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/erc/electricalrulecheckmessages.cpp" line="131"/>
         <source>There are no nets assigned to the net class, so you could remove it.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ sınıfına atanmış hiçbir ağ yok, bu nedenle onu kaldırabilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -4387,7 +4387,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/export/excellongenerator.cpp" line="185"/>
         <source>Using the G85 slot command is not possible for curved slots. Either remove curved slots or disable the G85 export option.</source>
-        <translation type="unfinished"/>
+        <translation>Eğrili yuvalar için G85 yuva komutunun kullanılması mümkün değil. Eğrili yuvaları kaldırın veya G85 dışa aktarma seçeneğini devre dışı bırakın.</translation>
     </message>
 </context>
 <context>
@@ -4395,7 +4395,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/fileproofname.h" line="52"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz ad: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4404,35 +4404,35 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="43"/>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="82"/>
         <source>The file &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz ad: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="48"/>
         <source>Cannot open file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası açılamıyor: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="60"/>
         <source>Could not open or create file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası açılamadı veya oluşturulamadı: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="67"/>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="72"/>
         <source>Could not write to file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyasına yazılamadı: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="86"/>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="105"/>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="128"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası veya dizini zaten mevcut.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="91"/>
         <source>Could not copy file &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası &quot;%2&quot; konumuna kopyalanamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="101"/>
@@ -4443,27 +4443,27 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="123"/>
         <source>The file or directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası veya dizini mevcut değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="135"/>
         <source>Could not move &quot;%1&quot; to &quot;%2&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot;, &quot;%2&quot; konumuna taşınamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="144"/>
         <source>Could not remove file &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası kaldırılamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="152"/>
         <source>Could not remove directory &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini kaldırılamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/fileutils.cpp" line="160"/>
         <source>Could not create directory or path &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini veya yolu oluşturulamadı.</translation>
     </message>
 </context>
 <context>
@@ -4472,7 +4472,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
         <location filename="libs/librepcb/core/job/gerberexcellonoutputjob.cpp" line="41"/>
         <location filename="libs/librepcb/core/job/gerberexcellonoutputjob.h" line="133"/>
         <source>Gerber/Excellon</source>
-        <translation type="unfinished"/>
+        <translation>Gerber/Excellon</translation>
     </message>
 </context>
 <context>
@@ -4480,12 +4480,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/job/gerberx3outputjob.cpp" line="40"/>
         <source>Pick&amp;Place / Glue Mask</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirme (Pick&amp;Place) / Yapıştırıcı Maskesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/gerberx3outputjob.h" line="98"/>
         <source>Pick&amp;Place / Glue Mask (Gerber X3)</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirme (Pick&amp;Place) / Yapıştırıcı Maskesi (Gerber X3)</translation>
     </message>
 </context>
 <context>
@@ -4493,52 +4493,52 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="195"/>
         <source>Schematic PDF</source>
-        <translation type="unfinished"/>
+        <translation>Şematik PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="205"/>
         <source>Board Assembly PDF</source>
-        <translation type="unfinished"/>
+        <translation>Kart Montaj PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.cpp" line="216"/>
         <source>Board Rendering PDF</source>
-        <translation type="unfinished"/>
+        <translation>Kart Görselleştirme PDF</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="122"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="146"/>
         <source>Assembly Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Montaj</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="150"/>
         <source>Assembly Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Montaj</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="154"/>
         <source>Rendering Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Görselleştirme</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="158"/>
         <source>Rendering Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Görselleştirme</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="162"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Kart</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/graphicsoutputjob.h" line="281"/>
         <source>PDF/Image</source>
-        <translation type="unfinished"/>
+        <translation>PDF/Resim</translation>
     </message>
 </context>
 <context>
@@ -4546,7 +4546,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/geometry/image.cpp" line="265"/>
         <source>Unsupported image file format &apos;%1&apos;. Supported formats are: %2</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen resim dosyası biçimi &apos;%1&apos;. Desteklenen biçimler: %2</translation>
     </message>
 </context>
 <context>
@@ -4554,32 +4554,32 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="149"/>
         <source>Image Files</source>
-        <translation type="unfinished"/>
+        <translation>Resim Dosyaları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="151"/>
         <source>Choose Image File</source>
-        <translation type="unfinished"/>
+        <translation>Resim Dosyası Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="190"/>
         <source>The image will be copied into the symbol as a %1 file.</source>
-        <translation type="unfinished"/>
+        <translation>Resim, sembole %1 dosyası olarak kopyalanacak.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="193"/>
         <source>The image will be copied into the project as a %1 file.</source>
-        <translation type="unfinished"/>
+        <translation>Resim, projeye %1 dosyası olarak kopyalanacak.</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="197"/>
         <source>Basename of the new file (max. %n characters):</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Yeni dosyanın temel adı (en fazla %n karakter):</numerusform><numerusform>Yeni dosyanın temel adı (en fazla %n karakter):</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/imagehelpers.cpp" line="200"/>
         <source>Image Name</source>
-        <translation type="unfinished"/>
+        <translation>Resim Adı</translation>
     </message>
 </context>
 <context>
@@ -4587,12 +4587,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/job/interactivehtmlbomoutputjob.cpp" line="40"/>
         <source>Interactive Bill of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Etkileşimli Malzeme Listesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/interactivehtmlbomoutputjob.h" line="111"/>
         <source>Interactive Bill Of Materials</source>
-        <translation type="unfinished"/>
+        <translation>Etkileşimli Malzeme Listesi</translation>
     </message>
 </context>
 <context>
@@ -4600,7 +4600,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1168"/>
         <source>Unsupported footprint child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen ayak izi alt öğesi: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4608,22 +4608,22 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1018"/>
         <source>Unsupported pad clearance: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen ped boşluğu: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1025"/>
         <source>Unsupported pad option: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen ped seçeneği: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1043"/>
         <source>Unsupported pad primitive: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen ped ilkeli: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="1051"/>
         <source>Unsupported pad child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen ped alt öğesi: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4631,7 +4631,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="747"/>
         <source>Unsupported symbol child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen sembol alt öğesi: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4639,7 +4639,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/kicadimport/kicadtypes.cpp" line="708"/>
         <source>Unsupported symbol gate child: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen sembol kapısı alt öğesi: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4648,7 +4648,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
         <location filename="libs/librepcb/core/types/layer.cpp" line="93"/>
         <location filename="libs/librepcb/core/types/layer.cpp" line="147"/>
         <source>Sheet Frames</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Çerçeveleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="99"/>
@@ -4696,17 +4696,17 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="153"/>
         <source>Board Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Kart Dış Hatları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="159"/>
         <source>Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Kart Kesimleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="166"/>
         <source>Plated Board Cutouts</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı Kart Kesimleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="173"/>
@@ -4721,77 +4721,77 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="203"/>
         <source>Top Names</source>
-        <translation type="unfinished"/>
+        <translation>Üst Adlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="209"/>
         <source>Bottom Names</source>
-        <translation type="unfinished"/>
+        <translation>Alt Adlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="215"/>
         <source>Top Values</source>
-        <translation type="unfinished"/>
+        <translation>Üst Değerler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="221"/>
         <source>Bottom Values</source>
-        <translation type="unfinished"/>
+        <translation>Alt Değerler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="227"/>
         <source>Top Legend</source>
-        <translation type="unfinished"/>
+        <translation>Üst Serigrafi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="233"/>
         <source>Bottom Legend</source>
-        <translation type="unfinished"/>
+        <translation>Alt Serigrafi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="239"/>
         <source>Top Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Üst Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="246"/>
         <source>Bottom Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Alt Dokümantasyon</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="253"/>
         <source>Top Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Üst Paket Dış Hatları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="261"/>
         <source>Bottom Package Outlines</source>
-        <translation type="unfinished"/>
+        <translation>Alt Paket Dış Hatları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="269"/>
         <source>Top Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Üst Courtyard</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="277"/>
         <source>Bottom Courtyard</source>
-        <translation type="unfinished"/>
+        <translation>Alt Courtyard</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="285"/>
         <source>Top Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Üst Gizli Kavrama Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="292"/>
         <source>Bottom Hidden Grab Areas</source>
-        <translation type="unfinished"/>
+        <translation>Alt Gizli Kavrama Alanları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="299"/>
         <source>Top Stop Mask</source>
-        <translation type="unfinished"/>
+        <translation>Üst Lehim Maskesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/layer.cpp" line="306"/>
@@ -6021,7 +6021,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/simplestring.h" line="49"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz ad: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -6210,7 +6210,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="73"/>
         <source>The file or directory &quot;%1&quot; exists already.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası veya dizini zaten mevcut.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="80"/>
@@ -7766,7 +7766,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="136"/>
         <source>Board</source>
-        <translation type="unfinished"/>
+        <translation>Kart</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardeditor.cpp" line="329"/>
@@ -11520,7 +11520,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="275"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="276"/>
@@ -12240,12 +12240,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="519"/>
         <source>Assembly Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst Montaj</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="534"/>
         <source>Assembly Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt Montaj</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="549"/>
@@ -12453,7 +12453,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="344"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="352"/>
@@ -15083,7 +15083,7 @@ Do you want to save them before closing the project?</source>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="584"/>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="667"/>
         <source>Invalid name: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz ad: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
@@ -15482,7 +15482,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/schematiceditor.cpp" line="67"/>
         <source>Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematik</translation>
     </message>
 </context>
 <context>
@@ -20521,12 +20521,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="151"/>
         <source>New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Klasör</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="153"/>
         <source>Create a new folder</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir klasör oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="173"/>
