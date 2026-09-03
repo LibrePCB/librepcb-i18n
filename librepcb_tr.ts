@@ -5471,12 +5471,12 @@ Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız o
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="158"/>
         <source>There are multiple pins at the same position. This is not allowed because you cannot connect wires to these pins in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Aynı konumda birden fazla pin var. Buna izin verilmez çünkü şematik editöründe bu pinlere tel bağlayamazsınız.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="183"/>
         <source>Overlapping pins: %1</source>
-        <translation type="unfinished"/>
+        <translation>Çakışan pinler: %1</translation>
     </message>
 </context>
 <context>
@@ -5484,12 +5484,12 @@ Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız o
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="470"/>
         <source>Annular ring of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin halka genişliği</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="472"/>
         <source>Pads should have at least %1 annular ring (copper around each pad hole). Note that this value is just a general recommendation, the exact value depends on the capabilities of the PCB manufacturer.</source>
-        <translation type="unfinished"/>
+        <translation>Pedlerin en az %1 halka genişliğine (her ped deliğinin etrafındaki bakır) sahip olması gerekir. Bu değerin yalnızca genel bir öneri olduğunu, kesin değerin PCB üreticisinin yeteneklerine bağlı olduğunu unutmayın.</translation>
     </message>
 </context>
 <context>
@@ -5497,12 +5497,12 @@ Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız o
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="497"/>
         <source>Clearance of pad &apos;%1&apos; to pad &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%3&apos; içinde &apos;%1&apos; pedinin &apos;%2&apos; pedine boşluğu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="500"/>
         <source>Pads must have at least %1 clearance between each other, as configured in the package. Either increase the clearance between those pads, or reduce the configured minimum clearance value if you are sure the PCB manufacturer can reliably handle it.</source>
-        <translation type="unfinished"/>
+        <translation>Pedler, pakette yapılandırıldığı şekilde birbirleri arasında en az %1 boşluğa sahip olmalıdır. Bu pedler arasındaki boşluğu artırın veya PCB üreticisinin bunu güvenilir şekilde işleyebileceğinden eminseniz yapılandırılmış minimum boşluk değerini azaltın.</translation>
     </message>
 </context>
 <context>
@@ -5510,12 +5510,12 @@ Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız o
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="527"/>
         <source>Hole outside copper of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin bakırının dışında delik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="529"/>
         <source>All THT pad holes must be fully surrounded by copper, otherwise they could lead to serious issues during the design rule check or manufacturing process.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm THT ped delikleri tamamen bakırla çevrelenmiş olmalıdır, aksi takdirde tasarım kural kontrolü veya üretim süreci sırasında ciddi sorunlara yol açabilir.</translation>
     </message>
 </context>
 <context>
@@ -5523,14 +5523,16 @@ Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız o
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="551"/>
         <source>Invalid origin of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin geçersiz orijini</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="553"/>
         <source>The origin of each pad must be located within its copper area, otherwise traces won't be connected properly.
 
 For THT pads, the origin must be located within a drill hole since on some layers the pad might only have a small annular ring instead of the full pad shape.</source>
-        <translation type="unfinished"/>
+        <translation>Her pedin orijini, kendi bakır alanı içinde bulunmalıdır, aksi takdirde izler düzgün bağlanmaz.
+
+THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanlarda ped, tam ped şekli yerine yalnızca küçük bir halka genişliğine sahip olabilir.</translation>
     </message>
 </context>
 <context>
