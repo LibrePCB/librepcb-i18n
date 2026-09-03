@@ -5026,12 +5026,12 @@ Nötr paketler için (örn. SOT23), pedler zaten işlevine göre değil, yalnız
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="102"/>
         <source>Small copper clearance on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; içindeki referans işaretinde küçük bakır boşluğu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="104"/>
         <source>The copper clearance of the fiducial pad is less than its stop mask expansion, which is unusual. Typically the copper clearance should be equal to or greater than the stop mask expansion to avoid copper located within the stop mask opening.</source>
-        <translation type="unfinished"/>
+        <translation>Referans pedinin bakır boşluğu, lehim maskesi genişlemesinden daha az; bu alışılmadık bir durumdur. Genellikle, lehim maskesi açıklığı içinde bakır kalmasını önlemek için bakır boşluğu, lehim maskesi genişlemesine eşit veya daha büyük olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -5039,12 +5039,12 @@ Nötr paketler için (örn. SOT23), pedler zaten işlevine göre değil, yalnız
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="127"/>
         <source>Stop mask not set on fiducial in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; içindeki referans işaretinde lehim maskesi ayarlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="129"/>
         <source>The stop mask expansion of the fiducial pad is set to automatic, which is unusual. Typically the stop mask expansion of fiducials need to be manually set to a much larger value.</source>
-        <translation type="unfinished"/>
+        <translation>Referans pedinin lehim maskesi genişlemesi otomatik olarak ayarlanmış; bu alışılmadık bir durumdur. Genellikle referans işaretlerinin lehim maskesi genişlemesinin manuel olarak çok daha büyük bir değere ayarlanması gerekir.</translation>
     </message>
 </context>
 <context>
@@ -5052,14 +5052,16 @@ Nötr paketler için (örn. SOT23), pedler zaten işlevine göre değil, yalnız
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="423"/>
         <source>Origin of &apos;%1&apos; not in center</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; orijini merkezde değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="425"/>
         <source>Generally the origin (0, 0) should be at the coordinate used for pick&amp;place which is typically in the center of the package body. It should even be (more or less) &lt;b&gt;exactly&lt;/b&gt; in the center, not aligned to a grid (off-grid pads are fine).
 
 It looks like this rule is not followed in this footprint. However, for irregular package shapes or other special cases this warning may not be justified. In such cases, just approve it.</source>
-        <translation type="unfinished"/>
+        <translation>Genellikle orijin (0, 0), genellikle paket gövdesinin merkezinde olan pick&amp;place için kullanılan koordinatta olmalıdır. Hatta aşağı yukarı &lt;b&gt;tam olarak&lt;/b&gt; merkezde olmalıdır, bir ızgaraya hizalanmış olması gerekmez (ızgara dışı pedler sorun değildir).
+
+Bu ayak izinde bu kuralın izlenmediği görülüyor. Ancak düzensiz paket şekilleri veya diğer özel durumlar için bu uyarı haklı olmayabilir. Bu tür durumlarda, mesajı onaylamanız yeterlidir.</translation>
     </message>
 </context>
 <context>
@@ -5068,12 +5070,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="151"/>
         <source>No stop mask on %1 hole in &apos;%2&apos;</source>
         <comment>First placeholder is the hole diameter.</comment>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki %1 delikte lehim maskesi yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="155"/>
         <source>Non-plated holes should have a stop mask opening to avoid solder resist flowing into the hole. An automatic stop mask opening can be enabled in the hole properties.</source>
-        <translation type="unfinished"/>
+        <translation>Kaplanmamış delikler, lehim maskesinin (solder resist) delik içine akmasını önlemek için bir lehim maskesi açıklığına sahip olmalıdır. Delik özelliklerinde otomatik bir lehim maskesi açıklığı etkinleştirilebilir.</translation>
     </message>
 </context>
 <context>
@@ -5081,12 +5083,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="177"/>
         <source>Invalid custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin geçersiz özel dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="179"/>
         <source>The pad has set a custom outline which does not represent a valid area. Either choose a different pad shape or specify a valid custom outline.</source>
-        <translation type="unfinished"/>
+        <translation>Ped, geçerli bir alanı temsil etmeyen özel bir dış hat ayarlamış. Farklı bir ped şekli seçin veya geçerli bir özel dış hat belirtin.</translation>
     </message>
 </context>
 <context>
@@ -5094,27 +5096,27 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="64"/>
         <source>Missing image file: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Eksik resim dosyası: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="66"/>
         <source>Unsupported image format: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Desteklenmeyen resim biçimi: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="67"/>
         <source>Invalid image file: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz resim dosyası: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="74"/>
         <source>The referenced file of an image does either not exist in the symbol or is not a valid image file. Try removing and re-adding the image from the symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Bir resmin referans verilen dosyası sembolde ya mevcut değil ya da geçerli bir resim dosyası değil. Resmi sembolden kaldırıp yeniden eklemeyi deneyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="78"/>
         <source>Details:</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar:</translation>
     </message>
 </context>
 <context>
@@ -5122,12 +5124,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="201"/>
         <source>Invalid pad connection in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; içinde geçersiz ped bağlantısı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="203"/>
         <source>A footprint pad is connected to a package pad which doesn&apos;t exist. Check all pads for proper connections.</source>
-        <translation type="unfinished"/>
+        <translation>Bir ayak izi pedi, mevcut olmayan bir paket pedine bağlı. Tüm pedlerin doğru bağlantılara sahip olup olmadığını kontrol edin.</translation>
     </message>
 </context>
 <context>
@@ -5135,12 +5137,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/cat/librarycategorycheckmessages.cpp" line="35"/>
         <source>Invalid parent category</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz üst kategori</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cat/librarycategorycheckmessages.cpp" line="36"/>
         <source>The category has assigned itself as its parent category, which leads to an endless recursion and is thus invalid. Assign a different parent category.</source>
-        <translation type="unfinished"/>
+        <translation>Kategori, kendisini kendi üst kategorisi olarak atamış, bu da sonsuz döngüye (recursion) yol açtığı için geçersizdir. Farklı bir üst kategori atayın.</translation>
     </message>
 </context>
 <context>
@@ -5148,27 +5150,27 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="224"/>
         <source>It is recommended that polygons on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; katmanındaki poligonların en az %2 çizgi genişliğine sahip olması önerilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="244"/>
         <source>It is recommended that circles on layer &apos;%1&apos; have a line width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; katmanındaki dairelerin en az %2 çizgi genişliğine sahip olması önerilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="264"/>
         <source>It is recommended that stroke texts on layer &apos;%1&apos; have a stroke width of at least %2.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; katmanındaki vektör metinlerin en az %2 vektör çizgi genişliğine sahip olması önerilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="281"/>
         <source>Minimum width of &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; minimum genişliği</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="286"/>
         <source>Otherwise it could lead to manufacturing problems in some cases (depending on board settings and/or the capabilities of the PCB manufacturer).</source>
-        <translation type="unfinished"/>
+        <translation>Aksi takdirde bazı durumlarda üretim sorunlarına yol açabilir (kart ayarlarına ve/veya PCB üreticisinin yeteneklerine bağlı olarak).</translation>
     </message>
 </context>
 <context>
@@ -5176,12 +5178,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="36"/>
         <source>Author not set</source>
-        <translation type="unfinished"/>
+        <translation>Yazar ayarlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="37"/>
         <source>It is recommended to set an author (e.g. full name or nickname), although it&apos;s not required.</source>
-        <translation type="unfinished"/>
+        <translation>Zorunlu olmasa da bir yazar (örn. tam ad veya takma ad) ayarlamanız önerilir.</translation>
     </message>
 </context>
 <context>
@@ -5189,12 +5191,12 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/libraryelementcheckmessages.cpp" line="36"/>
         <source>No categories set</source>
-        <translation type="unfinished"/>
+        <translation>Hiç kategori ayarlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/libraryelementcheckmessages.cpp" line="37"/>
         <source>It&apos;s very important to assign every library element to at least one category. Otherwise it will be very hard to find the element in the workspace library, so it&apos;s highly recommended to fix this.</source>
-        <translation type="unfinished"/>
+        <translation>Her kütüphane öğesini en az bir kategoriye atamak çok önemlidir. Aksi takdirde öğeyi çalışma alanı kütüphanesinde bulmak çok zor olacaktır, bu nedenle bunu düzeltmeniz şiddetle önerilir.</translation>
     </message>
 </context>
 <context>
@@ -5202,7 +5204,7 @@ It looks like this rule is not followed in this footprint. However, for irregula
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="58"/>
         <source>No default value set</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan değer ayarlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="59"/>
@@ -5211,7 +5213,11 @@ It looks like this rule is not followed in this footprint. However, for irregula
 Generic parts (e.g. a diode): %1
 Specific parts (e.g. a microcontroller): %2
 Passive parts: Using an attribute, e.g. %3</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu bileşenin bir varsayılan değeri ayarlanmış olmalıdır. Varsayılan değer, bileşen şematiğe eklendiğinde bileşenin değeri haline gelir. Ayrıca daha sonra şematikte yerine konan yer tutucular da içerebilir. Yaygın olarak kullanılan varsayılan değerler:
+
+Genel parçalar (örn. bir diyot): %1
+Özel parçalar (örn. bir mikrodenetleyici): %2
+Pasif parçalar: Bir öznitelik kullanarak, örn. %3</translation>
     </message>
 </context>
 <context>
@@ -5219,12 +5225,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="78"/>
         <source>No component prefix set</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen ön eki ayarlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="79"/>
         <source>Most components should have a prefix defined. The prefix is used to generate the component&apos;s name when adding it to a schematic. For example the prefix &apos;R&apos; (resistor) leads to component names &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; etc.</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu bileşenin tanımlanmış bir ön eki olmalıdır. Ön ek, bileşen şematiğe eklendiğinde bileşenin adını oluşturmak için kullanılır. Örneğin &apos;R&apos; (direnç) ön eki, &apos;R1&apos;, &apos;R2&apos;, &apos;R3&apos; vb. bileşen adlarına yol açar.</translation>
     </message>
 </context>
 <context>
@@ -5232,17 +5238,17 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="300"/>
         <source>Missing courtyard in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ayak izinde eksik courtyard</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="302"/>
         <source>It is recommended to draw the package courtyard with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if another device is placed within the courtyard of this device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Paket courtyard&apos;ının, &apos;%1&apos; katmanında tek, kapalı, sıfır genişlikli bir poligon veya daire ile çizilmesi önerilir. Bu, başka bir aygıtın bu aygıtın courtyard&apos;ı içine (yani çok yakına) yerleştirilmesi durumunda DRC&apos;nin uyarı vermesini sağlar.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="308"/>
         <source>Often this is identical to the package outline but with a small offset. If you&apos;re unsure, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Bu genellikle paket dış hattıyla aynıdır, ancak küçük bir kayma (offset) ile. Emin değilseniz, bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -5250,12 +5256,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="323"/>
         <source>No footprint defined</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi tanımlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="324"/>
         <source>Every package must have at least one footprint, otherwise it can&apos;t be added to a board.</source>
-        <translation type="unfinished"/>
+        <translation>Her paketin en az bir ayak izi olmalıdır, aksi takdirde bir karta eklenemez.</translation>
     </message>
 </context>
 <context>
@@ -5263,12 +5269,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="337"/>
         <source>No 3D model defined for &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation> &apos;%1&apos; için 3B model tanımlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="339"/>
         <source>The footprint has no 3D model specified, so the package will be missing in the 3D viewer and in 3D data exports. However, this has no impact on the PCB production data.</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi için belirtilmiş bir 3B model yok, bu nedenle paket 3B görüntüleyicide ve 3B veri dışa aktarımlarında eksik olacaktır. Ancak bu, PCB üretim verisini etkilemez.</translation>
     </message>
 </context>
 <context>
@@ -5276,12 +5282,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="357"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; ayak izinde eksik metin &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="359"/>
         <source>Most footprints should have a text element for the component&apos;s name, otherwise you won&apos;t see that name on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a name (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu ayak izinin, bileşenin adı için bir metin öğesine sahip olması gerekir, aksi takdirde bu adı PCB üzerinde (örn. serigrafide) göremezsiniz. Ada ihtiyaç duymayan yalnızca birkaç istisna vardır (örn. ayak izi yalnızca bir çizimse), bunlar için bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -5289,12 +5295,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="379"/>
         <source>Missing text &apos;%1&apos; in footprint &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; ayak izinde eksik metin &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="381"/>
         <source>Most footprints should have a text element for the component&apos;s value, otherwise you won&apos;t see that value on the PCB (e.g. on silkscreen). There are only a few exceptions which don&apos;t need a value (e.g. if the footprint is only a drawing), for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu ayak izinin, bileşenin değeri için bir metin öğesine sahip olması gerekir, aksi takdirde bu değeri PCB üzerinde (örn. serigrafide) göremezsiniz. Değere ihtiyaç duymayan yalnızca birkaç istisna vardır (örn. ayak izi yalnızca bir çizimse), bunlar için bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -5302,12 +5308,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="401"/>
         <source>Missing outline in footprint &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; ayak izinde eksik dış hat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="403"/>
         <source>It is recommended to draw the package outline with a single, closed, zero-width polygon or circle on layer &apos;%1&apos;. This allows the DRC to warn if this device is placed within the courtyard of another device (i.e. too close).</source>
-        <translation type="unfinished"/>
+        <translation>Paket dış hattının, &apos;%1&apos; katmanında tek, kapalı, sıfır genişlikli bir poligon veya daire ile çizilmesi önerilir. Bu, bu aygıtın başka bir aygıtın courtyard&apos;ı içine (yani çok yakına) yerleştirilmesi durumunda DRC&apos;nin uyarı vermesini sağlar.</translation>
     </message>
 </context>
 <context>
@@ -5315,12 +5321,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="89"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Eksik metin: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="90"/>
         <source>Most symbols should have a text element for the component&apos;s name, otherwise you won&apos;t see that name in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a name, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu sembolün, bileşenin adı için bir metin öğesine sahip olması gerekir, aksi takdirde bu adı şematiklerde göremezsiniz. Ada ihtiyaç duymayan yalnızca birkaç istisna vardır (örn. bir şematik çerçevesi), bunlar için bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -5328,12 +5334,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="103"/>
         <source>Missing text: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Eksik metin: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="104"/>
         <source>Most symbols should have a text element for the component&apos;s value, otherwise you won&apos;t see that value in the schematics. There are only a few exceptions (e.g. a schematic frame) which don&apos;t need a value, for those you can ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu sembolün, bileşenin değeri için bir metin öğesine sahip olması gerekir, aksi takdirde bu değeri şematiklerde göremezsiniz. Değere ihtiyaç duymayan yalnızca birkaç istisna vardır (örn. bir şematik çerçevesi), bunlar için bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -5341,12 +5347,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="92"/>
         <source>No symbol variant defined</source>
-        <translation type="unfinished"/>
+        <translation>Sembol varyantı tanımlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="93"/>
         <source>Every component requires at least one symbol variant, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Her bileşenin en az bir sembol varyantına ihtiyacı vardır, aksi takdirde şematiklere eklenemez.</translation>
     </message>
 </context>
 <context>
@@ -5354,12 +5360,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="106"/>
         <source>Symbol variant &apos;%1&apos; has no items</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; sembol varyantının öğesi yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="108"/>
         <source>Every symbol variant requires at least one symbol item, otherwise it can&apos;t be added to schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Her sembol varyantının en az bir sembol öğesine ihtiyacı vardır, aksi takdirde şematiklere eklenemez.</translation>
     </message>
 </context>
 <context>
@@ -5367,12 +5373,12 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="48"/>
         <source>Name not title case: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ad, başlık düzeninde değil: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/librarybaseelementcheckmessages.cpp" line="49"/>
         <source>Generally the library element name should be written in title case (for consistency). As the current name has words starting with a lowercase character, it seems that it is not title cases. If this assumption is wrong, just ignore this message.</source>
-        <translation type="unfinished"/>
+        <translation>Genellikle kütüphane öğesi adı (tutarlılık için) başlık düzeninde yazılmalıdır. Mevcut ad, küçük harfle başlayan kelimeler içerdiğinden, başlık düzeninde olmadığı görülüyor. Bu varsayım yanlışsa, bu mesajı görmezden gelebilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -5380,7 +5386,7 @@ Passive parts: Using an attribute, e.g. %3</source>
     <message>
         <location filename="libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="53"/>
         <source>No pads connected</source>
-        <translation type="unfinished"/>
+        <translation>Bağlı ped yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/dev/devicecheckmessages.cpp" line="54"/>
@@ -5389,7 +5395,11 @@ Passive parts: Using an attribute, e.g. %3</source>
 To fix this issue, connect the package pads to their corresponding component signals in the table widget.
 
 If all pads have only a mechanical purpose and thus don&apos;t need to be connected to component signals, this message can be ignored.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen paket pedler içeriyor, ancak hiçbiri bileşen sinyallerine bağlı değil. Bu nedenle bu pedlerin elektriksel bir işlevi yok ve aygıt bir PCB&apos;ye eklendiğinde bunlara hiçbir iz bağlanamaz.
+
+Bu sorunu düzeltmek için, tablo widget&apos;ında paket pedlerini karşılık gelen bileşen sinyallerine bağlayın.
+
+Tüm pedler yalnızca mekanik bir amaca sahipse ve bu nedenle bileşen sinyallerine bağlanmasına gerek yoksa, bu mesaj görmezden gelinebilir.</translation>
     </message>
 </context>
 <context>
@@ -5397,14 +5407,16 @@ If all pads have only a mechanical purpose and thus don&apos;t need to be connec
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="147"/>
         <source>No pins connected in &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; içinde bağlı pin yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="149"/>
         <source>The chosen symbols contain pins, but none of them are connected to component signals. So when adding this component to a schematic, no wires can be attached to them.
 
 To fix this issue, connect the symbol pins to their corresponding component signals in the symbol variant editor dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen semboller pinler içeriyor, ancak hiçbiri bileşen sinyallerine bağlı değil. Bu nedenle bu bileşen bir şematiğe eklendiğinde, bunlara hiçbir tel bağlanamaz.
+
+Bu sorunu düzeltmek için, sembol varyantı editörü penceresinde sembol pinlerini karşılık gelen bileşen sinyallerine bağlayın.</translation>
     </message>
 </context>
 <context>
@@ -5412,14 +5424,16 @@ To fix this issue, connect the symbol pins to their corresponding component sign
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="126"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>İşlevsiz inversiyon işareti: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="127"/>
         <source>The signal name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal adı bir inversiyon işaretiyle başlıyor gibi görünüyor, ancak LibrePCB inversiyonu belirtmek için farklı bir işaret kullanıyor.
+
+Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız olarak, ters çevrilmiş sinyal adlarının başına &apos;%1&apos; eklenmesi önerilir.</translation>
     </message>
 </context>
 <context>
@@ -5427,14 +5441,16 @@ It&apos;s recommended to prefix inverted signal names with &apos;%1&apos;, regar
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="119"/>
         <source>Non-functional inversion sign: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>İşlevsiz inversiyon işareti: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="120"/>
         <source>The pin name seems to start with an inversion sign, but LibrePCB uses a different sign to indicate inversion.
 
 It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardless of the inversion sign used in the parts datasheet.</source>
-        <translation type="unfinished"/>
+        <translation>Pin adı bir inversiyon işaretiyle başlıyor gibi görünüyor, ancak LibrePCB inversiyonu belirtmek için farklı bir işaret kullanıyor.
+
+Parçanın datasheet&apos;inde kullanılan inversiyon işaretinden bağımsız olarak, ters çevrilmiş pin adlarının başına &apos;%1&apos; eklenmesi önerilir.</translation>
     </message>
 </context>
 <context>
@@ -5442,12 +5458,12 @@ It&apos;s recommended to prefix inverted pin names with &apos;%1&apos;, regardle
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="448"/>
         <source>Overlapping pads &apos;%1&apos; and &apos;%2&apos; in &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%3&apos; içinde çakışan pedler &apos;%1&apos; ve &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="451"/>
         <source>The copper area of two pads overlap. This can lead to serious issues with the design rule check and probably leads to a short circuit in the board so this really needs to be fixed.</source>
-        <translation type="unfinished"/>
+        <translation>İki pedin bakır alanı çakışıyor. Bu, tasarım kural kontrolüyle ciddi sorunlara yol açabilir ve muhtemelen kartta kısa devreye neden olur, bu nedenle bunun mutlaka düzeltilmesi gerekir.</translation>
     </message>
 </context>
 <context>
