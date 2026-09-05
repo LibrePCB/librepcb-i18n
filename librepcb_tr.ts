@@ -56,7 +56,7 @@
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheckmessages.cpp" line="64"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation> (ağ yok)</translation>
     </message>
 </context>
 <context>
@@ -6060,12 +6060,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="488"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>Zorunlu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="490"/>
         <source>Invalid</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="495"/>
@@ -6075,12 +6075,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="499"/>
         <source>Recommended</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="531"/>
         <source>Suffix &apos;%1&apos; missing</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; son eki eksik</translation>
     </message>
 </context>
 <context>
@@ -6108,12 +6108,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
         <source>sysctl() failed with errno=%1 (%2).</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() işlevi errno=%1 (%2) hatasıyla başarısız oldu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
         <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"/>
+        <translation>sysctl() işlevi retval=%1 ve errno=%2 ile başarısız oldu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
@@ -6123,17 +6123,17 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
         <source>OpenProcess() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>OpenProcess() işlevi %1 hatasıyla başarısız oldu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
         <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation type="unfinished"/>
+        <translation>QueryFullProcessImageNameW() işlevi %1 hatasıyla başarısız oldu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
         <source>Could not determine the process name of another process.</source>
-        <translation type="unfinished"/>
+        <translation>Başka bir işlemin süreç adı belirlenemedi.</translation>
     </message>
 </context>
 <context>
@@ -6141,7 +6141,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/types/tag.h" line="53"/>
         <source>Invalid tag: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz etiket: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -6149,7 +6149,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/utils/toolbox.h" line="679"/>
         <source>Invalid fixed point number string: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz sabit noktalı sayı dizesi: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6157,7 +6157,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="99"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6165,7 +6165,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="127"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6173,7 +6173,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="134"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6181,7 +6181,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/job/unknownoutputjob.cpp" line="53"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
 </context>
 <context>
@@ -6189,7 +6189,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="tests/unittests/editor/utils/slinthelperstest.cpp" line="92"/>
         <source>SlintHelpersTest</source>
-        <translation type="unfinished"/>
+        <translation>SlintHelpersTest</translation>
     </message>
 </context>
 <context>
@@ -6197,7 +6197,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/types/uuid.cpp" line="120"/>
         <source>String is not a valid UUID: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Dize geçerli bir UUID değil: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6205,7 +6205,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/types/version.cpp" line="97"/>
         <source>Invalid version number: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz sürüm numarası: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -6218,7 +6218,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="apps/librepcb/main.cpp" line="268"/>
         <source>Could not open the workspace &quot;%1&quot;:</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; çalışma alanı açılamadı:</translation>
     </message>
 </context>
 <context>
@@ -6228,12 +6228,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
         <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="198"/>
         <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="209"/>
         <source>Received JSON object is not valid.</source>
-        <translation type="unfinished"/>
+        <translation>Alınan JSON nesnesi geçerli değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/apiendpoint.cpp" line="146"/>
         <source>Received JSON object does not contain any results.</source>
-        <translation type="unfinished"/>
+        <translation>Alınan JSON nesnesi herhangi bir sonuç içermiyor.</translation>
     </message>
 </context>
 <context>
@@ -6246,32 +6246,32 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="80"/>
         <source>Removing temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Geçici dizin kaldırılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="86"/>
         <source>Looking for files to copy...</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalanacak dosyalar aranıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="100"/>
         <source>Copy file %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>%2 dosyadan %1&apos;i kopyalanıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="107"/>
         <source>Renaming temporary directory...</source>
-        <translation type="unfinished"/>
+        <translation>Geçici dizin yeniden adlandırılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="111"/>
         <source>Successfully finished!</source>
-        <translation type="unfinished"/>
+        <translation>Başarıyla tamamlandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/asynccopyoperation.cpp" line="121"/>
         <source>Failed to copy files:</source>
-        <translation type="unfinished"/>
+        <translation>Dosyalar kopyalanamadı:</translation>
     </message>
 </context>
 <context>
@@ -6279,7 +6279,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypecapacitance.cpp" line="39"/>
         <source>Capacitance</source>
-        <translation type="unfinished"/>
+        <translation>Kapasitans</translation>
     </message>
 </context>
 <context>
@@ -6287,7 +6287,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypecurrent.cpp" line="39"/>
         <source>Current</source>
-        <translation type="unfinished"/>
+        <translation>Akım</translation>
     </message>
 </context>
 <context>
@@ -6295,7 +6295,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypefrequency.cpp" line="39"/>
         <source>Frequency</source>
-        <translation type="unfinished"/>
+        <translation>Frekans</translation>
     </message>
 </context>
 <context>
@@ -6303,7 +6303,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypeinductance.cpp" line="39"/>
         <source>Inductance</source>
-        <translation type="unfinished"/>
+        <translation>Endüktans</translation>
     </message>
 </context>
 <context>
@@ -6319,7 +6319,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtyperesistance.cpp" line="39"/>
         <source>Resistance</source>
-        <translation type="unfinished"/>
+        <translation>Direnç</translation>
     </message>
 </context>
 <context>
@@ -6327,7 +6327,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypestring.cpp" line="37"/>
         <source>String</source>
-        <translation type="unfinished"/>
+        <translation>Dize</translation>
     </message>
 </context>
 <context>
@@ -6335,7 +6335,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypevoltage.cpp" line="39"/>
         <source>Voltage</source>
-        <translation type="unfinished"/>
+        <translation>Gerilim</translation>
     </message>
 </context>
 <context>
@@ -6343,12 +6343,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_device.cpp" line="70"/>
         <source>No device with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Projenin kütüphanesinde &quot;%1&quot; UUID&apos;sine sahip bir aygıt bulunamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_device.cpp" line="90"/>
         <source>No package with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Projenin kütüphanesinde &quot;%1&quot; UUID&apos;sine sahip bir paket bulunamadı.</translation>
     </message>
 </context>
 <context>
@@ -6356,7 +6356,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_netsegment.cpp" line="68"/>
         <source>(no net)</source>
-        <translation type="unfinished"/>
+        <translation>(ağ yok)</translation>
     </message>
 </context>
 <context>
@@ -6364,12 +6364,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="112"/>
         <source>Could not change the vias start/end layers because there are still traces connected on other layers.</source>
-        <translation type="unfinished"/>
+        <translation>Via&apos;nın başlangıç/bitiş katmanları değiştirilemedi çünkü hâlâ diğer katmanlarda bağlı izler var.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/items/bi_via.cpp" line="201"/>
         <source>Failed to connect trace to via because it&apos;s a blind- or buried via which doesn&apos;t include the corresponding layer.</source>
-        <translation type="unfinished"/>
+        <translation>İz via&apos;ya bağlanamadı çünkü bu, karşılık gelen katmanı içermeyen kör veya gömülü bir via.</translation>
     </message>
 </context>
 <context>
@@ -6377,158 +6377,158 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="76"/>
         <source>Rebuild planes...</source>
-        <translation type="unfinished"/>
+        <translation>Düzlemler yeniden oluşturuluyor...</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="347"/>
         <source>Finished with %1 message(s)!</source>
         <comment>Count of messages</comment>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%1 mesajla tamamlandı!</numerusform><numerusform>%1 mesajla tamamlandı!</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="358"/>
         <source>Prepare &apos;%1&apos;...</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; hazırlanıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="380"/>
         <source>Check copper clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Bakır boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="717"/>
         <source>Check board clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Kart boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="880"/>
         <source>Check hole clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Delik boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="937"/>
         <source>Check drill clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Delik çapı boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1031"/>
         <source>Check drill to board edge clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Delik ↔ kart kenarı boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1121"/>
         <source>Check silkscreen to stopmask clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi ↔ lehim maskesi boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1205"/>
         <source>Check copper widths...</source>
-        <translation type="unfinished"/>
+        <translation>Bakır genişlikleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1222"/>
         <source>Check PTH annular rings...</source>
-        <translation type="unfinished"/>
+        <translation>PTH halka genişlikleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1306"/>
         <source>Check NPTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>NPTH delik çapları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1342"/>
         <source>Check NPTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>NPTH yuva genişlikleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1371"/>
         <source>Check PTH drill diameters...</source>
-        <translation type="unfinished"/>
+        <translation>PTH delik çapları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1428"/>
         <source>Check PTH slot widths...</source>
-        <translation type="unfinished"/>
+        <translation>PTH yuva genişlikleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1474"/>
         <source>Check silkscreen widths...</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi genişlikleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1492"/>
         <source>Check silkscreen text heights...</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi metin yükseklikleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1513"/>
         <source>Check keepout zones...</source>
-        <translation type="unfinished"/>
+        <translation>Yasak bölgeler denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1769"/>
         <source>Check for useless or disallowed vias...</source>
-        <translation type="unfinished"/>
+        <translation>İşlevsiz veya izin verilmeyen via&apos;lar denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1801"/>
         <source>Check for invalid planes...</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz düzlemler denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1816"/>
         <source>Check for disallowed NPTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>İzin verilmeyen NPTH yuvaları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1849"/>
         <source>Check for disallowed PTH slots...</source>
-        <translation type="unfinished"/>
+        <translation>İzin verilmeyen PTH yuvaları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1889"/>
         <source>Check pad connections...</source>
-        <translation type="unfinished"/>
+        <translation>Ped bağlantıları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1934"/>
         <source>Check device clearances...</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt boşlukları denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="1990"/>
         <source>Check board outline...</source>
-        <translation type="unfinished"/>
+        <translation>Kart dış hattı denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2119"/>
         <source>Check board cutouts...</source>
-        <translation type="unfinished"/>
+        <translation>Kart kesimleri denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2248"/>
         <source>Check used layers...</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılan katmanlar denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2311"/>
         <source>Check for unplaced components...</source>
-        <translation type="unfinished"/>
+        <translation>Yerleştirilmemiş bileşenler denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2322"/>
         <source>Check for missing connections...</source>
-        <translation type="unfinished"/>
+        <translation>Eksik bağlantılar denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2368"/>
         <source>Check for impossible connections...</source>
-        <translation type="unfinished"/>
+        <translation>İmkansız bağlantılar denetleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/board/drc/boarddesignrulecheck.cpp" line="2386"/>
         <source>Check for stale objects...</source>
-        <translation type="unfinished"/>
+        <translation>Eskimiş nesneler denetleniyor...</translation>
     </message>
 </context>
 <context>
@@ -6537,13 +6537,13 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="100"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="129"/>
         <source>There is already an assembly variant with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir montaj varyantı zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="163"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="196"/>
         <source>There is already a net class with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir ağ sınıfı zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="250"/>
@@ -13474,7 +13474,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="738"/>
@@ -17693,7 +17693,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="160"/>
         <source>Required</source>
-        <translation type="unfinished"/>
+        <translation>Zorunlu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="173"/>
@@ -18949,7 +18949,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="225"/>
         <source>Recommended</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="237"/>
@@ -19620,7 +19620,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="49"/>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="91"/>
