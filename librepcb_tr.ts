@@ -6712,12 +6712,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="401"/>
         <source>Failed to finish PDF export. Check permissions of output file.</source>
-        <translation type="unfinished"/>
+        <translation>PDF dışa aktarımı tamamlanamadı. Çıktı dosyasının izinlerini kontrol edin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="405"/>
         <source>Failed to finish printing with unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Yazdırma bilinmeyen bir hatayla tamamlanamadı.</translation>
     </message>
 </context>
 <context>
@@ -6725,7 +6725,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/library/library.cpp" line="138"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Bir kütüphane dizini adının &apos;.lplib&apos; son ekine sahip olması gerekir.</translation>
     </message>
 </context>
 <context>
@@ -6736,7 +6736,10 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Bu kütüphane öğesi daha yeni bir uygulama sürümüyle oluşturulmuş.
+Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -6744,7 +6747,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/circuit/netclass.cpp" line="151"/>
         <source>The net class &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; ağ sınıfı hâlâ kullanımda olduğu için kaldırılamaz!</translation>
     </message>
 </context>
 <context>
@@ -6752,7 +6755,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/circuit/netsignal.cpp" line="133"/>
         <source>The net signal &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; ağ sinyali hâlâ kullanımda olduğu için kaldırılamaz!</translation>
     </message>
 </context>
 <context>
@@ -6760,7 +6763,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/network/networkrequest.cpp" line="58"/>
         <source>The received content exceeds the 100MB size limit.</source>
-        <translation type="unfinished"/>
+        <translation>Alınan içerik 100MB boyut sınırını aşıyor.</translation>
     </message>
 </context>
 <context>
@@ -6768,85 +6771,87 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="124"/>
         <source>Start request...</source>
-        <translation type="unfinished"/>
+        <translation>İstek başlatılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="127"/>
         <source>Fatal error: Download manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Ölümcül hata: İndirme yöneticisi çalışmıyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="134"/>
         <source>Abort request...</source>
-        <translation type="unfinished"/>
+        <translation>İstek iptal ediliyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="147"/>
         <source>Request started...</source>
-        <translation type="unfinished"/>
+        <translation>İstek başlatıldı...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="152"/>
         <source>Network access manager is not running.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ erişim yöneticisi çalışmıyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="229"/>
         <source>Send data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Veri gönderiliyor: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="247"/>
         <source>Receive data: %1</source>
-        <translation type="unfinished"/>
+        <translation>Veri alınıyor: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="262"/>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="316"/>
         <source>%1 (%2)</source>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="273"/>
         <source>SSL errors occurred:
 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>SSL hataları oluştu:
+
+%1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="286"/>
         <source>Network request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>Ağ isteği iptal edildi.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="296"/>
         <source>Redirection loop detected.</source>
-        <translation type="unfinished"/>
+        <translation>Yönlendirme döngüsü tespit edildi.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="299"/>
         <source>Too many redirects.</source>
-        <translation type="unfinished"/>
+        <translation>Çok fazla yönlendirme.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="305"/>
         <source>Redirect to %1...</source>
-        <translation type="unfinished"/>
+        <translation>%1 adresine yönlendiriliyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="357"/>
         <source>Request successfully finished.</source>
-        <translation type="unfinished"/>
+        <translation>İstek başarıyla tamamlandı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="363"/>
         <source>Request aborted.</source>
-        <translation type="unfinished"/>
+        <translation>İstek iptal edildi.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/networkrequestbase.cpp" line="374"/>
         <source>Request failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>İstek başarısız oldu: %1</translation>
     </message>
 </context>
 <context>
@@ -6855,12 +6860,12 @@ You need at least LibrePCB %1 to open it.
         <location filename="libs/librepcb/core/network/orderpcbapirequest.cpp" line="85"/>
         <source>The project is too large (%1). If you manually added files to the project directory, you might need to move them out of the project directory.</source>
         <comment>Placeholder is the file size.</comment>
-        <translation type="unfinished"/>
+        <translation>Proje çok büyük (%1). Proje dizinine manuel olarak dosya eklediyseniz, bunları proje dizininin dışına taşımanız gerekebilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/orderpcbapirequest.cpp" line="138"/>
         <source>This service is currently not available. Please try again later or order the PCB manually either with the Gerber export or the *.lppz export.</source>
-        <translation type="unfinished"/>
+        <translation>Bu hizmet şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin veya PCB&apos;yi Gerber dışa aktarımı ya da *.lppz dışa aktarımı ile manuel olarak sipariş edin.</translation>
     </message>
 </context>
 <context>
@@ -6868,27 +6873,27 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="116"/>
         <source>The output file path &apos;%1&apos; is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı dosyası yolu &apos;%1&apos; geçersiz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="124"/>
         <source>Attempted to write file &apos;%1&apos; outside the output directory, which is not allowed!</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; dosyası çıktı dizini dışına yazılmaya çalışıldı, buna izin verilmiyor!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="133"/>
         <source>The file path &apos;%1&apos; is absolute, but only relative paths are allowed!</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; dosya yolu mutlak, ancak yalnızca göreli yollara izin veriliyor!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="155"/>
         <source>Attempted to write the output file &apos;%1&apos; multiple times!</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; çıktı dosyasına birden fazla kez yazılmaya çalışıldı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/fileio/outputdirectorywriter.cpp" line="158"/>
         <source>Make sure to specify unique output file paths, e.g. by using placeholders like &apos;%1&apos; or &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Benzersiz çıktı dosyası yolları belirttiğinizden emin olun, örn. &apos;%1&apos; veya &apos;%2&apos; gibi yer tutucular kullanarak.</translation>
     </message>
 </context>
 <context>
@@ -6896,37 +6901,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="261"/>
         <source>Unknown output job type &apos;%1&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Bilinmeyen çıktı işi türü &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="262"/>
         <source>You may need a more recent LibrePCB version to run this job.</source>
-        <translation type="unfinished"/>
+        <translation>Bu işi çalıştırmak için daha yeni bir LibrePCB sürümüne ihtiyacınız olabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="268"/>
         <source>No output files were generated, check the job configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Hiç çıktı dosyası oluşturulmadı, iş yapılandırmasını kontrol edin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="412"/>
         <source>No technologies selected, thus the output files won&apos;t contain any entries.</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir teknoloji seçilmedi, bu nedenle çıktı dosyaları herhangi bir girdi içermeyecek.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="736"/>
         <source>The input file must be located within the project directory, specified by a relative file path.</source>
-        <translation type="unfinished"/>
+        <translation>Girdi dosyası, göreli bir dosya yoluyla belirtilen proje dizini içinde bulunmalıdır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="771"/>
         <source>The archive job depends on files from another job which was not run yet. Note that archive jobs can only depend on jobs further ahead in the list so you might need to reorder them.</source>
-        <translation type="unfinished"/>
+        <translation>Arşiv işi, henüz çalıştırılmamış başka bir işten gelen dosyalara bağlı. Arşiv işlerinin yalnızca listede daha ileride bulunan işlere bağlı olabileceğini unutmayın, bu nedenle onları yeniden sıralamanız gerekebilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/outputjobrunner.cpp" line="783"/>
         <source>No input jobs selected, thus the resulting archive will be empty.</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir girdi işi seçilmedi, bu nedenle ortaya çıkan arşiv boş olacak.</translation>
     </message>
 </context>
 <context>
@@ -6934,37 +6939,37 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="71"/>
         <source>The suffix of the project file must be &quot;lpp&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>Proje dosyasının son eki &quot;lpp&quot; olmalıdır!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="245"/>
         <source>There is already a schematic with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir şematik zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="252"/>
         <source>There is already a schematic with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizin adında bir şematik zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="279"/>
         <source>There are still elements in the schematic &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; şematiğinde hâlâ öğeler var!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="332"/>
         <source>There is already a board with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir kart zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="339"/>
         <source>There is already a board with the directory name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizin adında bir kart zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/project.cpp" line="541"/>
         <source>The directory &quot;%1&quot; already contains a LibrePCB project.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini zaten bir LibrePCB projesi içeriyor.</translation>
     </message>
 </context>
 <context>
@@ -6972,47 +6977,47 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="160"/>
         <source>Note: This is a temporary file since the project has not been saved to disk yet. When you save the project, the final log file will be persisted in the projects &apos;%1&apos; directory.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Proje henüz diske kaydedilmediği için bu geçici bir dosyadır. Projeyi kaydettiğinizde, son günlük dosyası projelerin &apos;%1&apos; dizininde kalıcı olarak saklanacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="167"/>
         <source>Attention: After saving the project, the file format migration cannot be reverted. Check if everything looks good before saving the project.</source>
-        <translation type="unfinished"/>
+        <translation>Dikkat: Proje kaydedildikten sonra dosya biçimi taşıma işlemi geri alınamaz. Projeyi kaydetmeden önce her şeyin yolunda göründüğünden emin olun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="175"/>
         <source>The project has been migrated from file format &lt;strong&gt;%1 to %2&lt;/strong&gt;, which emitted the following messages:</source>
-        <translation type="unfinished"/>
+        <translation>Proje, &lt;strong&gt;%1 biçiminden %2 biçimine&lt;/strong&gt; taşındı ve bu işlem sırasında aşağıdaki mesajlar üretildi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="185"/>
         <source>No messages emitted.</source>
-        <translation type="unfinished"/>
+        <translation>Hiç mesaj üretilmedi.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="202"/>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="203"/>
         <source>Occurrences</source>
-        <translation type="unfinished"/>
+        <translation>Tekrar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="204"/>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="245"/>
         <source>File does not exist: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Dosya mevcut değil: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="251"/>
         <source>Directory does not contain a LibrePCB project: &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Dizin bir LibrePCB projesi içermiyor: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/projectloader.cpp" line="263"/>
@@ -7020,7 +7025,10 @@ You need at least LibrePCB %1 to open it.
 You need at least LibrePCB %1 to open it.
 
 %2</source>
-        <translation type="unfinished"/>
+        <translation>Bu proje daha yeni bir uygulama sürümüyle oluşturulmuş.
+Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
+
+%2</translation>
     </message>
 </context>
 <context>
@@ -7028,7 +7036,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/project/schematic/items/si_symbol.cpp" line="68"/>
         <source>No symbol with the UUID &quot;%1&quot; found in the project&apos;s library.</source>
-        <translation type="unfinished"/>
+        <translation>Projenin kütüphanesinde &quot;%1&quot; UUID&apos;sine sahip bir sembol bulunamadı.</translation>
     </message>
 </context>
 <context>
@@ -7036,12 +7044,12 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/sqlitedatabase.cpp" line="72"/>
         <source>Invalid database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz veritabanı: &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/sqlitedatabase.cpp" line="80"/>
         <source>Could not open database: &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Veritabanı açılamadı: &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -7049,32 +7057,32 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="99"/>
         <source>Preparing...</source>
-        <translation type="unfinished"/>
+        <translation>Hazırlanıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="110"/>
         <source>Exporting PCB...</source>
-        <translation type="unfinished"/>
+        <translation>PCB dışa aktarılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="152"/>
         <source>Exporting device %1/%2...</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt dışa aktarılıyor: %1/%2...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="178"/>
         <source>Saving...</source>
-        <translation type="unfinished"/>
+        <translation>Kaydediliyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="185"/>
         <source>The export completed, but there were %1 errors!</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarım tamamlandı, ancak %1 hata oluştu!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="187"/>
         <source>The last error was:</source>
-        <translation type="unfinished"/>
+        <translation>Son hata şuydu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/stepexport.cpp" line="189"/>
@@ -20102,7 +20110,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="314"/>
         <source>Version</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm</translation>
     </message>
 </context>
 <context>
