@@ -5540,12 +5540,12 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="578"/>
         <source>Clearance of pad &apos;%1&apos; in &apos;%2&apos; to legend</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin serigrafiye boşluğu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="580"/>
         <source>Pads should have at least %1 clearance to drawings on the legend because these drawings would be cropped during the Gerber export when used as silkscreen.</source>
-        <translation type="unfinished"/>
+        <translation>Pedler, serigrafideki çizimlere en az %1 boşluğa sahip olmalıdır, çünkü bu çizimler serigrafi olarak kullanıldığında Gerber dışa aktarımı sırasında kırpılır.</translation>
     </message>
 </context>
 <context>
@@ -5553,12 +5553,12 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="603"/>
         <source>Solder resist on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinde lehim maskesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="605"/>
         <source>There&apos;s no stop mask opening enabled on the pad, so the copper pad will be covered by solder resist and is thus not functional. This is very unusual, you should double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>Ped üzerinde etkinleştirilmiş bir lehim maskesi açıklığı yok, bu nedenle bakır ped lehim maskesiyle kaplanacak ve işlevsiz olacaktır. Bu çok alışılmadık bir durumdur, gerçekten istediğiniz şeyin bu olup olmadığını tekrar kontrol etmelisiniz.</translation>
     </message>
 </context>
 <context>
@@ -5566,12 +5566,12 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="628"/>
         <source>Copper clearance &gt;0 on pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinde bakır boşluğu &gt;0</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="630"/>
         <source>There is a custom copper clearance enabled on the pad, which is unusual for pads which do not represent a fiducial. Note that the clearance value from the board design rules is applied to all pads anyway, thus manual clearance values are usually not needed. If this pad is a fiducial, make sure to set its function to the corresponding value.</source>
-        <translation type="unfinished"/>
+        <translation>Ped üzerinde özel bir bakır boşluğu etkinleştirilmiş, bu referans işareti olmayan pedler için alışılmadık bir durumdur. Kart tasarım kurallarındaki boşluk değerinin zaten tüm pedlere uygulandığını, bu nedenle manuel boşluk değerlerinin genellikle gerekli olmadığını unutmayın. Bu ped bir referans işaretiyse, işlevini karşılık gelen değere ayarladığınızdan emin olun.</translation>
     </message>
 </context>
 <context>
@@ -5579,12 +5579,12 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="655"/>
         <source>Solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki SMT pedi &apos;%1&apos; üzerinde lehim pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="657"/>
         <source>The SMT pad has solder paste enabled, but its function indicates that there&apos;s no lead to be soldered on it (e.g. a fiducial). Usually solder paste is not desired on such special pads which won&apos;t be soldered.</source>
-        <translation type="unfinished"/>
+        <translation>SMT pedinde lehim pastası etkinleştirilmiş, ancak işlevi bu pedin üzerine lehimlenecek bir uç olmadığını gösteriyor (örn. bir referans işareti). Genellikle lehimlenmeyecek bu tür özel pedlerde lehim pastası istenmez.</translation>
     </message>
 </context>
 <context>
@@ -5592,12 +5592,12 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="680"/>
         <source>No solder paste on SMT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki SMT pedi &apos;%1&apos; üzerinde lehim pastası yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="682"/>
         <source>The SMT pad has no solder paste enabled, which is unusual since without solder paste the pad cannot be reflow soldered. Only use this if there&apos;s no lead to be soldered on that pad, or if you have drawn a manual solder paste area.</source>
-        <translation type="unfinished"/>
+        <translation>SMT pedinde lehim pastası etkin değil, bu alışılmadık bir durumdur çünkü lehim pastası olmadan ped reflow ile lehimlenemez. Bunu yalnızca o pedin üzerine lehimlenecek bir uç yoksa veya manuel bir lehim pastası alanı çizdiyseniz kullanın.</translation>
     </message>
 </context>
 <context>
@@ -5605,12 +5605,12 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="68"/>
         <source>Suspicious assembly type</source>
-        <translation type="unfinished"/>
+        <translation>Şüpheli montaj türü</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="69"/>
         <source>The specified assembly type differs from the assembly type which is auto-detected from the footprint contents. Double-check if the specified assembly type is really correct.</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen montaj türü, ayak izi içeriğinden otomatik olarak algılanan montaj türünden farklı. Belirtilen montaj türünün gerçekten doğru olup olmadığını tekrar kontrol edin.</translation>
     </message>
 </context>
 <context>
@@ -5618,14 +5618,16 @@ THT pedler için, orijin bir delik içinde bulunmalıdır çünkü bazı katmanl
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="167"/>
         <source>Suspicious use of forced nets</source>
-        <translation type="unfinished"/>
+        <translation>Zorlanmış ağların şüpheli kullanımı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/componentcheckmessages.cpp" line="168"/>
         <source>At least one signal of this component has a forced net set, which is very unusual and can cause serious troubles if not used intentionally.
 
 Please consult the user manual to ensure this is what you want. If you&apos;re unsure, clear the forced net on all component signals.</source>
-        <translation type="unfinished"/>
+        <translation>Bu bileşenin en az bir sinyalinde zorlanmış bir ağ ayarlanmış, bu çok alışılmadık bir durumdur ve bilinçli olarak kullanılmazsa ciddi sorunlara yol açabilir.
+
+Bunun istediğiniz şey olduğundan emin olmak için lütfen kullanıcı kılavuzuna başvurun. Emin değilseniz, tüm bileşen sinyallerindeki zorlanmış ağı temizleyin.</translation>
     </message>
 </context>
 <context>
@@ -5633,7 +5635,7 @@ Please consult the user manual to ensure this is what you want. If you&apos;re u
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="705"/>
         <source>Suspicious function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin şüpheli işlevi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="707"/>
@@ -5643,7 +5645,12 @@ Please consult the user manual to ensure this is what you want. If you&apos;re u
  - Function is intended for SMT pads but pad is THT
  - Function is electrical but pad is not connected
  - Function is fiducial but pad is connected</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırılmış ped işlevi, pedin diğer özellikleriyle eşleşmiyor ve bu nedenle şüpheli görünüyor. Olası nedenler:
+
+- İşlev THT pedler için tasarlanmış ancak ped SMT
+- İşlev SMT pedler için tasarlanmış ancak ped THT
+- İşlev elektriksel ancak ped bağlı değil
+- İşlev referans işareti ancak ped bağlı</translation>
     </message>
 </context>
 <context>
@@ -5651,14 +5658,16 @@ Please consult the user manual to ensure this is what you want. If you&apos;re u
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="139"/>
         <source>Origin not in center</source>
-        <translation type="unfinished"/>
+        <translation>Orijin merkezde değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="140"/>
         <source>Generally the origin (0, 0) should be in the center of the symbol body (roughly, mapped to grid). It's not recommended to have it at pin-1 coordinate, top-left or something like that.
 
 It looks like this rule is not followed in this symbol. However, for irregular symbol shapes this warning may not be justified. In such cases, just approve it.</source>
-        <translation type="unfinished"/>
+        <translation>Genellikle orijin (0, 0), sembol gövdesinin merkezinde olmalıdır (yaklaşık olarak, ızgaraya eşlenmiş). Onu pin-1 koordinatında, sol üstte veya buna benzer bir yerde tutmak önerilmez.
+
+Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekilleri için bu uyarı haklı olmayabilir. Bu tür durumlarda, mesajı onaylamanız yeterlidir.</translation>
     </message>
 </context>
 <context>
@@ -5666,12 +5675,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="195"/>
         <source>Pin not on %1mm grid: &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Pin, %1 mm ızgarada değil: &apos;%2&apos;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="197"/>
         <source>Every pin must be placed exactly on the %1mm grid, otherwise it cannot be connected in the schematic editor.</source>
-        <translation type="unfinished"/>
+        <translation>Her pinin tam olarak %1 mm ızgara üzerinde yerleştirilmesi gerekir, aksi takdirde şematik editöründe bağlanamaz.</translation>
     </message>
 </context>
 <context>
@@ -5679,12 +5688,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="732"/>
         <source>Solder paste on THT pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki THT pedi &apos;%1&apos; üzerinde lehim pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="734"/>
         <source>The THT pad has solder paste enabled, which is very unusual since through-hole components are usually not reflow soldered. Also the solder paste could flow into the pads hole, possibly causing troubles during THT assembly. Double-check if this is really what you want.</source>
-        <translation type="unfinished"/>
+        <translation>THT pedinde lehim pastası etkinleştirilmiş, bu çok alışılmadık bir durumdur çünkü delikli (through-hole) bileşenler genellikle reflow ile lehimlenmez. Ayrıca lehim pastası pedin deliğine akabilir, bu da THT montajı sırasında sorunlara neden olabilir. Gerçekten istediğiniz şeyin bu olup olmadığını tekrar kontrol edin.</translation>
     </message>
 </context>
 <context>
@@ -5692,17 +5701,17 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="758"/>
         <source>Unspecified function of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin belirtilmemiş işlevi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="760"/>
         <source>The function of the pad is not specified, which could lead to inaccurate or wrong data in exports (e.g. pick&amp;place files). Also the automatic checks can detect more potential issues if the function is specified. Thus it&apos;s recommended to explicitly specify the function of each pad.</source>
-        <translation type="unfinished"/>
+        <translation>Pedin işlevi belirtilmemiş, bu da dışa aktarımlarda (örn. pick&amp;place dosyaları) yanlış veya hatalı verilere yol açabilir. Ayrıca işlev belirtilirse otomatik denetimler daha fazla potansiyel sorunu tespit edebilir. Bu nedenle her pedin işlevinin açıkça belirtilmesi önerilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="766"/>
         <source>However, the image data of a PCB is not affected by the pad function.</source>
-        <translation type="unfinished"/>
+        <translation>Ancak, bir PCB&apos;nin görüntü verisi ped işlevinden etkilenmez.</translation>
     </message>
 </context>
 <context>
@@ -5710,12 +5719,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="787"/>
         <source>Unused custom outline of pad &apos;%1&apos; in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; pedinin kullanılmayan özel dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="789"/>
         <source>The pad has set a custom outline but it isn&apos;t used as the shape. So it has no effect and should be removed to avoid confusion.</source>
-        <translation type="unfinished"/>
+        <translation>Ped özel bir dış hat ayarlamış ancak bu şekil olarak kullanılmıyor. Bu nedenle hiçbir etkisi yok ve karışıklığı önlemek için kaldırılmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -5723,12 +5732,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="809"/>
         <source>Useless keepout zone in &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içinde işlevsiz yasak bölge</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="811"/>
         <source>The keepout zone has no layer or rule enabled so it has no effect. Either correct its properties or remove it from the footprint.</source>
-        <translation type="unfinished"/>
+        <translation>Yasak bölgede hiçbir katman veya kural etkin değil, bu nedenle hiçbir etkisi yok. Özelliklerini düzeltin veya ayak izinden kaldırın.</translation>
     </message>
 </context>
 <context>
@@ -5736,12 +5745,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="832"/>
         <source>Layer of &apos;%1&apos; in &apos;%2&apos; is not &apos;%3&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%2&apos; içindeki &apos;%1&apos; katmanı &apos;%3&apos; değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/pkg/packagecheckmessages.cpp" line="835"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; metin öğesi normalde &apos;%2&apos; katmanında olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -5749,12 +5758,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="216"/>
         <source>Layer of &apos;%1&apos; is not &apos;%2&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; katmanı &apos;%2&apos; değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/sym/symbolcheckmessages.cpp" line="218"/>
         <source>The text element &apos;%1&apos; should normally be on layer &apos;%2&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; metin öğesi normalde &apos;%2&apos; katmanında olmalıdır.</translation>
     </message>
 </context>
 <context>
@@ -5763,7 +5772,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/job/netlistoutputjob.cpp" line="39"/>
         <location filename="libs/librepcb/core/job/netlistoutputjob.h" line="68"/>
         <source>Netlist</source>
-        <translation type="unfinished"/>
+        <translation>Netlist</translation>
     </message>
 </context>
 <context>
@@ -5771,12 +5780,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/3d/occmodel.cpp" line="500"/>
         <source>Failed to write STEP file.</source>
-        <translation type="unfinished"/>
+        <translation>STEP dosyası yazılamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
         <source>Failed to read STEP file!</source>
-        <translation type="unfinished"/>
+        <translation>STEP dosyası okunamadı!</translation>
     </message>
 </context>
 <context>
@@ -5784,47 +5793,47 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
         <source>Not Specified</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilmemiş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
         <source>Standard Pad (soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Standart Ped (lehimli)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
         <source>Press-Fit Pad (THT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Press-Fit Ped (THT, lehimli)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
         <source>Thermal Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>Termal Ped (SMT, lehimli)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="395"/>
         <source>BGA Pad (SMT, soldered)</source>
-        <translation type="unfinished"/>
+        <translation>BGA Ped (SMT, lehimli)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="397"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Konnektörü Pedi (SMT, lehimsiz)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="399"/>
         <source>Test Pad (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Test Pedi (SMT, lehimsiz)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="401"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Yerel Ayak İzi Referansı (SMT, lehimsiz)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/pad.cpp" line="403"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
-        <translation type="unfinished"/>
+        <translation>Genel Kart Referansı (SMT, lehimsiz)</translation>
     </message>
 </context>
 <context>
@@ -5832,12 +5841,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/geometry/path.h" line="221"/>
         <source>Path doesn&apos;t contain vertices!</source>
-        <translation type="unfinished"/>
+        <translation>Yol köşe noktası içermiyor!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/geometry/path.h" line="262"/>
         <source>Path is not fillable or contains arcs!</source>
-        <translation type="unfinished"/>
+        <translation>Yol doldurulabilir değil veya yaylar içeriyor!</translation>
     </message>
 </context>
 <context>
@@ -5845,57 +5854,57 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="82"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Siyah</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="89"/>
         <source>Black Matte</source>
-        <translation type="unfinished"/>
+        <translation>Mat Siyah</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="95"/>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Mavi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="101"/>
         <source>Clear</source>
-        <translation type="unfinished"/>
+        <translation>Şeffaf</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="107"/>
         <source>Green</source>
-        <translation type="unfinished"/>
+        <translation>Yeşil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="113"/>
         <source>Green Matte</source>
-        <translation type="unfinished"/>
+        <translation>Mat Yeşil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="119"/>
         <source>Purple</source>
-        <translation type="unfinished"/>
+        <translation>Mor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="125"/>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Kırmızı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="131"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="138"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>Sarı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/pcbcolor.cpp" line="145"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
@@ -5903,12 +5912,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/job/pickplaceoutputjob.cpp" line="40"/>
         <source>Pick&amp;Place CSV</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place CSV</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/job/pickplaceoutputjob.h" line="102"/>
         <source>Pick&amp;Place</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place</translation>
     </message>
 </context>
 <context>
@@ -5917,7 +5926,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/job/projectjsonoutputjob.cpp" line="40"/>
         <location filename="libs/librepcb/core/job/projectjsonoutputjob.h" line="64"/>
         <source>Project Data</source>
-        <translation type="unfinished"/>
+        <translation>Proje Verisi</translation>
     </message>
 </context>
 <context>
@@ -5925,27 +5934,27 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_renumberpads.cpp" line="80"/>
         <source>Return</source>
-        <translation type="unfinished"/>
+        <translation>Enter</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="174"/>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="176"/>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="178"/>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="180"/>
         <source>Meta</source>
-        <translation type="unfinished"/>
+        <translation>Meta</translation>
     </message>
 </context>
 <context>
@@ -5958,7 +5967,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/ratio.h" line="356"/>
         <source>Value must be 0..1!</source>
-        <translation type="unfinished"/>
+        <translation>Değer 0 ile 1 arasında olmalıdır!</translation>
     </message>
 </context>
 <context>
@@ -5966,7 +5975,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="72"/>
         <source>Hint</source>
-        <translation type="unfinished"/>
+        <translation>İpucu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/rulecheck/rulecheckmessage.cpp" line="74"/>
@@ -5984,12 +5993,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="91"/>
         <source>Key &quot;%1&quot; defined multiple times.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; anahtarı birden fazla kez tanımlanmış.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/serializablekeyvaluemap.h" line="98"/>
         <source>No default %1 defined.</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan %1 tanımlanmamış.</translation>
     </message>
 </context>
 <context>
@@ -5997,12 +6006,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/serialization/serializableobjectlist.h" line="482"/>
         <source>There is no element of type &quot;%1&quot; with the UUID &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>Listede &quot;%2&quot; UUID&apos;sine sahip &quot;%1&quot; türünde bir öğe yok.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/serializableobjectlist.h" line="491"/>
         <source>There is no element of type &quot;%1&quot; with the name &quot;%2&quot; in the list.</source>
-        <translation type="unfinished"/>
+        <translation>Listede &quot;%2&quot; adına sahip &quot;%1&quot; türünde bir öğe yok.</translation>
     </message>
 </context>
 <context>
@@ -6010,32 +6019,32 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="87"/>
         <source>Passive</source>
-        <translation type="unfinished"/>
+        <translation>Pasif</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="93"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Güç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="99"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="105"/>
         <source>Output</source>
-        <translation type="unfinished"/>
+        <translation>Çıkış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="111"/>
         <source>I/O</source>
-        <translation type="unfinished"/>
+        <translation>G/Ç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/types/signalrole.h" line="117"/>
         <source>Open Drain</source>
-        <translation type="unfinished"/>
+        <translation>Açık Drain</translation>
     </message>
 </context>
 <context>
@@ -6302,7 +6311,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
     <message>
         <location filename="libs/librepcb/core/attribute/attrtypepower.cpp" line="39"/>
         <source>Power</source>
-        <translation type="unfinished"/>
+        <translation>Güç</translation>
     </message>
 </context>
 <context>
@@ -9309,7 +9318,7 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="245"/>
         <source>Input</source>
-        <translation type="unfinished"/>
+        <translation>Giriş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="246"/>
@@ -12091,12 +12100,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="227"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="243"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Siyah</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="255"/>
@@ -12415,12 +12424,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="413"/>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="429"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>Siyah</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="441"/>
@@ -14971,7 +14980,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="298"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Diğer</translation>
     </message>
 </context>
 <context>
