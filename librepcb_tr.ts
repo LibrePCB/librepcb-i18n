@@ -6549,19 +6549,19 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="250"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="277"/>
         <source>There is already a net signal with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir ağ sinyali zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="319"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="344"/>
         <source>There is already a bus with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir veri yolu zaten mevcut!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="393"/>
         <location filename="libs/librepcb/core/project/circuit/circuit.cpp" line="423"/>
         <source>There is already a component with the name &quot;%1&quot;!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir bileşen zaten mevcut!</translation>
     </message>
 </context>
 <context>
@@ -6569,12 +6569,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/project/circuit/componentinstance.cpp" line="215"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; bileşeni hâlâ kullanımda olduğu için kaldırılamaz!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/componentinstance.cpp" line="253"/>
         <source>All symbols of a component must be placed in the same schematic.</source>
-        <translation type="unfinished"/>
+        <translation>Bir bileşenin tüm sembolleri aynı şematiğe yerleştirilmelidir.</translation>
     </message>
 </context>
 <context>
@@ -6582,12 +6582,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="118"/>
         <source>The net signal of the component signal &quot;%1:%2&quot; cannot be changed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1:%2&quot; bileşen sinyalinin ağ sinyali, hâlâ kullanımda olduğu için değiştirilemez!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/project/circuit/componentsignalinstance.cpp" line="157"/>
         <source>The component &quot;%1&quot; cannot be removed because it is still in use!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; bileşeni hâlâ kullanımda olduğu için kaldırılamaz!</translation>
     </message>
 </context>
 <context>
@@ -6595,32 +6595,32 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="106"/>
         <source>Verify checksum...</source>
-        <translation type="unfinished"/>
+        <translation>Sağlama toplamı doğrulanıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="114"/>
         <source>Checksum verification of downloaded file failed!</source>
-        <translation type="unfinished"/>
+        <translation>İndirilen dosyanın sağlama toplamı doğrulaması başarısız oldu!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="125"/>
         <source>Write file...</source>
-        <translation type="unfinished"/>
+        <translation>Dosya yazılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="128"/>
         <source>Error while writing file &quot;%1&quot;: %2</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dosyası yazılırken hata oluştu: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="138"/>
         <source>Remove temporary files...</source>
-        <translation type="unfinished"/>
+        <translation>Geçici dosyalar kaldırılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/network/filedownload.cpp" line="149"/>
         <source>Extract ZIP...</source>
-        <translation type="unfinished"/>
+        <translation>ZIP çıkartılıyor...</translation>
     </message>
 </context>
 <context>
@@ -6628,17 +6628,17 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigration.cpp" line="48"/>
         <source>NOTE</source>
-        <translation type="unfinished"/>
+        <translation>NOT</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigration.cpp" line="50"/>
         <source>WARNING</source>
-        <translation type="unfinished"/>
+        <translation>UYARI</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigration.cpp" line="52"/>
         <source>CRITICAL</source>
-        <translation type="unfinished"/>
+        <translation>KRİTİK</translation>
     </message>
 </context>
 <context>
@@ -6646,37 +6646,37 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="530"/>
         <source>Components were automatically populated with assembly information required for the new, built-in MPN management and assembly variant mechanism. If the BOM or PnP export is used, please review the output and correct MPNs and attributes manually in the component properties dialog where needed.</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler, yeni, yerleşik MPN yönetimi ve montaj varyantı mekanizması için gerekli montaj bilgileriyle otomatik olarak dolduruldu. BOM veya PnP dışa aktarımı kullanılıyorsa, lütfen çıktıyı gözden geçirin ve gerektiğinde bileşen özellikleri penceresinde MPN&apos;leri ve öznitelikleri manuel olarak düzeltin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="540"/>
         <source>Some particular ERC message approvals cannot be migrated and therefore have been removed. Please check the remaining ERC messages and approve them if desired.</source>
-        <translation type="unfinished"/>
+        <translation>Bazı özel ERC mesajı onayları taşınamıyor ve bu nedenle kaldırıldı. Lütfen kalan ERC mesajlarını kontrol edin ve isterseniz onaylayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="548"/>
         <source>All non-plated holes (NPTH) now have automatic solder resist openings added on both board sides. The expansion value is configured in the board design rules but can be overridden in the hole properties dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Artık tüm kaplanmamış delikler (NPTH), her iki kart yüzünde de otomatik lehim maskesi açıklıklarına sahip. Genişleme değeri kart tasarım kurallarında yapılandırılır, ancak delik özellikleri penceresinde geçersiz kılınabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="557"/>
         <source>Non-circular via shapes are no longer supported, all vias were changed to circular now.</source>
-        <translation type="unfinished"/>
+        <translation>Dairesel olmayan via şekilleri artık desteklenmiyor, tüm via&apos;lar artık dairesel olarak değiştirildi.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="564"/>
         <source>Plane area calculations have been adjusted, manual review and running the DRC is recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Düzlem alan hesaplamaları ayarlandı, manuel inceleme ve DRC çalıştırılması önerilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="571"/>
         <source>Vias within planes with connect style &apos;None&apos; are now fully connected to the planes since the connect style is no longer respected for vias. You might want to remove traces now which are no longer needed to connect these vias.</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı stili &apos;Yok&apos; olan düzlemler içindeki via&apos;lar artık düzlemlere tamamen bağlı, çünkü bağlantı stili artık via&apos;lar için dikkate alınmıyor. Bu via&apos;ları bağlamak için artık gerekli olmayan izleri kaldırmak isteyebilirsiniz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv01.cpp" line="581"/>
         <source>Board cutouts now have a dedicated layer, thus nested board outline polygons and circles have automatically been moved to the cutouts layer. As the auto-detection is not perfect, please check if each cutout has been converted correctly. The easiest way is to review the PCB in the 3D viewer.</source>
-        <translation type="unfinished"/>
+        <translation>Kart kesimleri artık kendine özgü bir katmana sahip, bu nedenle iç içe geçmiş kart dış hattı poligonları ve daireleri otomatik olarak kesimler katmanına taşındı. Otomatik algılama mükemmel olmadığından, lütfen her kesimin doğru şekilde dönüştürülüp dönüştürülmediğini kontrol edin. En kolay yol, PCB&apos;yi 3B görüntüleyicide incelemektir.</translation>
     </message>
 </context>
 <context>
@@ -6684,12 +6684,12 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="306"/>
         <source>The dedicated Gerber/Excellon generator dialog has been removed in favor of the more powerful output jobs, and the corresponding output settings will be removed from boards in an upcoming release. It is recommended to add a Gerber/Excellon output job now, as this allows to migrate the old export settings (choose &quot;Import Old Settings&quot;).</source>
-        <translation type="unfinished"/>
+        <translation>Özel Gerber/Excellon oluşturucu penceresi, daha güçlü çıktı işleri lehine kaldırıldı ve karşılık gelen çıktı ayarları yaklaşan bir sürümde kartlardan kaldırılacak. Eski dışa aktarma ayarlarını taşımaya olanak tanıdığı için şimdi bir Gerber/Excellon çıktı işi eklemeniz önerilir (&quot;Eski Ayarları İçe Aktar&quot; seçeneğini seçin).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/serialization/fileformatmigrationv1.cpp" line="390"/>
         <source>The project has set custom attributes for the BOM export (%1). But in LibrePCB 2.0, the manual BOM export has been removed in favor of the more powerful output jobs feature. Please use output jobs now to generate the BOM. When you add a new BOM output job, those custom attributes will automatically be imported.</source>
-        <translation type="unfinished"/>
+        <translation>Proje, BOM dışa aktarımı için özel öznitelikler ayarlamış (%1). Ancak LibrePCB 2.0&apos;da, manuel BOM dışa aktarımı daha güçlü çıktı işleri özelliği lehine kaldırıldı. Lütfen artık BOM oluşturmak için çıktı işlerini kullanın. Yeni bir BOM çıktı işi eklediğinizde, bu özel öznitelikler otomatik olarak içe aktarılacaktır.</translation>
     </message>
 </context>
 <context>
@@ -6697,17 +6697,17 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="185"/>
         <source>No pages to export/print.</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarılacak/yazdırılacak sayfa yok.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="372"/>
         <source>Failed to export image &apos;%1&apos; due to unknown file extension. Supported extensions: %2</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; resmi bilinmeyen dosya uzantısı nedeniyle dışa aktarılamadı. Desteklenen uzantılar: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="379"/>
         <source>Failed to export image &apos;%1&apos;. Check file permissions.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; resmi dışa aktarılamadı. Dosya izinlerini kontrol edin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/export/graphicsexport.cpp" line="401"/>
