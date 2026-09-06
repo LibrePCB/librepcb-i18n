@@ -5783,7 +5783,7 @@ Bu sembolde bu kuralın izlenmediği görülüyor. Ancak düzensiz sembol şekil
         <translation>STEP dosyası yazılamadı.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="719"/>
         <source>Failed to read STEP file!</source>
         <translation>STEP dosyası okunamadı!</translation>
     </message>

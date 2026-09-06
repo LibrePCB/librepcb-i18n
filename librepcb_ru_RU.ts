@@ -5785,7 +5785,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation>Не удалось записать файл STEP.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="719"/>
         <source>Failed to read STEP file!</source>
         <translation>Не удалось прочитать файл STEP!</translation>
     </message>

@@ -5782,7 +5782,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <translation>Chyba pri zápise STEP súboru.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="719"/>
         <source>Failed to read STEP file!</source>
         <translation>Chyba pri čítaní zo STEP súboru!</translation>
     </message>

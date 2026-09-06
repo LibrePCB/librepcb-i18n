@@ -5763,7 +5763,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <translation>ຂຽນໄຟລ໌ STEP ບໍ່ສຳເລັດ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="719"/>
         <source>Failed to read STEP file!</source>
         <translation>ອ່ານໄຟລ໌ STEP ບໍ່ສຳເລັດ!</translation>
     </message>

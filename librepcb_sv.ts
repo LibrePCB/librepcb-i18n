@@ -5784,7 +5784,7 @@ Det verkar som om denna regel inte följs i denna symbol. Men för oregelbundna 
         <translation>Det gick inte att skriva STEP-fil.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="711"/>
+        <location filename="libs/librepcb/core/3d/occmodel.cpp" line="719"/>
         <source>Failed to read STEP file!</source>
         <translation>Det gick inte att läsa STEP-filen!</translation>
     </message>
