@@ -8064,52 +8064,52 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1426"/>
         <source>Set Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişliği Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1632"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1646"/>
         <source>Paste board elements</source>
-        <translation type="unfinished"/>
+        <translation>Kart öğelerini yapıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1804"/>
         <source>Measurement Result</source>
-        <translation type="unfinished"/>
+        <translation>Ölçüm Sonucu</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1806"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Toplam %n iz segmentinin uzunluğu: %2 mm / %3 inç</numerusform><numerusform>Toplam %n iz segmentinin uzunluğu: %2 mm / %3 inç</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1814"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
-        <translation type="unfinished"/>
+        <translation>UYARI: %1 iz segmenti seçili, ancak hepsi bağlı değil!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1843"/>
         <source>Selected trace segments may not branch!</source>
-        <translation type="unfinished"/>
+        <translation>Seçili iz segmentleri dallanamaz!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2357"/>
         <source>Net</source>
-        <translation type="unfinished"/>
+        <translation>Ağ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2360"/>
         <source>Class</source>
-        <translation type="unfinished"/>
+        <translation>Sınıf</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2375"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2376"/>
@@ -8119,12 +8119,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2377"/>
         <source>MPN</source>
-        <translation type="unfinished"/>
+        <translation>MPN</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2385"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Paket</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2389"/>
@@ -8134,54 +8134,54 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2393"/>
         <source>Signal</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2398"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2448"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>Boyut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2411"/>
         <source>Slot</source>
-        <translation type="unfinished"/>
+        <translation>Yuva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2417"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2443"/>
         <source>Drill</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2428"/>
         <source>Layer</source>
-        <translation type="unfinished"/>
+        <translation>Katman</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
         <source>Height</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2455"/>
         <source>Start Layer</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç Katmanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2456"/>
         <source>End Layer</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Katmanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2461"/>
         <source>Position</source>
-        <translation type="unfinished"/>
+        <translation>Konum</translation>
     </message>
 </context>
 <context>
@@ -8189,7 +8189,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="14"/>
         <source>Pad Properties</source>
-        <translation type="unfinished"/>
+        <translation>Ped Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="24"/>
@@ -8199,67 +8199,67 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="33"/>
         <source>Net:</source>
-        <translation type="unfinished"/>
+        <translation>Ağ:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="40"/>
         <source>Component Side:</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Yüzü:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="47"/>
         <source>Shape:</source>
-        <translation type="unfinished"/>
+        <translation>Şekil:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="54"/>
         <source>Hole Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="66"/>
         <source>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla delik, &lt;a href=&quot;tab&quot;&gt;buraya&lt;/a&gt; bakın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="79"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"/>
+        <translation>SMT&apos;ye Dönüştür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="101"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="118"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="128"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Yarıçapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="153"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="178"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="207"/>
         <source>Obround</source>
-        <translation type="unfinished"/>
+        <translation>Oval</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="233"/>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlatılmış dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="259"/>
@@ -8274,145 +8274,145 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="311"/>
         <source>Custom shape outline as defined on next tab</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sekmede tanımlanan özel şekil dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="314"/>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="335"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="352"/>
         <source>Function:</source>
-        <translation type="unfinished"/>
+        <translation>İşlev:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="362"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="369"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="378"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="388"/>
         <source>Plated Holes</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı Delikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="406"/>
         <source>Select previous hole</source>
-        <translation type="unfinished"/>
+        <translation>Önceki deliği seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="419"/>
         <source>Select next hole</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki deliği seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="432"/>
         <source>Remove current hole</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli deliği kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="443"/>
         <source>Add new hole</source>
-        <translation type="unfinished"/>
+        <translation>Yeni delik ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="483"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Boşluklar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="492"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="507"/>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="573"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="523"/>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="589"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kurallarından</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="539"/>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="605"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="558"/>
         <source>Solder Paste:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Pastası:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="629"/>
         <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
-        <translation type="unfinished"/>
+        <translation>Not: THT pedler için lehim pastası genellikle &apos;Kapalı&apos; olarak ayarlanmalıdır. Ancak yine de etkinleştirilirse, lehim pastası yalnızca pedin lehim tarafına eklenir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="642"/>
         <source>Copper Keepout:</source>
-        <translation type="unfinished"/>
+        <translation>Bakır Yasak Bölgesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="657"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Bakırı referans işaretlerinden uzak tutmak için tasarlanmıştır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="671"/>
         <source>Custom Shape</source>
-        <translation type="unfinished"/>
+        <translation>Özel Şekil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.ui" line="685"/>
         <source>Coordinates are relative to the pad origin and before rotation.</source>
-        <translation type="unfinished"/>
+        <translation>Koordinatlar, ped orijinine göre ve döndürmeden öncedir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="353"/>
         <source>Hole %1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>%2 delikten %1.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="357"/>
         <source>Pad has no holes</source>
-        <translation type="unfinished"/>
+        <translation>Pedin deliği yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="406"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
-        <translation type="unfinished"/>
+        <translation>Delik çapı, ped genişliğini veya yüksekliğini aşıyor. Delik çapını azaltın veya ped genişliğini ve/veya yüksekliğini artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="417"/>
         <source>The custom pad outline does not represent a valid area.</source>
-        <translation type="unfinished"/>
+        <translation>Özel ped dış hattı geçerli bir alanı temsil etmiyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="424"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Özellikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="478"/>
@@ -8425,72 +8425,72 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="14"/>
         <source>Generate Pick&amp;Place Data</source>
-        <translation type="unfinished"/>
+        <translation>Pick&amp;Place Verisi Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="20"/>
         <source>Assembly Variant:</source>
-        <translation type="unfinished"/>
+        <translation>Montaj Varyantı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="27"/>
         <source>Board:</source>
-        <translation type="unfinished"/>
+        <translation>Kart:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="34"/>
         <source>Top Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Aygıtlar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="44"/>
         <source>Bottom Devices:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Aygıtlar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="54"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="61"/>
         <source>Format:</source>
-        <translation type="unfinished"/>
+        <translation> Biçim:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="73"/>
         <source>CSV with metadata*</source>
-        <translation type="unfinished"/>
+        <translation>Meta verili CSV*</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="83"/>
         <source>CSV without metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta verisiz CSV</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="90"/>
         <source>Gerber X3</source>
-        <translation type="unfinished"/>
+        <translation>Gerber X3</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="117"/>
         <source>*) Adds additional information to the files, but might cause issues with some CSV readers.</source>
-        <translation type="unfinished"/>
+        <translation>*) Dosyalara ek bilgi ekler, ancak bazı CSV okuyucularında sorunlara neden olabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="142"/>
         <source>Browse Output Directory</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Dizinine Gözat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.ui" line="157"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Gri satırlar dışa aktarılmaz (monte edilmez).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.cpp" line="75"/>
         <source>&amp;Generate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardpickplacegeneratordialog.cpp" line="175"/>
@@ -8508,57 +8508,57 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="14"/>
         <source>Plane Properties</source>
-        <translation type="unfinished"/>
+        <translation>Düzlem Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Sinyali:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="35"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Katman:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="42"/>
         <source>Min. Width:</source>
-        <translation type="unfinished"/>
+        <translation>Min. Genişlik:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="49"/>
         <source>Min. Copper Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. Bakır Boşluğu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="56"/>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Öncelik:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="66"/>
         <source>Connect Style:</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Stili:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="76"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="91"/>
         <source>Do not delete unconnected copper areas (islands)</source>
-        <translation type="unfinished"/>
+        <translation>Bağlı olmayan bakır alanları (adacıklar) silme</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="94"/>
         <source>Keep Islands</source>
-        <translation type="unfinished"/>
+        <translation>Adacıkları Koru</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="101"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="110"/>
@@ -8849,7 +8849,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="805"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Boşluklar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="827"/>
@@ -8972,12 +8972,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="25"/>
         <source>Net Signal:</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Sinyali:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="39"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="56"/>
@@ -8989,7 +8989,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="89"/>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="140"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kurallarından</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="77"/>
@@ -9019,7 +9019,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="130"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="137"/>
@@ -9034,7 +9034,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="150"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="194"/>
@@ -9044,7 +9044,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="202"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Özellikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="235"/>
@@ -9133,7 +9133,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="30"/>
         <source>Board:</source>
-        <translation type="unfinished"/>
+        <translation>Kart:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="37"/>
@@ -9143,12 +9143,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="57"/>
         <source>Gray rows are not exported (do not mount).</source>
-        <translation type="unfinished"/>
+        <translation>Gri satırlar dışa aktarılmaz (monte edilmez).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="95"/>
         <source>Assembly Variant:</source>
-        <translation type="unfinished"/>
+        <translation>Montaj Varyantı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.cpp" line="119"/>
@@ -9220,7 +9220,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Katman:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="32"/>
@@ -9250,7 +9250,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="71"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.cpp" line="138"/>
@@ -10892,7 +10892,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="87"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="94"/>
@@ -10972,12 +10972,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="57"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="85"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="101"/>
@@ -11172,7 +11172,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Katman:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="32"/>
@@ -11203,7 +11203,7 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="80"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="87"/>
@@ -11229,7 +11229,7 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="123"/>
@@ -11606,7 +11606,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="14"/>
         <source>Pad Properties</source>
-        <translation type="unfinished"/>
+        <translation>Ped Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="24"/>
@@ -11621,62 +11621,62 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="43"/>
         <source>Component Side:</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Yüzü:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="50"/>
         <source>Shape:</source>
-        <translation type="unfinished"/>
+        <translation>Şekil:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="57"/>
         <source>Hole Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="69"/>
         <source>Multiple holes, see &lt;a href=&quot;tab&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla delik, &lt;a href=&quot;tab&quot;&gt;buraya&lt;/a&gt; bakın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="82"/>
         <source>Convert to SMT</source>
-        <translation type="unfinished"/>
+        <translation>SMT&apos;ye Dönüştür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="104"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="121"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="131"/>
         <source>Corner Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Yarıçapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="156"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="181"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="210"/>
         <source>Obround</source>
-        <translation type="unfinished"/>
+        <translation>Oval</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="236"/>
         <source>Rounded rectangle</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlatılmış dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="262"/>
@@ -11691,105 +11691,105 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="314"/>
         <source>Custom shape outline as defined on next tab</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki sekmede tanımlanan özel şekil dış hattı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="317"/>
         <source>Custom</source>
-        <translation type="unfinished"/>
+        <translation>Özel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="338"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="355"/>
         <source>Function:</source>
-        <translation type="unfinished"/>
+        <translation>İşlev:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="366"/>
         <source>Plated Holes</source>
-        <translation type="unfinished"/>
+        <translation>Kaplamalı Delikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="384"/>
         <source>Select previous hole</source>
-        <translation type="unfinished"/>
+        <translation> Önceki deliği seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="397"/>
         <source>Select next hole</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki deliği seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="410"/>
         <source>Remove current hole</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli deliği kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="421"/>
         <source>Add new hole</source>
-        <translation type="unfinished"/>
+        <translation>Yeni delik ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="461"/>
         <source>Clearances</source>
-        <translation type="unfinished"/>
+        <translation>Boşluklar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="470"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="485"/>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="551"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="501"/>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="567"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kurallarından</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="517"/>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="583"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="536"/>
         <source>Solder Paste:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Pastası:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="607"/>
         <source>Note: For THT pads the solder paste should usually be set to &apos;Off&apos;. But if enabled anyway, the solder paste is added only to the solder side of the pad.</source>
-        <translation type="unfinished"/>
+        <translation>Not: THT pedler için lehim pastası genellikle &apos;Kapalı&apos; olarak ayarlanmalıdır. Ancak yine de etkinleştirilirse, lehim pastası yalnızca pedin lehim tarafına eklenir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="620"/>
         <source>Copper Keepout:</source>
-        <translation type="unfinished"/>
+        <translation>Bakır Yasak Bölgesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="635"/>
         <source>Note: Intended to keep copper away from fiducials.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Bakırı referans işaretlerinden uzak tutmak için tasarlanmıştır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="649"/>
         <source>Custom Shape</source>
-        <translation type="unfinished"/>
+        <translation>Özel Şekil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="663"/>
         <source>Coordinates are relative to the pad origin and before rotation.</source>
-        <translation type="unfinished"/>
+        <translation>Koordinatlar, ped orijinine göre ve döndürmeden öncedir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="175"/>
@@ -11799,27 +11799,27 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="404"/>
         <source>Hole %1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>%2 delikten %1.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="408"/>
         <source>Pad has no holes</source>
-        <translation type="unfinished"/>
+        <translation>Pedin deliği yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="457"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
-        <translation type="unfinished"/>
+        <translation>Delik çapı, ped genişliğini veya yüksekliğini aşıyor. Delik çapını azaltın veya ped genişliğini ve/veya yüksekliğini artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="468"/>
         <source>The custom pad outline does not represent a valid area.</source>
-        <translation type="unfinished"/>
+        <translation>Özel ped dış hattı geçerli bir alanı temsil etmiyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="475"/>
         <source>Invalid Properties</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Özellikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="530"/>
@@ -12666,12 +12666,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="56"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="72"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
@@ -12681,7 +12681,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="94"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="112"/>
@@ -12691,7 +12691,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="131"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="138"/>
@@ -12734,22 +12734,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="43"/>
         <source>Stop Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="52"/>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Kapalı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="59"/>
         <source>From Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kurallarından</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="66"/>
         <source>Manual:</source>
-        <translation type="unfinished"/>
+        <translation>Manuel:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.cpp" line="159"/>
@@ -14620,7 +14620,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1023"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1180"/>
@@ -14955,7 +14955,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="247"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/pickplaceoutputjobwidget.ui" line="254"/>
@@ -15003,7 +15003,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="25"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Katman:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="35"/>
@@ -15013,7 +15013,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="45"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="54"/>
@@ -15028,7 +15028,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="68"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.cpp" line="154"/>
@@ -15703,7 +15703,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="979"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1044"/>
@@ -15713,7 +15713,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1373"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1374"/>
@@ -15723,17 +15723,17 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1375"/>
         <source>MPN</source>
-        <translation type="unfinished"/>
+        <translation>MPN</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1386"/>
         <source>Net</source>
-        <translation type="unfinished"/>
+        <translation>Ağ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1389"/>
         <source>Class</source>
-        <translation type="unfinished"/>
+        <translation>Sınıf</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1393"/>
@@ -15743,7 +15743,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1400"/>
         <source>Signal</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1401"/>
@@ -15802,7 +15802,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="45"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Katman:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="55"/>
@@ -15838,12 +15838,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="127"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="144"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="156"/>
@@ -15853,7 +15853,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="165"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="174"/>
@@ -15863,7 +15863,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="181"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.cpp" line="203"/>
@@ -16060,7 +16060,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="859"/>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"/>
+        <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="877"/>
@@ -16103,7 +16103,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="196"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="206"/>
@@ -16216,12 +16216,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="59"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="76"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="93"/>
@@ -16298,7 +16298,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="45"/>
         <source>Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Katman:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="52"/>
@@ -16313,22 +16313,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="72"/>
         <source>Position:</source>
-        <translation type="unfinished"/>
+        <translation>Konum:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="89"/>
         <source>Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="102"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="111"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.cpp" line="142"/>
@@ -16792,7 +16792,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
         <source>Lock</source>
-        <translation type="unfinished"/>
+        <translation>Kilitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="121"/>
@@ -17070,7 +17070,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
@@ -17080,7 +17080,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
         <source>Height</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik</translation>
     </message>
 </context>
 <context>
@@ -17144,7 +17144,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
         <source>Width</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
@@ -17154,7 +17154,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
         <source>Height</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik</translation>
     </message>
 </context>
 <context>
@@ -17627,7 +17627,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="276"/>
         <source>Signal</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="284"/>
@@ -17637,7 +17637,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="296"/>
         <source>Net</source>
-        <translation type="unfinished"/>
+        <translation>Ağ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="304"/>
@@ -17698,7 +17698,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="125"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="160"/>
@@ -18348,7 +18348,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="18"/>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Üst</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="22"/>
@@ -18358,7 +18358,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="26"/>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="43"/>
@@ -19218,7 +19218,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1143"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Paket</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1162"/>
@@ -19690,7 +19690,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="223"/>
         <source>Package</source>
-        <translation type="unfinished"/>
+        <translation>Paket</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="225"/>
@@ -19803,7 +19803,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="112"/>
         <source>Name</source>
-        <translation type="unfinished"/>
+        <translation>Ad</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="184"/>
@@ -20074,7 +20074,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="447"/>
         <source>Priority:</source>
-        <translation type="unfinished"/>
+        <translation>Öncelik:</translation>
     </message>
 </context>
 <context>
@@ -20257,7 +20257,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="282"/>
         <source>Min. Copper Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. Bakır Boşluğu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="293"/>
