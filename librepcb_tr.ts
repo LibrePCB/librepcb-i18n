@@ -8642,209 +8642,209 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="90"/>
         <source>Solder Resist:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="97"/>
         <source>Silkscreen Color:</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi Rengi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="193"/>
         <source>Silkscreen Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi Katmanları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="211"/>
         <source>These settings might not be supported and/or automatically taken into account by the PCB manufacturer. Always check/specify these manufacturing properties manually when ordering the PCB.</source>
-        <translation type="unfinished"/>
+        <translation>Bu ayarlar PCB üreticisi tarafından desteklenmeyebilir ve/veya otomatik olarak dikkate alınmayabilir. PCB sipariş ederken bu üretim özelliklerini her zaman manuel olarak kontrol edin/belirtin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="225"/>
         <source>Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kuralları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="239"/>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="419"/>
         <source>Full Shape</source>
-        <translation type="unfinished"/>
+        <translation>Tam Şekil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="249"/>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="432"/>
         <source>Automatic Annular Ring</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Halka Genişliği</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="267"/>
         <source>Default Trace Width:</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan İz Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="280"/>
         <source>Autom. Pads Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Otom. Ped Halka Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="298"/>
         <source>Note: These settings define the shape of board objects which are automatically generated (e.g. stop masks, where not manually overridden). They are not related to the design rule check (DRC) at all. In contrast to these settings, DRC parameters do not have any impact on the board.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Bu ayarlar, otomatik olarak oluşturulan kart nesnelerinin şeklini tanımlar (örn. manuel olarak geçersiz kılınmadığı sürece lehim maskeleri). Bunlar tasarım kural kontrolüyle (DRC) hiçbir şekilde ilgili değildir. Bu ayarların aksine, DRC parametrelerinin kart üzerinde hiçbir etkisi yoktur.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="311"/>
         <source>Stop Mask Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi Boşluğu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="318"/>
         <source>Vias Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>Via Halka Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="325"/>
         <source>Minimum</source>
-        <translation type="unfinished"/>
+        <translation>Minimum</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="335"/>
         <source>Maximum</source>
-        <translation type="unfinished"/>
+        <translation>Maksimum</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="345"/>
         <source>Solder Paste Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Pastası Boşluğu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="355"/>
         <source>Inner Layer Pads:</source>
-        <translation type="unfinished"/>
+        <translation>İç Katman Pedleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="365"/>
         <source>Default Via Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Via Delik Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="372"/>
         <source>Ratio (% of Diameter)</source>
-        <translation type="unfinished"/>
+        <translation>Oran (Çapın %&apos;si)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="388"/>
         <source>Component Side Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Yüzü Pedleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="404"/>
         <source>Vias with a drill diameter up to this diameter will be covered with solder resist (if not manually overridden). For larger vias, a stop mask opening is added.</source>
-        <translation type="unfinished"/>
+        <translation>Bu çapa kadar delik çapına sahip via&apos;lar lehim maskesiyle kaplanır (manuel olarak geçersiz kılınmadığı sürece). Daha büyük via&apos;lar için bir lehim maskesi açıklığı eklenir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="407"/>
         <source>Tented Vias Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Kapalı Via Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="454"/>
         <source>&lt;b&gt;Use with caution!&lt;/b&gt; If automatic annular rings are enabled for component-side pads, make sure all pads have set the &apos;component side&apos; property to the correct value. With a wrong configuration, soldering may not be possible due to too small pad area.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Dikkatli kullanın!&lt;/b&gt; Bileşen yüzü pedleri için otomatik halka genişlikleri etkinleştirilmişse, tüm pedlerin &apos;bileşen yüzü&apos; özelliğinin doğru değere ayarlandığından emin olun. Yanlış bir yapılandırmayla, çok küçük ped alanı nedeniyle lehimleme mümkün olmayabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="514"/>
         <source>DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>DRC Ayarları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="597"/>
         <source>NPTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>NPTH Yuvaları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="644"/>
         <source>Load Settings...</source>
-        <translation type="unfinished"/>
+        <translation>Ayarları Yükle...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="656"/>
         <source>Allow vias which either start or end on an inner copper layer.</source>
-        <translation type="unfinished"/>
+        <translation>Bir iç bakır katmanında başlayan veya biten via&apos;lara izin ver.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="659"/>
         <source>Blind Vias</source>
-        <translation type="unfinished"/>
+        <translation> Kör Via&apos;lar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="666"/>
         <source>Silkscreen Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi Metin Yüksekliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="683"/>
         <source>Allow vias which start and end on inner copper layers.</source>
-        <translation type="unfinished"/>
+        <translation>İç bakır katmanlarında başlayan ve biten via&apos;lara izin ver.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="686"/>
         <source>Buried Vias</source>
-        <translation type="unfinished"/>
+        <translation>Gömülü Via&apos;lar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="693"/>
         <source>Copper ↔ Holes:</source>
-        <translation type="unfinished"/>
+        <translation>Bakır ↔ Delikler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="700"/>
         <source>Copper ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Bakır ↔ Kart Kenarı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="710"/>
         <source>Silkscreen Width:</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="720"/>
         <source>PTH Slot Width:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Yuva Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="727"/>
         <source>PTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Delik Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="734"/>
         <source>Silkscreen ↔ Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi ↔ Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="744"/>
         <source>Drill ↔ Board Edge:</source>
-        <translation type="unfinished"/>
+        <translation>Delik ↔ Kart Kenarı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="751"/>
         <source>NPTH Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>NPTH Delik Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="761"/>
         <source>Via Types:</source>
-        <translation type="unfinished"/>
+        <translation>Via Türleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="771"/>
         <source>PTH Slots:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Yuvaları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="778"/>
         <source>Drill ↔ Drill:</source>
-        <translation type="unfinished"/>
+        <translation>Delik ↔ Delik:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="805"/>
@@ -8854,67 +8854,67 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="827"/>
         <source>NPTH Slot Width:</source>
-        <translation type="unfinished"/>
+        <translation>NPTH Yuva Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="853"/>
         <source>Allowed Features</source>
-        <translation type="unfinished"/>
+        <translation>İzin Verilen Özellikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="875"/>
         <source>Copper ↔ Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Bakır ↔ Bakır:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="891"/>
         <source>Copper Width:</source>
-        <translation type="unfinished"/>
+        <translation>Bakır Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="911"/>
         <source>Minimum Sizes</source>
-        <translation type="unfinished"/>
+        <translation>Minimum Boyutlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="933"/>
         <source>Minimum board outline milling tool diameter. Restricts the radius of inner board edges.</source>
-        <translation type="unfinished"/>
+        <translation>Minimum kart dış hattı frezeleme takımı çapı. İç kart kenarlarının yarıçapını kısıtlar.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="936"/>
         <source>Outline Tool Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Dış Hat Takımı Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="943"/>
         <source>PTH Annular Ring:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Halka Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="73"/>
         <source>Default:</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="78"/>
         <source>None (fully exposed copper)</source>
-        <translation type="unfinished"/>
+        <translation>Yok (tamamen açıkta kalan bakır)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="81"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>varsayılan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="151"/>
         <source>&lt;p&gt;Always use the full pad shape as defined in the footprint from the library.&lt;/p&gt;&lt;p&gt;This is the safer and thus preferred option, but requires more space for the pads.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Her zaman kütüphanedeki ayak izinde tanımlanan tam ped şeklini kullanın.&lt;/p&gt;&lt;p&gt;Bu daha güvenli ve bu nedenle tercih edilen bir seçenektir, ancak pedler için daha fazla alan gerektirir.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="158"/>
         <source>&lt;p&gt;Don&apos;t use the defined pad shape, but automatic annular rings calculated by the parameters below. The annular ring of unconnected pads is reduced to the specified minimum value.&lt;/p&gt;&lt;p&gt;This option is more space-efficient, but works only reliable if the entered parameters comply with the PCB manufacturers capabilities.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Tanımlanan ped şeklini değil, aşağıdaki parametrelerle hesaplanan otomatik halka genişliklerini kullanın. Bağlı olmayan pedlerin halka genişliği, belirtilen minimum değere düşürülür.&lt;/p&gt;&lt;p&gt;Bu seçenek daha alan verimlidir, ancak yalnızca girilen parametreler PCB üreticisinin yeteneklerine uygunsa güvenilir şekilde çalışır.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="246"/>
@@ -8924,42 +8924,42 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="249"/>
         <source>Only Simple Oblongs</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Basit Oval Şekiller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="253"/>
         <source>Any Without Curves</source>
-        <translation type="unfinished"/>
+        <translation>Eğrisiz Herhangi Biri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="257"/>
         <source>Any</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi Biri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="381"/>
         <source>Configuration Base:</source>
-        <translation type="unfinished"/>
+        <translation>Yapılandırma Temeli:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="411"/>
         <source>Load Preset:</source>
-        <translation type="unfinished"/>
+        <translation>Hazır Ayarı Yükle:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="468"/>
         <source>Reset to Default Settings</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Ayarlara Sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="471"/>
         <source>Remove Link to Imported Settings</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılan Ayarlarla Bağlantıyı Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.cpp" line="614"/>
         <source>Could not apply settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar uygulanamadı</translation>
     </message>
 </context>
 <context>
@@ -8967,7 +8967,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="14"/>
         <source>Via Properties</source>
-        <translation type="unfinished"/>
+        <translation>Via Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="25"/>
@@ -8982,7 +8982,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="56"/>
         <source>Drill Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="68"/>
@@ -8994,27 +8994,27 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="77"/>
         <source>Outer Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Dış Çap:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="98"/>
         <source>Start Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Başlangıç Katmanı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="108"/>
         <source>End Layer:</source>
-        <translation type="unfinished"/>
+        <translation>Bitiş Katmanı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="118"/>
         <source>Exposure:</source>
-        <translation type="unfinished"/>
+        <translation>Açıklık:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="127"/>
         <source>The copper area of the via is covered with solder resist, i.e. not exposed.</source>
-        <translation type="unfinished"/>
+        <translation>Via&apos;nın bakır alanı lehim maskesiyle kaplanır, yani açıkta değildir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="130"/>
@@ -9024,12 +9024,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="137"/>
         <source>A solder resist opening is created to expose the via. The clearance is taken from the board design rules.</source>
-        <translation type="unfinished"/>
+        <translation>Via&apos;yı açığa çıkarmak için bir lehim maskesi açıklığı oluşturulur. Boşluk, kart tasarım kurallarından alınır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="147"/>
         <source>A solder resist opening with a custom clearance is created to expose the via.</source>
-        <translation type="unfinished"/>
+        <translation>Via&apos;yı açığa çıkarmak için özel bir boşlukla bir lehim maskesi açıklığı oluşturulur.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.ui" line="150"/>
@@ -9039,7 +9039,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="194"/>
         <source>The drill diameter is exceeding the outer via size. Reduce the drill diameter or increase the via size.</source>
-        <translation type="unfinished"/>
+        <translation>Delik çapı, via&apos;nın dış boyutunu aşıyor. Delik çapını azaltın veya via boyutunu artırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardviapropertiesdialog.cpp" line="202"/>
@@ -13310,7 +13310,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="323"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>varsayılan</translation>
     </message>
 </context>
 <context>
@@ -15387,7 +15387,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.cpp" line="337"/>
         <source>Could not apply settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar uygulanamadı</translation>
     </message>
 </context>
 <context>
@@ -18537,7 +18537,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/dropdownpopup.slint" line="124"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>varsayılan</translation>
     </message>
 </context>
 <context>
@@ -20237,7 +20237,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="214"/>
         <source>DRC Settings</source>
-        <translation type="unfinished"/>
+        <translation>DRC Ayarları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="226"/>
