@@ -8563,32 +8563,32 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="110"/>
         <source>Clearance around thermal pads</source>
-        <translation type="unfinished"/>
+        <translation>Termal pedlerin etrafındaki boşluk</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="113"/>
         <source>Themal Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Termal Boşluk:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="120"/>
         <source>Width of the thermal pad spokes</source>
-        <translation type="unfinished"/>
+        <translation>Termal ped bacaklarının genişliği</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="123"/>
         <source>Thermal Spokes:</source>
-        <translation type="unfinished"/>
+        <translation>Termal Bacaklar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="139"/>
         <source>Min. Board Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. Kart Boşluğu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.ui" line="146"/>
         <source>Min. Hole Clearance:</source>
-        <translation type="unfinished"/>
+        <translation>Min. Delik Boşluğu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="96"/>
@@ -8599,12 +8599,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="119"/>
         <source>Thermal Relief</source>
-        <translation type="unfinished"/>
+        <translation>Termal Rahatlatma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="122"/>
         <source>Solid</source>
-        <translation type="unfinished"/>
+        <translation> Katı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardplanepropertiesdialog.cpp" line="230"/>
@@ -8632,12 +8632,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="47"/>
         <source>Inner Copper Layers:</source>
-        <translation type="unfinished"/>
+        <translation>İç Bakır Katmanları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="67"/>
         <source>Total PCB Thickness:</source>
-        <translation type="unfinished"/>
+        <translation>Toplam PCB Kalınlığı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/boardsetupdialog.ui" line="90"/>
