@@ -9062,7 +9062,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="40"/>
         <source>Bill of materials (BOM) export to CSV files.</source>
-        <translation type="unfinished"/>
+        <translation>Malzeme listesinin (BOM) CSV dosyalarına dışa aktarımı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="57"/>
@@ -9077,12 +9077,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="77"/>
         <source>Custom Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Özel Öznitelikler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="84"/>
         <source>Comma-separated attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Virgülle ayrılmış öznitelikler (isteğe bağlı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.ui" line="98"/>
@@ -9115,7 +9115,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/bomoutputjobwidget.cpp" line="93"/>
         <source>None (generic)</source>
-        <translation type="unfinished"/>
+        <translation>Yok (genel)</translation>
     </message>
 </context>
 <context>
@@ -9123,12 +9123,12 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="14"/>
         <source>Review BOM</source>
-        <translation type="unfinished"/>
+        <translation>BOM&apos;u Gözden Geçir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="23"/>
         <source>Comma-separated list of custom attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Özel özniteliklerin virgülle ayrılmış listesi (isteğe bağlı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="30"/>
@@ -9138,7 +9138,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="37"/>
         <source>Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.ui" line="57"/>
@@ -9158,22 +9158,22 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.cpp" line="262"/>
         <source>Availability</source>
-        <translation type="unfinished"/>
+        <translation>Bulunabilirlik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.cpp" line="359"/>
         <source>%1 parts:</source>
-        <translation type="unfinished"/>
+        <translation>%1 parça:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.cpp" line="361"/>
         <source>%1 of %2 parts:</source>
-        <translation type="unfinished"/>
+        <translation>%2 parçadan %1&apos;i:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/bomreviewdialog.cpp" line="365"/>
         <source>Total: %1 parts</source>
-        <translation type="unfinished"/>
+        <translation>Toplam: %1 parça</translation>
     </message>
 </context>
 <context>
@@ -9181,7 +9181,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cat/categorychooserdialog.ui" line="14"/>
         <source>Choose a category...</source>
-        <translation type="unfinished"/>
+        <translation>Bir kategori seçin...</translation>
     </message>
 </context>
 <context>
@@ -9197,17 +9197,17 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/workspace/categorytreemodellegacy.cpp" line="113"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>Kategori</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/categorytreemodellegacy.cpp" line="156"/>
         <source>(Without Category)</source>
-        <translation type="unfinished"/>
+        <translation>(Kategorisiz)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/categorytreemodellegacy.cpp" line="157"/>
         <source>All library elements without a category</source>
-        <translation type="unfinished"/>
+        <translation>Kategorisi olmayan tüm kütüphane öğeleri</translation>
     </message>
 </context>
 <context>
@@ -9215,7 +9215,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="14"/>
         <source>Circle Properties</source>
-        <translation type="unfinished"/>
+        <translation>Daire Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="25"/>
@@ -9225,27 +9225,27 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="32"/>
         <source>Area:</source>
-        <translation type="unfinished"/>
+        <translation>Alan:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="41"/>
         <source>Filled</source>
-        <translation type="unfinished"/>
+        <translation>Dolu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="48"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Kavrama Alanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="57"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="64"/>
         <source>Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Çap:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circlepropertiesdialog.ui" line="71"/>
@@ -9263,62 +9263,62 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="14"/>
         <source>Mass Import</source>
-        <translation type="unfinished"/>
+        <translation>Toplu İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="139"/>
         <source>Monitor Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Panoyu İzle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="155"/>
         <source>For table-style input, only consider text in the specified column.</source>
-        <translation type="unfinished"/>
+        <translation>Tablo tarzı girdi için, yalnızca belirtilen sütundaki metni dikkate al.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="158"/>
         <source>Filter column (0=auto):</source>
-        <translation type="unfinished"/>
+        <translation>Filtre sütunu (0=otomatik):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.ui" line="187"/>
         <source>Sort result</source>
-        <translation type="unfinished"/>
+        <translation>Sonucu sırala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="123"/>
         <source>Specify the items for mass import in this text field, each item on a separate line.</source>
-        <translation type="unfinished"/>
+        <translation>Toplu içe aktarma için öğeleri bu metin alanına, her öğe ayrı bir satırda olacak şekilde belirtin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="126"/>
         <source>To copy values e.g. from a datasheet PDF, two modes are available:</source>
-        <translation type="unfinished"/>
+        <translation>Örneğin bir datasheet PDF&apos;inden değerleri kopyalamak için iki mod mevcuttur:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="130"/>
         <source>Copy a whole table from the PDF and paste it into this field. Attention: If the table contains line breaks, manually remove unrelated lines afterwards! Also note that this does not work with every PDF reader.</source>
-        <translation type="unfinished"/>
+        <translation>PDF&apos;den tüm bir tabloyu kopyalayıp bu alana yapıştırın. Dikkat: Tablo satır sonları içeriyorsa, sonrasında ilgisiz satırları manuel olarak kaldırın! Ayrıca bunun her PDF okuyucusuyla çalışmadığını unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="135"/>
         <source>Check the button &apos;%1&apos; below and copy item-by-item into the clipboard. LibrePCB monitors the clipboard and automatically pastes each item here.</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki &apos;%1&apos; düğmesini işaretleyin ve öğeleri tek tek panoya kopyalayın. LibrePCB panoyu izler ve her öğeyi buraya otomatik olarak yapıştırır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="141"/>
         <source>Clipboard monitoring is active! Now copy the items one-by-one into the clipboard. LibrePCB does not need to stay in foreground for this.</source>
-        <translation type="unfinished"/>
+        <translation>Pano izleme etkin! Şimdi öğeleri tek tek panoya kopyalayın. Bunun için LibrePCB&apos;nin ön planda kalması gerekmez.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="218"/>
         <source>INVALID INPUT</source>
-        <translation type="unfinished"/>
+        <translation>GEÇERSİZ GİRDİ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="221"/>
         <source>DUPLICATE</source>
-        <translation type="unfinished"/>
+        <translation>ÇOĞALT</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/circuitidentifierimportdialog.cpp" line="224"/>
@@ -10931,7 +10931,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.cpp" line="98"/>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.cpp" line="137"/>
         <source>None (generic)</source>
-        <translation type="unfinished"/>
+        <translation>Yok (genel)</translation>
     </message>
 </context>
 <context>
@@ -12661,7 +12661,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="40"/>
         <source>Diameter:</source>
-        <translation type="unfinished"/>
+        <translation>Çap:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="56"/>
@@ -12970,12 +12970,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="77"/>
         <source>Custom Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Özel Öznitelikler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="84"/>
         <source>Comma-separated attributes (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Virgülle ayrılmış öznitelikler (isteğe bağlı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="98"/>
@@ -15008,7 +15008,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="35"/>
         <source>Line Width:</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="45"/>
@@ -15023,7 +15023,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="61"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Kavrama Alanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/polygonpropertiesdialog.ui" line="68"/>
@@ -17190,7 +17190,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="55"/>
         <source>Mass Import</source>
-        <translation type="unfinished"/>
+        <translation>Toplu İçe Aktarma</translation>
     </message>
 </context>
 <context>
@@ -17286,7 +17286,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="443"/>
         <source>Attributes:</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler:</translation>
     </message>
 </context>
 <context>
@@ -18330,7 +18330,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="88"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Kavrama Alanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="89"/>
@@ -18449,7 +18449,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="87"/>
         <source>Grab Area</source>
-        <translation type="unfinished"/>
+        <translation>Kavrama Alanı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="88"/>
@@ -19168,7 +19168,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1026"/>
         <source>Category</source>
-        <translation type="unfinished"/>
+        <translation>Kategori</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1045"/>
