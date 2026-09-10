@@ -9819,7 +9819,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcomponentinstanceedit.cpp" line="42"/>
         <source>Edit Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşeni Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9827,7 +9827,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcomponentinstanceremove.cpp" line="42"/>
         <source>Remove component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşeni kaldır</translation>
     </message>
 </context>
 <context>
@@ -9835,7 +9835,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentpinsignalmapitemedit.cpp" line="41"/>
         <source>Edit Component Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Pin Düzenini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9843,7 +9843,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentsignaledit.cpp" line="38"/>
         <source>Edit component signal</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen sinyalini düzenle</translation>
     </message>
 </context>
 <context>
@@ -9851,7 +9851,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentsymbolvariantedit.cpp" line="39"/>
         <source>Edit component symbol variant</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen sembol varyantını düzenle</translation>
     </message>
 </context>
 <context>
@@ -9859,7 +9859,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentsymbolvariantitemedit.cpp" line="39"/>
         <source>Edit Component Gate</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Kapısını Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9867,7 +9867,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmddeviceedit.cpp" line="40"/>
         <source>Edit Device Properties</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Özelliklerini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9883,7 +9883,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddeviceinstanceedit.cpp" line="41"/>
         <source>Edit Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtı Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9891,7 +9891,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddeviceinstanceeditall.cpp" line="44"/>
         <source>Edit device instance</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt örneğini düzenle</translation>
     </message>
 </context>
 <context>
@@ -9899,7 +9899,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddeviceinstanceremove.cpp" line="41"/>
         <source>Remove device instance</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt örneğini kaldır</translation>
     </message>
 </context>
 <context>
@@ -9907,7 +9907,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmddevicepadsignalmapitemedit.cpp" line="39"/>
         <source>Edit Device Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Pin Düzenini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9915,7 +9915,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddevicestroketextadd.cpp" line="41"/>
         <source>Add footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi metni ekle</translation>
     </message>
 </context>
 <context>
@@ -9923,7 +9923,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddevicestroketextremove.cpp" line="41"/>
         <source>Remove footprint text</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi metnini kaldır</translation>
     </message>
 </context>
 <context>
@@ -9931,7 +9931,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddevicestroketextsreset.cpp" line="43"/>
         <source>Reset footprint texts</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi metinlerini sıfırla</translation>
     </message>
 </context>
 <context>
@@ -9939,7 +9939,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddragselectedboarditems.cpp" line="67"/>
         <source>Drag Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Kart Öğelerini Sürükle</translation>
     </message>
 </context>
 <context>
@@ -9947,7 +9947,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmddragselectedfootprintitems.cpp" line="54"/>
         <source>Drag Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzi Öğelerini Sürükle</translation>
     </message>
 </context>
 <context>
@@ -9955,7 +9955,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmddragselectedschematicitems.cpp" line="67"/>
         <source>Drag Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Şematik Öğelerini Sürükle</translation>
     </message>
 </context>
 <context>
@@ -9963,7 +9963,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmddragselectedsymbolitems.cpp" line="52"/>
         <source>Drag Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Öğelerini Sürükle</translation>
     </message>
 </context>
 <context>
@@ -9971,7 +9971,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdflipselectedboarditems.cpp" line="73"/>
         <source>Flip Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Kart Öğelerini Çevir</translation>
     </message>
 </context>
 <context>
@@ -9979,7 +9979,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdfootprintedit.cpp" line="38"/>
         <source>Edit footprint</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izini düzenle</translation>
     </message>
 </context>
 <context>
@@ -9987,7 +9987,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdfootprintpadedit.cpp" line="38"/>
         <source>Edit footprint pad</source>
-        <translation type="unfinished"/>
+        <translation>Ayak izi pedini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10011,7 +10011,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageedit.cpp" line="38"/>
         <source>Edit Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10019,7 +10019,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdimageremove.cpp" line="41"/>
         <source>Remove Image</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10027,7 +10027,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdlibrarycategoryedit.cpp" line="39"/>
         <source>Edit category metadata</source>
-        <translation type="unfinished"/>
+        <translation>Kategori meta verisini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10035,7 +10035,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdlibraryedit.cpp" line="38"/>
         <source>Edit library metadata</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane meta verisini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10043,7 +10043,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdlistelementinsert.h" line="54"/>
         <source>Add %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Ekle</translation>
     </message>
 </context>
 <context>
@@ -10051,7 +10051,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdlistelementremove.h" line="53"/>
         <source>Remove %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10059,7 +10059,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdlistelementsswap.h" line="53"/>
         <source>Move %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Taşı</translation>
     </message>
 </context>
 <context>
@@ -10067,7 +10067,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetclassadd.cpp" line="42"/>
         <source>Add netclass</source>
-        <translation type="unfinished"/>
+        <translation>Ağ sınıfı ekle</translation>
     </message>
 </context>
 <context>
@@ -10075,7 +10075,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetclassedit.cpp" line="41"/>
         <source>Edit Net Class</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Sınıfını Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10083,7 +10083,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetclassremove.cpp" line="41"/>
         <source>Remove netclass</source>
-        <translation type="unfinished"/>
+        <translation>Ağ sınıfını kaldır</translation>
     </message>
 </context>
 <context>
@@ -10091,7 +10091,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetsignaladd.cpp" line="43"/>
         <source>Add netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Ağ sinyali ekle</translation>
     </message>
 </context>
 <context>
@@ -10099,7 +10099,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetsignaledit.cpp" line="42"/>
         <source>Edit netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Ağ sinyalini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10107,7 +10107,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdnetsignalremove.cpp" line="42"/>
         <source>Remove netsignal</source>
-        <translation type="unfinished"/>
+        <translation>Ağ sinyalini kaldır</translation>
     </message>
 </context>
 <context>
@@ -10115,7 +10115,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdorganizationedit.cpp" line="40"/>
         <source>Edit Organization Properties</source>
-        <translation type="unfinished"/>
+        <translation>Kuruluş Özelliklerini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10123,7 +10123,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackageedit.cpp" line="38"/>
         <source>Edit Package Properties</source>
-        <translation type="unfinished"/>
+        <translation>Paket Özelliklerini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10131,7 +10131,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagemodeladd.cpp" line="44"/>
         <source>Add 3D model</source>
-        <translation type="unfinished"/>
+        <translation>3B model ekle</translation>
     </message>
 </context>
 <context>
@@ -10139,7 +10139,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagemodeledit.cpp" line="41"/>
         <source>Edit 3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3B Modeli Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10147,7 +10147,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagemodelremove.cpp" line="43"/>
         <source>Remove 3D model</source>
-        <translation type="unfinished"/>
+        <translation>3B modeli kaldır</translation>
     </message>
 </context>
 <context>
@@ -10155,7 +10155,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagepadedit.cpp" line="38"/>
         <source>Edit package pad</source>
-        <translation type="unfinished"/>
+        <translation>Paket pedini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10163,7 +10163,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpackagereload.cpp" line="55"/>
         <source>Reload Package</source>
-        <translation type="unfinished"/>
+        <translation>Paketi Yeniden Yükle</translation>
     </message>
 </context>
 <context>
@@ -10171,7 +10171,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpartedit.cpp" line="38"/>
         <source>Edit Part</source>
-        <translation type="unfinished"/>
+        <translation>Parçayı Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10179,7 +10179,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdpasteboarditems.cpp" line="87"/>
         <source>Paste Board Elements</source>
-        <translation type="unfinished"/>
+        <translation>Kart Öğelerini Yapıştır</translation>
     </message>
 </context>
 <context>
@@ -10187,7 +10187,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpastefootprintitems.cpp" line="60"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzi Öğelerini Yapıştır</translation>
     </message>
 </context>
 <context>
@@ -10195,7 +10195,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdpasteschematicitems.cpp" line="99"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Şematik Öğelerini Yapıştır</translation>
     </message>
 </context>
 <context>
@@ -10203,7 +10203,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdpastesymbolitems.cpp" line="59"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Öğelerini Yapıştır</translation>
     </message>
 </context>
 <context>
@@ -10219,7 +10219,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdprojectedit.cpp" line="40"/>
         <source>Edit Project Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Proje Meta Verisini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10227,7 +10227,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="64"/>
         <source>Remove Board Items</source>
-        <translation type="unfinished"/>
+        <translation>Kart Öğelerini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10235,7 +10235,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdremoveselectedboarditems.cpp" line="47"/>
         <source>Remove Board Items</source>
-        <translation type="unfinished"/>
+        <translation>Kart Öğelerini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10243,7 +10243,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdremoveselectedfootprintitems.cpp" line="55"/>
         <source>Remove Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzi Öğelerini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10251,7 +10251,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdremoveselectedschematicitems.cpp" line="91"/>
         <source>Remove Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation>Şematik Öğelerini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10259,7 +10259,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdremoveselectedsymbolitems.cpp" line="53"/>
         <source>Remove Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Öğelerini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10267,7 +10267,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdremoveunusedlibraryelements.cpp" line="50"/>
         <source>Remove unused library elements</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılmayan kütüphane öğelerini kaldır</translation>
     </message>
 </context>
 <context>
@@ -10275,7 +10275,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdremoveunusednetsignalsandbuses.cpp" line="48"/>
         <source>Remove Unused Nets &amp; Buses</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılmayan Ağları ve Veri Yollarını Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10283,7 +10283,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdreplacedevice.cpp" line="56"/>
         <source>Change Device</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtı Değiştir</translation>
     </message>
 </context>
 <context>
@@ -10291,7 +10291,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicadd.cpp" line="44"/>
         <source>Add schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematik ekle</translation>
     </message>
 </context>
 <context>
@@ -10299,7 +10299,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbusjunctionedit.cpp" line="41"/>
         <source>Edit Bus Junction</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Kavşağını Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10307,7 +10307,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbuslabeladd.cpp" line="41"/>
         <source>Add Bus Label</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Etiketi Ekle</translation>
     </message>
 </context>
 <context>
@@ -10315,7 +10315,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbuslabeledit.cpp" line="40"/>
         <source>Edit Bus Label</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Etiketini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10324,7 +10324,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentadd.cpp" line="42"/>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentadd.cpp" line="50"/>
         <source>Add Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Segmenti Ekle</translation>
     </message>
 </context>
 <context>
@@ -10332,7 +10332,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentaddelements.cpp" line="43"/>
         <source>Add Bus Segment Elements</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Segmenti Öğeleri Ekle</translation>
     </message>
 </context>
 <context>
@@ -10340,7 +10340,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentedit.cpp" line="41"/>
         <source>Edit Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Segmentini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10348,7 +10348,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentremove.cpp" line="42"/>
         <source>Remove Bus Segment</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Segmentini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10356,7 +10356,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicbussegmentremoveelements.cpp" line="44"/>
         <source>Remove Bus Segment Elements</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Segmenti Öğelerini Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10364,7 +10364,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicedit.cpp" line="40"/>
         <source>Edit sheet properties</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa özelliklerini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10372,7 +10372,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicimageadd.cpp" line="45"/>
         <source>Add Image to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe Resim Ekle</translation>
     </message>
 </context>
 <context>
@@ -10380,7 +10380,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicimageremove.cpp" line="44"/>
         <source>Remove Image from Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematikten Resim Kaldır</translation>
     </message>
 </context>
 <context>
@@ -10388,7 +10388,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicnetlabeladd.cpp" line="41"/>
         <source>Add Net Label</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Etiketi Ekle</translation>
     </message>
 </context>
 <context>
@@ -10396,7 +10396,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicnetlabeledit.cpp" line="41"/>
         <source>Edit netlabel</source>
-        <translation type="unfinished"/>
+        <translation>Ağ etiketini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10421,7 +10421,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicnetsegmentaddelements.cpp" line="43"/>
         <source>Add net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Ağ segmenti öğeleri ekle</translation>
     </message>
 </context>
 <context>
@@ -10445,7 +10445,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicnetsegmentremoveelements.cpp" line="44"/>
         <source>Remove net segment elements</source>
-        <translation type="unfinished"/>
+        <translation>Ağ segmenti öğelerini kaldır</translation>
     </message>
 </context>
 <context>
@@ -10453,7 +10453,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicpolygonadd.cpp" line="41"/>
         <source>Add polygon to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe poligon ekle</translation>
     </message>
 </context>
 <context>
@@ -10461,7 +10461,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicpolygonremove.cpp" line="42"/>
         <source>Remove polygon from schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematikten poligon kaldır</translation>
     </message>
 </context>
 <context>
@@ -10469,7 +10469,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematicremove.cpp" line="42"/>
         <source>Remove schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematiği kaldır</translation>
     </message>
 </context>
 <context>
@@ -10477,7 +10477,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematictextadd.cpp" line="41"/>
         <source>Add schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Şematik metni ekle</translation>
     </message>
 </context>
 <context>
@@ -10485,7 +10485,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdschematictextremove.cpp" line="41"/>
         <source>Remove schematic text</source>
-        <translation type="unfinished"/>
+        <translation>Şematik metnini kaldır</translation>
     </message>
 </context>
 <context>
@@ -10493,7 +10493,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyboardnetsegments.cpp" line="51"/>
         <source>Simplify Board Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Kart Ağ Segmentlerini Sadeleştir</translation>
     </message>
 </context>
 <context>
@@ -10501,7 +10501,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsimplifyschematicsegments.cpp" line="60"/>
         <source>Simplify Schematic Net/Bus Segments</source>
-        <translation type="unfinished"/>
+        <translation>Şematik Ağ/Veri Yolu Segmentlerini Sadeleştir</translation>
     </message>
 </context>
 <context>
@@ -10509,7 +10509,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdstroketextedit.cpp" line="40"/>
         <source>Edit stroke text</source>
-        <translation type="unfinished"/>
+        <translation>Vektör metni düzenle</translation>
     </message>
 </context>
 <context>
@@ -10517,7 +10517,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstanceadd.cpp" line="43"/>
         <source>Add symbol instance</source>
-        <translation type="unfinished"/>
+        <translation>Sembol örneği ekle</translation>
     </message>
 </context>
 <context>
@@ -10525,7 +10525,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstanceedit.cpp" line="40"/>
         <source>Edit Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembolü Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10533,7 +10533,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstanceeditall.cpp" line="44"/>
         <source>Drag Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembolü Sürükle</translation>
     </message>
 </context>
 <context>
@@ -10541,7 +10541,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstanceremove.cpp" line="42"/>
         <source>Remove symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembolü kaldır</translation>
     </message>
 </context>
 <context>
@@ -10549,7 +10549,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstancetextadd.cpp" line="41"/>
         <source>Add symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Sembol metni ekle</translation>
     </message>
 </context>
 <context>
@@ -10752,7 +10752,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentgateeditor.cpp" line="171"/>
         <source>Edit Component Gate</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Kapısını Düzenle</translation>
     </message>
 </context>
 <context>
@@ -14625,7 +14625,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1180"/>
         <source>Paste Footprint Elements</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzi Öğelerini Yapıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_select.cpp" line="1321"/>
@@ -15708,7 +15708,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1044"/>
         <source>Paste Schematic Elements</source>
-        <translation type="unfinished"/>
+        <translation> Şematik Öğelerini Yapıştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1373"/>
@@ -16026,7 +16026,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="251"/>
         <source>Add symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Sembol metni ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="263"/>
@@ -16065,7 +16065,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_select.cpp" line="877"/>
         <source>Paste Symbol Elements</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Öğelerini Yapıştır</translation>
     </message>
 </context>
 <context>
