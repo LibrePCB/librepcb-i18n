@@ -10557,7 +10557,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstancetextremove.cpp" line="41"/>
         <source>Remove symbol text</source>
-        <translation type="unfinished"/>
+        <translation>Sembol metnini kaldır</translation>
     </message>
 </context>
 <context>
@@ -10565,7 +10565,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdsymbolinstancetextsreset.cpp" line="45"/>
         <source>Reset symbol texts</source>
-        <translation type="unfinished"/>
+        <translation>Sembol metinlerini sıfırla</translation>
     </message>
 </context>
 <context>
@@ -10573,7 +10573,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdsymbolpinedit.cpp" line="38"/>
         <source>Edit pin</source>
-        <translation type="unfinished"/>
+        <translation>Pini düzenle</translation>
     </message>
 </context>
 <context>
@@ -10581,7 +10581,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdsymbolreload.cpp" line="41"/>
         <source>Reload Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembolü Yeniden Yükle</translation>
     </message>
 </context>
 <context>
@@ -10589,7 +10589,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdtextedit.cpp" line="38"/>
         <source>Edit Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Düzenle</translation>
     </message>
 </context>
 <context>
@@ -10605,81 +10605,85 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="99"/>
         <source>Add a new device assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir aygıt montaj seçeneği ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="107"/>
         <source>Add a new (alternative) part by MPN</source>
-        <translation type="unfinished"/>
+        <translation>MPN ile yeni bir (alternatif) parça ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="114"/>
         <source>Choose a different device or part</source>
-        <translation type="unfinished"/>
+        <translation>Farklı bir aygıt veya parça seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="121"/>
         <source>Remove selected part or assembly option</source>
-        <translation type="unfinished"/>
+        <translation>Seçili parçayı veya montaj seçeneğini kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="132"/>
         <source>Mount</source>
-        <translation type="unfinished"/>
+        <translation>Monte Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="133"/>
         <source>Board Device</source>
-        <translation type="unfinished"/>
+        <translation>Kart Aygıtı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="134"/>
         <source>Part Number</source>
-        <translation type="unfinished"/>
+        <translation>Parça Numarası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="135"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Üretici</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="136"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="233"/>
         <source>Device Compatibility Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Uyumluluğu Bilinmiyor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="234"/>
         <source>The selected device is not related to the component placed in the schematic, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected device are compatible with the component?</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen aygıt, şematiğe yerleştirilen bileşenle ilgili değil, bu nedenle LibrePCB uyumlu olup olmadığını doğrulayamaz!
+
+Seçilen aygıtın ayak izinin ve pin düzeninin bileşenle uyumlu olduğundan emin misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="300"/>
         <source>Part Compatibility Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Parça Uyumluluğu Bilinmiyor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="301"/>
         <source>The selected part is taken from a different device than this assembly option is valid for, thus LibrePCB cannot validate if it is compatible!
 
 Are you sure the footprint and pinout of the selected part are compatible with the device?</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen parça, bu montaj seçeneğinin geçerli olduğu aygıttan farklı bir aygıttan alınmış, bu nedenle LibrePCB uyumlu olup olmadığını doğrulayamaz!
+
+Seçilen parçanın ayak izinin ve pin düzeninin aygıtla uyumlu olduğundan emin misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="512"/>
         <source>Package: %1</source>
-        <translation type="unfinished"/>
+        <translation>Paket: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/componentassemblyoptionlisteditorwidget.cpp" line="543"/>
         <source>Alternative %1:</source>
-        <translation type="unfinished"/>
+        <translation>Alternatif %1:</translation>
     </message>
 </context>
 <context>
@@ -10695,13 +10699,14 @@ Are you sure the footprint and pinout of the selected part are compatible with t
     <message>
         <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="240"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="241"/>
         <source>The component category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; bileşen kategorisi kaydedilmemiş değişiklikler içeriyor.
+Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
 </context>
 <context>
@@ -10709,7 +10714,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.ui" line="17"/>
         <source>Choose Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.ui" line="31"/>
@@ -10724,7 +10729,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="210"/>
         <source>Could not load components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenler yüklenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="217"/>
@@ -10734,7 +10739,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="227"/>
         <source>Could not load component metadata</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen meta verisi yüklenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="284"/>
@@ -10744,7 +10749,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentchooserdialog.cpp" line="285"/>
         <source>Please select a component.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir bileşen seçin.</translation>
     </message>
 </context>
 <context>
@@ -10768,7 +10773,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="93"/>
         <source>Add Component Signal(s)</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Sinyali/Sinyalleri Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="105"/>
@@ -10778,12 +10783,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="168"/>
         <source>Delete Component Signal</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Sinyalini Sil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignallistmodel.cpp" line="288"/>
         <source>There is already a signal with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir sinyal zaten mevcut.</translation>
     </message>
 </context>
 <context>
@@ -10791,7 +10796,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentsignalnamelistmodel.cpp" line="109"/>
         <source>unconnected</source>
-        <translation type="unfinished"/>
+        <translation>bağlantısız</translation>
     </message>
 </context>
 <context>
@@ -10807,23 +10812,24 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="411"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="412"/>
         <source>The component '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; bileşeni kaydedilmemiş değişiklikler içeriyor.
+Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="520"/>
         <source>Determine default value</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan değeri belirle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="522"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
-        <translation type="unfinished"/>
+        <translation>Bu, genel bir bileşenden ziyade (üreticiye) özgü bir bileşen mi?</translation>
     </message>
 </context>
 <context>
@@ -10831,7 +10837,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="135"/>
         <source>There is already a variant with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir varyant zaten mevcut.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="152"/>
@@ -10841,7 +10847,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvarianteditor.cpp" line="179"/>
         <source>Auto-Assign Component Signals</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Sinyallerini Otomatik Ata</translation>
     </message>
 </context>
 <context>
@@ -10849,12 +10855,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvariantlistmodel.cpp" line="141"/>
         <source>Variant %1</source>
-        <translation type="unfinished"/>
+        <translation>Varyant %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvariantlistmodel.cpp" line="204"/>
         <source>Set Default Component Variant</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Bileşen Varyantını Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componentvariantlistmodel.cpp" line="219"/>
@@ -10872,7 +10878,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="40"/>
         <source>Copy an arbitrary file into the output folder, optionally with variable substitution.</source>
-        <translation type="unfinished"/>
+        <translation>Rastgele bir dosyayı, isteğe bağlı olarak değişken değiştirmeyle çıktı klasörüne kopyala.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="57"/>
@@ -10882,12 +10888,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="67"/>
         <source>Input File:</source>
-        <translation type="unfinished"/>
+        <translation>Girdi Dosyası:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="77"/>
         <source>Output File:</source>
-        <translation type="unfinished"/>
+        <translation>Çıktı Dosyası:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="87"/>
@@ -10897,7 +10903,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="94"/>
         <source>Substitute Variables</source>
-        <translation type="unfinished"/>
+        <translation>Değişkenleri Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/copyoutputjobwidget.ui" line="108"/>
@@ -10939,12 +10945,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="82"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Kütüphane</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="238"/>
         <source>Exists already</source>
-        <translation type="unfinished"/>
+        <translation>Zaten mevcut</translation>
     </message>
 </context>
 <context>
@@ -10952,22 +10958,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="14"/>
         <source>Device Properties</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="28"/>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Yerleşim</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="37"/>
         <source>Pos. X:</source>
-        <translation type="unfinished"/>
+        <translation>Kon. X:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="47"/>
         <source>Pos. Y:</source>
-        <translation type="unfinished"/>
+        <translation>Kon. Y:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="57"/>
@@ -10982,7 +10988,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="101"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="110"/>
@@ -10992,52 +10998,52 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="120"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Değer:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="149"/>
         <source>Library Elements</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Öğeleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="167"/>
         <source>Device:</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="199"/>
         <source>Package:</source>
-        <translation type="unfinished"/>
+        <translation>Paket:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.ui" line="264"/>
         <source>Assembly Options (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Montaj Seçenekleri (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.cpp" line="75"/>
         <source>Properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.cpp" line="109"/>
         <source>Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.cpp" line="147"/>
         <source>Attributes of Selected Part</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Parçanın Öznitelikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.cpp" line="150"/>
         <source>Attributes of Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenin Öznitelikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.cpp" line="197"/>
         <source>Change properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 özelliklerini değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/deviceinstancepropertiesdialog.cpp" line="230"/>
@@ -11050,7 +11056,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="134"/>
         <source>Reset Pinout</source>
-        <translation type="unfinished"/>
+        <translation>Pin Düzenini Sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="136"/>
@@ -11101,7 +11107,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="648"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="649"/>
@@ -11159,7 +11165,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="216"/>
         <source>Exists already</source>
-        <translation type="unfinished"/>
+        <translation>Zaten mevcut</translation>
     </message>
 </context>
 <context>
@@ -14066,7 +14072,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="294"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="295"/>
@@ -14343,7 +14349,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="240"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="241"/>
@@ -14734,7 +14740,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1081"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1082"/>
@@ -15335,7 +15341,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="86"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="111"/>
@@ -16078,7 +16084,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="28"/>
         <source>Library Elements</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Öğeleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="58"/>
@@ -16093,12 +16099,12 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="176"/>
         <source>Pos. X:</source>
-        <translation type="unfinished"/>
+        <translation>Kon. X:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="186"/>
         <source>Pos. Y:</source>
-        <translation type="unfinished"/>
+        <translation>Kon. Y:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="196"/>
@@ -16113,7 +16119,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="229"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="250"/>
@@ -16123,17 +16129,17 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="260"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Değer:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="289"/>
         <source>Assembly Options (BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Montaj Seçenekleri (BOM/PnP)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="85"/>
         <source>Properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="115"/>
@@ -16153,17 +16159,17 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="181"/>
         <source>Attributes of Selected Part</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Parçanın Öznitelikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="184"/>
         <source>Attributes of Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenin Öznitelikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="218"/>
         <source>Change properties of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 özelliklerini değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="228"/>
@@ -16269,7 +16275,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="722"/>
         <source>Save Changes?</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="723"/>
@@ -17559,7 +17565,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="202"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="204"/>
@@ -19248,7 +19254,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1205"/>
         <source>Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1224"/>
@@ -19338,7 +19344,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="200"/>
         <source>New Library</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Kütüphane</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="202"/>
@@ -19936,12 +19942,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="147"/>
         <source>Manufacturer</source>
-        <translation type="unfinished"/>
+        <translation>Üretici</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="198"/>
         <source>Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Öznitelikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="76"/>
