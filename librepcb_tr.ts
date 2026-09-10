@@ -9572,7 +9572,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardpolygonremove.cpp" line="41"/>
         <source>Remove polygon from board</source>
-        <translation type="unfinished"/>
+        <translation>Karttan poligon kaldır</translation>
     </message>
 </context>
 <context>
@@ -9580,7 +9580,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardremove.cpp" line="41"/>
         <source>Remove board</source>
-        <translation type="unfinished"/>
+        <translation>Kartı kaldır</translation>
     </message>
 </context>
 <context>
@@ -9588,47 +9588,47 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="115"/>
         <source>Import From Specctra Session</source>
-        <translation type="unfinished"/>
+        <translation>Specctra Oturumundan İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="124"/>
         <source>The specified file is not a Specctra session (SES).</source>
-        <translation type="unfinished"/>
+        <translation>Belirtilen dosya bir Specctra oturumu (SES) değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="269"/>
         <source>Specctra session file parsed successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Specctra oturum dosyası başarıyla ayrıştırıldı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="454"/>
         <source>Component &apos;%1&apos; from Specctra session does not exist in this board.</source>
-        <translation type="unfinished"/>
+        <translation>Specctra oturumundan gelen &apos;%1&apos; bileşeni bu kartta mevcut değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="462"/>
         <source>Component &apos;%1&apos; has been flipped, which is not supported yet.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; bileşeni çevrilmiş, bu henüz desteklenmiyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="486"/>
         <source>The component &apos;%1&apos; does not exist in the Specctra session.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; bileşeni Specctra oturumunda mevcut değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="503"/>
         <source>The net &apos;%1&apos; from Specctra session does not exist in this project, skipping it.</source>
-        <translation type="unfinished"/>
+        <translation>Specctra oturumundan gelen &apos;%1&apos; ağı bu projede mevcut değil, atlanıyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="769"/>
         <source>Updated %1 components (%2 unmodified components skipped).</source>
-        <translation type="unfinished"/>
+        <translation>%1 bileşen güncellendi (%2 değiştirilmemiş bileşen atlandı).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardspecctraimport.cpp" line="772"/>
         <source>Updated %1 net objects (%2 unmodified objects skipped).</source>
-        <translation type="unfinished"/>
+        <translation>%1 ağ nesnesi güncellendi (%2 değiştirilmemiş nesne atlandı).</translation>
     </message>
 </context>
 <context>
@@ -9636,7 +9636,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardsplitnetline.cpp" line="43"/>
         <source>Split trace</source>
-        <translation type="unfinished"/>
+        <translation>İzi böl</translation>
     </message>
 </context>
 <context>
@@ -9652,7 +9652,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardstroketextedit.cpp" line="41"/>
         <source>Modify Stroke Text</source>
-        <translation type="unfinished"/>
+        <translation>Vektör Metni Değiştir</translation>
     </message>
 </context>
 <context>
@@ -9660,7 +9660,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardstroketextremove.cpp" line="41"/>
         <source>Remove text from board</source>
-        <translation type="unfinished"/>
+        <translation>Karttan metin kaldır</translation>
     </message>
 </context>
 <context>
@@ -9668,7 +9668,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardviaedit.cpp" line="41"/>
         <source>Edit via</source>
-        <translation type="unfinished"/>
+        <translation>Via&apos;yı düzenle</translation>
     </message>
 </context>
 <context>
@@ -9676,7 +9676,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardzoneadd.cpp" line="41"/>
         <source>Add zone to board</source>
-        <translation type="unfinished"/>
+        <translation>Karta bölge ekle</translation>
     </message>
 </context>
 <context>
@@ -9684,7 +9684,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardzoneedit.cpp" line="41"/>
         <source>Edit zone</source>
-        <translation type="unfinished"/>
+        <translation>Bölgeyi düzenle</translation>
     </message>
 </context>
 <context>
@@ -9692,7 +9692,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdboardzoneremove.cpp" line="41"/>
         <source>Remove zone from board</source>
-        <translation type="unfinished"/>
+        <translation>Karttan bölge kaldır</translation>
     </message>
 </context>
 <context>
@@ -9701,7 +9701,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
         <location filename="libs/librepcb/editor/project/cmd/cmdbusadd.cpp" line="41"/>
         <location filename="libs/librepcb/editor/project/cmd/cmdbusadd.cpp" line="45"/>
         <source>Add Bus</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Ekle</translation>
     </message>
 </context>
 <context>
@@ -9709,7 +9709,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdbusedit.cpp" line="41"/>
         <source>Edit Bus</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolunu Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9717,7 +9717,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdbusremove.cpp" line="41"/>
         <source>Remove Bus</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolunu Kaldır</translation>
     </message>
 </context>
 <context>
@@ -9725,7 +9725,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdchangebusofschematicbussegment.cpp" line="50"/>
         <source>Change Bus Of Segment</source>
-        <translation type="unfinished"/>
+        <translation>Segmentin Veri Yolunu Değiştir</translation>
     </message>
 </context>
 <context>
@@ -9733,7 +9733,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdchangenetsignalofschematicnetsegment.cpp" line="54"/>
         <source>Change netsignal of netsegment</source>
-        <translation type="unfinished"/>
+        <translation>Ağ segmentinin ağ sinyalini değiştir</translation>
     </message>
 </context>
 <context>
@@ -9741,7 +9741,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdcircleedit.cpp" line="40"/>
         <source>Edit circle</source>
-        <translation type="unfinished"/>
+        <translation>Daireyi düzenle</translation>
     </message>
 </context>
 <context>
@@ -9749,7 +9749,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcombineboardnetsegments.cpp" line="49"/>
         <source>Combine Board Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Kart Ağ Segmentlerini Birleştir</translation>
     </message>
 </context>
 <context>
@@ -9757,7 +9757,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcombinebuses.cpp" line="63"/>
         <source>Combine Net Signals</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Sinyallerini Birleştir</translation>
     </message>
 </context>
 <context>
@@ -9765,7 +9765,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcombinenetsignals.cpp" line="59"/>
         <source>Combine Net Signals</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Sinyallerini Birleştir</translation>
     </message>
 </context>
 <context>
@@ -9773,7 +9773,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcombineschematicbussegments.cpp" line="56"/>
         <source>Merge Bus Segments</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu Segmentlerini Birleştir</translation>
     </message>
 </context>
 <context>
@@ -9781,7 +9781,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcombineschematicnetsegments.cpp" line="52"/>
         <source>Combine Schematic Net Segments</source>
-        <translation type="unfinished"/>
+        <translation>Şematik Ağ Segmentlerini Birleştir</translation>
     </message>
 </context>
 <context>
@@ -9789,7 +9789,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcompsiginstsetnetsignal.cpp" line="41"/>
         <source>Change component signal net</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen sinyalinin ağını değiştir</translation>
     </message>
 </context>
 <context>
@@ -9797,7 +9797,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/library/cmd/cmdcomponentedit.cpp" line="38"/>
         <source>Edit Component Properties</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Özelliklerini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -9811,7 +9811,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/cmd/cmdcomponentinstanceadd.cpp" line="78"/>
         <source>The component with the UUID &quot;%1&quot; does not exist in the project&apos;s library!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; UUID&apos;sine sahip bileşen, projenin kütüphanesinde mevcut değil!</translation>
     </message>
 </context>
 <context>
@@ -10597,7 +10597,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/cmd/cmdzoneedit.cpp" line="38"/>
         <source>Edit zone</source>
-        <translation type="unfinished"/>
+        <translation>Bölgeyi düzenle</translation>
     </message>
 </context>
 <context>
@@ -15164,7 +15164,7 @@ Do you want to save them before closing the project?</source>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="686"/>
         <source>Remove board</source>
-        <translation type="unfinished"/>
+        <translation>Kartı kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="687"/>
