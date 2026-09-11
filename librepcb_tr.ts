@@ -11069,27 +11069,27 @@ Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="161"/>
         <source>Auto-Connect Pads To Signals</source>
-        <translation type="unfinished"/>
+        <translation>Pedleri Sinyallere Otomatik Bağla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="176"/>
         <source>Choose Pinout File</source>
-        <translation type="unfinished"/>
+        <translation>Pin Düzeni Dosyası Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="229"/>
         <source>Load Pinout From File</source>
-        <translation type="unfinished"/>
+        <translation>Pin Düzenini Dosyadan Yükle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="459"/>
         <source>Reset Pinout?</source>
-        <translation type="unfinished"/>
+        <translation>Pin Düzenini Sıfırla?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicepinoutbuilder.cpp" line="460"/>
         <source>There are already some signals connected. Should they be disconnected before attempting to make new connections?</source>
-        <translation type="unfinished"/>
+        <translation>Zaten bağlı bazı sinyaller var. Yeni bağlantılar yapmaya çalışmadan önce bunların bağlantısı kesilsin mi?</translation>
     </message>
 </context>
 <context>
@@ -11113,17 +11113,18 @@ Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="649"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; aygıtı kaydedilmemiş değişiklikler içeriyor.
+Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1029"/>
         <source>Change Component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşeni Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1066"/>
         <source>Change Package</source>
-        <translation type="unfinished"/>
+        <translation>Paketi Değiştir</translation>
     </message>
 </context>
 <context>
@@ -11131,28 +11132,28 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="14"/>
         <source>Directory is locked</source>
-        <translation type="unfinished"/>
+        <translation>Dizin kilitli</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="35"/>
         <source>Could not open the directory &quot;%1&quot; because it is already opened by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <extracomment>%2 is something like &quot;sername@computername&quot;.</extracomment>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; dizini açılamadı çünkü zaten &quot;%2&quot; tarafından açılmış durumda. Bu dizine erişen tüm uygulamaları kapatıp tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.ui" line="52"/>
         <source>If you&apos;re absolutely sure that the directory is not accessed by any other application instance anymore, you could discard the current lock and open this directory anyway. But if the directory is still accessed by another application instance, this could lead in corrupt files, so use this option very carefully!</source>
-        <translation type="unfinished"/>
+        <translation>Dizine artık başka bir uygulama örneği tarafından erişilmediğinden kesinlikle eminseniz, mevcut kilidi yok sayıp bu dizini yine de açabilirsiniz. Ancak dizine hâlâ başka bir uygulama örneği tarafından erişiliyorsa, bu bozuk dosyalara yol açabilir, bu nedenle bu seçeneği çok dikkatli kullanın!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="53"/>
         <source>I accept the risk.</source>
-        <translation type="unfinished"/>
+        <translation>Riski kabul ediyorum.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/directorylockhandlerdialog.cpp" line="58"/>
         <source>Open anyway</source>
-        <translation type="unfinished"/>
+        <translation>Yine de aç</translation>
     </message>
 </context>
 <context>
@@ -11160,7 +11161,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="77"/>
         <source>Download Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneyi İndir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="216"/>
@@ -11173,7 +11174,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="14"/>
         <source>DXF Import</source>
-        <translation type="unfinished"/>
+        <translation>DXF İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="25"/>
@@ -11183,28 +11184,29 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="32"/>
         <source>The layer to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılan nesnelere ayarlanacak katman.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="39"/>
         <source>Line width:</source>
-        <translation type="unfinished"/>
+        <translation>Çizgi genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="46"/>
         <source>The line width to set on the imported objects.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılan nesnelere ayarlanacak çizgi genişliği.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="53"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek faktörü:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="60"/>
         <source>Additional scale factor, in case the DXF is not scaled properly.
 Note: If you have issues with scaling, make sure to configure the measuring unit of the DXF in your MCAD.</source>
-        <translation type="unfinished"/>
+        <translation>DXF doğru şekilde ölçeklenmemişse kullanılacak ek ölçek faktörü.
+Not: Ölçeklendirme ile ilgili sorun yaşıyorsanız, MCAD yazılımınızda DXF&apos;in ölçüm birimini yapılandırdığınızdan emin olun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="80"/>
@@ -11215,22 +11217,23 @@ Note: If you have issues with scaling, make sure to configure the measuring unit
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="87"/>
         <source>If checked (the default), you can interactively place the imported objects by cursor.
 If unchecked, you need to specify exact coordinates where the point (0,0) of the DXF will be located.</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlenirse (varsayılan), içe aktarılan nesneleri imleçle etkileşimli olarak yerleştirebilirsiniz.
+İşaretlenmezse, DXF&apos;in (0,0) noktasının konumlanacağı tam koordinatları belirtmeniz gerekir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="91"/>
         <source>Interactive</source>
-        <translation type="unfinished"/>
+        <translation>Etkileşimli</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="100"/>
         <source>X-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>X koordinatı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="107"/>
         <source>Y-coordinate.</source>
-        <translation type="unfinished"/>
+        <translation>Y koordinatı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="116"/>
@@ -11241,33 +11244,35 @@ If unchecked, you need to specify exact coordinates where the point (0,0) of the
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="123"/>
         <source>If checked, tangent polylines of the DXF will be joined together.
 Helps for example to avoid invalid board outline polygons.</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlenirse, DXF&apos;in teğet çoklu çizgileri (polyline) birleştirilir.
+Örneğin geçersiz kart dış hattı poligonlarını önlemeye yardımcı olur.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="127"/>
         <source>Join tangent polylines</source>
-        <translation type="unfinished"/>
+        <translation>Teğet çoklu çizgileri birleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="134"/>
         <source>If checked, circles will be imported as drills.
 If unchecked (the default), circles will be imported as polygons.</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlenirse, daireler delik olarak içe aktarılır.
+İşaretlenmezse (varsayılan), daireler poligon olarak içe aktarılır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.ui" line="138"/>
         <source>Import circles as drills</source>
-        <translation type="unfinished"/>
+        <translation>Daireleri delik olarak içe aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="160"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/dxfimportdialog.cpp" line="171"/>
         <source>The selected file does not contain any objects to import.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen dosya içe aktarılacak herhangi bir nesne içermiyor.</translation>
     </message>
 </context>
 <context>
@@ -11275,24 +11280,26 @@ If unchecked (the default), circles will be imported as polygons.</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.ui" line="14"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Kütüphanesi İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="71"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yeniden Başlat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="103"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>İptal Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizard.cpp" line="104"/>
         <source>The import is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarma şu anda devam ediyor. Bu pencereyi kapatmak işlemi iptal edecek.
+
+Gerçekten kapatmak istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -11300,12 +11307,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="106"/>
         <source>No file selected.</source>
-        <translation type="unfinished"/>
+        <translation>Hiç dosya seçilmedi.</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardcontext.cpp" line="112"/>
         <source>Found %1 element(s) in the selected library.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Seçilen kütüphanede %1 öğe bulundu.</numerusform><numerusform>Seçilen kütüphanede %1 öğe bulundu.</numerusform></translation>
     </message>
 </context>
 <context>
@@ -11313,27 +11320,27 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the EAGLE library file to import.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılacak EAGLE kütüphane dosyasını seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Note: Only EAGLE 6 (or later) *.lbr files are supported (XML based file format).</source>
-        <translation type="unfinished"/>
+        <translation>Not: Yalnızca EAGLE 6 (veya sonrası) *.lbr dosyaları desteklenir (XML tabanlı dosya biçimi).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.ui" line="39"/>
         <source>Select file to import</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılacak dosyayı seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_chooselibrary.cpp" line="67"/>
         <source>Choose file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya seç</translation>
     </message>
 </context>
 <context>
@@ -11341,12 +11348,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="17"/>
         <source>Import Progress</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarma İlerlemesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="20"/>
         <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen öğeler şimdi içe aktarılacak. Büyük veya karmaşık kütüphaneler için bu birkaç dakika sürebilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="26"/>
@@ -11356,22 +11363,22 @@ Do you really want to close it?</source>
   &lt;li&gt;Review and rework geometry of symbols and footprints&lt;/li&gt;
   &lt;li&gt;Fix any remaining warnings shown in the library editor&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;İçe aktarma işleminden sonra, içe aktarılan her öğe için aşağıdaki görevleri gerçekleştirmeniz şiddetle önerilir:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Uygun kategoriler atayın (henüz yapılmadıysa)&lt;/li&gt;&lt;li&gt;Sembollerin ve ayak izlerinin geometrisini gözden geçirin ve yeniden düzenleyin&lt;/li&gt;&lt;li&gt;Kütüphane editöründe gösterilen kalan uyarıları düzeltin&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.ui" line="47"/>
         <source>Import messages:</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarma mesajları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.cpp" line="114"/>
         <source>Finished!</source>
-        <translation type="unfinished"/>
+        <translation>Tamamlandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_result.cpp" line="119"/>
         <source>Scanning libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler taranıyor</translation>
     </message>
 </context>
 <context>
@@ -11379,17 +11386,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="17"/>
         <source>Select Elements To Import</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılacak Öğeleri Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.ui" line="20"/>
         <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılacak kütüphane öğelerini seçin. Aygıtların ve bileşenlerin bağımlı öğeleri otomatik olarak seçilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="254"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="257"/>
@@ -11399,12 +11406,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="260"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_selectelements.cpp" line="263"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Paketler</translation>
     </message>
 </context>
 <context>
@@ -11412,64 +11419,64 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="17"/>
         <source>Set Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekleri Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="20"/>
         <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarma seçeneklerini seçin ve devam etmek için aşağıdaki içe aktarma düğmesine tıklayın. Seçenekler konusunda emin değilseniz, varsayılan değerleri koruyun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="29"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
-        <translation type="unfinished"/>
+        <translation>Manuel olarak oluşturulan öğelerle içe aktarılan öğeleri ayırt etmeye yardımcı olur.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="32"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kütüphane öğesi adlarına &quot;%1&quot; ön ekini ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="39"/>
         <source>Will list all imported elements under a dedicated category, to help finding them.</source>
-        <translation type="unfinished"/>
+        <translation>Bulunmalarına yardımcı olmak için tüm içe aktarılan öğeleri özel bir kategori altında listeler.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="42"/>
         <source>Add all elements to &quot;%1&quot; category (recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm öğeleri &quot;%1&quot; kategorisine ekle (önerilir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="49"/>
         <source>Additional Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Ek Bileşen Kategorisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="77"/>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="136"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Kategori seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="91"/>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="150"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="108"/>
         <source>Additional Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Ek Paket Kategorisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.ui" line="172"/>
         <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except by manually removing the imported elements)!</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Dikkat:&lt;/b&gt; İçe aktarma geri alınamaz (içe aktarılan öğeleri manuel olarak kaldırmak dışında)!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_setoptions.cpp" line="60"/>
         <source>&amp;Import!</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İçe Aktar!</translation>
     </message>
 </context>
 <context>
@@ -11477,12 +11484,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="17"/>
         <source>EAGLE Library Import</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Kütüphanesi İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from EAGLE to LibrePCB by importing your EAGLE library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE kütüphane öğelerinizi şu anda açık olan LibrePCB kütüphanesine aktararak EAGLE&apos;dan LibrePCB&apos;ye geçişi hızlandırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/eaglelibraryimportwizard/eaglelibraryimportwizardpage_start.ui" line="26"/>
@@ -11492,7 +11499,8 @@ Do you really want to close it?</source>
   &lt;li&gt;If you import library elements multiple times, you will end up with duplicates. It is recommended to import each EAGLE library only once. So you should select all elements you might ever need, instead of importing a library step by step.&lt;/li&gt;
   &lt;li&gt;Especially if you plan to import a lot of elements, it might be a good idea to create a separate LibrePCB library for them. This will provide a clear separation between imported elements and manually created elements.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Bu aracı kullanırken lütfen şu önemli notları dikkate alın:
+&lt;ul&gt;&lt;li&gt;LibrePCB kütüphaneleri EAGLE kütüphanelerinden farklı şekilde organize edilir, bu nedenle içe aktarılan öğelerin kalitesi muhtemelen sıfırdan manuel olarak oluşturulduğu kadar yüksek olmayacaktır. İçe aktarmadan sonra bazı manuel yeniden düzenlemeler gerekebilir.&lt;/li&gt;&lt;li&gt;Kütüphane öğelerini birden fazla kez içe aktarırsanız, yinelenen öğelerle karşılaşırsınız. Her EAGLE kütüphanesini yalnızca bir kez içe aktarmanız önerilir. Bu nedenle bir kütüphaneyi adım adım içe aktarmak yerine, ihtiyaç duyabileceğiniz tüm öğeleri seçmelisiniz.&lt;/li&gt;&lt;li&gt;Özellikle çok sayıda öğe içe aktarmayı planlıyorsanız, bunlar için ayrı bir LibrePCB kütüphanesi oluşturmak iyi bir fikir olabilir. Bu, içe aktarılan öğeler ile manuel olarak oluşturulan öğeler arasında net bir ayrım sağlar.&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -11506,17 +11514,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/modelview/editablelistmodel.h" line="136"/>
         <source>Invalid value.</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz değer.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/editablelistmodel.h" line="142"/>
         <source>Value already contained in list.</source>
-        <translation type="unfinished"/>
+        <translation>Değer zaten listede mevcut.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/editablelistmodel.h" line="253"/>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Öğe</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/modelview/editablelistmodel.h" line="261"/>
@@ -11534,7 +11542,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="219"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="224"/>
@@ -11544,12 +11552,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="229"/>
         <source>Move up</source>
-        <translation type="unfinished"/>
+        <translation>Yukarı taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="232"/>
         <source>Move down</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/editabletablewidget.cpp" line="237"/>
@@ -12096,7 +12104,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="169"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek faktörü:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="178"/>
@@ -12420,7 +12428,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="355"/>
         <source>Scale factor:</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek faktörü:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="364"/>
@@ -13058,12 +13066,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="73"/>
         <source>&amp;Restart</source>
-        <translation type="unfinished"/>
+        <translation> &amp;Yeniden Başlat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="105"/>
         <source>Abort</source>
-        <translation type="unfinished"/>
+        <translation>İptal Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="106"/>
@@ -13132,12 +13140,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.ui" line="17"/>
         <source>Import Progress</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarma İlerlemesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.ui" line="20"/>
         <source>The selected elements will be imported now. For large or complex libraries this can take a few minutes.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen öğeler şimdi içe aktarılacak. Büyük veya karmaşık kütüphaneler için bu birkaç dakika sürebilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="106"/>
@@ -13167,7 +13175,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="145"/>
         <source>Scanning libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler taranıyor</translation>
     </message>
 </context>
 <context>
@@ -13175,12 +13183,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.ui" line="17"/>
         <source>Select Elements To Import</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılacak Öğeleri Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.ui" line="20"/>
         <source>Select the library elements to import. Dependent elements of devices and components will be selected automatically.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılacak kütüphane öğelerini seçin. Aygıtların ve bileşenlerin bağımlı öğeleri otomatik olarak seçilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="107"/>
@@ -13190,7 +13198,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="358"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="361"/>
@@ -13200,12 +13208,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="364"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="367"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Paketler</translation>
     </message>
 </context>
 <context>
@@ -13213,64 +13221,64 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="17"/>
         <source>Set Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekleri Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="20"/>
         <source>Choose the import options and click on the import button below to continue. If you are unsure about the options, just keep the default values.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarma seçeneklerini seçin ve devam etmek için aşağıdaki içe aktarma düğmesine tıklayın. Seçenekler konusunda emin değilseniz, varsayılan değerleri koruyun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="29"/>
         <source>Helps to distinguish between manually created elements and imported elements.</source>
-        <translation type="unfinished"/>
+        <translation>Manuel olarak oluşturulan öğelerle içe aktarılan öğeleri ayırt etmeye yardımcı olur.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="32"/>
         <source>Add prefix &quot;%1&quot; to all library element names</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kütüphane öğesi adlarına &quot;%1&quot; ön ekini ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="39"/>
         <source>Will list all imported elements under a dedicated category, to help finding them.</source>
-        <translation type="unfinished"/>
+        <translation>Bulunmalarına yardımcı olmak için tüm içe aktarılan öğeleri özel bir kategori altında listeler.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="42"/>
         <source>Add all elements to &quot;%1&quot; category (recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm öğeleri &quot;%1&quot; kategorisine ekle (önerilir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="49"/>
         <source>Additional Component Category</source>
-        <translation type="unfinished"/>
+        <translation>Ek Bileşen Kategorisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="77"/>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="136"/>
         <source>Choose category</source>
-        <translation type="unfinished"/>
+        <translation>Kategori seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="91"/>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="150"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="108"/>
         <source>Additional Package Category</source>
-        <translation type="unfinished"/>
+        <translation>Ek Paket Kategorisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.ui" line="172"/>
         <source>&lt;b&gt;Attention:&lt;/b&gt; The import cannot be undone (except by manually removing the imported elements)!</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Dikkat:&lt;/b&gt; İçe aktarma geri alınamaz (içe aktarılan öğeleri manuel olarak kaldırmak dışında)!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_setoptions.cpp" line="60"/>
         <source>&amp;Import!</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İçe Aktar!</translation>
     </message>
 </context>
 <context>
@@ -16710,7 +16718,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="678"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>Sıfırla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="681"/>
@@ -17396,7 +17404,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="100"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="113"/>
@@ -18283,7 +18291,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="193"/>
         <source>Download Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneyi İndir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="201"/>
@@ -18389,7 +18397,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="58"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="78"/>
@@ -18530,7 +18538,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="43"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="63"/>
@@ -19080,12 +19088,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="186"/>
         <source>Packages</source>
-        <translation type="unfinished"/>
+        <translation>Paketler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="188"/>
@@ -19095,7 +19103,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="190"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="192"/>
@@ -19354,7 +19362,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="211"/>
         <source>Download Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneyi İndir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="213"/>
@@ -19369,7 +19377,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="383"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="664"/>
@@ -19773,7 +19781,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
         <source>Devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
