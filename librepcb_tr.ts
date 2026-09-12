@@ -13873,7 +13873,7 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="46"/>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="92"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="69"/>
@@ -13907,12 +13907,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="49"/>
         <source>Author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="66"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Lisans:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
@@ -15329,7 +15329,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="47"/>
         <source>Author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="57"/>
@@ -17308,7 +17308,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="87"/>
         <source>Author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar:</translation>
     </message>
 </context>
 <context>
@@ -17555,12 +17555,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="411"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>İleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="411"/>
         <source>Skip</source>
-        <translation type="unfinished"/>
+        <translation>Geç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="422"/>
@@ -17898,27 +17898,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="5"/>
         <source>SMT (all leads)</source>
-        <translation type="unfinished"/>
+        <translation>SMT (tüm uçlar)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="6"/>
         <source>THT+SMT (mixed leads)</source>
-        <translation type="unfinished"/>
+        <translation>THT+SMT (karışık uçlar)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="7"/>
         <source>Other (included in BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Diğer (BOM/PnP&apos;ye dahil)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="8"/>
         <source>None (excluded from BOM/PnP)</source>
-        <translation type="unfinished"/>
+        <translation>Yok (BOM/PnP&apos;den hariç)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="9"/>
         <source>Auto-detect (not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik algıla (önerilmez)</translation>
     </message>
 </context>
 <context>
@@ -17926,12 +17926,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="195"/>
         <source>Copied!</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalandı!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/iconbutton.slint" line="195"/>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Panoya Kopyala</translation>
     </message>
 </context>
 <context>
@@ -17939,17 +17939,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="119"/>
         <source>Examples:</source>
-        <translation type="unfinished"/>
+        <translation>Örnekler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="143"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="165"/>
         <source>Author:</source>
-        <translation type="unfinished"/>
+        <translation>Yazar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="187"/>
@@ -17959,32 +17959,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="211"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="219"/>
         <source>e.g. URL to the Git repository (optional)</source>
-        <translation type="unfinished"/>
+        <translation>örn. Git deposunun URL&apos;si (isteğe bağlı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="235"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Lisans:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="246"/>
         <source>Put library under the Public Domain License CC0-1.0\n(mandatory to publish it on librepcb.org)</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneyi CC0-1.0 Kamu Malı Lisansı altına koyun\n(librepcb.org&apos;da yayınlamak için zorunludur)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="275"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="309"/>
         <source>Create Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="317"/>
@@ -17994,12 +17994,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="56"/>
         <source>Create a new local library</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir yerel kütüphane oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="67"/>
         <source>To import KiCad or Eagle libraries, create a new library called e.g. &apos;KiCad Import&apos; or &apos;Eagle Import&apos;. Then open the new library and start the import wizard via &apos;File -&gt; Import&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>KiCad veya Eagle kütüphanelerini içe aktarmak için, örneğin &apos;KiCad İçe Aktarma&apos; veya &apos;Eagle İçe Aktarma&apos; adında yeni bir kütüphane oluşturun. Ardından yeni kütüphaneyi açın ve &apos;Dosya -&gt; İçe Aktar&apos; üzerinden içe aktarma sihirbazını başlatın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/createlibrarytab.slint" line="85"/>
@@ -18012,7 +18012,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="427"/>
         <source>URL to online datasheet (optional)</source>
-        <translation type="unfinished"/>
+        <translation>Çevrimiçi datasheet URL&apos;si (isteğe bağlı)</translation>
     </message>
 </context>
 <context>
@@ -18020,7 +18020,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="423"/>
         <source>Datasheet:</source>
-        <translation type="unfinished"/>
+        <translation>Datasheet:</translation>
     </message>
 </context>
 <context>
@@ -18028,7 +18028,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="439"/>
         <source>Default Value:</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Değer:</translation>
     </message>
 </context>
 <context>
@@ -18036,7 +18036,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="220"/>
         <source>Add Dependency</source>
-        <translation type="unfinished"/>
+        <translation>Bağımlılık Ekle</translation>
     </message>
 </context>
 <context>
@@ -18044,7 +18044,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="151"/>
         <source>Dependencies:</source>
-        <translation type="unfinished"/>
+        <translation>Bağımlılıklar:</translation>
     </message>
 </context>
 <context>
@@ -18052,7 +18052,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="101"/>
         <source>Check this if this library element should no longer be used.</source>
-        <translation type="unfinished"/>
+        <translation>Bu kütüphane öğesi artık kullanılmamalıysa bunu işaretleyin.</translation>
     </message>
 </context>
 <context>
@@ -18060,7 +18060,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="95"/>
         <source>Deprecated:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanımdan Kaldırılmış:</translation>
     </message>
 </context>
 <context>
@@ -18068,7 +18068,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="79"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama:</translation>
     </message>
 </context>
 <context>
@@ -18091,12 +18091,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="429"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>İleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="431"/>
         <source>Skip</source>
-        <translation type="unfinished"/>
+        <translation>Geç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="443"/>
@@ -18114,7 +18114,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="76"/>
         <source>Open Editor</source>
-        <translation type="unfinished"/>
+        <translation>Editörü Aç</translation>
     </message>
 </context>
 <context>
@@ -18127,7 +18127,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="93"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>İleri</translation>
     </message>
 </context>
 <context>
@@ -18286,7 +18286,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="147"/>
         <source>Directory:</source>
-        <translation type="unfinished"/>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="193"/>
@@ -18311,7 +18311,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="84"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="92"/>
@@ -19499,7 +19499,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="557"/>
         <source>Next</source>
-        <translation type="unfinished"/>
+        <translation>İleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="557"/>
@@ -20524,7 +20524,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="106"/>
         <source>URL:</source>
-        <translation type="unfinished"/>
+        <translation>URL:</translation>
     </message>
 </context>
 <context>
