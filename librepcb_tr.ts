@@ -15319,7 +15319,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="24"/>
         <source>Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/projectsetupdialog.ui" line="33"/>
@@ -15762,7 +15762,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1401"/>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1402"/>
@@ -16157,7 +16157,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="136"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Kapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="137"/>
@@ -17565,7 +17565,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="422"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
 </context>
 <context>
@@ -17578,7 +17578,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="204"/>
         <source>Failed to load component</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen yüklenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="205"/>
@@ -17591,32 +17591,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="137"/>
         <source>Auto-Connect all Pins by Name</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Pinleri Ada Göre Otomatik Bağla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="155"/>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Son Ek</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="164"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Etiket</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="207"/>
         <source>Gate is Optional</source>
-        <translation type="unfinished"/>
+        <translation>Kapı İsteğe Bağlı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="207"/>
         <source>Gate is Required</source>
-        <translation type="unfinished"/>
+        <translation>Kapı Zorunlu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="209"/>
         <source>If marked as required, an ERC error is raised when this gate is not placed in the schematics</source>
-        <translation type="unfinished"/>
+        <translation>Zorunlu olarak işaretlenirse, bu kapı şematiklere yerleştirilmediğinde bir ERC hatası oluşturulur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="236"/>
@@ -17626,17 +17626,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="244"/>
         <source>When added to a schematic, hide this pin name</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe eklendiğinde, bu pin adını gizle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="256"/>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="264"/>
         <source>When added to a schematic, display the pin name</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe eklendiğinde, pin adını göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="276"/>
@@ -17646,7 +17646,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="284"/>
         <source>When added to a schematic, display the signal name (default)</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe eklendiğinde, sinyal adını göster (varsayılan)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="296"/>
@@ -17656,12 +17656,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="304"/>
         <source>When added to a schematic, display the name of the net connected to this pin (if any)</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe eklendiğinde, bu pine bağlı ağın adını göster (varsa)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="327"/>
         <source>Change Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembolü Değiştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="336"/>
@@ -17671,7 +17671,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="70"/>
         <source>Gate</source>
-        <translation type="unfinished"/>
+        <translation>Kapı</translation>
     </message>
 </context>
 <context>
@@ -17679,27 +17679,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="224"/>
         <source>Check this if this component cannot be placed on boards (e.g. supply symbols, sheet frames, ...).</source>
-        <translation type="unfinished"/>
+        <translation>Bu bileşen kartlara yerleştirilemiyorsa bunu işaretleyin (örn. güç sembolleri, sayfa çerçeveleri, ...).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="243"/>
         <source>E.g. \&quot;%1\&quot; for resistors, or \&quot;%2\&quot; for integrated circuits</source>
-        <translation type="unfinished"/>
+        <translation>Örn. dirençler için &quot;%1&quot;, tümleşik devreler için &quot;%2&quot;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="281"/>
         <source>The VALUE the component gets when added to the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenin şematiklere eklendiğinde alacağı DEĞER.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="292"/>
         <source>For specific components (e.g. \&quot;ESP32-S3R2\&quot;):</source>
-        <translation type="unfinished"/>
+        <translation>Özel bileşenler için (örn. &quot;ESP32-S3R2&quot;):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="315"/>
         <source>For generic components (e.g. \&quot;OpAmp\&quot;):</source>
-        <translation type="unfinished"/>
+        <translation>Genel bileşenler için (örn. &quot;OpAmp&quot;):</translation>
     </message>
 </context>
 <context>
@@ -17707,7 +17707,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="102"/>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="125"/>
@@ -17722,22 +17722,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="173"/>
         <source>If checked, an ERC error is raised when this signal is left unconnected in the schematics</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlenirse, bu sinyal şematiklerde bağlantısız bırakıldığında bir ERC hatası oluşturulur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="199"/>
         <source>Forced Net Name</source>
-        <translation type="unfinished"/>
+        <translation>Zorlanmış Ağ Adı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="300"/>
         <source>This package contains no signals (yet).</source>
-        <translation type="unfinished"/>
+        <translation>Bu paket (henüz) hiç sinyal içermiyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentsignallistview.slint" line="319"/>
         <source>Set Forced Net Name</source>
-        <translation type="unfinished"/>
+        <translation>Zorlanmış Ağ Adını Ayarla</translation>
     </message>
 </context>
 <context>
@@ -17745,52 +17745,52 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="447"/>
         <source>Now review &amp; correct the list of signals, if needed (often it is not needed, then just proceed).</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi gerekirse sinyal listesini gözden geçirin ve düzeltin (genellikle gerekli değildir, o zaman devam edin).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="448"/>
         <source>If you add or remove any signals, don&apos;t forget to update the pinout afterwards (on the next step)!</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi bir sinyal ekler veya kaldırırsanız, sonrasında (bir sonraki adımda) pin düzenini güncellemeyi unutmayın!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="454"/>
         <source>This signal list should represent the *electrical* interface of the component, not the *mechanical* pads.</source>
-        <translation type="unfinished"/>
+        <translation>Bu sinyal listesi, bileşenin mekanik pedlerini değil, elektriksel arayüzünü temsil etmelidir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="455"/>
         <source>For example, if an IC has two or more GND pads which are internally connected, only one GND signal should be added here.</source>
-        <translation type="unfinished"/>
+        <translation>Örneğin, bir IC&apos;nin dahili olarak bağlı iki veya daha fazla GND pedi varsa, burada yalnızca bir GND sinyali eklenmelidir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="456"/>
         <source>Note that once the component is finished, it is *not* possible anymore to add or remove signals.</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen tamamlandıktan sonra sinyal ekleme veya kaldırmanın artık mümkün olmadığını unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="459"/>
         <source>Important:</source>
-        <translation type="unfinished"/>
+        <translation>Önemli:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="470"/>
         <source>Add Signals:</source>
-        <translation type="unfinished"/>
+        <translation>Sinyaller Ekle:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="475"/>
         <source>Signal name (may contain ranges like \&quot;1..5\&quot;; use prefix \&quot;!\&quot; for inverted signals)</source>
-        <translation type="unfinished"/>
+        <translation>Sinyal adı (&quot;1..5&quot; gibi aralıklar içerebilir; ters çevrilmiş sinyaller için &quot;!&quot; ön ekini kullanın)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="524"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="534"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
 </context>
 <context>
@@ -17798,17 +17798,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="593"/>
         <source>Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="594"/>
         <source>Signals</source>
-        <translation type="unfinished"/>
+        <translation>Sinyaller</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componenttab.slint" line="595"/>
         <source>Variants &amp; Gates</source>
-        <translation type="unfinished"/>
+        <translation>Varyantlar ve Kapılar</translation>
     </message>
 </context>
 <context>
@@ -17816,58 +17816,58 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="379"/>
         <source>Now define the names of the electrical signals of the component in the table below. Usually you can just keep the names from the symbol pins.</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi aşağıdaki tabloda bileşenin elektriksel sinyallerinin adlarını tanımlayın. Genellikle sembol pinlerinden gelen adları koruyabilirsiniz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="380"/>
         <source>Note that unconnected or inter-connected pins (i.e. duplicate signal names) are not allowed in this step, but you can rework them on the following pages.</source>
-        <translation type="unfinished"/>
+        <translation>Bu adımda bağlantısız veya birbirine bağlı pinlere (yani yinelenen sinyal adlarına) izin verilmediğini, ancak bunları sonraki sayfalarda yeniden düzenleyebileceğinizi unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="397"/>
         <source>Variant</source>
-        <translation type="unfinished"/>
+        <translation>Varyant</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="424"/>
         <source>Description</source>
-        <translation type="unfinished"/>
+        <translation>Açıklama</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="453"/>
         <source>Norm</source>
-        <translation type="unfinished"/>
+        <translation>Standart</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="524"/>
         <source>Component Preview Placement</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen Önizleme Yerleşimi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="667"/>
         <source>This variant contains no gate!</source>
-        <translation type="unfinished"/>
+        <translation>Bu varyant hiç kapı içermiyor!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="671"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
-        <translation type="unfinished"/>
+        <translation>Karşılık gelen sembolleri seçerek bu bileşene kapılar ekleyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="672"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu bileşen yalnızca bir kapıdan oluşur, ancak örneğin 4 kanallı bir ADC, dört tek kanallı ADC kapısıyla oluşturulabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="673"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Bu kapıların hepsi aynı bileşenin parçasıdır, ancak şematiklere ayrı ayrı yerleştirilebilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="683"/>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="700"/>
         <source>Add Gate</source>
-        <translation type="unfinished"/>
+        <translation>Kapı Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="709"/>
@@ -17877,7 +17877,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="719"/>
         <source>Set as Default</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Olarak Ayarla</translation>
     </message>
 </context>
 <context>
@@ -17885,7 +17885,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="776"/>
         <source>Add Variant</source>
-        <translation type="unfinished"/>
+        <translation>Varyant Ekle</translation>
     </message>
 </context>
 <context>
@@ -17893,7 +17893,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="4"/>
         <source>THT (all leads)</source>
-        <translation type="unfinished"/>
+        <translation>THT (tüm uçlar)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/constants.slint" line="5"/>
@@ -18086,7 +18086,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="429"/>
@@ -18101,7 +18101,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="443"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
 </context>
 <context>
@@ -18252,7 +18252,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="538"/>
         <source>Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="539"/>
@@ -18960,12 +18960,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="397"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="407"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
 </context>
 <context>
@@ -19050,7 +19050,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="757"/>
         <source>Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="758"/>
@@ -19509,7 +19509,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="567"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
 </context>
 <context>
@@ -19827,7 +19827,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="88"/>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
 </context>
 <context>
@@ -19850,7 +19850,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="275"/>
         <source>Important:</source>
-        <translation type="unfinished"/>
+        <translation>Önemli:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="286"/>
@@ -19865,12 +19865,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="339"/>
         <source>Finish</source>
-        <translation type="unfinished"/>
+        <translation>Bitir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="349"/>
         <source>Back</source>
-        <translation type="unfinished"/>
+        <translation>Geri</translation>
     </message>
 </context>
 <context>
@@ -19878,7 +19878,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1110"/>
         <source>Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
@@ -20472,7 +20472,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
         <source>Metadata</source>
-        <translation type="unfinished"/>
+        <translation>Meta Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
@@ -20511,7 +20511,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/treeview.slint" line="162"/>
         <source>Pin</source>
-        <translation type="unfinished"/>
+        <translation>Pin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/treeview.slint" line="162"/>
