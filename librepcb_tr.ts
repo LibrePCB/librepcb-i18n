@@ -11876,63 +11876,60 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="111"/>
         <source>Drills Blind/Buried:</source>
-        <translation>Drills Blind/Buried:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="118"/>
         <source>Base Path:</source>
-        <translation>Base Path:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="132"/>
         <source>Top Copper:</source>
-        <translation>Top Copper:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="139"/>
         <source>Top Silkscreen:</source>
-        <translation>Top Silkscreen:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="184"/>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation>Export slots as drilled (G85) instead of routed (G00..G03).
-Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
-Attention: Curved slots are not supported in G85 mode (will raise an error).</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="189"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation>Use drilled slot command in Excellon files (G85)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="196"/>
         <source>Bottom Solder Paste
 (Bottom Stencil):</source>
-        <translation>Bottom Solder Paste
-(Bottom Stencil):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="204"/>
         <source>Inner Copper:</source>
-        <translation>Inner Copper:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="211"/>
         <source>Bottom Copper:</source>
-        <translation>Bottom Copper:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="218"/>
         <source>Bottom Silkscreen:</source>
-        <translation>Bottom Silkscreen:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="225"/>
         <source>Outlines:</source>
-        <translation>Outlines:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="252"/>
@@ -11952,39 +11949,38 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="303"/>
         <source>Bottom Stopmask:</source>
-        <translation>Bottom Stopmask:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="310"/>
         <source>Merge PTH and NPTH drills into one file:</source>
-        <translation>Merge PTH and NPTH drills into one file:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="317"/>
         <source>Top Solder Paste
 (Top Stencil):</source>
-        <translation>Top Solder Paste
-(Top Stencil):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="371"/>
         <source>Gerber (RS-274X) / Excellon (XNC) PCB production data export for boards.</source>
-        <translation>Gerber (RS-274X) / Excellon (XNC) PCB production data export for boards.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="56"/>
         <source>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</source>
-        <translation>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="60"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
-        <translation>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="66"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11997,7 +11993,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="40"/>
         <source>Gerber X3 pick&amp;place position file &amp; glue mask (RS-274X) export for boards.</source>
-        <translation>Gerber X3 pick&amp;place position file &amp; glue mask (RS-274X) export for boards.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
@@ -12007,12 +12003,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="67"/>
         <source>Top Components:</source>
-        <translation>Top Components:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="80"/>
         <source>Bottom Components:</source>
-        <translation>Bottom Components:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
@@ -12045,17 +12041,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="234"/>
         <source>Top Glue Mask:</source>
-        <translation>Top Glue Mask:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="244"/>
         <source>Bottom Glue Mask:</source>
-        <translation>Bottom Glue Mask:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="260"/>
         <source>&lt;b&gt;Please note that support for glue export is considered experimental&lt;/b&gt; since we do not yet have much experience with this process. If you have experience with application of glue for assembly, please let us know how we can improve LibrePCB in this regard.</source>
-        <translation>&lt;b&gt;Please note that support for glue export is considered experimental&lt;/b&gt; since we do not yet have much experience with this process. If you have experience with application of glue for assembly, please let us know how we can improve LibrePCB in this regard.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12068,27 +12064,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="35"/>
         <source>Printer:</source>
-        <translation>Printer:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="45"/>
         <source>Page size:</source>
-        <translation>Page size:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="61"/>
         <source>Duplex:</source>
-        <translation>Duplex:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="81"/>
         <source>Resolution:</source>
-        <translation>Resolution:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="107"/>
         <source>Orientation:</source>
-        <translation>Orientation:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="122"/>
@@ -12098,12 +12094,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="141"/>
         <source>Landscape</source>
-        <translation>Landscape</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="157"/>
         <source>Portrait</source>
-        <translation>Portrait</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="169"/>
@@ -12113,12 +12109,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="178"/>
         <source>Fit to page size</source>
-        <translation>Fit to page size</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="193"/>
         <source>Background:</source>
-        <translation>Background:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="208"/>
@@ -12138,48 +12134,48 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="255"/>
         <source>Margins:</source>
-        <translation>Margins:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="314"/>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="323"/>
         <source>Transformation:</source>
-        <translation>Transformation:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="332"/>
         <source>Rotate</source>
-        <translation>Rotate</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="339"/>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="508"/>
         <source>Mirror</source>
-        <translation>Mirror</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="348"/>
         <source>Minimum line width:</source>
-        <translation>Minimum line width:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Colors:</source>
-        <translation>Colors:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="365"/>
         <source>Black/White</source>
-        <translation>Black/White</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="378"/>
         <source>Copies:</source>
-        <translation>Copies:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="404"/>
@@ -12194,32 +12190,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
         <source>Colors</source>
-        <translation>Colors</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="454"/>
         <source>Content</source>
-        <translation>Content</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="503"/>
         <source>Page</source>
-        <translation>Page</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="517"/>
         <source>Pages</source>
-        <translation>Pages</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="526"/>
         <source>All pages</source>
-        <translation>All pages</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="555"/>
         <source>Current page</source>
-        <translation>Current page</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="570"/>
@@ -12229,22 +12225,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="597"/>
         <source>The page number will be appended to the filename.</source>
-        <translation>The page number will be appended to the filename.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="664"/>
         <source>Open the exported file or their parent directory if multiple files were exported.</source>
-        <translation>Open the exported file or their parent directory if multiple files were exported.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="667"/>
         <source>Open exported file(s)</source>
-        <translation>Open exported file(s)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="72"/>
         <source>Operation in progress...</source>
-        <translation>Operation in progress...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="73"/>
@@ -12269,17 +12265,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="120"/>
         <source>Copy to clipboard</source>
-        <translation>Copy to clipboard</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="123"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
-        <translation>Copy the image to the clipboard instead of saving it as a file.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="132"/>
         <source>Looking for printers...</source>
-        <translation>Looking for printers...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="417"/>
@@ -12289,12 +12285,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="433"/>
         <source>Processing page %1 of %2...</source>
-        <translation>Processing page %1 of %2...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="513"/>
         <source>All Layers</source>
-        <translation>All Layers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="519"/>
@@ -12309,7 +12305,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="549"/>
         <source>Drills</source>
-        <translation>Drills</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="559"/>
@@ -12324,32 +12320,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="891"/>
         <source>No printer found</source>
-        <translation>No printer found</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="942"/>
         <source>One Sided</source>
-        <translation>One Sided</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="945"/>
         <source>Long Edge</source>
-        <translation>Long Edge</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="949"/>
         <source>Short Edge</source>
-        <translation>Short Edge</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="978"/>
         <source>Custom (adjust to content)</source>
-        <translation>Custom (adjust to content)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1155"/>
         <source>Save as...</source>
-        <translation>Save as...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12362,7 +12358,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="37"/>
         <source>Customizable PDF/image export for schematics and boards.</source>
-        <translation>Customizable PDF/image export for schematics and boards.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="73"/>
@@ -12372,7 +12368,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="83"/>
         <source>Document Title:</source>
-        <translation>Document Title:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="93"/>
@@ -12382,17 +12378,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="144"/>
         <source>Add page(s) to document</source>
-        <translation>Add page(s) to document</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="173"/>
         <source>Duplicate the selected page(s)</source>
-        <translation>Duplicate the selected page(s)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="202"/>
         <source>Remove the selected page(s)</source>
-        <translation>Remove the selected page(s)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="230"/>
@@ -12402,17 +12398,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="254"/>
         <source>Page size:</source>
-        <translation>Page size:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="264"/>
         <source>Resolution:</source>
-        <translation>Resolution:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="290"/>
         <source>Orientation:</source>
-        <translation>Orientation:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="308"/>
@@ -12422,12 +12418,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="327"/>
         <source>Landscape</source>
-        <translation>Landscape</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="343"/>
         <source>Portrait</source>
-        <translation>Portrait</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="355"/>
@@ -12437,12 +12433,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="364"/>
         <source>Fit to page</source>
-        <translation>Fit to page</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="379"/>
         <source>Background:</source>
-        <translation>Background:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="394"/>
@@ -12462,42 +12458,42 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="441"/>
         <source>Margins:</source>
-        <translation>Margins:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="500"/>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="524"/>
         <source>Transformation:</source>
-        <translation>Transformation:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="533"/>
         <source>Rotate</source>
-        <translation>Rotate</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="540"/>
         <source>Mirror</source>
-        <translation>Mirror</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="549"/>
         <source>Minimum line width:</source>
-        <translation>Minimum line width:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="559"/>
         <source>Colors:</source>
-        <translation>Colors:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="566"/>
         <source>Monochrome</source>
-        <translation>Monochrome</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
@@ -12507,7 +12503,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="154"/>
         <source>Custom (adjust to content)</source>
-        <translation>Custom (adjust to content)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="344"/>
@@ -12517,17 +12513,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="352"/>
         <source>Board Image</source>
-        <translation>Board Image</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="358"/>
         <source>Assembly Top/Bottom</source>
-        <translation>Assembly Top/Bottom</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="370"/>
         <source>Rendering Top/Bottom</source>
-        <translation>Rendering Top/Bottom</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12535,12 +12531,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="193"/>
         <source>Older Application Version Used</source>
-        <translation>Older Application Version Used</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="194"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
-        <translation>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="207"/>
@@ -12550,22 +12546,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="208"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
-        <translation>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="211"/>
         <source>Open Library Manager</source>
-        <translation>Open Library Manager</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="228"/>
         <source>Application is Not Installed</source>
-        <translation>Application is Not Installed</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="229"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
-        <translation>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="233"/>
@@ -12575,57 +12571,57 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="256"/>
         <source>Light System Theme Detected</source>
-        <translation>Light System Theme Detected</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="257"/>
         <source>LibrePCB now provides a light theme in addition to the dark theme. It has been activated automatically due to your operating system settings. If you like, you can switch back to the dark theme.</source>
-        <translation>LibrePCB now provides a light theme in addition to the dark theme. It has been activated automatically due to your operating system settings. If you like, you can switch back to the dark theme.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="260"/>
         <source>Use Dark Theme</source>
-        <translation>Use Dark Theme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="274"/>
         <source>Scanning Libraries</source>
-        <translation>Scanning Libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="275"/>
         <source>The internal libraries database is being updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
-        <translation>The internal libraries database is being updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="291"/>
         <source>Scanning Libraries Failed</source>
-        <translation>Scanning Libraries Failed</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="292"/>
         <source>Clear Cache</source>
-        <translation>Clear Cache</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="381"/>
         <source>Workspace changed</source>
-        <translation>Workspace changed</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="382"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation>The chosen workspace will be used after restarting the application.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="410"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="414"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
-        <translation>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="417"/>
@@ -12636,22 +12632,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="458"/>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="592"/>
         <source>Restore autosave backup?</source>
-        <translation>Restore autosave backup?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="459"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
-        <translation>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="497"/>
         <source>Failed to open library</source>
-        <translation>Failed to open library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="545"/>
         <source>Could not create project</source>
-        <translation>Could not create project</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="559"/>
@@ -12661,12 +12657,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="560"/>
         <source>LibrePCB project files (%1)</source>
-        <translation>LibrePCB project files (%1)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="593"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
-        <translation>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="668"/>
@@ -12694,7 +12690,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
         <source>Circular Drill</source>
-        <translation>Circular Drill</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="94"/>
@@ -12704,7 +12700,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="112"/>
         <source>Linear Slot</source>
-        <translation>Linear Slot</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="131"/>
@@ -12714,22 +12710,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="138"/>
         <source>Center:</source>
-        <translation>Center:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="168"/>
         <source>Length:</source>
-        <translation>Length:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="176"/>
         <source>Arbitrary Slot</source>
-        <translation>Arbitrary Slot</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="256"/>
         <source>Outer Size:</source>
-        <translation>Outer Size:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12737,7 +12733,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="14"/>
         <source>Hole Properties</source>
-        <translation>Hole Properties</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="24"/>
@@ -12747,7 +12743,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="34"/>
         <source>Advanced</source>
-        <translation>Advanced</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="43"/>
@@ -12780,7 +12776,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>LibrePCB Workspace Setup</source>
-        <translation>LibrePCB Workspace Setup</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.cpp" line="54"/>
@@ -12793,42 +12789,42 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose Settings</source>
-        <translation>Choose Settings</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Set the most important workspace settings.</source>
-        <translation>Set the most important workspace settings.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
         <source>Language:</source>
-        <translation>Language:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="37"/>
         <source>Length Unit:</source>
-        <translation>Length Unit:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="51"/>
         <source>User Name:</source>
-        <translation>User Name:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation>This name will be used as author when creating new projects or libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="96"/>
         <source>Preferred Norm:</source>
-        <translation>Preferred Norm:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="54"/>
         <source>System Language</source>
-        <translation>System Language</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="72"/>
@@ -12846,49 +12842,48 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
         <source>Select Workspace Path</source>
-        <translation>Select Workspace Path</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation>Please select a directory to open or create a LibrePCB workspace.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
-&lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
         <source>Choose the workspace directory to open or create:</source>
-        <translation>Choose the workspace directory to open or create:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="59"/>
         <source>Select Workspace Directory</source>
-        <translation>Select Workspace Directory</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="122"/>
         <source>Please select a directory.</source>
-        <translation>Please select a directory.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="124"/>
         <source>Directory contains a valid workspace.</source>
-        <translation>Directory contains a valid workspace.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="126"/>
         <source>New workspace will be created.</source>
-        <translation>New workspace will be created.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="128"/>
         <source>Directory is not empty!</source>
-        <translation>Directory is not empty!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12896,21 +12891,19 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation>Upgrade Workspace</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation>Upgrade the workspace to the latest file format.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
 &lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
-&lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
-&lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -12920,27 +12913,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="144"/>
         <source>Destination:</source>
-        <translation>Destination:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="48"/>
         <source>Upgrade to LibrePCB %1</source>
-        <translation>Upgrade to LibrePCB %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="52"/>
         <source>Upgrade</source>
-        <translation>Upgrade</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
         <source>Error:</source>
-        <translation>Error:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="88"/>
         <source>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</source>
-        <translation>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12948,22 +12941,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="14"/>
         <source>Welcome to LibrePCB</source>
-        <translation>Welcome to LibrePCB</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="17"/>
         <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation>This wizard will help you to open or create a LibrePCB workspace.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="62"/>
         <source>&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;https://librepcb.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;https://github.com/LibrePCB&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;GNU GPLv3&lt;/a&gt; License.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;https://librepcb.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;https://github.com/LibrePCB&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;GNU GPLv3&lt;/a&gt; License.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12976,7 +12969,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="40"/>
         <source>Interactive HTML bill of materials (BOM) export.</source>
-        <translation>Interactive HTML bill of materials (BOM) export.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="57"/>
@@ -13032,12 +13025,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="131"/>
         <source>Remove this shortcut</source>
-        <translation>Remove this shortcut</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="143"/>
         <source>Restore default shortcut(s)</source>
-        <translation>Restore default shortcut(s)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
@@ -13068,7 +13061,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.ui" line="14"/>
         <source>KiCad Library Import</source>
-        <translation>KiCad Library Import</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="73"/>
@@ -13085,9 +13078,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</tr
         <source>An operation is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation>An operation is currently in progress. Closing this window will abort it.
-
-Do you really want to close it?</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13095,7 +13086,7 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="110"/>
         <source>No file or directory selected.</source>
-        <translation>No file or directory selected.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13103,32 +13094,32 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Libraries</source>
-        <translation>Select Libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the directory containing KiCad libraries to import.</source>
-        <translation>Choose the directory containing KiCad libraries to import.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Select the directory where all *.kicad_sym files, *.pretty folders and *.3dshapes folders are located. They may be located in a subdirectory (maximum 1 nesting level).</source>
-        <translation>Select the directory where all *.kicad_sym files, *.pretty folders and *.3dshapes folders are located. They may be located in a subdirectory (maximum 1 nesting level).</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="36"/>
         <source>Note: Currently this feature supports KiCad %1 libraries. Other versions may not work as intended.</source>
-        <translation>Note: Currently this feature supports KiCad %1 libraries. Other versions may not work as intended.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
         <source>Select root directory of libraries</source>
-        <translation>Select root directory of libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="89"/>
         <source>Choose directory</source>
-        <translation>Choose directory</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13136,12 +13127,12 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="17"/>
         <source>Scanning Directory</source>
-        <translation>Scanning Directory</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="20"/>
         <source>The selected directory will be scanned for KiCad libraries.</source>
-        <translation>The selected directory will be scanned for KiCad libraries.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13159,27 +13150,27 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="106"/>
         <source>It is highly recommended to review and rework the imported elements:</source>
-        <translation>It is highly recommended to review and rework the imported elements:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="108"/>
         <source>Assign reasonable categories</source>
-        <translation>Assign reasonable categories</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="109"/>
         <source>Review/correct pinouts of devices</source>
-        <translation>Review/correct pinouts of devices</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="111"/>
         <source>Review/rework geometry of symbols and footprints</source>
-        <translation>Review/rework geometry of symbols and footprints</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="113"/>
         <source>Fix remaining warnings shown in the library editor</source>
-        <translation>Fix remaining warnings shown in the library editor</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="145"/>
@@ -13202,7 +13193,7 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="107"/>
         <source>Already imported</source>
-        <translation>Already imported</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="358"/>
@@ -13295,12 +13286,12 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="17"/>
         <source>KiCad Library Import</source>
-        <translation>KiCad Library Import</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from KiCad to LibrePCB by importing your KiCad library elements into the currently opened LibrePCB library.</source>
-        <translation>Kick-start the migration from KiCad to LibrePCB by importing your KiCad library elements into the currently opened LibrePCB library.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="32"/>
@@ -13310,12 +13301,7 @@ Do you really want to close it?</translation>
   &lt;li&gt;Pins, pads and component signals should not be renamed after the import. Otherwise, future KiCad imports referencing these things will fail.&lt;/li&gt;
   &lt;li&gt;LibrePCB libraries are organized differently to KiCad libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>Please consider these important notes when using this tool:
-&lt;ul&gt;
-  &lt;li&gt;It&apos;s highly recommended to create a separate LibrePCB library for KiCad elements to maintain a clear separation to non-imported elements and to avoid name conflicts.&lt;/li&gt;
-  &lt;li&gt;Pins, pads and component signals should not be renamed after the import. Otherwise, future KiCad imports referencing these things will fail.&lt;/li&gt;
-  &lt;li&gt;LibrePCB libraries are organized differently to KiCad libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
-&lt;/ul&gt;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13323,17 +13309,17 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="73"/>
         <source>Enter numeric expression</source>
-        <translation>Enter numeric expression</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="102"/>
         <source>Default value:</source>
-        <translation>Default value:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="320"/>
         <source>internal</source>
-        <translation>internal</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="323"/>
@@ -13346,77 +13332,77 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="76"/>
         <source>Looking for library updates...</source>
-        <translation>Looking for library updates...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="263"/>
         <source>Failed to Uninstall Library</source>
-        <translation>Failed to Uninstall Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="264"/>
         <source>The directory &apos;%1&apos; could not be removed: %2</source>
-        <translation>The directory &apos;%1&apos; could not be removed: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="457"/>
         <source>Successfully updated libraries</source>
-        <translation>Successfully updated libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="459"/>
         <source>Failed to update libraries</source>
-        <translation>Failed to update libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="542"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
-        <translation>Failed to fetch libraries from &apos;%1&apos;: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="563"/>
         <source>All libraries are up-to-date</source>
-        <translation>All libraries are up-to-date</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="565"/>
         <source>Update available for %n libraries</source>
-        <translation><numerusform>Update available for %n libraries</numerusform><numerusform>Update available for %n libraries</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="593"/>
         <source>There are %n library update(s) available for installation.</source>
-        <translation><numerusform>There are %n library update(s) available for installation.</numerusform><numerusform>There are %n library update(s) available for installation.</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="599"/>
         <source>See details in the libraries side panel, or click the button below to download &amp; install all updates.</source>
-        <translation>See details in the libraries side panel, or click the button below to download &amp; install all updates.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="601"/>
         <source>Update Libraries</source>
-        <translation>Update Libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="604"/>
         <source>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</source>
-        <translation>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="607"/>
         <source>Open Libraries Panel</source>
-        <translation>Open Libraries Panel</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="610"/>
         <source>Library Updates Available</source>
-        <translation>Library Updates Available</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="637"/>
         <source>Updating %n libraries...</source>
-        <translation><numerusform>Updating %n libraries...</numerusform><numerusform>Updating %n libraries...</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 <context>
@@ -13424,7 +13410,7 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/librarydownload.cpp" line="160"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
-        <translation>The downloaded ZIP file does not contain a LibrePCB library.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13432,14 +13418,13 @@ Do you really want to close it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="129"/>
         <source>Save Library?</source>
-        <translation>Save Library?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="130"/>
         <source>The library '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation>The library &apos;%1&apos; contains unsaved changes.
-Do you want to save them before closing it?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="161"/>
@@ -13453,12 +13438,12 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="200"/>
         <source>User name not set</source>
-        <translation>User name not set</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="201"/>
         <source>No user name is defined in the workspace settings. Please open the workspace settings to set a default user name.</source>
-        <translation>No user name is defined in the workspace settings. Please open the workspace settings to set a default user name.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="218"/>
@@ -13471,17 +13456,17 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="150"/>
         <source>Library element &apos;%1&apos; with UUID &apos;%2&apos; not found in workspace library.</source>
-        <translation>Library element &apos;%1&apos; with UUID &apos;%2&apos; not found in workspace library.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="156"/>
         <source>Please try again after the background library rescan has completed.</source>
-        <translation>Please try again after the background library rescan has completed.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="160"/>
         <source>Please make sure that all dependent libraries are installed.</source>
-        <translation>Please make sure that all dependent libraries are installed.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13498,17 +13483,17 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="394"/>
         <source>Choose Library Icon</source>
-        <translation>Choose Library Icon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="396"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation>Portable Network Graphics (*.png)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="402"/>
         <source>Could not open file</source>
-        <translation>Dosya açılamadı</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
@@ -13518,51 +13503,49 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="738"/>
         <source>Invalid Parent</source>
-        <translation>Invalid Parent</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1048"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation>Are you sure to move the following elements into the library &apos;%1&apos;?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1053"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
-        <translation>Are you sure to copy the following elements into the library &apos;%1&apos;?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1066"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
-        <translation>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
-        <translation>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1082"/>
         <source>Move %1 Elements</source>
-        <translation>Move %1 Elements</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1132"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
-        <translation>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
-
-Are you still sure to delete the following library elements?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1145"/>
         <source>This cannot be undone!</source>
-        <translation>This cannot be undone!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1149"/>
         <source>Remove %1 Elements</source>
-        <translation>Remove %1 Elements</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13575,7 +13558,7 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="40"/>
         <source>Store a snapshot of the whole project as a *.lppz archive.</source>
-        <translation>Store a snapshot of the whole project as a *.lppz archive.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="57"/>
@@ -13593,12 +13576,12 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="102"/>
         <source>Restore autosave backup?</source>
-        <translation>Restore autosave backup?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="103"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="123"/>
@@ -13619,17 +13602,17 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="249"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Copied to clipboard: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="419"/>
         <source>(press %1 to disable snap)</source>
-        <translation>(press %1 to disable snap)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="424"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
-        <translation>Press %1 to copy the value to clipboard or %2 to clear the measurement</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="429"/>
@@ -13647,19 +13630,18 @@ Are you still sure to delete the following library elements?</translation>
     <message>
         <location filename="libs/librepcb/editor/widgets/messagewidget.cpp" line="67"/>
         <source>Don&apos;t show again</source>
-        <translation>Don&apos;t show again</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation>Permanently hide this message.
-This can be reverted in the workspace settings dialog.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
         <source>Temporarily hide this message.</source>
-        <translation>Temporarily hide this message.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13667,27 +13649,27 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="14"/>
         <source>Move/Align Elements</source>
-        <translation>Move/Align Elements</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="32"/>
         <source>Reference Position (Top Left)</source>
-        <translation>Reference Position (Top Left)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="38"/>
         <source>Mode:</source>
-        <translation>Mode:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="47"/>
         <source>Absolute</source>
-        <translation>Absolute</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="57"/>
         <source>Relative</source>
-        <translation>Relative</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="66"/>
@@ -13697,7 +13679,7 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="81"/>
         <source>Center around Y-axis</source>
-        <translation>Center around Y-axis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="97"/>
@@ -13707,12 +13689,12 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="112"/>
         <source>Center around X-axis</source>
-        <translation>Center around X-axis</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="131"/>
         <source>Pitch</source>
-        <translation>Pitch</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
@@ -13722,7 +13704,7 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="174"/>
         <source>Align vertically (ΔX=0)</source>
-        <translation>Align vertically (ΔX=0)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="187"/>
@@ -13732,7 +13714,7 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="206"/>
         <source>Align horizontally (ΔY=0)</source>
-        <translation>Align horizontally (ΔY=0)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13745,7 +13727,7 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="40"/>
         <source>IPC D-356A netlist export for boards.</source>
-        <translation>IPC D-356A netlist export for boards.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="57"/>
@@ -13783,12 +13765,12 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizard.ui" line="14"/>
         <source>Create New Project</source>
-        <translation>Create New Project</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizard.cpp" line="207"/>
         <source>EAGLE import failed:</source>
-        <translation>EAGLE import failed:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13796,42 +13778,42 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="14"/>
         <source>Select EAGLE (v6 or later) project files</source>
-        <translation>Select EAGLE (v6 or later) project files</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="17"/>
         <source>Please choose the EAGLE schematic and optionally board files to import.</source>
-        <translation>Please choose the EAGLE schematic and optionally board files to import.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="26"/>
         <source>Select EAGLE schematic file</source>
-        <translation>Select EAGLE schematic file</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="39"/>
         <source>Select EAGLE board file (optional)</source>
-        <translation>Select EAGLE board file (optional)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="134"/>
         <source>Note that due to conceptual differences between EDA tools, migrations won&apos;t be perfect and you should review the result carefully. Whenever possible, creating a new project from scratch is preferred.</source>
-        <translation>Note that due to conceptual differences between EDA tools, migrations won&apos;t be perfect and you should review the result carefully. Whenever possible, creating a new project from scratch is preferred.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="69"/>
         <source>Select EAGLE Schematic</source>
-        <translation>Select EAGLE Schematic</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="91"/>
         <source>Select EAGLE Board</source>
-        <translation>Select EAGLE Board</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="141"/>
         <source>EAGLE Project Import</source>
-        <translation>EAGLE Project Import</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="160"/>
@@ -13841,22 +13823,22 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="202"/>
         <source>Parsing project...</source>
-        <translation>Parsing project...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="209"/>
         <source>Invalid file path(s).</source>
-        <translation>Invalid file path(s).</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="238"/>
         <source>Ready to import %n sheet(s) and a board.</source>
-        <translation><numerusform>Ready to import %n sheet(s) and a board.</numerusform><numerusform>Ready to import %n sheet(s) and a board.</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="240"/>
         <source>Ready to import %n sheet(s) without board.</source>
-        <translation><numerusform>Ready to import %n sheet(s) without board.</numerusform><numerusform>Ready to import %n sheet(s) without board.</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="244"/>
@@ -13869,17 +13851,17 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="14"/>
         <source>Initialization</source>
-        <translation>Initialization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="17"/>
         <source>Specify how the project should be initialized.</source>
-        <translation>Specify how the project should be initialized.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="23"/>
         <source>Add Sche&amp;matic</source>
-        <translation>Add Sche&amp;matic</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="32"/>
@@ -13896,7 +13878,7 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="69"/>
         <source>Add B&amp;oard</source>
-        <translation>Add B&amp;oard</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="99"/>
@@ -13915,7 +13897,7 @@ This can be reverted in the workspace settings dialog.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
         <source>Specify some metadata of the project to be created.</source>
-        <translation>Specify some metadata of the project to be created.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="32"/>
@@ -13936,18 +13918,17 @@ This can be reverted in the workspace settings dialog.</translation>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
         <source>Note that additional actions might be required to fully license the project.
 For more information about licensing, click on this icon.</source>
-        <translation>Note that additional actions might be required to fully license the project.
-For more information about licensing, click on this icon.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="113"/>
         <source>Path:</source>
-        <translation>Path:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="134"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be appended automatically.</source>
-        <translation>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be appended automatically.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="84"/>
@@ -13957,87 +13938,87 @@ For more information about licensing, click on this icon.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="86"/>
         <source>CC0-1.0 (no restrictions)</source>
-        <translation>CC0-1.0 (no restrictions)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="88"/>
         <source>CC-BY-4.0 (requires attribution)</source>
-        <translation>CC-BY-4.0 (requires attribution)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="91"/>
         <source>CC-BY-SA-4.0 (requires attribution + share alike)</source>
-        <translation>CC-BY-SA-4.0 (requires attribution + share alike)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="94"/>
         <source>CC-BY-NC-4.0 (requires attribution + non commercial)</source>
-        <translation>CC-BY-NC-4.0 (requires attribution + non commercial)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="96"/>
         <source>CC-BY-NC-SA-4.0 (requires attribution + non commercial + share alike)</source>
-        <translation>CC-BY-NC-SA-4.0 (requires attribution + non commercial + share alike)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="99"/>
         <source>CC-BY-NC-ND-4.0 (requires attribution + non commercial + no derivatives)</source>
-        <translation>CC-BY-NC-ND-4.0 (requires attribution + non commercial + no derivatives)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="103"/>
         <source>CC-BY-ND-4.0 (requires attribution + no derivatives)</source>
-        <translation>CC-BY-ND-4.0 (requires attribution + no derivatives)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="105"/>
         <source>TAPR-OHL-1.0</source>
-        <translation>TAPR-OHL-1.0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="107"/>
         <source>CERN-OHL-P-2.0 (permissive)</source>
-        <translation>CERN-OHL-P-2.0 (permissive)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="109"/>
         <source>CERN-OHL-W-2.0 (weakly reciprocal)</source>
-        <translation>CERN-OHL-W-2.0 (weakly reciprocal)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="111"/>
         <source>CERN-OHL-S-2.0 (strongly reciprocal)</source>
-        <translation>CERN-OHL-S-2.0 (strongly reciprocal)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="192"/>
         <source>Please enter a project name</source>
-        <translation>Please enter a project name</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="217"/>
         <source>Project&apos;s parent directory</source>
-        <translation>Project&apos;s parent directory</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="240"/>
         <source>Please enter a valid project path with &apos;%1&apos; file extension.</source>
-        <translation>Please enter a valid project path with &apos;%1&apos; file extension.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="252"/>
         <source>The selected directory is not empty.</source>
-        <translation>The selected directory is not empty.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="275"/>
         <source>Invalid filepath</source>
-        <translation>Invalid filepath</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
-        <translation>The project&apos;s directory exists already and is not empty.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14045,7 +14026,7 @@ For more information about licensing, click on this icon.</translation>
     <message>
         <location filename="libs/librepcb/editor/3d/openglscenebuilder.cpp" line="128"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14058,12 +14039,12 @@ For more information about licensing, click on this icon.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="201"/>
         <source>PCB Design Rules Name</source>
-        <translation>PCB Design Rules Name</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="202"/>
         <source>Name of the PCB design rules:</source>
-        <translation>Name of the PCB design rules:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -14071,7 +14052,7 @@ For more information about licensing, click on this icon.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="92"/>
         <source>PCB Design Rules: %1</source>
-        <translation>PCB Design Rules: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="231"/>
@@ -14084,12 +14065,12 @@ For more information about licensing, click on this icon.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="252"/>
         <source>Choose Organization Logo</source>
-        <translation>Choose Organization Logo</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="253"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation>Portable Network Graphics (*.png)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="259"/>
@@ -15604,7 +15585,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="496"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
-        <translation>The component with the UUID &quot;%1&quot; does not have any symbol.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15612,7 +15593,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="234"/>
         <source>Add Schematic Image</source>
-        <translation>Add Schematic Image</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="249"/>
@@ -15627,12 +15608,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="181"/>
         <source>Add Bus Label to Schematic</source>
-        <translation>Add Bus Label to Schematic</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="195"/>
         <source>Add Net Label to Schematic</source>
-        <translation>Add Net Label to Schematic</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="220"/>
@@ -15647,7 +15628,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="213"/>
         <source>Add text to schematic</source>
-        <translation>Add text to schematic</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="225"/>
@@ -15679,7 +15660,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="182"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="228"/>
         <source>Draw schematic polygon</source>
-        <translation>Draw schematic polygon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="198"/>
@@ -15700,13 +15681,13 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="302"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="642"/>
         <source>Invalid net name</source>
-        <translation>Invalid net name</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="303"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="644"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
-        <translation>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="430"/>
@@ -15719,7 +15700,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
         <source>Add New Bus Member</source>
-        <translation>Add New Bus Member</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="866"/>
@@ -15786,7 +15767,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1393"/>
         <source>Bus</source>
-        <translation>Bus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1400"/>
@@ -15801,12 +15782,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1402"/>
         <source>Pad(s)</source>
-        <translation>Pad(s)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1404"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
-        <translation>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15814,7 +15795,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1252"/>
         <source>Preparing schematics...</source>
-        <translation>Preparing schematics...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1252"/>
@@ -15840,12 +15821,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="14"/>
         <source>Stroke Text Properties</source>
-        <translation>Stroke Text Properties</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
-        <translation>Text:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="45"/>
@@ -15855,22 +15836,22 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="55"/>
         <source>Alignment:</source>
-        <translation>Alignment:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="65"/>
         <source>Height:</source>
-        <translation>Height:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="75"/>
         <source>Stroke Width:</source>
-        <translation>Stroke Width:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="85"/>
         <source>Letter Spacing:</source>
-        <translation>Letter Spacing:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="97"/>
@@ -15881,7 +15862,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="106"/>
         <source>Line Spacing:</source>
-        <translation>Line Spacing:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="127"/>
@@ -15896,7 +15877,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="156"/>
         <source>Auto-Rotate</source>
-        <translation>Auto-Rotate</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="165"/>
@@ -15906,7 +15887,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="174"/>
         <source>Mirror</source>
-        <translation>Mirror</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="181"/>
@@ -15924,7 +15905,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.ui" line="17"/>
         <source>Choose Symbol</source>
-        <translation>Choose Symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.ui" line="31"/>
@@ -15939,17 +15920,17 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="227"/>
         <source>Could not load symbols</source>
-        <translation>Could not load symbols</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="235"/>
         <source>No symbol selected</source>
-        <translation>No symbol selected</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="253"/>
         <source>Could not load symbol</source>
-        <translation>Could not load symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="260"/>
@@ -15959,7 +15940,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="261"/>
         <source>Please select a symbol.</source>
-        <translation>Please select a symbol.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15967,7 +15948,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="217"/>
         <source>Add Symbol Image</source>
-        <translation>Add Symbol Image</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="231"/>
@@ -15990,7 +15971,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="231"/>
         <source>Add symbol pin</source>
-        <translation>Add symbol pin</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15998,7 +15979,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="182"/>
         <source>Add symbol circle</source>
-        <translation>Add symbol circle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="194"/>
@@ -16014,7 +15995,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="254"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="347"/>
         <source>Add symbol polygon</source>
-        <translation>Add symbol polygon</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="268"/>
@@ -16131,12 +16112,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="58"/>
         <source>Component:</source>
-        <translation>Component:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="90"/>
         <source>Symbol:</source>
-        <translation>Symbol:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="176"/>
@@ -16156,7 +16137,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="206"/>
         <source>Mirror:</source>
-        <translation>Mirror:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="229"/>
@@ -16186,7 +16167,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="115"/>
         <source>symbol variant &quot;%1&quot;</source>
-        <translation>symbol variant &quot;%1&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="136"/>
@@ -16196,7 +16177,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="137"/>
         <source>Gate &apos;%1&apos;</source>
-        <translation>Gate &apos;%1&apos;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="181"/>
@@ -16216,17 +16197,17 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="228"/>
         <source>%1 gets renamed to %2</source>
-        <translation>%1 gets renamed to %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="229"/>
         <source>There is already a component with the name &apos;%1&apos; in the schematic. Do you want to swap their names?</source>
-        <translation>There is already a component with the name &apos;%1&apos; in the schematic. Do you want to swap their names?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="235"/>
         <source>Name already in use</source>
-        <translation>Name already in use</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="282"/>
@@ -16239,7 +16220,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="14"/>
         <source>Pin Properties</source>
-        <translation>Pin Properties</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="25"/>
@@ -16249,17 +16230,17 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="35"/>
         <source>Length:</source>
-        <translation>Length:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="47"/>
         <source>Move text automatically when changing the pin length.</source>
-        <translation>Move text automatically when changing the pin length.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="50"/>
         <source>Move Text</source>
-        <translation>Move Text</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="59"/>
@@ -16274,27 +16255,27 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="93"/>
         <source>Text Position:</source>
-        <translation>Text Position:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="110"/>
         <source>Text Rotation:</source>
-        <translation>Text Rotation:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="120"/>
         <source>Text Height:</source>
-        <translation>Text Height:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="130"/>
         <source>Text Alignment:</source>
-        <translation>Text Alignment:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="69"/>
         <source>(at 0° rotation)</source>
-        <translation>(at 0° rotation)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="178"/>
@@ -16323,13 +16304,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="723"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation>The symbol &apos;%1&apos; contains unsaved changes.
-Do you want to save them before closing it?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1559"/>
         <source>Edit Symbol Properties</source>
-        <translation>Edit Symbol Properties</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16337,12 +16317,12 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="14"/>
         <source>Text Properties</source>
-        <translation>Text Properties</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
-        <translation>Text:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="45"/>
@@ -16352,12 +16332,12 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
-        <translation>Alignment:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
-        <translation>Height:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="72"/>
@@ -16391,14 +16371,14 @@ Do you want to save them before closing it?</translation>
         <location filename="libs/librepcb/editor/undostack.cpp" line="159"/>
         <location filename="libs/librepcb/editor/undostack.cpp" line="197"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
-        <translation>Another command is active at the moment. Please finish that command to continue.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/undostack.cpp" line="216"/>
         <location filename="libs/librepcb/editor/undostack.cpp" line="233"/>
         <location filename="libs/librepcb/editor/undostack.cpp" line="255"/>
         <source>No command group active!</source>
-        <translation>No command group active!</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16416,78 +16396,78 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="42"/>
         <source>Language:</source>
-        <translation>Language:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="56"/>
         <source>Length Unit:</source>
-        <translation>Length Unit:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="70"/>
         <source>User Name:</source>
-        <translation>User Name:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="91"/>
         <source>e.g. &quot;John Doe&quot;</source>
         <extracomment>Example for a user name.</extracomment>
-        <translation>e.g. &quot;John Doe&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="113"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation>This name will be used as author when creating new projects or libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="125"/>
         <source>Autosave Interval:</source>
-        <translation>Autosave Interval:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="132"/>
         <source>Rendering Method:</source>
-        <translation>Rendering Method:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="139"/>
         <source>Desktop Integration:</source>
-        <translation>Desktop Integration:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="146"/>
         <source>Dismissed Messages:</source>
-        <translation>Dismissed Messages:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="178"/>
         <source>Seconds (0 = disable autosave)</source>
-        <translation>Seconds (0 = disable autosave)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="187"/>
         <source>Use OpenGL Hardware Acceleration</source>
-        <translation>Use OpenGL Hardware Acceleration</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="201"/>
         <source>Install...</source>
-        <translation>Install...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="208"/>
         <source>Uninstall...</source>
-        <translation>Uninstall...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="233"/>
         <source>Adds LibrePCB to the start menu and registers the *.lpp file extension.</source>
-        <translation>Adds LibrePCB to the start menu and registers the *.lpp file extension.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="246"/>
         <source>Appearance</source>
-        <translation>Appearance</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="285"/>
@@ -16499,37 +16479,37 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="304"/>
         <source>Schematics:</source>
-        <translation>Schematics:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="311"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="364"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="477"/>
         <source>Modify (only for user-defined color schemes)</source>
-        <translation>Modify (only for user-defined color schemes)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="347"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="422"/>
         <source>Grid:</source>
-        <translation>Grid:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="357"/>
         <source>Theme:</source>
-        <translation>Theme:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="388"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="463"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="491"/>
         <source>Remove (only for user-defined color schemes)</source>
-        <translation>Remove (only for user-defined color schemes)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="510"/>
         <source>3D Views:</source>
-        <translation>3D Views:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="546"/>
@@ -16539,7 +16519,7 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="570"/>
         <source>Library</source>
-        <translation>Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="579"/>
@@ -16558,32 +16538,32 @@ Do you want to save them before closing it?</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="622"/>
         <source>External Applications</source>
-        <translation>External Applications</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="675"/>
         <source>Custom command(s):</source>
-        <translation>Custom command(s):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="707"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
-        <translation>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="723"/>
         <source>Keyboard Shortcuts</source>
-        <translation>Keyboard Shortcuts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="788"/>
         <source>Type to filter...</source>
-        <translation>Type to filter...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="799"/>
         <source>Internet Access</source>
-        <translation>Internet Access</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="805"/>
@@ -16592,36 +16572,32 @@ Do you want to save them before closing it?</translation>
 &lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
 To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;body&gt;
-&lt;p&gt;API endpoints are used to access online services, for example to download libraries from the Internet.&lt;/p&gt;
-&lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
-To completely disable Internet access, just remove all entries.&lt;/p&gt;
-&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="831"/>
         <source>Automatic Library Updates:</source>
-        <translation>Automatic Library Updates:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="854"/>
         <source>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="857"/>
         <source>Auto-Fetch Live Part Information</source>
-        <translation>Auto-Fetch Live Part Information</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="89"/>
         <source>System Theme</source>
-        <translation>System Theme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
         <source>System Language</source>
-        <translation>System Language</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="149"/>
@@ -16632,45 +16608,45 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="162"/>
         <source>Click here to add a locale</source>
-        <translation>Click here to add a locale</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="186"/>
         <source>Click here to add a norm</source>
-        <translation>Click here to add a norm</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="235"/>
         <source>Absolute path to the file to open</source>
         <comment>Description for '{{FILEPATH}}' placeholder</comment>
-        <translation>Absolute path to the file to open</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="239"/>
         <source>URL to the file to open (file://)</source>
         <comment>Description for '{{URL}}' placeholder</comment>
-        <translation>URL to the file to open (file://)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="246"/>
         <source>Web Browser</source>
-        <translation>Web Browser</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="252"/>
         <source>Website URL to open</source>
         <comment>Description for '{{URL}}' placeholder</comment>
-        <translation>Website URL to open</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="258"/>
         <source>File Manager</source>
-        <translation>File Manager</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="268"/>
         <source>PDF Reader</source>
-        <translation>PDF Reader</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="346"/>
@@ -16687,51 +16663,49 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="385"/>
         <source>Dots</source>
         <comment>Grid style</comment>
-        <translation>Dots</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="387"/>
         <source>Lines</source>
         <comment>Grid style</comment>
-        <translation>Lines</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="406"/>
         <source>Disabled</source>
         <comment>Update mode</comment>
-        <translation>Disabled</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="409"/>
         <source>Check (Silent)</source>
         <comment>Update mode</comment>
-        <translation>Check (Silent)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="412"/>
         <source>Check &amp; Notify</source>
         <comment>Update mode</comment>
-        <translation>Check &amp; Notify</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="415"/>
         <source>Check &amp; Install</source>
         <comment>Update mode</comment>
-        <translation>Check &amp; Install</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="468"/>
         <source>Restore default settings</source>
-        <translation>Restore default settings</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="469"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation>Are you sure to reset all settings to their default values?
-
-Attention: This will be applied immediately and cannot be undone!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="508"/>
@@ -16741,22 +16715,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="509"/>
         <source>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</source>
-        <translation>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="537"/>
         <source>Example:</source>
-        <translation>Example:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="564"/>
         <source>Select executable</source>
-        <translation>Select executable</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="589"/>
         <source>Available placeholders:</source>
-        <translation>Available placeholders:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="678"/>
@@ -16766,27 +16740,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="681"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="684"/>
         <source>Currently there are %1 dismissed message(s).</source>
-        <translation><numerusform>Currently there are %1 dismissed message(s).</numerusform><numerusform>Currently there are %1 dismissed message(s).</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="693"/>
         <source>Installed</source>
-        <translation>Installed</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="698"/>
         <source>Other application installed</source>
-        <translation>Other application installed</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="704"/>
         <source>Not installed</source>
-        <translation>Not installed</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16794,57 +16768,57 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="14"/>
         <source>Zone Properties</source>
-        <translation>Zone Properties</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="27"/>
         <source>Rules</source>
-        <translation>Rules</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
         <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
-        <translation>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
         <source>No copper (except planes)</source>
-        <translation>No copper (except planes)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
         <source>Prevent copper planes from flooding this zone.</source>
-        <translation>Prevent copper planes from flooding this zone.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
         <source>No planes</source>
-        <translation>No planes</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
         <source>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</source>
-        <translation>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
         <source>No exposure</source>
-        <translation>No exposure</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
         <source>Raise a DRC error if there are any devices placed in this zone.</source>
-        <translation>Raise a DRC error if there are any devices placed in this zone.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
         <source>No devices</source>
-        <translation>No devices</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
         <source>Options</source>
-        <translation>Options</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
@@ -16859,17 +16833,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="67"/>
         <source>Inner Layers</source>
-        <translation>Inner Layers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="69"/>
         <source>Top Side</source>
-        <translation>Top Side</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="71"/>
         <source>Bottom Side</source>
-        <translation>Bottom Side</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="228"/>
@@ -16882,58 +16856,58 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="535"/>
         <source>Found %1 symbol libraries.</source>
-        <translation>Found %1 symbol libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="536"/>
         <source>Found %1 footprints in %2 libraries.</source>
-        <translation>Found %1 footprints in %2 libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="539"/>
         <source>Found %1 STEP files in %2 libraries.</source>
-        <translation>Found %1 STEP files in %2 libraries.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="559"/>
         <source>Waiting for background library scan to finish...</source>
-        <translation>Waiting for background library scan to finish...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="566"/>
         <source>Parsing libraries...</source>
-        <translation>Parsing libraries...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="686"/>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="976"/>
         <source>Aborted.</source>
-        <translation>Aborted.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="689"/>
         <source>Found %1 symbols and %2 footprints.</source>
-        <translation>Found %1 symbols and %2 footprints.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="694"/>
         <source>Due to the large amount of elements, please be patient during the following steps.</source>
-        <translation>Due to the large amount of elements, please be patient during the following steps.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="697"/>
         <source>Please review the messages (if any) before continuing.</source>
-        <translation>Please review the messages (if any) before continuing.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="714"/>
         <source>Importing libraries...</source>
-        <translation>Importing libraries...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="824"/>
         <source>Skipped footprint due to error: %1</source>
-        <translation>Skipped footprint due to error: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="879"/>
@@ -16953,22 +16927,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="964"/>
         <source>Skipped symbol library due to error: %1</source>
-        <translation>Skipped symbol library due to error: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="980"/>
         <source>Done! Please check all messages (if any) before proceeding.</source>
-        <translation>Done! Please check all messages (if any) before proceeding.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="982"/>
         <source>Note that the importer might not cover all cases correctly yet.</source>
-        <translation>Note that the importer might not cover all cases correctly yet.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="983"/>
         <source>If you experience any issue, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt;. Thanks!</source>
-        <translation>If you experience any issue, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt;. Thanks!</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="989"/>
@@ -16982,12 +16956,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="apps/librepcb/main.cpp" line="287"/>
         <source>Unstable file format!</source>
-        <translation>Unstable file format!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="apps/librepcb/main.cpp" line="288"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -16996,13 +16970,13 @@ Attention: This will be applied immediately and cannot be undone!</translation>
         <location filename="share/applications/org.librepcb.LibrePCB.desktop.i18n" line="1"/>
         <source>Design Schematics and PCBs</source>
         <comment>Comment key of *.desktop file</comment>
-        <translation>Design Schematics and PCBs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="share/applications/org.librepcb.LibrePCB.desktop.i18n" line="2"/>
         <source>PCB Designer</source>
         <comment>GenericName key of *.desktop file</comment>
-        <translation>PCB Designer</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17010,7 +16984,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="tests/unittests/core/applicationtest.cpp" line="48"/>
         <source>File</source>
-        <translation>File</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17018,62 +16992,62 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="126"/>
         <source>View Source Code</source>
-        <translation>View Source Code</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="127"/>
         <source>Open the source code in the web browser</source>
-        <translation>Open the source code in the web browser</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="166"/>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="167"/>
         <source>(please copy this into bug reports)</source>
-        <translation>(please copy this into bug reports)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="198"/>
         <source>Credits</source>
-        <translation>Credits</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
-        <translation>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="207"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
-        <translation>Many thanks to all the people supporting LibrePCB either directly or indirectly!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="221"/>
         <source>For the list of current sponsors, see %1.</source>
-        <translation>For the list of current sponsors, see %1.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="256"/>
         <source>License</source>
-        <translation>License</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="268"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
-        <translation>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="71"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
-        <translation>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="72"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
-        <translation>Please consider supporting our hard work with a donation ‒ thank you.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17081,7 +17055,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/addcomponenttoolbar.slint" line="20"/>
         <source>Enter value here...</source>
-        <translation>Enter value here...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17089,7 +17063,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintholetoolbar.slint" line="17"/>
         <source>Hole Diameter</source>
-        <translation>Hole Diameter</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17097,32 +17071,32 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="118"/>
         <source>Drill Diameter</source>
-        <translation>Drill Diameter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="143"/>
         <source>Corner Radius</source>
-        <translation>Corner Radius</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
         <source>Press-Fit</source>
-        <translation>Press-Fit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="164"/>
         <source>Mark this pad as a press-fit pad</source>
-        <translation>Mark this pad as a press-fit pad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="48"/>
         <source>Board Side</source>
-        <translation>Board Side</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
         <source>Diameter</source>
-        <translation>Diameter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
@@ -17132,7 +17106,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
         <source>Copper Clearance</source>
-        <translation>Copper Clearance</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
@@ -17145,17 +17119,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="35"/>
         <source>Enter text here...</source>
-        <translation>Enter text here...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="46"/>
         <source>Text Height</source>
-        <translation>Text Height</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="69"/>
         <source>Stroke Width</source>
-        <translation>Stroke Width</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17163,7 +17137,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addholetoolbar.slint" line="17"/>
         <source>Via Drill Diameter</source>
-        <translation>Via Drill Diameter</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17171,32 +17145,32 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="117"/>
         <source>Drill Diameter</source>
-        <translation>Drill Diameter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="142"/>
         <source>Corner Radius</source>
-        <translation>Corner Radius</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
         <source>Press-Fit</source>
-        <translation>Press-Fit</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="163"/>
         <source>Mark this pad as a press-fit pad</source>
-        <translation>Mark this pad as a press-fit pad</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="47"/>
         <source>Board Side</source>
-        <translation>Board Side</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
         <source>Diameter</source>
-        <translation>Diameter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
@@ -17206,7 +17180,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
         <source>Copper Clearance</source>
-        <translation>Copper Clearance</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
@@ -17219,17 +17193,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="32"/>
         <source>Enter text here...</source>
-        <translation>Enter text here...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="43"/>
         <source>Text Height</source>
-        <translation>Text Height</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="65"/>
         <source>Mirror Text</source>
-        <translation>Mirror Text</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17237,12 +17211,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="23"/>
         <source>Pin Name</source>
-        <translation>Pin Name</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="33"/>
         <source>Pin Length</source>
-        <translation>Pin Length</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="55"/>
@@ -17255,12 +17229,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="34"/>
         <source>Enter text here...</source>
-        <translation>Enter text here...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="45"/>
         <source>Text Height</source>
-        <translation>Text Height</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17268,12 +17242,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="31"/>
         <source>Enter text here...</source>
-        <translation>Enter text here...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="42"/>
         <source>Text Height</source>
-        <translation>Text Height</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17281,32 +17255,32 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="33"/>
         <source>Via Drill Diameter</source>
-        <translation>Via Drill Diameter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="72"/>
         <source>Set as Default in Board</source>
-        <translation>Set as Default in Board</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="73"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation>Saves the entered value in the board design rules as default value</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="82"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
-        <translation>Set as Default in Net Class &apos;%1&apos;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="83"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation>Saves the entered value as default value for the current net class</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="96"/>
         <source>Via Outer Diameter</source>
-        <translation>Via Outer Diameter</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17314,7 +17288,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="532"/>
         <source>Assembly Service:</source>
-        <translation>Assembly Service:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17322,7 +17296,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="419"/>
         <source>Assembly:</source>
-        <translation>Assembly:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17330,12 +17304,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/attributelistview.slint" line="122"/>
         <source>(no value set)</source>
-        <translation>(no value set)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/attributelistview.slint" line="53"/>
         <source>Type to add a new attribute...</source>
-        <translation>Type to add a new attribute...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17359,12 +17333,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="193"/>
         <source>Empty Schematics</source>
-        <translation>Empty Schematics</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="199"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
-        <translation>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="209"/>
@@ -17374,17 +17348,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="228"/>
         <source>Set Up Design Rules</source>
-        <translation>Set Up Design Rules</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="234"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
-        <translation>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="257"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
-        <translation>Default rules, suitable for most PCB manufacturers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="331"/>
@@ -17394,27 +17368,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="337"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
-        <translation>Start designing the board by placing all devices which are part of the schematics.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
         <source>Select an unplaced component in the list.</source>
-        <translation>Select an unplaced component in the list.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
         <source>Choose the desired device (which defines the package to use).</source>
-        <translation>Choose the desired device (which defines the package to use).</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
-        <translation>Choose the desired footprint variant if there are multiple.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="365"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
-        <translation>Confirm with the button and place the device interactively with the cursor.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="372"/>
@@ -17424,22 +17398,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="386"/>
         <source>Learn how to create boards</source>
-        <translation>Learn how to create boards</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="644"/>
         <source>Background Image</source>
-        <translation>Background Image</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
         <source>DRC Messages: %1</source>
-        <translation>DRC Messages: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="703"/>
         <source>Unplaced: %1</source>
-        <translation>Unplaced: %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17452,17 +17426,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="113"/>
         <source>Solder Paste</source>
-        <translation>Solder Paste</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="126"/>
         <source>Silkscreen</source>
-        <translation>Silkscreen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="139"/>
         <source>Solder Resist</source>
-        <translation>Solder Resist</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17470,27 +17444,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="16"/>
         <source>If you are 100%% sure that this library element is not referenced from any other library elements or projects yet, you may click &amp; hold this button to remove the write protection. In case it is already used, this can end up in a fiasco! If in doubt, create a duplicate.</source>
-        <translation>If you are 100%% sure that this library element is not referenced from any other library elements or projects yet, you may click &amp; hold this button to remove the write protection. In case it is already used, this can end up in a fiasco! If in doubt, create a duplicate.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="34"/>
         <source>Attention</source>
-        <translation>Attention</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="34"/>
         <source>Some of the applied modifications are not backward-compatible!</source>
-        <translation>Some of the applied modifications are not backward-compatible!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="44"/>
         <source>To avoid breaking other library elements or projects which reference this element, the editor has been put into read-only mode and saving is not possible anymore. Either undo the breaking changes, or duplicate this library element and make the modifications in the new library element.</source>
-        <translation>To avoid breaking other library elements or projects which reference this element, the editor has been put into read-only mode and saving is not possible anymore. Either undo the breaking changes, or duplicate this library element and make the modifications in the new library element.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="66"/>
         <source>You have removed the write protection. Keep in mind: With great power comes great responsibility!</source>
-        <translation>You have removed the write protection. Keep in mind: With great power comes great responsibility!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="77"/>
@@ -17500,12 +17474,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="78"/>
         <source>Create a new library element by duplicating this one</source>
-        <translation>Create a new library element by duplicating this one</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="88"/>
         <source>Unlock</source>
-        <translation>Unlock</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17513,7 +17487,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="385"/>
         <source>Add Category</source>
-        <translation>Add Category</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17521,7 +17495,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="280"/>
         <source>Categories:</source>
-        <translation>Categories:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17529,12 +17503,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="164"/>
         <source>Attention</source>
-        <translation>Attention</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="164"/>
         <source>This library element contains serious errors. Please review them in the rule check panel.</source>
-        <translation>This library element contains serious errors. Please review them in the rule check panel.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17542,12 +17516,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/lib/chooselibrarydialog.slint" line="65"/>
         <source>The workspace contains no local libraries. To allow selecting a library, create a local library in the library manager first.</source>
-        <translation>The workspace contains no local libraries. To allow selecting a library, create a local library in the library manager first.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/chooselibrarydialog.slint" line="70"/>
         <source>The workspace contains no other local libraries.</source>
-        <translation>The workspace contains no other local libraries.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17555,7 +17529,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="229"/>
         <source>Color Scheme</source>
-        <translation>Color Scheme</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="312"/>
@@ -17565,22 +17539,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="491"/>
         <source>Primary Color</source>
-        <translation>Primary Color</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="504"/>
         <source>Copy primary color to secondary</source>
-        <translation>Copy primary color to secondary</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="523"/>
         <source>Secondary Color</source>
-        <translation>Secondary Color</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="627"/>
         <source>Reset to Default</source>
-        <translation>Reset to Default</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="645"/>
@@ -17590,7 +17564,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/colorschemedialog.slint" line="655"/>
         <source>Copy all Colors Into Clipboard</source>
-        <translation>Copy all Colors Into Clipboard</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18119,12 +18093,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="336"/>
         <source>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</source>
-        <translation>Define the pinout, i.e. connect package pads with component signals. This can be done either manually pad-by-pad or in an automated way by using one of the buttons below.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="344"/>
         <source>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</source>
-        <translation>Optionally, specify concrete part numbers of this device. These can then be used to generate a bill of materials (BOM) from a project.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="427"/>
@@ -18152,7 +18126,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="34"/>
         <source>Choose %1</source>
-        <translation>Choose %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="76"/>
@@ -18165,7 +18139,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="56"/>
         <source>Select the package &amp; component of the new device.</source>
-        <translation>Select the package &amp; component of the new device.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="93"/>
@@ -18186,7 +18160,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="117"/>
         <source>Specify the metadata of the device. Some values have already been initialized from the selected package &amp; component, you may need to adjust it accordingly.</source>
-        <translation>Specify the metadata of the device. Some values have already been initialized from the selected package &amp; component, you may need to adjust it accordingly.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18194,62 +18168,62 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="190"/>
         <source>Pinout</source>
-        <translation>Pinout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="198"/>
         <source>Pad %1/%2</source>
-        <translation>Pad %1/%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="209"/>
         <source>Open Datasheet</source>
-        <translation>Open Datasheet</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="224"/>
         <source>Reset All Connections</source>
-        <translation>Reset All Connections</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="226"/>
         <source>Reset all pads to &apos;unconnected&apos; state</source>
-        <translation>Reset all pads to &apos;unconnected&apos; state</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="239"/>
         <source>Exit Interactive Mode</source>
-        <translation>Exit Interactive Mode</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="281"/>
         <source>Type to filter signals...</source>
-        <translation>Type to filter signals...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="375"/>
         <source>The package contains no pads, thus the pinout is empty.</source>
-        <translation>The package contains no pads, thus the pinout is empty.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="379"/>
         <source>Auto-Connect By Names</source>
-        <translation>Auto-Connect By Names</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="381"/>
         <source>Try to automatically connect pads to signals by their name</source>
-        <translation>Try to automatically connect pads to signals by their name</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="390"/>
         <source>Connect Interactively</source>
-        <translation>Connect Interactively</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="392"/>
         <source>Connect the remaining pads one by one in an interactive mode</source>
-        <translation>Connect the remaining pads one by one in an interactive mode</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="401"/>
@@ -18259,7 +18233,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="403"/>
         <source>Import the pinout from a CSV file with these columns:</source>
-        <translation>Import the pinout from a CSV file with these columns:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18267,27 +18241,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="31"/>
         <source>Next/previous signal:</source>
-        <translation>Next/previous signal:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="43"/>
         <source>Select \&quot;(unconnected)\&quot;:</source>
-        <translation>Select \&quot;(unconnected)\&quot;:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="55"/>
         <source>Confirm selected signal:</source>
-        <translation>Confirm selected signal:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="67"/>
         <source>Exit interactive mode:</source>
-        <translation>Exit interactive mode:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="79"/>
         <source>Or assign by mouse:</source>
-        <translation>Or assign by mouse:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18300,7 +18274,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicetab.slint" line="539"/>
         <source>Pinout &amp; Parts</source>
-        <translation>Pinout &amp; Parts</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18308,7 +18282,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="112"/>
         <source>Open 3D View</source>
-        <translation>Open 3D View</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18316,7 +18290,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="12"/>
         <source>Donate</source>
-        <translation>Donate</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18324,7 +18298,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="127"/>
         <source>URL does not seem to point to a ZIP file. Consider using this URL instead:</source>
-        <translation>URL does not seem to point to a ZIP file. Consider using this URL instead:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="147"/>
@@ -18344,12 +18318,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="56"/>
         <source>Download &amp; install a library by URL</source>
-        <translation>Download &amp; install a library by URL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="66"/>
         <source>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</source>
-        <translation>Please note that this is not the preferred way to install libraries as they won&apos;t be kept up to date. For our official libraries, it&apos;s recommended to install them from the libraries panel instead, which allows to keep libraries up to date.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="84"/>
@@ -18359,7 +18333,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/downloadlibrarytab.slint" line="92"/>
         <source>URL to a zipped library (*.zip)</source>
-        <translation>URL to a zipped library (*.zip)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18367,22 +18341,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="36"/>
         <source>Line Width</source>
-        <translation>Line Width</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="58"/>
         <source>Arc Angle</source>
-        <translation>Arc Angle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="76"/>
         <source>Fill Area</source>
-        <translation>Fill Area</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="77"/>
         <source>Fill the polygon with its outline color (only when closed)</source>
-        <translation>Fill the polygon with its outline color (only when closed)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="88"/>
@@ -18392,7 +18366,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="89"/>
         <source>Allow grabbing the footprint within the polygon&apos;s area</source>
-        <translation>Allow grabbing the footprint within the polygon&apos;s area</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18410,7 +18384,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="22"/>
         <source>Inner</source>
-        <translation>Inner</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="26"/>
@@ -18420,22 +18394,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="43"/>
         <source>Keepout</source>
-        <translation>Keepout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="46"/>
         <source>Copper</source>
-        <translation>Copper</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="50"/>
         <source>Planes</source>
-        <translation>Planes</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="54"/>
         <source>Exposures</source>
-        <translation>Exposures</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="58"/>
@@ -18445,7 +18419,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/drawfootprintzonetoolbar.slint" line="78"/>
         <source>Arc Angle</source>
-        <translation>Arc Angle</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18453,12 +18427,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawplanetoolbar.slint" line="35"/>
         <source>Auto-Add</source>
-        <translation>Auto-Add</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawplanetoolbar.slint" line="36"/>
         <source>Automatically add a plane that covers the full board</source>
-        <translation>Automatically add a plane that covers the full board</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18467,18 +18441,18 @@ Attention: This will be applied immediately and cannot be undone!</translation>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="32"/>
         <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="31"/>
         <source>Line Width</source>
-        <translation>Line Width</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="54"/>
         <source>Arc Angle</source>
-        <translation>Arc Angle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="72"/>
         <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="53"/>
         <source>Fill Area</source>
-        <translation>Fill Area</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18486,22 +18460,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="35"/>
         <source>Line Width</source>
-        <translation>Line Width</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="57"/>
         <source>Arc Angle</source>
-        <translation>Arc Angle</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="75"/>
         <source>Fill Area</source>
-        <translation>Fill Area</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="76"/>
         <source>Fill the polygon with its outline color (only when closed)</source>
-        <translation>Fill the polygon with its outline color (only when closed)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="87"/>
@@ -18511,7 +18485,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="88"/>
         <source>Allow grabbing the symbol within the polygon&apos;s area</source>
-        <translation>Allow grabbing the symbol within the polygon&apos;s area</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18519,41 +18493,41 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="162"/>
         <source>Via Outer Diameter</source>
-        <translation>Via Outer Diameter</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="36"/>
         <source>Trace Width</source>
-        <translation>Trace Width</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="75"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="138"/>
         <source>Set as Default in Board</source>
-        <translation>Set as Default in Board</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="76"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="139"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation>Saves the entered value in the board design rules as default value</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="85"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="148"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
-        <translation>Set as Default in Net Class &apos;%1&apos;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="86"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="149"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation>Saves the entered value as default value for the current net class</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="99"/>
         <source>Via Drill Diameter</source>
-        <translation>Via Drill Diameter</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18561,22 +18535,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="28"/>
         <source>Keepout</source>
-        <translation>Keepout</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="31"/>
         <source>Copper</source>
-        <translation>Copper</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="35"/>
         <source>Planes</source>
-        <translation>Planes</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="39"/>
         <source>Exposures</source>
-        <translation>Exposures</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="43"/>
@@ -18586,7 +18560,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawzonetoolbar.slint" line="63"/>
         <source>Arc Angle</source>
-        <translation>Arc Angle</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18602,17 +18576,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="142"/>
         <source>This library element has been duplicated. Mark it as deprecated?</source>
-        <translation>This library element has been duplicated. Mark it as deprecated?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="149"/>
         <source>Deprecate</source>
-        <translation>Deprecate</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="150"/>
         <source>Mark this library element as deprecated</source>
-        <translation>Mark this library element as deprecated</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="158"/>
@@ -18625,22 +18599,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="182"/>
         <source>The files have been modified on disk. It is recommended to close and reopen this tab to see the modifications.</source>
-        <translation>The files have been modified on disk. It is recommended to close and reopen this tab to see the modifications.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="190"/>
         <source>Note that the reload feature is currently considered experimental.</source>
-        <translation>Note that the reload feature is currently considered experimental.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="197"/>
         <source>Reload</source>
-        <translation>Reload</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/messagebanners.slint" line="198"/>
         <source>Discard modifications (if any) and reload the modified files from disk</source>
-        <translation>Discard modifications (if any) and reload the modified files from disk</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18648,7 +18622,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/filtertermedit.slint" line="23"/>
         <source>Filter:</source>
-        <translation>Filter:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18656,7 +18630,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="79"/>
         <source>Toggle Visibility</source>
-        <translation>Toggle Visibility</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18669,32 +18643,32 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="149"/>
         <source>Top Layers</source>
-        <translation>Top Layers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="160"/>
         <source>Bottom Layers</source>
-        <translation>Bottom Layers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="171"/>
         <source>Top + Bottom Layers</source>
-        <translation>Top + Bottom Layers</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="182"/>
         <source>Show All</source>
-        <translation>Show All</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="193"/>
         <source>Hide All</source>
-        <translation>Hide All</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/graphicslayerspanel.slint" line="204"/>
         <source>Layer Setup</source>
-        <translation>Layer Setup</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18720,52 +18694,52 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="212"/>
         <source>Electrical Rule Check</source>
-        <translation>Electrical Rule Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="214"/>
         <source>Design Rule Check</source>
-        <translation>Design Rule Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="216"/>
         <source>Library Check</source>
-        <translation>Library Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="218"/>
         <source>Component Category Check</source>
-        <translation>Component Category Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="220"/>
         <source>Package Category Check</source>
-        <translation>Package Category Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="222"/>
         <source>Symbol Check</source>
-        <translation>Symbol Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="224"/>
         <source>Package Check</source>
-        <translation>Package Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="226"/>
         <source>Component Check</source>
-        <translation>Component Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="228"/>
         <source>Device Check</source>
-        <translation>Device Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/api/helpers.slint" line="230"/>
         <source>Organization Check</source>
-        <translation>Organization Check</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18773,12 +18747,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="229"/>
         <source>Quick Access</source>
-        <translation>Quick Access</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="249"/>
         <source>Workspace Projects</source>
-        <translation>Workspace Projects</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18786,27 +18760,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="135"/>
         <source>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</source>
-        <translation>Support the LibrePCB project with a donation to keep the development and maintenance ongoing ‒ Thank you!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="38"/>
         <source>Get Started With LibrePCB</source>
-        <translation>Get Started With LibrePCB</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="69"/>
         <source>Video Tutorials</source>
-        <translation>Video Tutorials</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="70"/>
         <source>Open video tutorials in the web browser</source>
-        <translation>Open video tutorials in the web browser</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/hometab.slint" line="81"/>
         <source>User Manual &amp; Getting Started Guide</source>
-        <translation>User Manual &amp; Getting Started Guide</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18814,12 +18788,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="69"/>
         <source>Click to change the icon.</source>
-        <translation>Click to change the icon.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="69"/>
         <source>Preferred:</source>
-        <translation>Preferred:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18827,7 +18801,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="35"/>
         <source>Icon:</source>
-        <translation>Icon:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18835,22 +18809,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="19"/>
         <source>IPC Density Level A (max protrusion)</source>
-        <translation>IPC Density Level A (max protrusion)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="21"/>
         <source>IPC Density Level B (medium protrusion)</source>
-        <translation>IPC Density Level B (medium protrusion)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="23"/>
         <source>IPC Density Level C (min protrusion)</source>
-        <translation>IPC Density Level C (min protrusion)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/ipcdensitylevelselector.slint" line="25"/>
         <source>No density level preference</source>
-        <translation>No density level preference</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18858,7 +18832,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="83"/>
         <source>Keywords:</source>
-        <translation>Keywords:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18866,22 +18840,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="553"/>
         <source>Local Libraries</source>
-        <translation>Local Libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="568"/>
         <source>Remote Libraries</source>
-        <translation>Remote Libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="615"/>
         <source>Pending Operations</source>
-        <translation>Pending Operations</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
-        <translation>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
@@ -18891,12 +18865,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
         <source>Apply</source>
-        <translation>Uygula</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
         <source>Apply %n Modification(s)</source>
-        <translation><numerusform>Apply %n Modification(s)</numerusform><numerusform>Apply %n Modification(s)</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="702"/>
@@ -18909,42 +18883,42 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="337"/>
         <source>Toggle All</source>
-        <translation>Toggle All</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="364"/>
         <source>Download a Library by URL</source>
-        <translation>Download a Library by URL</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="376"/>
         <source>Create a New Library</source>
-        <translation>Create a New Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="389"/>
         <source>Check For Updates</source>
-        <translation>Check For Updates</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="402"/>
         <source>Cancel Update Check</source>
-        <translation>Cancel Update Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="431"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
-        <translation>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="443"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
-        <translation>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="454"/>
         <source>No libraries matching the filter.</source>
-        <translation>No libraries matching the filter.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18952,37 +18926,37 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="536"/>
         <source>New Component Category</source>
-        <translation>New Component Category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="546"/>
         <source>New Package Category</source>
-        <translation>New Package Category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="627"/>
         <source>The selected category does not contain any library elements.</source>
-        <translation>The selected category does not contain any library elements.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="651"/>
         <source>New Device</source>
-        <translation>New Device</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="660"/>
         <source>New Component</source>
-        <translation>New Component</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="670"/>
         <source>New Symbol</source>
-        <translation>New Symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="679"/>
         <source>New Package</source>
-        <translation>New Package</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -18990,12 +18964,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="337"/>
         <source>Import %1 Libraries</source>
-        <translation>Import %1 Libraries</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="350"/>
         <source>Start populating this library by importing %1 library elements.</source>
-        <translation>Start populating this library by importing %1 library elements.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19021,22 +18995,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="237"/>
         <source>Uninstall</source>
-        <translation>Uninstall</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="71"/>
         <source>Duplicate, will be removed</source>
-        <translation>Duplicate, will be removed</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="76"/>
         <source>Outdated:</source>
-        <translation>Outdated:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="81"/>
         <source>Up-to-date:</source>
-        <translation>Up-to-date:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19044,12 +19018,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="204"/>
         <source>Check this if this library should no longer be used.</source>
-        <translation>Check this if this library should no longer be used.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="254"/>
         <source>If this is a manufacturer-specific library (optional)</source>
-        <translation>If this is a manufacturer-specific library (optional)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19057,17 +19031,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="11"/>
         <source>%n approved message(s)</source>
-        <translation><numerusform>%n approved message(s)</numerusform><numerusform>%n approved message(s)</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="13"/>
         <source>All checks passed!</source>
-        <translation>All checks passed!</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/libraryrulechecklink.slint" line="9"/>
         <source>%n warning(s)</source>
-        <translation><numerusform>%n warning(s)</numerusform><numerusform>%n warning(s)</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
 </context>
 <context>
@@ -19075,17 +19049,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="282"/>
         <source>Close Library</source>
-        <translation>Close Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="283"/>
         <source>Close this library and all its opened tabs</source>
-        <translation>Close this library and all its opened tabs</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/documentspanel.slint" line="301"/>
         <source>Library Overview</source>
-        <translation>Library Overview</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19098,12 +19072,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="758"/>
         <source>Import</source>
-        <translation>Import</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="759"/>
         <source>Library Content</source>
-        <translation>Library Content</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19111,22 +19085,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="176"/>
         <source>All Elements</source>
-        <translation>All Elements</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="178"/>
         <source>Uncategorized</source>
-        <translation>Uncategorized</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="180"/>
         <source>Component Categories</source>
-        <translation>Component Categories</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="182"/>
         <source>Package Categories</source>
-        <translation>Package Categories</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="184"/>
@@ -19151,7 +19125,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="192"/>
         <source>Organizations</source>
-        <translation>Organizations</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="212"/>
@@ -19164,27 +19138,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="460"/>
         <source>%n selected item(s)</source>
-        <translation><numerusform>%n selected item(s)</numerusform><numerusform>%n selected item(s)</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="474"/>
         <source>Copy to Other Library</source>
-        <translation>Copy to Other Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="476"/>
         <source>Copy library element(s) to another library while keeping all UUIDs, e.g. for overriding a read-only element</source>
-        <translation>Copy library element(s) to another library while keeping all UUIDs, e.g. for overriding a read-only element</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="483"/>
         <source>Move to Other Library</source>
-        <translation>Move to Other Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/lib/librarytab.slint" line="485"/>
         <source>Move library element(s) to another library</source>
-        <translation>Move library element(s) to another library</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19192,22 +19166,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="26"/>
         <source>Uninstall %1</source>
-        <translation>Uninstall %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="35"/>
         <source>Attention</source>
-        <translation>Attention</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="35"/>
         <source>This will remove the whole library directory and is not reversible:</source>
-        <translation>This will remove the whole library directory and is not reversible:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="47"/>
         <source>Are you really sure to remove &apos;%1&apos;?</source>
-        <translation>Are you really sure to remove &apos;%1&apos;?</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19215,12 +19189,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1004"/>
         <source>New Device</source>
-        <translation>New Device</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1014"/>
         <source>New Organization</source>
-        <translation>New Organization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1026"/>
@@ -19230,47 +19204,47 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1045"/>
         <source>Save Category</source>
-        <translation>Save Category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1055"/>
         <source>Close Category</source>
-        <translation>Close Category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1056"/>
         <source>Close the currently opened category</source>
-        <translation>Close the currently opened category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1081"/>
         <source>Symbol</source>
-        <translation>Symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1100"/>
         <source>Save Symbol</source>
-        <translation>Save Symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1110"/>
         <source>Close Symbol</source>
-        <translation>Close Symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1111"/>
         <source>Close the currently opened symbol</source>
-        <translation>Close the currently opened symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1121"/>
         <source>Reload Symbol From Disk</source>
-        <translation>Reload Symbol From Disk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1122"/>
         <source>Discard all modifications and reload the currently opened symbol from disk</source>
-        <translation>Discard all modifications and reload the currently opened symbol from disk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1143"/>
@@ -19280,27 +19254,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1162"/>
         <source>Save Package</source>
-        <translation>Save Package</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1172"/>
         <source>Close Package</source>
-        <translation>Close Package</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1173"/>
         <source>Close the currently opened package</source>
-        <translation>Close the currently opened package</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1183"/>
         <source>Reload Package From Disk</source>
-        <translation>Reload Package From Disk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1184"/>
         <source>Discard all modifications and reload the currently opened package from disk</source>
-        <translation>Discard all modifications and reload the currently opened package from disk</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1205"/>
@@ -19310,72 +19284,72 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1224"/>
         <source>Save Component</source>
-        <translation>Save Component</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1234"/>
         <source>Close Component</source>
-        <translation>Close Component</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1235"/>
         <source>Close the currently opened component</source>
-        <translation>Close the currently opened component</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1256"/>
         <source>Device</source>
-        <translation>Device</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1275"/>
         <source>Save Device</source>
-        <translation>Save Device</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1285"/>
         <source>Close Device</source>
-        <translation>Close Device</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1286"/>
         <source>Close the currently opened device</source>
-        <translation>Close the currently opened device</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1307"/>
         <source>Organization</source>
-        <translation>Organization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1326"/>
         <source>Save Organization</source>
-        <translation>Save Organization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1336"/>
         <source>Close Organization</source>
-        <translation>Close Organization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1337"/>
         <source>Close the currently opened organization</source>
-        <translation>Close the currently opened organization</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1358"/>
         <source>Project</source>
-        <translation>Project</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1397"/>
         <source>Save Project</source>
-        <translation>Save Project</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="145"/>
         <source>File</source>
-        <translation>File</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1568"/>
@@ -19385,12 +19359,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1689"/>
         <source>read-only</source>
-        <translation>read-only</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1919"/>
         <source>Quick Find</source>
-        <translation>Quick Find</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="200"/>
@@ -19400,7 +19374,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="202"/>
         <source>Create a new local workspace library</source>
-        <translation>Create a new local workspace library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="211"/>
@@ -19410,12 +19384,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="213"/>
         <source>Manually download an existing library from the Internet</source>
-        <translation>Manually download an existing library from the Internet</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="351"/>
         <source>Open Workspace Folder</source>
-        <translation>Open Workspace Folder</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="383"/>
@@ -19430,12 +19404,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="699"/>
         <source>Split Window</source>
-        <translation>Split Window</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="701"/>
         <source>Split the current window into one more section</source>
-        <translation>Split the current window into one more section</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="86"/>
@@ -19450,22 +19424,22 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="883"/>
         <source>Library</source>
-        <translation>Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="902"/>
         <source>Save Library</source>
-        <translation>Save Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="912"/>
         <source>Close Library</source>
-        <translation>Close Library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="913"/>
         <source>Close the currently opened library</source>
-        <translation>Close the currently opened library</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="93"/>
@@ -19480,27 +19454,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="954"/>
         <source>New Component Category</source>
-        <translation>New Component Category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="964"/>
         <source>New Package Category</source>
-        <translation>New Package Category</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="974"/>
         <source>New Symbol</source>
-        <translation>New Symbol</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="984"/>
         <source>New Package</source>
-        <translation>New Package</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="994"/>
         <source>New Component</source>
-        <translation>New Component</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19508,7 +19482,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="227"/>
         <source>Manufacturer:</source>
-        <translation>Manufacturer:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19516,7 +19490,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagebox.slint" line="40"/>
         <source>Don&apos;t show again</source>
-        <translation>Don&apos;t show again</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19524,12 +19498,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="69"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="78"/>
         <source>Yes</source>
-        <translation>Yes</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="87"/>
@@ -19568,7 +19542,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/notificationspopup.slint" line="112"/>
         <source>Don&apos;t show again</source>
-        <translation>Don&apos;t show again</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19576,12 +19550,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/notificationspopup.slint" line="171"/>
         <source>Notifications</source>
-        <translation>Notifications</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/notificationspopup.slint" line="219"/>
         <source>Too many notifications to display (%1 hidden).</source>
-        <translation>Too many notifications to display (%1 hidden).</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19589,72 +19563,72 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="144"/>
         <source>This project does not contain any board, so there&apos;s nothing you could order.</source>
-        <translation>This project does not contain any board, so there&apos;s nothing you could order.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="146"/>
         <source>Please open the board you like to order.</source>
-        <translation>Please open the board you like to order.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="148"/>
         <source>There may be some issues with your schematics or board, please check the messages above before continuing.</source>
-        <translation>There may be some issues with your schematics or board, please check the messages above before continuing.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
         <source>Order %1</source>
-        <translation>Order %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="199"/>
         <source>Open web browser after upload</source>
-        <translation>Open web browser after upload</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="217"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
-        <translation>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="225"/>
         <source>Electrical Rule Check</source>
-        <translation>Electrical Rule Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="235"/>
         <source>Design Rule Check</source>
-        <translation>Design Rule Check</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="268"/>
         <source>Upload Project</source>
-        <translation>Upload Project</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
         <source>Checking availability</source>
-        <translation>Checking availability</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
         <source>Details</source>
-        <translation>Details</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
-        <translation>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
         <source>Privacy Policy</source>
-        <translation>Privacy Policy</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
-        <translation>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19662,27 +19636,27 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="110"/>
         <source>Refresh</source>
-        <translation>Refresh</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="41"/>
         <source>Running...</source>
-        <translation>Running...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="43"/>
         <source>Successful</source>
-        <translation>Successful</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="45"/>
         <source>%n Message(s)</source>
-        <translation><numerusform>%n Message(s)</numerusform><numerusform>%n Message(s)</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="47"/>
         <source>Outdated</source>
-        <translation>Outdated</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="49"/>
@@ -19692,7 +19666,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="91"/>
         <source>No board selected</source>
-        <translation>No board selected</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19700,38 +19674,38 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
-        <translation>Organizations with higher priority will appear before organizations with lower priority.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Reserved for official organizations</source>
-        <translation>Reserved for official organizations</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Recommended for your personal organizations</source>
-        <translation>Recommended for your personal organizations</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Reserved for LibrePCB Fab</source>
-        <translation>Reserved for LibrePCB Fab</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
         <source>Not recommended</source>
-        <translation>Not recommended</translation>
+        <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="270"/>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="282"/>
         <source>%n output job(s)</source>
-        <translation><numerusform>%n output job(s)</numerusform><numerusform>%n output job(s)</numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="48"/>
         <source>Note: This is currently an experimental feature which will be polished in upcoming releases.</source>
-        <translation>Note: This is currently an experimental feature which will be polished in upcoming releases.</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19739,7 +19713,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="73"/>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19752,7 +19726,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="225"/>
         <source>Failed to load package</source>
-        <translation>Failed to load package</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="226"/>
@@ -19765,7 +19739,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="288"/>
         <source>Add Footprint</source>
-        <translation>Add Footprint</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19773,7 +19747,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="342"/>
         <source>Add 3D Model</source>
-        <translation>Add 3D Model</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19781,7 +19755,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="100"/>
         <source>Enter name &amp; press Return</source>
-        <translation>Enter name &amp; press Return</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="151"/>
@@ -19814,12 +19788,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
         <source>Helper Tools</source>
-        <translation>Helper Tools</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="870"/>
         <source>Background Image</source>
-        <translation>Background Image</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
@@ -19829,17 +19803,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
         <source>Solder Paste</source>
-        <translation>Solder Paste</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="915"/>
         <source>Silkscreen</source>
-        <translation>Silkscreen</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="928"/>
         <source>Solder Resist</source>
-        <translation>Solder Resist</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19847,12 +19821,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditortagspanel.slint" line="112"/>
         <source>Type to add a new tag...</source>
-        <translation>Type to add a new tag...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditortagspanel.slint" line="86"/>
         <source>Suggested Tags:</source>
-        <translation>Suggested Tags:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19865,7 +19839,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="184"/>
         <source>This package contains no pads (yet).</source>
-        <translation>This package contains no pads (yet).</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="88"/>
@@ -19878,17 +19852,17 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="267"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
-        <translation>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="268"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
-        <translation>For example, a thermal pad should be listed here, even though it may not have an electrical function.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="269"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
-        <translation>Once the package is finished, it is *not* possible anymore to add or remove pads.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="275"/>
@@ -19898,12 +19872,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="286"/>
         <source>Add Pads:</source>
-        <translation>Add Pads:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="291"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
-        <translation>Pad name (may contain ranges like \&quot;1..5\&quot;)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="339"/>
@@ -19931,12 +19905,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
         <source>Footprints</source>
-        <translation>Footprints</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
         <source>3D Models</source>
-        <translation>3D Models</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19949,12 +19923,12 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="24"/>
         <source>Rounded Rect</source>
-        <translation>Rounded Rect</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="30"/>
         <source>Rectangular</source>
-        <translation>Rectangular</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="36"/>
@@ -19964,7 +19938,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="72"/>
         <source>Shape</source>
-        <translation>Shape</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19972,7 +19946,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="270"/>
         <source>Choose Parent Category</source>
-        <translation>Choose Parent Category</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19980,7 +19954,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="231"/>
         <source>Parent:</source>
-        <translation>Parent:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19988,7 +19962,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="105"/>
         <source>Type to add a new part...</source>
-        <translation>Type to add a new part...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="147"/>
@@ -20003,7 +19977,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="76"/>
         <source>Part Number (MPN)</source>
-        <translation>Part Number (MPN)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20011,7 +19985,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="518"/>
         <source>New Design Rules</source>
-        <translation>New Design Rules</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20019,7 +19993,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="451"/>
         <source>PCB Design Rules:</source>
-        <translation>PCB Design Rules:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20027,7 +20001,7 @@ Attention: This will be applied immediately and cannot be undone!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="528"/>
         <source>PCB Service:</source>
-        <translation>PCB Service:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
