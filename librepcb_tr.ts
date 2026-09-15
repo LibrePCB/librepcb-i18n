@@ -12541,7 +12541,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="207"/>
         <source>No Libraries Installed</source>
-        <translation type="unfinished"/>
+        <translation>Kurulu Kütüphane Yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="208"/>
@@ -13035,7 +13035,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Uygula</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="169"/>
@@ -17326,7 +17326,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="209"/>
         <source>Learn how to create schematics</source>
-        <translation type="unfinished"/>
+        <translation>Şematiklerin nasıl oluşturulacağını öğrenin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="228"/>
@@ -17346,7 +17346,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="331"/>
         <source>Get Started</source>
-        <translation type="unfinished"/>
+        <translation>Kendi parçalarınızı nasıl oluşturacağınızı öğrenin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="337"/>
@@ -18848,7 +18848,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Uygula</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
@@ -19113,7 +19113,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/librarytreeview.slint" line="212"/>
         <source>Deprecated</source>
-        <translation type="unfinished"/>
+        <translation>Kullanımdan Kaldırılmış</translation>
     </message>
 </context>
 <context>
@@ -19997,7 +19997,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="135"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="166"/>
@@ -20067,12 +20067,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="446"/>
         <source>Place All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="447"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm bileşenleri, aygıt ve ayak izlerini tahmin ederek karta otomatik olarak ekle (önerilmez)</translation>
     </message>
 </context>
 <context>
@@ -20080,7 +20080,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="435"/>
         <source>Prefix:</source>
-        <translation type="unfinished"/>
+        <translation>Ön Ek:</translation>
     </message>
 </context>
 <context>
@@ -20096,32 +20096,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="145"/>
         <source>Library Element</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Öğesi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="208"/>
         <source>Deprecated</source>
-        <translation type="unfinished"/>
+        <translation>Kullanımdan Kaldırılmış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="225"/>
         <source>Available in Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphanede Mevcut</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="235"/>
         <source>Open \&quot;%1\&quot; from %2</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; öğesini %2 içinden aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="266"/>
         <source>Waiting for rescan...</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden taramayı bekliyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="268"/>
         <source>Not found in any library</source>
-        <translation type="unfinished"/>
+        <translation>Hiçbir kütüphanede bulunamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="314"/>
@@ -20134,17 +20134,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="478"/>
         <source>This project contains no library elements (yet).</source>
-        <translation type="unfinished"/>
+        <translation>Bu proje (henüz) hiç kütüphane öğesi içermiyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="503"/>
         <source>Update All Elements</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Öğeleri Güncelle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="504"/>
         <source>Update the project&apos;s library elements from workspace libraries</source>
-        <translation type="unfinished"/>
+        <translation>Projenin kütüphane öğelerini çalışma alanı kütüphanelerinden güncelle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="520"/>
@@ -20154,22 +20154,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="540"/>
         <source>Copy %n element(s) to local library</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Projenin kütüphane öğelerini çalışma alanı kütüphanelerinden güncelle</numerusform><numerusform>Projenin kütüphane öğelerini çalışma alanı kütüphanelerinden güncelle</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="542"/>
         <source>%n element(s) not found in workspace</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n öğe çalışma alanında bulunamadı</numerusform><numerusform>%n öğe çalışma alanında bulunamadı</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="545"/>
         <source>Copy the checked library elements into a local workspace library</source>
-        <translation type="unfinished"/>
+        <translation>İşaretlenen kütüphane öğelerini yerel bir çalışma alanı kütüphanesine kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/library/projectlibrarytab.slint" line="560"/>
         <source>Attention: Some elements will be downgraded due to a current limitation of the project library updater! Update your workspace libraries first to avoid this.</source>
-        <translation type="unfinished"/>
+        <translation>Dikkat: Proje kütüphanesi güncelleyicisinin mevcut bir sınırlaması nedeniyle bazı öğeler eski sürüme düşürülecek! Bunu önlemek için önce çalışma alanı kütüphanelerinizi güncelleyin.</translation>
     </message>
 </context>
 <context>
@@ -20177,32 +20177,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="59"/>
         <source>Open the project</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="69"/>
         <source>Pin to Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişime Sabitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="69"/>
         <source>Unpin from Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişimden Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="77"/>
         <source>Pin/unpin the project to the quick access</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi hızlı erişime sabitle/sabitlemeden kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="88"/>
         <source>Remove From Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişimden Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="90"/>
         <source>Remove the project from the quick access list</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi hızlı erişim listesinden kaldır</translation>
     </message>
 </context>
 <context>
@@ -20210,7 +20210,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/renumberpadstoolbar.slint" line="19"/>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Kabul Et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/renumberpadstoolbar.slint" line="28"/>
@@ -20223,17 +20223,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="104"/>
         <source>Approve</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="104"/>
         <source>Remove Approval</source>
-        <translation type="unfinished"/>
+        <translation>Onayı Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="93"/>
         <source>Apply Automatic Fix</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Düzeltmeyi Uygula</translation>
     </message>
 </context>
 <context>
@@ -20241,12 +20241,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="184"/>
         <source>Possibly Outdated Data</source>
-        <translation type="unfinished"/>
+        <translation>Muhtemelen Güncel Olmayan Veri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="184"/>
         <source>Trigger the checks again to refresh the messages.</source>
-        <translation type="unfinished"/>
+        <translation>Mesajları yenilemek için denetimleri tekrar tetikleyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="214"/>
@@ -20256,17 +20256,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="226"/>
         <source>Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="238"/>
         <source>Zoom to Location</source>
-        <translation type="unfinished"/>
+        <translation>Konuma Yakınlaştır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="271"/>
         <source>These settings are stored in the currently opened package and don&apos;t affect other packages.</source>
-        <translation type="unfinished"/>
+        <translation>Bu ayarlar, şu anda açık olan pakette saklanır ve diğer paketleri etkilemez.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="282"/>
@@ -20276,37 +20276,37 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="293"/>
         <source>Recommended: %1 (default)</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen: %1 (varsayılan)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="293"/>
         <source>Reduce it for packages with very small pitch</source>
-        <translation type="unfinished"/>
+        <translation>Çok küçük ayak aralığına (pitch) sahip paketler için azaltın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="317"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Uygula</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="339"/>
         <source>No checks run yet. Trigger them with one of the buttons above.</source>
-        <translation type="unfinished"/>
+        <translation>Henüz hiç denetim çalıştırılmadı. Yukarıdaki düğmelerden biriyle tetikleyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="341"/>
         <source>Running, hang on...</source>
-        <translation type="unfinished"/>
+        <translation>Çalışıyor, bekleyin...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="343"/>
         <source>No messages.</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj yok.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="393"/>
         <source>This message is marked as fixed. Run the checks again to verify the message is really resolved and disappears.</source>
-        <translation type="unfinished"/>
+        <translation>Bu mesaj düzeltildi olarak işaretlendi. Mesajın gerçekten çözüldüğünü ve kaybolduğunu doğrulamak için denetimleri tekrar çalıştırın.</translation>
     </message>
 </context>
 <context>
@@ -20314,7 +20314,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="431"/>
         <source>Schematic-Only:</source>
-        <translation type="unfinished"/>
+        <translation>Yalnızca Şematik:</translation>
     </message>
 </context>
 <context>
@@ -20322,42 +20322,42 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="155"/>
         <source>No Libraries Installed</source>
-        <translation type="unfinished"/>
+        <translation>Kurulu Kütüphane Yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="161"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
-        <translation type="unfinished"/>
+        <translation>Bu şematiğe bileşen eklemek için önce bazı parça kütüphaneleri kurmanız veya kendi kütüphanenizde kendiniz parça oluşturmanız gerekir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="167"/>
         <source>Install Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneleri Kur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="181"/>
         <source>Learn how to create parts by yourself</source>
-        <translation type="unfinished"/>
+        <translation>Kendi parçalarınızı nasıl oluşturacağınızı öğrenin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="200"/>
         <source>Get Started</source>
-        <translation type="unfinished"/>
+        <translation>Başlayın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="206"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir şematiğe başlarken önce bir çizim çerçevesi eklemeniz önerilir. Ardından diğer bileşenleri soldaki araç çubuğuyla her zamanki gibi ekleyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
         <source>Add Drawing Frame</source>
-        <translation type="unfinished"/>
+        <translation>Çizim Çerçevesi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="226"/>
         <source>Learn how to create schematics</source>
-        <translation type="unfinished"/>
+        <translation>Şematiklerin nasıl oluşturulacağını öğrenin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="501"/>
@@ -20370,12 +20370,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="177"/>
         <source>Home</source>
-        <translation type="unfinished"/>
+        <translation>Ana Sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="187"/>
         <source>Open Documents</source>
-        <translation type="unfinished"/>
+        <translation>Açık Belgeler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="202"/>
@@ -20395,7 +20395,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/sidebar.slint" line="394"/>
         <source>Help / About</source>
-        <translation type="unfinished"/>
+        <translation>Yardım / Hakkında</translation>
     </message>
 </context>
 <context>
@@ -20403,27 +20403,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="21"/>
         <source>Prefer easy hand-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Kolay elle lehimlemeyi tercih et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="23"/>
         <source>Prefer hand-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Elle lehimlemeyi tercih et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="25"/>
         <source>Prefer reflow-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Reflow lehimlemeyi tercih et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="27"/>
         <source>Prefer wave-soldering</source>
-        <translation type="unfinished"/>
+        <translation>Dalga lehimlemeyi tercih et</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/soldertechnologyselector.slint" line="29"/>
         <source>No soldering preference</source>
-        <translation type="unfinished"/>
+        <translation>Lehimleme tercihi yok</translation>
     </message>
 </context>
 <context>
@@ -20431,17 +20431,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>Grid Interval</source>
-        <translation type="unfinished"/>
+        <translation>Izgara Aralığı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="293"/>
         <source>scroll up/down on hover</source>
-        <translation type="unfinished"/>
+        <translation>üzerine gelip yukarı/aşağı kaydırın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/statusbar.slint" line="328"/>
         <source>Grid Style</source>
-        <translation type="unfinished"/>
+        <translation>Izgara Stili</translation>
     </message>
 </context>
 <context>
@@ -20449,22 +20449,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
         <source>Import Pins From Datasheet</source>
-        <translation type="unfinished"/>
+        <translation>Pinleri Datasheet&apos;ten İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir sembol çizmeye tüm pinleri ekleyerek başlamanız önerilir. Özellikle büyük semboller için bunu yapmanın en hızlı yolu, parçanın datasheet&apos;inden veya başka bir belgesinden içe aktarmaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
         <source>Import Pins</source>
-        <translation type="unfinished"/>
+        <translation>Pinleri İçe Aktar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
         <source>Learn how to create symbols</source>
-        <translation type="unfinished"/>
+        <translation>Sembollerin nasıl oluşturulacağını öğrenin</translation>
     </message>
 </context>
 <context>
@@ -20477,7 +20477,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Grafikler</translation>
     </message>
 </context>
 <context>
@@ -20485,12 +20485,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/windowsection.slint" line="212"/>
         <source>Move to Window %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 Penceresine Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/windowsection.slint" line="222"/>
         <source>Move to New Window</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Pencereye Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/windowsection.slint" line="231"/>
@@ -20503,7 +20503,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/toolbutton.slint" line="103"/>
         <source>right-click for menu</source>
-        <translation type="unfinished"/>
+        <translation>menü için sağ tıklayın</translation>
     </message>
 </context>
 <context>
@@ -20516,7 +20516,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/treeview.slint" line="162"/>
         <source>Unpin</source>
-        <translation type="unfinished"/>
+        <translation>Sabitlemeyi Kaldır</translation>
     </message>
 </context>
 <context>
@@ -20558,7 +20558,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/windowsection.slint" line="296"/>
         <source>Split Section</source>
-        <translation type="unfinished"/>
+        <translation>Bölümü Ayır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/windowsection.slint" line="309"/>
@@ -20571,7 +20571,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="141"/>
         <source>Open the file or project</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı veya projeyi aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="151"/>
@@ -20586,22 +20586,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="173"/>
         <source>Pin to Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişime Sabitle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="173"/>
         <source>Unpin from Quick Access</source>
-        <translation type="unfinished"/>
+        <translation>Hızlı Erişimden Kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="181"/>
         <source>Pin/unpin the project to the quick access</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi hızlı erişime sabitle/sabitlemeden kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/homepanel.slint" line="194"/>
         <source>Remove the file or directory from the file system</source>
-        <translation type="unfinished"/>
+        <translation>Dosyayı veya dizini dosya sisteminden kaldır</translation>
     </message>
 </context>
 </TS>
