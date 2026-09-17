@@ -12139,7 +12139,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="314"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="323"/>
@@ -12463,7 +12463,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="500"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="524"/>
@@ -12662,7 +12662,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="593"/>
         <source>It seems that the application crashed the last time you opened this project. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Uygulamanın bu projeyi son açtığınızda çöktüğü görünüyor. Son otomatik kaydetme yedeğini geri yüklemek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="668"/>
@@ -12690,7 +12690,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="85"/>
         <source>Circular Drill</source>
-        <translation type="unfinished"/>
+        <translation>Dairesel Delik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="94"/>
@@ -12700,7 +12700,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="112"/>
         <source>Linear Slot</source>
-        <translation type="unfinished"/>
+        <translation>Doğrusal Yuva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="131"/>
@@ -12710,22 +12710,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="138"/>
         <source>Center:</source>
-        <translation type="unfinished"/>
+        <translation>Merkez:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="168"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Uzunluk:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.ui" line="176"/>
         <source>Arbitrary Slot</source>
-        <translation type="unfinished"/>
+        <translation>Özel Yuva</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/holeeditorwidget.cpp" line="256"/>
         <source>Outer Size:</source>
-        <translation type="unfinished"/>
+        <translation>Dış Boyut:</translation>
     </message>
 </context>
 <context>
@@ -12733,7 +12733,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="14"/>
         <source>Hole Properties</source>
-        <translation type="unfinished"/>
+        <translation>Delik Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="24"/>
@@ -12743,7 +12743,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="34"/>
         <source>Advanced</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/holepropertiesdialog.ui" line="43"/>
@@ -12776,7 +12776,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.ui" line="14"/>
         <source>LibrePCB Workspace Setup</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Çalışma Alanı Kurulumu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard.cpp" line="54"/>
@@ -12789,42 +12789,42 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="14"/>
         <source>Choose Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarları Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="17"/>
         <source>Set the most important workspace settings.</source>
-        <translation type="unfinished"/>
+        <translation>En önemli çalışma alanı ayarlarını belirleyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="23"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Dil:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="37"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation> Uzunluk Birimi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="51"/>
         <source>User Name:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Adı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="81"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Bu ad, yeni projeler veya kütüphaneler oluşturulurken yazar olarak kullanılacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.ui" line="96"/>
         <source>Preferred Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Tercih Edilen Standart:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="54"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>Sistem Dili</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_choosesettings.cpp" line="72"/>
@@ -12842,48 +12842,49 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="14"/>
         <source>Select Workspace Path</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı Yolunu Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="17"/>
         <source>Please select a directory to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Bir LibrePCB çalışma alanı açmak veya oluşturmak için lütfen bir dizin seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="29"/>
         <source>&lt;p&gt;LibrePCB stores settings, libraries and (optionally) projects in a directory called &lt;i&gt;workspace&lt;/i&gt;.&lt;/p&gt;
 &lt;p&gt;Workspaces are platform independent, so they can be used across different operating systems.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;LibrePCB, ayarları, kütüphaneleri ve (isteğe bağlı olarak) projeleri  &lt;i&gt;çalışma alanı&lt;/i&gt;adı verilen bir dizinde saklar.&lt;/p&gt;
+&lt;p&gt;Çalışma alanları platform bağımsızdır, bu nedenle farklı işletim sistemleri arasında kullanılabilir.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.ui" line="53"/>
         <source>Choose the workspace directory to open or create:</source>
-        <translation type="unfinished"/>
+        <translation>Açmak veya oluşturmak için çalışma alanı dizinini seçin:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="59"/>
         <source>Select Workspace Directory</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanı Dizinini Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="122"/>
         <source>Please select a directory.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir dizin seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="124"/>
         <source>Directory contains a valid workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Dizin geçerli bir çalışma alanı içeriyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="126"/>
         <source>New workspace will be created.</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir çalışma alanı oluşturulacak.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_chooseworkspace.cpp" line="128"/>
         <source>Directory is not empty!</source>
-        <translation type="unfinished"/>
+        <translation>Dizin boş değil!</translation>
     </message>
 </context>
 <context>
@@ -12891,19 +12892,21 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="14"/>
         <source>Upgrade Workspace</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma Alanını Yükselt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="17"/>
         <source>Upgrade the workspace to the latest file format.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma alanını en son dosya biçimine yükselt.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="55"/>
         <source>&lt;p&gt;Your workspace was created with an older LibrePCB version and needs to be upgraded.&lt;/p&gt;
 &lt;p&gt;To still keep the workspace compatible with older versions of LibrePCB, a snapshot of the currently installed libraries and settings will be created. This may take a moment.&lt;/p&gt;
 &lt;p&gt;Also the first background library scan after the upgrade takes longer than usual, but you can start working on projects without waiting for its completion.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Çalışma alanınız daha eski bir LibrePCB sürümüyle oluşturuldu ve yükseltilmesi gerekiyor.&lt;/p&gt;
+&lt;p&gt;Çalışma alanını LibrePCB&apos;nin eski sürümleriyle uyumlu tutmak için, şu anda kurulu olan kütüphanelerin ve ayarların bir anlık görüntüsü oluşturulacak. Bu biraz zaman alabilir.&lt;/p&gt;
+&lt;p&gt;Ayrıca yükseltmeden sonraki ilk arka plan kütüphane taraması her zamankinden daha uzun sürer, ancak tamamlanmasını beklemeden projeler üzerinde çalışmaya başlayabilirsiniz.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="106"/>
@@ -12913,27 +12916,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.ui" line="144"/>
         <source>Destination:</source>
-        <translation type="unfinished"/>
+        <translation>Hedef:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="48"/>
         <source>Upgrade to LibrePCB %1</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB %1&apos;e Yükselt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="52"/>
         <source>Upgrade</source>
-        <translation type="unfinished"/>
+        <translation>Yükselt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="86"/>
         <source>Error:</source>
-        <translation type="unfinished"/>
+        <translation>Hata:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_upgrade.cpp" line="88"/>
         <source>If the error persists, you could try to copy the mentioned directory manually (e.g. with your file manager).</source>
-        <translation type="unfinished"/>
+        <translation>Hata devam ederse, bahsi geçen dizini manuel olarak kopyalamayı deneyebilirsiniz (örn. dosya yöneticinizle).</translation>
     </message>
 </context>
 <context>
@@ -12941,22 +12944,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="14"/>
         <source>Welcome to LibrePCB</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB&apos;ye Hoş Geldiniz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="17"/>
         <source>This wizard will help you to open or create a LibrePCB workspace.</source>
-        <translation type="unfinished"/>
+        <translation>Bu sihirbaz, bir LibrePCB çalışma alanı açmanıza veya oluşturmanıza yardımcı olacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;Welcome To LibrePCB&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600;&quot;&gt;LibrePCB&apos;ye Hoş Geldiniz&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/initializeworkspacewizard/initializeworkspacewizard_welcome.ui" line="62"/>
         <source>&lt;p&gt;Website: &lt;a href=&quot;https://librepcb.org&quot;&gt;https://librepcb.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Project: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;https://github.com/LibrePCB&lt;/a&gt;&lt;/p&gt;&lt;p&gt;LibrePCB is published under the &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;GNU GPLv3&lt;/a&gt; License.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Web Sitesi: &lt;a href=&quot;https://librepcb.org&quot;&gt;https://librepcb.org&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GitHub Projesi: &lt;a href=&quot;https://github.com/LibrePCB&quot;&gt;https://github.com/LibrePCB&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;a href=&quot;http://www.gnu.org/licenses/gpl-3.0.html&quot;&gt;GNU GPLv3&lt;/a&gt; Lisansı altında yayınlanmıştır.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -12969,7 +12972,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="40"/>
         <source>Interactive HTML bill of materials (BOM) export.</source>
-        <translation type="unfinished"/>
+        <translation>Etkileşimli HTML malzeme listesi (BOM) dışa aktarımı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/interactivehtmlbomoutputjobwidget.ui" line="57"/>
@@ -13025,12 +13028,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="131"/>
         <source>Remove this shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Bu kısayolu kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="143"/>
         <source>Restore default shortcut(s)</source>
-        <translation type="unfinished"/>
+        <translation> Varsayılan kısayol(lar)ı geri yükle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/keysequenceseditorwidget.cpp" line="162"/>
@@ -13061,7 +13064,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.ui" line="14"/>
         <source>KiCad Library Import</source>
-        <translation type="unfinished"/>
+        <translation>KiCad Kütüphanesi İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizard.cpp" line="73"/>
@@ -13078,7 +13081,9 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <source>An operation is currently in progress. Closing this window will abort it.
 
 Do you really want to close it?</source>
-        <translation type="unfinished"/>
+        <translation>Bir işlem şu anda devam ediyor. Bu pencereyi kapatmak işlemi iptal edecek.
+
+Gerçekten kapatmak istiyor musunuz?</translation>
     </message>
 </context>
 <context>
@@ -13086,7 +13091,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardcontext.cpp" line="110"/>
         <source>No file or directory selected.</source>
-        <translation type="unfinished"/>
+        <translation>Hiç dosya veya dizin seçilmedi.</translation>
     </message>
 </context>
 <context>
@@ -13094,32 +13099,32 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="17"/>
         <source>Select Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneleri Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="20"/>
         <source>Choose the directory containing KiCad libraries to import.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılacak KiCad kütüphanelerini içeren dizini seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="26"/>
         <source>Select the directory where all *.kicad_sym files, *.pretty folders and *.3dshapes folders are located. They may be located in a subdirectory (maximum 1 nesting level).</source>
-        <translation type="unfinished"/>
+        <translation>Tüm *.kicad_sym dosyalarının, *.pretty klasörlerinin ve *.3dshapes klasörlerinin bulunduğu dizini seçin. Bunlar bir alt dizinde bulunabilir (en fazla 1 iç içe geçme seviyesi).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="36"/>
         <source>Note: Currently this feature supports KiCad %1 libraries. Other versions may not work as intended.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Şu anda bu özellik KiCad %1 kütüphanelerini destekliyor. Diğer sürümler beklendiği gibi çalışmayabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.ui" line="49"/>
         <source>Select root directory of libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphanelerin kök dizinini seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_chooselibrary.cpp" line="89"/>
         <source>Choose directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin seç</translation>
     </message>
 </context>
 <context>
@@ -13127,12 +13132,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="17"/>
         <source>Scanning Directory</source>
-        <translation type="unfinished"/>
+        <translation>Dizin Taranıyor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_parse.ui" line="20"/>
         <source>The selected directory will be scanned for KiCad libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen dizin KiCad kütüphaneleri için taranacak.</translation>
     </message>
 </context>
 <context>
@@ -13150,27 +13155,27 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="106"/>
         <source>It is highly recommended to review and rework the imported elements:</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarılan öğelerin gözden geçirilmesi ve yeniden düzenlenmesi şiddetle önerilir:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="108"/>
         <source>Assign reasonable categories</source>
-        <translation type="unfinished"/>
+        <translation>Uygun kategoriler ata</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="109"/>
         <source>Review/correct pinouts of devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıtların pin düzenlerini gözden geçir/düzelt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="111"/>
         <source>Review/rework geometry of symbols and footprints</source>
-        <translation type="unfinished"/>
+        <translation>Sembollerin ve ayak izlerinin geometrisini gözden geçir/yeniden düzenle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="113"/>
         <source>Fix remaining warnings shown in the library editor</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane editöründe gösterilen kalan uyarıları düzelt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_result.cpp" line="145"/>
@@ -13193,7 +13198,7 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="107"/>
         <source>Already imported</source>
-        <translation type="unfinished"/>
+        <translation>Zaten içe aktarıldı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_selectelements.cpp" line="358"/>
@@ -13286,12 +13291,12 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="17"/>
         <source>KiCad Library Import</source>
-        <translation type="unfinished"/>
+        <translation>KiCad Kütüphanesi İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="20"/>
         <source>Kick-start the migration from KiCad to LibrePCB by importing your KiCad library elements into the currently opened LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>KiCad kütüphane öğelerinizi şu anda açık olan LibrePCB kütüphanesine aktararak KiCad&apos;dan LibrePCB&apos;ye geçişi hızlandırın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/kicadlibraryimportwizard/kicadlibraryimportwizardpage_start.ui" line="32"/>
@@ -13301,7 +13306,12 @@ Do you really want to close it?</source>
   &lt;li&gt;Pins, pads and component signals should not be renamed after the import. Otherwise, future KiCad imports referencing these things will fail.&lt;/li&gt;
   &lt;li&gt;LibrePCB libraries are organized differently to KiCad libraries, thus the quality of the imported elements will likely not be as high as when creating them manually from scratch. Some manual rework might be needed after the import.&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Bu aracı kullanırken lütfen şu önemli notları dikkate alın:
+&lt;ul&gt;
+  &lt;li&gt;İçe aktarılmayan öğelerle net bir ayrım sağlamak ve ad çakışmalarını önlemek için KiCad öğeleri için ayrı bir LibrePCB kütüphanesi oluşturmanız şiddetle önerilir.&lt;/li&gt;
+  &lt;li&gt;Pinler, pedler ve bileşen sinyalleri içe aktarmadan sonra yeniden adlandırılmamalıdır. Aksi takdirde, bu öğelere referans veren gelecekteki KiCad içe aktarmaları başarısız olur.&lt;/li&gt;
+  &lt;li&gt;LibrePCB kütüphaneleri KiCad kütüphanelerinden farklı şekilde organize edilir, bu nedenle içe aktarılan öğelerin kalitesi muhtemelen sıfırdan manuel olarak oluşturulduğu kadar yüksek olmayacaktır. İçe aktarmadan sonra bazı manuel yeniden düzenlemeler gerekebilir.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
 </context>
 <context>
@@ -13309,17 +13319,17 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="73"/>
         <source>Enter numeric expression</source>
-        <translation type="unfinished"/>
+        <translation>Sayısal ifade girin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="102"/>
         <source>Default value:</source>
-        <translation type="unfinished"/>
+        <translation> Varsayılan değer:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="320"/>
         <source>internal</source>
-        <translation type="unfinished"/>
+        <translation>dahili</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/lengtheditbase.cpp" line="323"/>
@@ -13332,47 +13342,47 @@ Do you really want to close it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="76"/>
         <source>Looking for library updates...</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane güncellemeleri aranıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="263"/>
         <source>Failed to Uninstall Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Kaldırılamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="264"/>
         <source>The directory &apos;%1&apos; could not be removed: %2</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; dizini kaldırılamadı: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="457"/>
         <source>Successfully updated libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler başarıyla güncellendi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="459"/>
         <source>Failed to update libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler güncellenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="542"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; konumundan kütüphaneler getirilemedi: %2</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="563"/>
         <source>All libraries are up-to-date</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kütüphaneler güncel</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="565"/>
         <source>Update available for %n libraries</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n kütüphane için güncelleme mevcut</numerusform><numerusform>%n kütüphane için güncelleme mevcut</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="593"/>
         <source>There are %n library update(s) available for installation.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Kurulum için %n kütüphane güncellemesi mevcut.</numerusform><numerusform>Kurulum için %n kütüphane güncellemesi mevcut.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="599"/>
@@ -16230,7 +16240,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="35"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Uzunluk:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="47"/>
@@ -16396,17 +16406,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="42"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Dil:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="56"/>
         <source>Length Unit:</source>
-        <translation type="unfinished"/>
+        <translation> Uzunluk Birimi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="70"/>
         <source>User Name:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı Adı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="91"/>
@@ -16417,7 +16427,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="113"/>
         <source>This name will be used as author when creating new projects or libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Bu ad, yeni projeler veya kütüphaneler oluşturulurken yazar olarak kullanılacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="125"/>
@@ -16597,7 +16607,7 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
         <source>System Language</source>
-        <translation type="unfinished"/>
+        <translation>Sistem Dili</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="149"/>
