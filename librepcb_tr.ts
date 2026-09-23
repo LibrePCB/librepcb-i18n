@@ -101,7 +101,7 @@
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="95"/>
         <source>None (no text)</source>
-        <translation type="unfinished"/>
+        <translation>Yok (metin yok)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/core/library/cmp/cmpsigpindisplaytype.h" line="101"/>
@@ -7344,7 +7344,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.ui" line="247"/>
         <source>&amp;Add more</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Daha fazla ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/addcomponentdialog.cpp" line="808"/>
@@ -7563,7 +7563,7 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="333"/>
         <source>Screen %1</source>
-        <translation type="unfinished"/>
+        <translation>Ekran %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/backgroundimagesetupdialog.cpp" line="371"/>
@@ -11594,7 +11594,11 @@ Gerçekten kapatmak istiyor musunuz?</translation>
 %1
 
 Warning: This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki dosyayı veya dizini kaldırmak istediğinizden gerçekten emin misiniz?
+
+%1
+
+Uyarı: Bu geri alınamaz!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="311"/>
@@ -11612,7 +11616,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintlistmodel.cpp" line="347"/>
         <source>There is already a footprint with the name &quot;%1&quot;.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; adında bir ayak izi zaten mevcut.</translation>
     </message>
 </context>
 <context>
@@ -11630,7 +11634,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="33"/>
         <source>Package Pad:</source>
-        <translation type="unfinished"/>
+        <translation>Paket Pedi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.ui" line="43"/>
@@ -11808,7 +11812,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="175"/>
         <source>(not connected)</source>
-        <translation type="unfinished"/>
+        <translation>(bağlı değil)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="404"/>
@@ -11851,7 +11855,7 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="49"/>
         <source>Drills NPTH:</source>
-        <translation type="unfinished"/>
+        <translation>NPTH Delikleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="56"/>
@@ -11866,44 +11870,44 @@ Warning: This cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="73"/>
         <source>Top Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="94"/>
         <source>Drills PTH:</source>
-        <translation type="unfinished"/>
+        <translation>PTH Delikleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="111"/>
         <source>Drills Blind/Buried:</source>
-        <translation type="unfinished"/>
+        <translation>Kör/Gömülü Delikler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="118"/>
         <source>Base Path:</source>
-        <translation type="unfinished"/>
+        <translation>Temel Yol:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="132"/>
         <source>Top Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bakır:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="139"/>
         <source>Top Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Serigrafi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="184"/>
         <source>Export slots as drilled (G85) instead of routed (G00..G03).
 Not recommended unless the G00..G03 are causing troubles with the PCB manufacturer.
 Attention: Curved slots are not supported in G85 mode (will raise an error).</source>
-        <translation type="unfinished"/>
+        <translation>Yuvaları yönlendirilmiş (G00..G03) yerine delinmiş (G85) olarak dışa aktar.G00..G03, PCB üreticisinde sorunlara yol açmadığı sürece önerilmez.Dikkat: Eğrili yuvalar G85 modunda desteklenmez (bir hataya yol açar).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="189"/>
         <source>Use drilled slot command in Excellon files (G85)</source>
-        <translation type="unfinished"/>
+        <translation>Excellon dosyalarında delinmiş yuva komutunu kullan (G85)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="196"/>
