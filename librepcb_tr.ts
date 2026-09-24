@@ -12598,37 +12598,37 @@ Minimum çizgi genişliği:</translation>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="275"/>
         <source>The internal libraries database is being updated. This may take a few minutes and in the mean time you might see outdated information about libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Dahili kütüphaneler veritabanı güncelleniyor. Bu birkaç dakika sürebilir ve bu sırada kütüphaneler hakkında güncel olmayan bilgiler görebilirsiniz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="291"/>
         <source>Scanning Libraries Failed</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler Taranamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="292"/>
         <source>Clear Cache</source>
-        <translation type="unfinished"/>
+        <translation>Önbelleği Temizle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="381"/>
         <source>Workspace changed</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma alanı değişti</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="382"/>
         <source>The chosen workspace will be used after restarting the application.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen çalışma alanı, uygulama yeniden başlatıldıktan sonra kullanılacak.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="410"/>
         <source>This downloads some example projects from the internet and copies them into the workspace to help you evaluating LibrePCB with real projects.</source>
-        <translation type="unfinished"/>
+        <translation>Bu, LibrePCB&apos;yi gerçek projelerle değerlendirmenize yardımcı olmak için internetten bazı örnek projeler indirir ve bunları çalışma alanına kopyalar.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="414"/>
         <source>Once you don&apos;t need them anymore, just delete the examples directory to get rid of them.</source>
-        <translation type="unfinished"/>
+        <translation>Artık ihtiyacınız kalmadığında, bunlardan kurtulmak için sadece örnekler dizinini silin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="417"/>
@@ -12639,22 +12639,22 @@ Minimum çizgi genişliği:</translation>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="458"/>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="592"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydetme yedeğini geri yükle?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="459"/>
         <source>It seems that the application crashed the last time you opened this library. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Uygulamanın bu kütüphaneyi son açtığınızda çöktüğü görünüyor. Son otomatik kaydetme yedeğini geri yüklemek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="497"/>
         <source>Failed to open library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane açılamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="545"/>
         <source>Could not create project</source>
-        <translation type="unfinished"/>
+        <translation>Proje oluşturulamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="559"/>
@@ -12664,7 +12664,7 @@ Minimum çizgi genişliği:</translation>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="560"/>
         <source>LibrePCB project files (%1)</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB proje dosyaları (%1)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="593"/>
@@ -13394,32 +13394,32 @@ Gerçekten kapatmak istiyor musunuz?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="599"/>
         <source>See details in the libraries side panel, or click the button below to download &amp; install all updates.</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntıları kütüphaneler yan panelinde görün veya tüm güncellemeleri indirip kurmak için aşağıdaki düğmeye tıklayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="601"/>
         <source>Update Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneleri Güncelle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="604"/>
         <source>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</source>
-        <translation type="unfinished"/>
+        <translation>Bu sefer, ek gerekli kurulumlar veya kaldırmalar nedeniyle otomatik güncelleme kullanılamıyor. Değişiklikleri gözden geçirmek ve uygulamak için lütfen kütüphaneler yan paneline bakın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="607"/>
         <source>Open Libraries Panel</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler Panelini Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="610"/>
         <source>Library Updates Available</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Güncellemeleri Mevcut</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="637"/>
         <source>Updating %n libraries...</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n kütüphane güncelleniyor...</numerusform><numerusform>%n kütüphane güncelleniyor...</numerusform></translation>
     </message>
 </context>
 <context>
