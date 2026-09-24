@@ -13427,7 +13427,7 @@ Gerçekten kapatmak istiyor musunuz?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/librarydownload.cpp" line="160"/>
         <source>The downloaded ZIP file does not contain a LibrePCB library.</source>
-        <translation type="unfinished"/>
+        <translation>İndirilen ZIP dosyası bir LibrePCB kütüphanesi içermiyor.</translation>
     </message>
 </context>
 <context>
@@ -13435,13 +13435,13 @@ Gerçekten kapatmak istiyor musunuz?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="129"/>
         <source>Save Library?</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneyi Kaydet?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="130"/>
         <source>The library '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; kütüphanesi kaydedilmemiş değişiklikler içeriyor.Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditor.cpp" line="161"/>
@@ -13455,12 +13455,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="200"/>
         <source>User name not set</source>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı adı ayarlanmamış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="201"/>
         <source>No user name is defined in the workspace settings. Please open the workspace settings to set a default user name.</source>
-        <translation type="unfinished"/>
+        <translation>Çalışma alanı ayarlarında hiç kullanıcı adı tanımlanmamış. Varsayılan bir kullanıcı adı ayarlamak için lütfen çalışma alanı ayarlarını açın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryeditortab.cpp" line="218"/>
@@ -13473,17 +13473,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="150"/>
         <source>Library element &apos;%1&apos; with UUID &apos;%2&apos; not found in workspace library.</source>
-        <translation type="unfinished"/>
+        <translation>%2&apos; UUID&apos;sine sahip &apos;%1&apos; kütüphane öğesi, çalışma alanı kütüphanesinde bulunamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="156"/>
         <source>Please try again after the background library rescan has completed.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen arka plan kütüphane yeniden taraması tamamlandıktan sonra tekrar deneyin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/libraryelementcache.cpp" line="160"/>
         <source>Please make sure that all dependent libraries are installed.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen tüm bağımlı kütüphanelerin kurulu olduğundan emin olun.</translation>
     </message>
 </context>
 <context>
@@ -13500,17 +13500,17 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="394"/>
         <source>Choose Library Icon</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Simgesini Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="396"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="402"/>
         <source>Could not open file</source>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
@@ -13520,49 +13520,49 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="738"/>
         <source>Invalid Parent</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz Üst</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1048"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki öğeleri &apos;%1&apos; kütüphanesine taşımak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1053"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki öğeleri &apos;%1&apos; kütüphanesine kopyalamak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1066"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Bu işlem, hedef kütüphaneyi açıp kütüphane öğelerini aynı şekilde geri taşımak dışında kolayca geri alınamaz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Önemli: Bu işlem, seçili kütüphane öğelerini UUID&apos;lerini koruyarak kopyalar, bu nedenle daha sonra farklı bir parçayı temsil edecek şekilde değiştirilmemelidir. Bu işlemin temel amacı, salt okunur bir kütüphanedeki öğeleri küçük ayarlamalarla geçersiz kılmaktır, bu yalnızca yerel, yazılabilir kütüphanelerde mümkündür.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1082"/>
         <source>Move %1 Elements</source>
-        <translation type="unfinished"/>
+        <translation> %1 Öğeyi Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1132"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
-        <translation type="unfinished"/>
+        <translation>UYARI: Kütüphane öğeleri normalde kaldırılMAMALIDIR çünkü bu, buna bağımlı olan diğer öğeleri bozar! Bunun yerine yalnızca kullanımdan kaldırılmış olarak işaretlenmelidir.Aşağıdaki kütüphane öğelerini yine de silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1145"/>
         <source>This cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Bu geri alınamaz!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1149"/>
         <source>Remove %1 Elements</source>
-        <translation type="unfinished"/>
+        <translation>%1 Öğeyi Kaldır</translation>
     </message>
 </context>
 <context>
@@ -13593,7 +13593,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="102"/>
         <source>Restore autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik kaydetme yedeğini geri yükle?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="103"/>
@@ -14087,7 +14087,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="253"/>
         <source>Portable Network Graphics (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>Portable Network Graphics (*.png)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="259"/>
