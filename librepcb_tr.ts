@@ -11913,27 +11913,28 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="196"/>
         <source>Bottom Solder Paste
 (Bottom Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Alt Lehim Pastası
+(Alt Şablon):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="204"/>
         <source>Inner Copper:</source>
-        <translation type="unfinished"/>
+        <translation>İç Bakır:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="211"/>
         <source>Bottom Copper:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bakır:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="218"/>
         <source>Bottom Silkscreen:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Serigrafi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="225"/>
         <source>Outlines:</source>
-        <translation type="unfinished"/>
+        <translation>Dış Hatlar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="252"/>
@@ -11953,38 +11954,39 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="303"/>
         <source>Bottom Stopmask:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Lehim Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="310"/>
         <source>Merge PTH and NPTH drills into one file:</source>
-        <translation type="unfinished"/>
+        <translation>PTH ve NPTH deliklerini tek bir dosyada birleştir:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="317"/>
         <source>Top Solder Paste
 (Top Stencil):</source>
-        <translation type="unfinished"/>
+        <translation>Üst Lehim Pastası
+(Üst Şablon):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.ui" line="371"/>
         <source>Gerber (RS-274X) / Excellon (XNC) PCB production data export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Kartlar için Gerber (RS-274X) / Excellon (XNC) PCB üretim verisi dışa aktarımı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="56"/>
         <source>Note that it&apos;s highly recommended to review the generated files before ordering PCBs.</source>
-        <translation type="unfinished"/>
+        <translation>PCB sipariş etmeden önce oluşturulan dosyaları gözden geçirmenizin şiddetle önerildiğini unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="60"/>
         <source>This could be done with the free application &lt;a href=&quot;%1&quot;&gt;gerbv&lt;/a&gt; or the &lt;a href=&quot;%2&quot;&gt;official reference viewer from Ucamco&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Bu, ücretsiz &lt;a href=&quot;%1&quot;&gt;gerbv &lt;/a&gt;uygulamasıyla veya &lt;a href=&quot;%2&quot;&gt;Ucamco&apos;nun resmi referans görüntüleyicisiyle yapılabilir&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberexcellonoutputjobwidget.cpp" line="66"/>
         <source>As a simpler and faster alternative, you could use the &lt;a href=&quot;%1&quot;&gt;Order PCB&lt;/a&gt; feature instead.</source>
-        <translation type="unfinished"/>
+        <translation>Daha basit ve hızlı bir alternatif olarak, bunun yerine &lt;a href=&quot;%1&quot;&gt;PCB Sipariş Et&lt;/a&gt; özelliğini kullanabilirsiniz.</translation>
     </message>
 </context>
 <context>
@@ -11997,7 +11999,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="40"/>
         <source>Gerber X3 pick&amp;place position file &amp; glue mask (RS-274X) export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Kartlar için Gerber X3 pick&amp;place konum dosyası ve yapıştırıcı maskesi (RS-274X) dışa aktarımı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="57"/>
@@ -12007,12 +12009,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="67"/>
         <source>Top Components:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Bileşenler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="80"/>
         <source>Bottom Components:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Bileşenler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="100"/>
@@ -12045,17 +12047,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="234"/>
         <source>Top Glue Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Üst Yapıştırıcı Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="244"/>
         <source>Bottom Glue Mask:</source>
-        <translation type="unfinished"/>
+        <translation>Alt Yapıştırıcı Maskesi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/gerberx3outputjobwidget.ui" line="260"/>
         <source>&lt;b&gt;Please note that support for glue export is considered experimental&lt;/b&gt; since we do not yet have much experience with this process. If you have experience with application of glue for assembly, please let us know how we can improve LibrePCB in this regard.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Yapıştırıcı dışa aktarımı desteğinin, bu süreçle ilgili henüz fazla deneyimimiz olmadığı için deneysel kabul edildiğini lütfen unutmayın. Montaj için yapıştırıcı uygulaması konusunda deneyiminiz varsa, LibrePCB&apos;yi bu konuda nasıl geliştirebileceğimizi lütfen bize bildirin.</translation>
     </message>
 </context>
 <context>
@@ -12068,27 +12070,27 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="35"/>
         <source>Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="45"/>
         <source>Page size:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa boyutu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="61"/>
         <source>Duplex:</source>
-        <translation type="unfinished"/>
+        <translation>Çift Taraflı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="81"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Çözünürlük:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="107"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Yönlendirme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="122"/>
@@ -12098,12 +12100,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="141"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="157"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Dikey</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="169"/>
@@ -12113,12 +12115,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="178"/>
         <source>Fit to page size</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa boyutuna sığdır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="193"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="208"/>
@@ -12138,7 +12140,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="255"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Boşlukları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="314"/>
@@ -12148,38 +12150,39 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="323"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Dönüşüm:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="332"/>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="339"/>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="508"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="348"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"/>
+        <translation> 
+Minimum çizgi genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="358"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Renkler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="365"/>
         <source>Black/White</source>
-        <translation type="unfinished"/>
+        <translation>Siyah/Beyaz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="378"/>
         <source>Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Kopya Sayısı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="404"/>
@@ -12194,32 +12197,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="419"/>
         <source>Colors</source>
-        <translation type="unfinished"/>
+        <translation>Renkler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="454"/>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>İçerik</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="503"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="517"/>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="526"/>
         <source>All pages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sayfalar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="555"/>
         <source>Current page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli sayfa</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="570"/>
@@ -12229,22 +12232,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="597"/>
         <source>The page number will be appended to the filename.</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa numarası dosya adının sonuna eklenecek.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="664"/>
         <source>Open the exported file or their parent directory if multiple files were exported.</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarılan dosyayı veya birden fazla dosya dışa aktarıldıysa üst dizinlerini açın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.ui" line="667"/>
         <source>Open exported file(s)</source>
-        <translation type="unfinished"/>
+        <translation>Dışa aktarılan dosya(lar)ı aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="72"/>
         <source>Operation in progress...</source>
-        <translation type="unfinished"/>
+        <translation>İşlem devam ediyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="73"/>
@@ -12269,17 +12272,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="120"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Panoya kopyala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="123"/>
         <source>Copy the image to the clipboard instead of saving it as a file.</source>
-        <translation type="unfinished"/>
+        <translation>Resmi dosya olarak kaydetmek yerine panoya kopyala.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="132"/>
         <source>Looking for printers...</source>
-        <translation type="unfinished"/>
+        <translation>Yazıcılar aranıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="417"/>
@@ -12289,12 +12292,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="433"/>
         <source>Processing page %1 of %2...</source>
-        <translation type="unfinished"/>
+        <translation>%2 sayfadan %1. işleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="513"/>
         <source>All Layers</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="519"/>
@@ -12309,7 +12312,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="549"/>
         <source>Drills</source>
-        <translation type="unfinished"/>
+        <translation>Delikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="559"/>
@@ -12324,32 +12327,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="891"/>
         <source>No printer found</source>
-        <translation type="unfinished"/>
+        <translation>Hiç yazıcı bulunamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="942"/>
         <source>One Sided</source>
-        <translation type="unfinished"/>
+        <translation>Tek Taraflı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="945"/>
         <source>Long Edge</source>
-        <translation type="unfinished"/>
+        <translation>Uzun Kenar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="949"/>
         <source>Short Edge</source>
-        <translation type="unfinished"/>
+        <translation>Kısa Kenar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="978"/>
         <source>Custom (adjust to content)</source>
-        <translation type="unfinished"/>
+        <translation>Özel (içeriğe göre ayarla)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/graphicsexportdialog.cpp" line="1155"/>
         <source>Save as...</source>
-        <translation type="unfinished"/>
+        <translation> Farklı kaydet...</translation>
     </message>
 </context>
 <context>
@@ -12362,7 +12365,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="37"/>
         <source>Customizable PDF/image export for schematics and boards.</source>
-        <translation type="unfinished"/>
+        <translation>Şematikler ve kartlar için özelleştirilebilir PDF/resim dışa aktarımı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="73"/>
@@ -12372,7 +12375,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="83"/>
         <source>Document Title:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Başlığı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="93"/>
@@ -12382,17 +12385,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="144"/>
         <source>Add page(s) to document</source>
-        <translation type="unfinished"/>
+        <translation>Belgeye sayfa(lar) ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="173"/>
         <source>Duplicate the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili sayfa(lar)ı çoğalt</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="202"/>
         <source>Remove the selected page(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seçili sayfa(lar)ı kaldır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="230"/>
@@ -12402,17 +12405,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="254"/>
         <source>Page size:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa boyutu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="264"/>
         <source>Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Çözünürlük:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="290"/>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>Yönlendirme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="308"/>
@@ -12422,12 +12425,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="327"/>
         <source>Landscape</source>
-        <translation type="unfinished"/>
+        <translation>Yatay</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="343"/>
         <source>Portrait</source>
-        <translation type="unfinished"/>
+        <translation>Dikey</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="355"/>
@@ -12437,12 +12440,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="364"/>
         <source>Fit to page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya sığdır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="379"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="394"/>
@@ -12462,7 +12465,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="441"/>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Kenar Boşlukları:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="500"/>
@@ -12472,32 +12475,32 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="524"/>
         <source>Transformation:</source>
-        <translation type="unfinished"/>
+        <translation>Dönüşüm:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="533"/>
         <source>Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="540"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="549"/>
         <source>Minimum line width:</source>
-        <translation type="unfinished"/>
+        <translation>Minimum çizgi genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="559"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Renkler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="566"/>
         <source>Monochrome</source>
-        <translation type="unfinished"/>
+        <translation>Monokrom</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.ui" line="574"/>
@@ -12507,7 +12510,7 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="154"/>
         <source>Custom (adjust to content)</source>
-        <translation type="unfinished"/>
+        <translation>Özel (içeriğe göre ayarla)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="344"/>
@@ -12517,17 +12520,17 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="352"/>
         <source>Board Image</source>
-        <translation type="unfinished"/>
+        <translation>Kart Resmi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="358"/>
         <source>Assembly Top/Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Üst/Alt Montaj</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/graphicsoutputjobwidget.cpp" line="370"/>
         <source>Rendering Top/Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Üst/Alt Görselleştirme</translation>
     </message>
 </context>
 <context>
@@ -12535,12 +12538,12 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="193"/>
         <source>Older Application Version Used</source>
-        <translation type="unfinished"/>
+        <translation>Daha Eski Uygulama Sürümü Kullanıldı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="194"/>
         <source>This workspace was already used with a newer version of LibrePCB. This is fine, just note that any changes in libraries and workspace settings won&apos;t be available in newer versions of LibrePCB.</source>
-        <translation type="unfinished"/>
+        <translation>Bu çalışma alanı zaten LibrePCB&apos;nin daha yeni bir sürümüyle kullanılmış. Bu sorun değil, yalnızca kütüphanelerde ve çalışma alanı ayarlarındaki değişikliklerin LibrePCB&apos;nin daha yeni sürümlerinde kullanılamayacağını unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="207"/>
@@ -12550,22 +12553,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="208"/>
         <source>This workspace does not contain any libraries, which are essential to create and modify projects. You should open the libraries panel to add some libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Bu çalışma alanı, proje oluşturmak ve değiştirmek için gerekli olan hiçbir kütüphane içermiyor. Kütüphane eklemek için kütüphaneler panelini açmalısınız.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="211"/>
         <source>Open Library Manager</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane Yöneticisini Aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="228"/>
         <source>Application is Not Installed</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama Kurulu Değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="229"/>
         <source>This application executable does not seem to be integrated into your desktop environment. If desired, install it now to allow opening LibrePCB projects through the file manager. Click the button for details, or do it from the preferences dialog at any time.</source>
-        <translation type="unfinished"/>
+        <translation>Bu uygulamanın yürütülebilir dosyası, masaüstü ortamınıza entegre edilmemiş görünüyor. İsterseniz, LibrePCB projelerinin dosya yöneticisi üzerinden açılabilmesi için şimdi kurabilirsiniz. Ayrıntılar için düğmeye tıklayın veya istediğiniz zaman tercihler penceresinden yapın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="233"/>
@@ -12575,22 +12578,22 @@ Attention: Curved slots are not supported in G85 mode (will raise an error).</so
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="256"/>
         <source>Light System Theme Detected</source>
-        <translation type="unfinished"/>
+        <translation>Açık Sistem Teması Algılandı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="257"/>
         <source>LibrePCB now provides a light theme in addition to the dark theme. It has been activated automatically due to your operating system settings. If you like, you can switch back to the dark theme.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB artık koyu temanın yanı sıra açık bir tema da sunuyor. İşletim sistemi ayarlarınız nedeniyle otomatik olarak etkinleştirildi. İsterseniz koyu temaya geri dönebilirsiniz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="260"/>
         <source>Use Dark Theme</source>
-        <translation type="unfinished"/>
+        <translation>Koyu Temayı Kullan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="274"/>
         <source>Scanning Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler Taranıyor</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/guiapplication.cpp" line="275"/>
@@ -15901,7 +15904,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="174"/>
         <source>Mirror</source>
-        <translation type="unfinished"/>
+        <translation>Aynala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="181"/>
@@ -17417,7 +17420,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="644"/>
         <source>Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
@@ -17440,17 +17443,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="113"/>
         <source>Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="126"/>
         <source>Silkscreen</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="139"/>
         <source>Solder Resist</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi</translation>
     </message>
 </context>
 <context>
@@ -19512,7 +19515,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="69"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagepopup.slint" line="78"/>
@@ -19693,33 +19696,33 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Reserved for official organizations</source>
-        <translation type="unfinished"/>
+        <translation>Resmi kuruluşlar için ayrılmış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Recommended for your personal organizations</source>
-        <translation type="unfinished"/>
+        <translation>Kişisel kuruluşlarınız için önerilir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Reserved for LibrePCB Fab</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB Fab için ayrılmış</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
         <source>Not recommended</source>
-        <translation type="unfinished"/>
+        <translation>Önerilmez</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="270"/>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="282"/>
         <source>%n output job(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n çıktı işi</numerusform><numerusform>%n çıktı işi</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="48"/>
         <source>Note: This is currently an experimental feature which will be polished in upcoming releases.</source>
-        <translation type="unfinished"/>
+        <translation>Not: Bu şu anda deneysel bir özelliktir ve gelecek sürümlerde iyileştirilecektir.</translation>
     </message>
 </context>
 <context>
@@ -19727,7 +19730,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="73"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
@@ -19740,7 +19743,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="225"/>
         <source>Failed to load package</source>
-        <translation type="unfinished"/>
+        <translation>Paket yüklenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/devicedependencycards.slint" line="226"/>
@@ -19753,7 +19756,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="288"/>
         <source>Add Footprint</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzi Ekle</translation>
     </message>
 </context>
 <context>
@@ -19761,7 +19764,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="342"/>
         <source>Add 3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3B Model Ekle</translation>
     </message>
 </context>
 <context>
@@ -19769,7 +19772,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="100"/>
         <source>Enter name &amp; press Return</source>
-        <translation type="unfinished"/>
+        <translation>Adı girin ve Enter&apos;a basın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="151"/>
@@ -19802,12 +19805,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
         <source>Helper Tools</source>
-        <translation type="unfinished"/>
+        <translation>Yardımcı Araçlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="870"/>
         <source>Background Image</source>
-        <translation type="unfinished"/>
+        <translation>Arka Plan Resmi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
@@ -19817,17 +19820,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
         <source>Solder Paste</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Pastası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="915"/>
         <source>Silkscreen</source>
-        <translation type="unfinished"/>
+        <translation>Serigrafi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="928"/>
         <source>Solder Resist</source>
-        <translation type="unfinished"/>
+        <translation>Lehim Maskesi</translation>
     </message>
 </context>
 <context>
@@ -19835,12 +19838,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditortagspanel.slint" line="112"/>
         <source>Type to add a new tag...</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir etiket eklemek için yazın...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packageeditortagspanel.slint" line="86"/>
         <source>Suggested Tags:</source>
-        <translation type="unfinished"/>
+        <translation>Önerilen Etiketler:</translation>
     </message>
 </context>
 <context>
@@ -19853,7 +19856,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="184"/>
         <source>This package contains no pads (yet).</source>
-        <translation type="unfinished"/>
+        <translation>Bu paket (henüz) hiç ped içermiyor.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagepadlistview.slint" line="88"/>
@@ -19866,17 +19869,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="267"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
-        <translation type="unfinished"/>
+        <translation>Elektriksel olarak bağımsız olan tüm (potansiyel olarak lehimlenebilir) paket pedlerini ekleyin, belirli bir parçada gerçekten elektriksel bir işlevi olup olmadığına bakılmaksızın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="268"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
-        <translation type="unfinished"/>
+        <translation>Örneğin, elektriksel bir işlevi olmasa bile bir termal ped burada listelenmelidir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="269"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
-        <translation type="unfinished"/>
+        <translation>Paket tamamlandıktan sonra ped ekleme veya kaldırmanın artık mümkün olmadığını unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="275"/>
@@ -19886,12 +19889,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="286"/>
         <source>Add Pads:</source>
-        <translation type="unfinished"/>
+        <translation>Pedler Ekle:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="291"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
-        <translation type="unfinished"/>
+        <translation>Ped adı (&quot;1..5&quot; gibi aralıklar içerebilir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="339"/>
@@ -19919,12 +19922,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
         <source>Footprints</source>
-        <translation type="unfinished"/>
+        <translation>Ayak İzleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
         <source>3D Models</source>
-        <translation type="unfinished"/>
+        <translation>3B Modeller</translation>
     </message>
 </context>
 <context>
@@ -19937,12 +19940,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="24"/>
         <source>Rounded Rect</source>
-        <translation type="unfinished"/>
+        <translation>Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="30"/>
         <source>Rectangular</source>
-        <translation type="unfinished"/>
+        <translation>Dikdörtgen</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="36"/>
@@ -19952,7 +19955,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/padshapeselector.slint" line="72"/>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Şekil</translation>
     </message>
 </context>
 <context>
@@ -19960,7 +19963,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="270"/>
         <source>Choose Parent Category</source>
-        <translation type="unfinished"/>
+        <translation>Üst Kategori Seç</translation>
     </message>
 </context>
 <context>
@@ -19968,7 +19971,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="231"/>
         <source>Parent:</source>
-        <translation type="unfinished"/>
+        <translation>Üst:</translation>
     </message>
 </context>
 <context>
@@ -19976,7 +19979,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="105"/>
         <source>Type to add a new part...</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir parça eklemek için yazın...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="147"/>
@@ -19991,7 +19994,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/dev/partlistview.slint" line="76"/>
         <source>Part Number (MPN)</source>
-        <translation type="unfinished"/>
+        <translation>Parça Numarası (MPN)</translation>
     </message>
 </context>
 <context>
@@ -19999,7 +20002,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="518"/>
         <source>New Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Tasarım Kuralları</translation>
     </message>
 </context>
 <context>
@@ -20007,7 +20010,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="451"/>
         <source>PCB Design Rules:</source>
-        <translation type="unfinished"/>
+        <translation>PCB Tasarım Kuralları:</translation>
     </message>
 </context>
 <context>
@@ -20015,7 +20018,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="528"/>
         <source>PCB Service:</source>
-        <translation type="unfinished"/>
+        <translation>PCB Hizmeti:</translation>
     </message>
 </context>
 <context>
@@ -20033,67 +20036,67 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="166"/>
         <source>THT Pads:</source>
-        <translation type="unfinished"/>
+        <translation>THT Pedleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="201"/>
         <source>SMT Pads:</source>
-        <translation type="unfinished"/>
+        <translation> SMT Pedleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="236"/>
         <source>Density:</source>
-        <translation type="unfinished"/>
+        <translation>Yoğunluk:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="286"/>
         <source>All components from the schematics have been added to the board. To add more components to the board, add them to the schematics first which will make them appearing here for placement.</source>
-        <translation type="unfinished"/>
+        <translation>Şematiklerdeki tüm bileşenler karta eklendi. Karta daha fazla bileşen eklemek için önce bunları şematiklere ekleyin, böylece yerleştirme için burada görünürler.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="322"/>
         <source>No device or package found</source>
-        <translation type="unfinished"/>
+        <translation>Hiç aygıt veya paket bulunamadı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="337"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen bileşen için uyumlu bir aygıt bulunamadı. Lütfen uygun bir aygıt sağlayan bir kütüphane kurun veya yerel bir kütüphanede kendiniz yeni bir aygıt oluşturun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="346"/>
         <source>More information &amp; device creation guide</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla bilgi ve aygıt oluşturma kılavuzu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="360"/>
         <source>I installed all libraries, why I still get this error?</source>
-        <translation type="unfinished"/>
+        <translation>Tüm kütüphaneleri kurdum, neden hâlâ bu hatayı alıyorum?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="370"/>
         <source>Install or Create Libraries</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneleri Kur veya Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="425"/>
         <source>Place Selected Device</source>
-        <translation type="unfinished"/>
+        <translation>Seçili Aygıtı Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="426"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
-        <translation type="unfinished"/>
+        <translation>Bileşeni, seçili aygıt ve ayak izi ile karta etkileşimli olarak yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="437"/>
         <source>Place Similar</source>
-        <translation type="unfinished"/>
+        <translation>Benzerini Yerleştir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="438"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda seçili olan aygıt ve ayak izini kullanarak, aynı türdeki tüm bileşenleri karta otomatik olarak ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="446"/>
