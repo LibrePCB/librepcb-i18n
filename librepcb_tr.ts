@@ -19632,17 +19632,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
-        <translation type="unfinished"/>
+        <translation>Bu araç, tasarladığınız PCB&apos;yi hızlı ve kolay bir şekilde ürettirmenize yardımcı olur. Proje dizini bir *.lppz arşivine dışa aktarılır ve çalışma alanı ayarlarınızda yapılandırılmış API sunucusuna yüklenir. Ardından sipariş sürecine web tarayıcısında devam edebilirsiniz, örn. tercih ettiğiniz üretim ortağını seçmek için. Hemen deneyin!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik Politikası</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
-        <translation type="unfinished"/>
+        <translation>Gizlilik ve şeffaflık bizim için önemlidir. Bu özelliğin perde arkasında nasıl çalıştığına dair ayrıntılar burada mevcuttur:</translation>
     </message>
 </context>
 <context>
@@ -19650,27 +19650,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="110"/>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Yenile</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="41"/>
         <source>Running...</source>
-        <translation type="unfinished"/>
+        <translation>Çalışıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="43"/>
         <source>Successful</source>
-        <translation type="unfinished"/>
+        <translation>Başarılı</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="45"/>
         <source>%n Message(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Mesaj</numerusform><numerusform>%n Mesaj</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="47"/>
         <source>Outdated</source>
-        <translation type="unfinished"/>
+        <translation>Güncel Değil</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="49"/>
@@ -19680,7 +19680,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="91"/>
         <source>No board selected</source>
-        <translation type="unfinished"/>
+        <translation>Hiç kart seçilmedi</translation>
     </message>
 </context>
 <context>
@@ -19688,7 +19688,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
-        <translation type="unfinished"/>
+        <translation>Daha yüksek önceliğe sahip kuruluşlar, daha düşük önceliğe sahip kuruluşlardan önce görünür.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
