@@ -13575,7 +13575,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="40"/>
         <source>Store a snapshot of the whole project as a *.lppz archive.</source>
-        <translation type="unfinished"/>
+        <translation>Projenin tamamının anlık görüntüsünü bir *.lppz arşivi olarak sakla.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/lppzoutputjobwidget.ui" line="57"/>
@@ -13598,7 +13598,7 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="103"/>
         <source>It seems that the application crashed the last time you opened this library element. Do you want to restore the last autosave backup?</source>
-        <translation type="unfinished"/>
+        <translation>Uygulamanın bu kütüphane öğesini son açtığınızda çöktüğü görünüyor. Son otomatik kaydetme yedeğini geri yüklemek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/mainwindow.cpp" line="123"/>
@@ -13619,17 +13619,17 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="249"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"/>
+        <translation>Panoya kopyalandı: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="419"/>
         <source>(press %1 to disable snap)</source>
-        <translation type="unfinished"/>
+        <translation>(yaslamayı devre dışı bırakmak için %1 tuşuna basın)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="424"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
-        <translation type="unfinished"/>
+        <translation>Değeri panoya kopyalamak için %1, ölçümü temizlemek için %2 tuşuna basın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="429"/>
@@ -13647,18 +13647,18 @@ Are you still sure to delete the following library elements?</source>
     <message>
         <location filename="libs/librepcb/editor/widgets/messagewidget.cpp" line="67"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/messagewidget.cpp" line="70"/>
         <source>Permanently hide this message.
 This can be reverted in the workspace settings dialog.</source>
-        <translation type="unfinished"/>
+        <translation>Bu mesajı kalıcı olarak gizle.Bu, çalışma alanı ayarları penceresinden geri alınabilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/widgets/messagewidget.cpp" line="90"/>
         <source>Temporarily hide this message.</source>
-        <translation type="unfinished"/>
+        <translation>Bu mesajı geçici olarak gizle.</translation>
     </message>
 </context>
 <context>
@@ -13666,27 +13666,27 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="14"/>
         <source>Move/Align Elements</source>
-        <translation type="unfinished"/>
+        <translation>Öğeleri Taşı/Hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="32"/>
         <source>Reference Position (Top Left)</source>
-        <translation type="unfinished"/>
+        <translation>Referans Konumu (Sol Üst)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="38"/>
         <source>Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Mod:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="47"/>
         <source>Absolute</source>
-        <translation type="unfinished"/>
+        <translation>Mutlak</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="57"/>
         <source>Relative</source>
-        <translation type="unfinished"/>
+        <translation>Göreli</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="66"/>
@@ -13696,7 +13696,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="81"/>
         <source>Center around Y-axis</source>
-        <translation type="unfinished"/>
+        <translation>Y ekseni etrafında ortala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="97"/>
@@ -13706,12 +13706,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="112"/>
         <source>Center around X-axis</source>
-        <translation type="unfinished"/>
+        <translation>X ekseni etrafında ortala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="131"/>
         <source>Pitch</source>
-        <translation type="unfinished"/>
+        <translation>Ayak aralığı (Pitch)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="155"/>
@@ -13721,7 +13721,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="174"/>
         <source>Align vertically (ΔX=0)</source>
-        <translation type="unfinished"/>
+        <translation>Dikey hizala (ΔX=0)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="187"/>
@@ -13731,7 +13731,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/movealigndialog.ui" line="206"/>
         <source>Align horizontally (ΔY=0)</source>
-        <translation type="unfinished"/>
+        <translation>Yatay hizala (ΔY=0)</translation>
     </message>
 </context>
 <context>
@@ -13744,7 +13744,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="40"/>
         <source>IPC D-356A netlist export for boards.</source>
-        <translation type="unfinished"/>
+        <translation>Kartlar için IPC D-356A netlist dışa aktarımı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/outputjobsdialog/netlistoutputjobwidget.ui" line="57"/>
@@ -13782,12 +13782,12 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizard.ui" line="14"/>
         <source>Create New Project</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Proje Oluştur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizard.cpp" line="207"/>
         <source>EAGLE import failed:</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE içe aktarma başarısız oldu:</translation>
     </message>
 </context>
 <context>
@@ -13795,42 +13795,42 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="14"/>
         <source>Select EAGLE (v6 or later) project files</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE (v6 veya sonrası) proje dosyalarını seçin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="17"/>
         <source>Please choose the EAGLE schematic and optionally board files to import.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen içe aktarılacak EAGLE şematik dosyasını ve isteğe bağlı olarak kart dosyalarını seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="26"/>
         <source>Select EAGLE schematic file</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE şematik dosyasını seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="39"/>
         <source>Select EAGLE board file (optional)</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE kart dosyasını seç (isteğe bağlı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.ui" line="134"/>
         <source>Note that due to conceptual differences between EDA tools, migrations won&apos;t be perfect and you should review the result carefully. Whenever possible, creating a new project from scratch is preferred.</source>
-        <translation type="unfinished"/>
+        <translation>EDA araçları arasındaki kavramsal farklar nedeniyle taşımaların mükemmel olmayacağını ve sonucu dikkatle gözden geçirmeniz gerektiğini unutmayın. Mümkün olduğunda sıfırdan yeni bir proje oluşturmak tercih edilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="69"/>
         <source>Select EAGLE Schematic</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Şematiğini Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="91"/>
         <source>Select EAGLE Board</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Kartını Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="141"/>
         <source>EAGLE Project Import</source>
-        <translation type="unfinished"/>
+        <translation>EAGLE Projesi İçe Aktarma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="160"/>
@@ -13840,22 +13840,22 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="202"/>
         <source>Parsing project...</source>
-        <translation type="unfinished"/>
+        <translation>Proje ayrıştırılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="209"/>
         <source>Invalid file path(s).</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosya yol(lar)ı.</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="238"/>
         <source>Ready to import %n sheet(s) and a board.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n sayfa ve bir kart içe aktarmaya hazır.</numerusform><numerusform>%n sayfa ve bir kart içe aktarmaya hazır.</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="240"/>
         <source>Ready to import %n sheet(s) without board.</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n sayfa, kart olmadan içe aktarmaya hazır.</numerusform><numerusform>%n sayfa, kart olmadan içe aktarmaya hazır.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_eagleimport.cpp" line="244"/>
@@ -13868,17 +13868,17 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="14"/>
         <source>Initialization</source>
-        <translation type="unfinished"/>
+        <translation>Başlatma</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="17"/>
         <source>Specify how the project should be initialized.</source>
-        <translation type="unfinished"/>
+        <translation>Projenin nasıl başlatılacağını belirtin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="23"/>
         <source>Add Sche&amp;matic</source>
-        <translation type="unfinished"/>
+        <translation>Şematik Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="32"/>
@@ -13895,7 +13895,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.ui" line="69"/>
         <source>Add B&amp;oard</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kart Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_initialization.cpp" line="99"/>
@@ -13914,7 +13914,7 @@ This can be reverted in the workspace settings dialog.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="23"/>
         <source>Specify some metadata of the project to be created.</source>
-        <translation type="unfinished"/>
+        <translation>Oluşturulacak projenin bazı meta verilerini belirtin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="32"/>
@@ -13935,17 +13935,17 @@ This can be reverted in the workspace settings dialog.</source>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="97"/>
         <source>Note that additional actions might be required to fully license the project.
 For more information about licensing, click on this icon.</source>
-        <translation type="unfinished"/>
+        <translation>Projeyi tam olarak lisanslamak için ek işlemler gerekebileceğini unutmayın.Lisanslama hakkında daha fazla bilgi için bu simgeye tıklayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="113"/>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Yol:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.ui" line="134"/>
         <source>A LibrePCB project consists of a whole directory, not only of a single file. Just select the new project&apos;s parent directory, and the subdirectory and filename will be appended automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Bir LibrePCB projesi yalnızca tek bir dosyadan değil, tam bir dizinden oluşur. Yeni projenin üst dizinini seçmeniz yeterli, alt dizin ve dosya adı otomatik olarak eklenecektir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="84"/>
@@ -13955,87 +13955,87 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="86"/>
         <source>CC0-1.0 (no restrictions)</source>
-        <translation type="unfinished"/>
+        <translation>CC0-1.0 (kısıtlama yok)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="88"/>
         <source>CC-BY-4.0 (requires attribution)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-4.0 (atıf gerektirir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="91"/>
         <source>CC-BY-SA-4.0 (requires attribution + share alike)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-SA-4.0 (atıf + aynı lisansla paylaşım gerektirir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="94"/>
         <source>CC-BY-NC-4.0 (requires attribution + non commercial)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-NC-4.0 (atıf + ticari olmayan kullanım gerektirir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="96"/>
         <source>CC-BY-NC-SA-4.0 (requires attribution + non commercial + share alike)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-NC-SA-4.0 (atıf + ticari olmayan kullanım + aynı lisansla paylaşım gerektirir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="99"/>
         <source>CC-BY-NC-ND-4.0 (requires attribution + non commercial + no derivatives)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-NC-ND-4.0 (atıf + ticari olmayan kullanım + türev çalışma yok gerektirir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="103"/>
         <source>CC-BY-ND-4.0 (requires attribution + no derivatives)</source>
-        <translation type="unfinished"/>
+        <translation>CC-BY-ND-4.0 (atıf + türev çalışma yok gerektirir)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="105"/>
         <source>TAPR-OHL-1.0</source>
-        <translation type="unfinished"/>
+        <translation> TAPR-OHL-1.0</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="107"/>
         <source>CERN-OHL-P-2.0 (permissive)</source>
-        <translation type="unfinished"/>
+        <translation>CERN-OHL-P-2.0 (izin verici)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="109"/>
         <source>CERN-OHL-W-2.0 (weakly reciprocal)</source>
-        <translation type="unfinished"/>
+        <translation>CERN-OHL-W-2.0 (zayıf karşılıklı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="111"/>
         <source>CERN-OHL-S-2.0 (strongly reciprocal)</source>
-        <translation type="unfinished"/>
+        <translation>CERN-OHL-S-2.0 (güçlü karşılıklı)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="192"/>
         <source>Please enter a project name</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir proje adı girin</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="217"/>
         <source>Project&apos;s parent directory</source>
-        <translation type="unfinished"/>
+        <translation>Projenin üst dizini</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="240"/>
         <source>Please enter a valid project path with &apos;%1&apos; file extension.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen &apos;%1&apos; dosya uzantısına sahip geçerli bir proje yolu girin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="252"/>
         <source>The selected directory is not empty.</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen dizin boş değil.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="275"/>
         <source>Invalid filepath</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz dosya yolu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/newprojectwizard/newprojectwizardpage_metadata.cpp" line="276"/>
         <source>The project&apos;s directory exists already and is not empty.</source>
-        <translation type="unfinished"/>
+        <translation>Projenin dizini zaten mevcut ve boş değil.</translation>
     </message>
 </context>
 <context>
@@ -14043,7 +14043,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/3d/openglscenebuilder.cpp" line="128"/>
         <source>The board outline is invalid. Please add exactly one polygon on the &apos;%1&apos; layer and make sure it is closed. For more information, check out the documentation.</source>
-        <translation type="unfinished"/>
+        <translation>Kart dış hattı geçersiz. Lütfen &apos;%1&apos; katmanına tam olarak bir poligon ekleyin ve kapalı olduğundan emin olun. Daha fazla bilgi için dokümantasyona bakın.</translation>
     </message>
 </context>
 <context>
@@ -14056,12 +14056,12 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="201"/>
         <source>PCB Design Rules Name</source>
-        <translation type="unfinished"/>
+        <translation>PCB Tasarım Kuralları Adı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationpcbdesignrulesmodel.cpp" line="202"/>
         <source>Name of the PCB design rules:</source>
-        <translation type="unfinished"/>
+        <translation>PCB tasarım kurallarının adı:</translation>
     </message>
 </context>
 <context>
@@ -14069,7 +14069,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="92"/>
         <source>PCB Design Rules: %1</source>
-        <translation type="unfinished"/>
+        <translation>PCB Tasarım Kuralları: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="231"/>
@@ -14082,7 +14082,7 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="252"/>
         <source>Choose Organization Logo</source>
-        <translation type="unfinished"/>
+        <translation> Kuruluş Logosunu Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="253"/>
@@ -15602,7 +15602,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addcomponent.cpp" line="496"/>
         <source>The component with the UUID &quot;%1&quot; does not have any symbol.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; UUID&apos;sine sahip bileşenin hiç sembolü yok.</translation>
     </message>
 </context>
 <context>
@@ -15610,7 +15610,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="234"/>
         <source>Add Schematic Image</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe Resim Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addimage.cpp" line="249"/>
@@ -15625,12 +15625,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="181"/>
         <source>Add Bus Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe Veri Yolu Etiketi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="195"/>
         <source>Add Net Label to Schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe Ağ Etiketi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="220"/>
@@ -15645,7 +15645,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="213"/>
         <source>Add text to schematic</source>
-        <translation type="unfinished"/>
+        <translation>Şematiğe metin ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="225"/>
@@ -15677,7 +15677,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="182"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="228"/>
         <source>Draw schematic polygon</source>
-        <translation type="unfinished"/>
+        <translation>Şematik poligonu çiz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="198"/>
@@ -15698,13 +15698,13 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="302"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="642"/>
         <source>Invalid net name</source>
-        <translation type="unfinished"/>
+        <translation>Geçersiz ağ adı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="303"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="644"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; geçerli bir ağ adı olmadığı için zorlanmış ağ adı uygulanamadı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="430"/>
@@ -15717,7 +15717,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
         <source>Add New Bus Member</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Veri Yolu Üyesi Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="866"/>
@@ -15784,7 +15784,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1393"/>
         <source>Bus</source>
-        <translation type="unfinished"/>
+        <translation>Veri Yolu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1400"/>
@@ -15799,12 +15799,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1402"/>
         <source>Pad(s)</source>
-        <translation type="unfinished"/>
+        <translation>Ped(ler)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1404"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; tel ağı, zorlanmış &apos;%2&apos; ağıyla eşleşmiyor!</translation>
     </message>
 </context>
 <context>
@@ -15812,7 +15812,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1252"/>
         <source>Preparing schematics...</source>
-        <translation type="unfinished"/>
+        <translation>Şematikler hazırlanıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1252"/>
@@ -15838,12 +15838,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="14"/>
         <source>Stroke Text Properties</source>
-        <translation type="unfinished"/>
+        <translation>Vektör Metin Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation> Metin:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="45"/>
@@ -15853,22 +15853,22 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="55"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="65"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="75"/>
         <source>Stroke Width:</source>
-        <translation type="unfinished"/>
+        <translation>Vektör Çizgi Genişliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="85"/>
         <source>Letter Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Harf Aralığı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="97"/>
@@ -15879,7 +15879,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="106"/>
         <source>Line Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Satır Aralığı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="127"/>
@@ -15894,7 +15894,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="156"/>
         <source>Auto-Rotate</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Döndür</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/stroketextpropertiesdialog.ui" line="165"/>
@@ -15922,7 +15922,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.ui" line="17"/>
         <source>Choose Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.ui" line="31"/>
@@ -15937,17 +15937,17 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="227"/>
         <source>Could not load symbols</source>
-        <translation type="unfinished"/>
+        <translation>Semboller yüklenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="235"/>
         <source>No symbol selected</source>
-        <translation type="unfinished"/>
+        <translation>Hiç sembol seçilmedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="253"/>
         <source>Could not load symbol</source>
-        <translation type="unfinished"/>
+        <translation>Sembol yüklenemedi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="260"/>
@@ -15957,7 +15957,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolchooserdialog.cpp" line="261"/>
         <source>Please select a symbol.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir sembol seçin.</translation>
     </message>
 </context>
 <context>
@@ -15965,7 +15965,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="217"/>
         <source>Add Symbol Image</source>
-        <translation type="unfinished"/>
+        <translation>Sembole Resim Ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addimage.cpp" line="231"/>
@@ -15988,7 +15988,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="231"/>
         <source>Add symbol pin</source>
-        <translation type="unfinished"/>
+        <translation>Sembole pin ekle</translation>
     </message>
 </context>
 <context>
@@ -15996,7 +15996,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="182"/>
         <source>Add symbol circle</source>
-        <translation type="unfinished"/>
+        <translation>Sembole daire ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="194"/>
@@ -16012,7 +16012,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="254"/>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="347"/>
         <source>Add symbol polygon</source>
-        <translation type="unfinished"/>
+        <translation>Sembole poligon ekle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="268"/>
@@ -16129,12 +16129,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="58"/>
         <source>Component:</source>
-        <translation type="unfinished"/>
+        <translation>Bileşen:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="90"/>
         <source>Symbol:</source>
-        <translation type="unfinished"/>
+        <translation>Sembol:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="176"/>
@@ -16154,7 +16154,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="206"/>
         <source>Mirror:</source>
-        <translation type="unfinished"/>
+        <translation>Aynala:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.ui" line="229"/>
@@ -16184,7 +16184,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="115"/>
         <source>symbol variant &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; sembol varyantı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="136"/>
@@ -16194,7 +16194,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="137"/>
         <source>Gate &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; kapısı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="181"/>
@@ -16214,17 +16214,17 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="228"/>
         <source>%1 gets renamed to %2</source>
-        <translation type="unfinished"/>
+        <translation>%1, %2 olarak yeniden adlandırılacak</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="229"/>
         <source>There is already a component with the name &apos;%1&apos; in the schematic. Do you want to swap their names?</source>
-        <translation type="unfinished"/>
+        <translation>Şematikte &apos;%1&apos; adında bir bileşen zaten var. Adlarını değiştirmek (takas etmek) ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="235"/>
         <source>Name already in use</source>
-        <translation type="unfinished"/>
+        <translation>Ad zaten kullanımda</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/schematic/symbolinstancepropertiesdialog.cpp" line="282"/>
@@ -16237,7 +16237,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="14"/>
         <source>Pin Properties</source>
-        <translation type="unfinished"/>
+        <translation>Pin Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="25"/>
@@ -16252,12 +16252,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="47"/>
         <source>Move text automatically when changing the pin length.</source>
-        <translation type="unfinished"/>
+        <translation>Pin uzunluğu değiştirilirken metni otomatik olarak taşı.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="50"/>
         <source>Move Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Taşı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="59"/>
@@ -16272,27 +16272,27 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="93"/>
         <source>Text Position:</source>
-        <translation type="unfinished"/>
+        <translation>Metin Konumu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="110"/>
         <source>Text Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Metin Döndürme:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="120"/>
         <source>Text Height:</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yüksekliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.ui" line="130"/>
         <source>Text Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yüksekliği:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="69"/>
         <source>(at 0° rotation)</source>
-        <translation type="unfinished"/>
+        <translation> (0° döndürmede)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symbolpinpropertiesdialog.cpp" line="178"/>
@@ -16321,12 +16321,12 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="723"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; sembolü kaydedilmemiş değişiklikler içeriyor.Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1559"/>
         <source>Edit Symbol Properties</source>
-        <translation type="unfinished"/>
+        <translation>Sembol Özelliklerini Düzenle</translation>
     </message>
 </context>
 <context>
@@ -16334,12 +16334,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="14"/>
         <source>Text Properties</source>
-        <translation type="unfinished"/>
+        <translation>Metin Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="31"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation> Metin:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="45"/>
@@ -16349,12 +16349,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="52"/>
         <source>Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Hizalama:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="62"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/textpropertiesdialog.ui" line="72"/>
@@ -16388,14 +16388,14 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/undostack.cpp" line="159"/>
         <location filename="libs/librepcb/editor/undostack.cpp" line="197"/>
         <source>Another command is active at the moment. Please finish that command to continue.</source>
-        <translation type="unfinished"/>
+        <translation>Şu anda başka bir komut etkin. Devam etmek için lütfen o komutu bitirin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/undostack.cpp" line="216"/>
         <location filename="libs/librepcb/editor/undostack.cpp" line="233"/>
         <location filename="libs/librepcb/editor/undostack.cpp" line="255"/>
         <source>No command group active!</source>
-        <translation type="unfinished"/>
+        <translation>Etkin komut grubu yok!</translation>
     </message>
 </context>
 <context>
@@ -16429,7 +16429,7 @@ Do you want to save them before closing it?</source>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="91"/>
         <source>e.g. &quot;John Doe&quot;</source>
         <extracomment>Example for a user name.</extracomment>
-        <translation type="unfinished"/>
+        <translation>örn. &quot;Ahmet Yılmaz&quot;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="113"/>
@@ -16439,52 +16439,52 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="125"/>
         <source>Autosave Interval:</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Kaydetme Aralığı:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="132"/>
         <source>Rendering Method:</source>
-        <translation type="unfinished"/>
+        <translation>Görselleştirme Yöntemi:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="139"/>
         <source>Desktop Integration:</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü Entegrasyonu:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="146"/>
         <source>Dismissed Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Kapatılan Mesajlar:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="178"/>
         <source>Seconds (0 = disable autosave)</source>
-        <translation type="unfinished"/>
+        <translation>Saniye (0 = otomatik kaydetmeyi devre dışı bırak)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="187"/>
         <source>Use OpenGL Hardware Acceleration</source>
-        <translation type="unfinished"/>
+        <translation>OpenGL Donanım Hızlandırma Kullan</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="201"/>
         <source>Install...</source>
-        <translation type="unfinished"/>
+        <translation>Kur...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="208"/>
         <source>Uninstall...</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="233"/>
         <source>Adds LibrePCB to the start menu and registers the *.lpp file extension.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB&apos;yi başlat menüsüne ekler ve *.lpp dosya uzantısını kaydeder.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="246"/>
         <source>Appearance</source>
-        <translation type="unfinished"/>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="285"/>
@@ -16496,37 +16496,37 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="304"/>
         <source>Schematics:</source>
-        <translation type="unfinished"/>
+        <translation>Şematikler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="311"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="364"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="477"/>
         <source>Modify (only for user-defined color schemes)</source>
-        <translation type="unfinished"/>
+        <translation>Değiştir (yalnızca kullanıcı tanımlı renk şemaları için)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="347"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="422"/>
         <source>Grid:</source>
-        <translation type="unfinished"/>
+        <translation>Izgara:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="357"/>
         <source>Theme:</source>
-        <translation type="unfinished"/>
+        <translation>Tema:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="388"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="463"/>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="491"/>
         <source>Remove (only for user-defined color schemes)</source>
-        <translation type="unfinished"/>
+        <translation>Kaldır (yalnızca kullanıcı tanımlı renk şemaları için)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="510"/>
         <source>3D Views:</source>
-        <translation type="unfinished"/>
+        <translation>3B Görünümler:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="546"/>
@@ -16536,7 +16536,7 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="570"/>
         <source>Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="579"/>
@@ -16555,22 +16555,22 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="622"/>
         <source>External Applications</source>
-        <translation type="unfinished"/>
+        <translation>Harici Uygulamalar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="675"/>
         <source>Custom command(s):</source>
-        <translation type="unfinished"/>
+        <translation>Özel komut(lar):</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="707"/>
         <source>You can add multiple commands to make the same settings working on multiple computers. LibrePCB will iterate through the list of commands until one of them succeeds. If none succeeds, the system&apos;s default application will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Aynı ayarların birden fazla bilgisayarda çalışmasını sağlamak için birden fazla komut ekleyebilirsiniz. LibrePCB, biri başarılı olana kadar komut listesini sırayla deneyecektir. Hiçbiri başarılı olmazsa, sistemin varsayılan uygulaması kullanılacaktır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="723"/>
         <source>Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Klavye Kısayolları</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="788"/>
@@ -19441,7 +19441,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="883"/>
         <source>Library</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphane</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="902"/>
@@ -19507,7 +19507,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/widgets/messagebox.slint" line="40"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
 </context>
 <context>
@@ -19559,7 +19559,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/notificationspopup.slint" line="112"/>
         <source>Don&apos;t show again</source>
-        <translation type="unfinished"/>
+        <translation>Bir daha gösterme</translation>
     </message>
 </context>
 <context>
