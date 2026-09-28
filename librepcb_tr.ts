@@ -8028,158 +8028,158 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="265"/>
         <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="364"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="602"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="692"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="701"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="710"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="719"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="863"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="891"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="921"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1298"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1318"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1334"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1350"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1366"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1455"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1471"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1488"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1517"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1543"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1565"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1583"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1601"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1619"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1634"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1705"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1793"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="605"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="695"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="704"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="713"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="722"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="866"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="894"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="924"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1301"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1324"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1340"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1356"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1372"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1461"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1477"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1494"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1523"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1549"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1571"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1589"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1607"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1625"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1640"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1720"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1808"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="908"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="911"/>
         <source>None</source>
         <translation>Yok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1426"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1432"/>
         <source>Set Width</source>
         <translation>Genişliği Ayarla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1632"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1638"/>
         <source>Copied to clipboard!</source>
         <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1646"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1652"/>
         <source>Paste board elements</source>
         <translation>Kart öğelerini yapıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1804"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1819"/>
         <source>Measurement Result</source>
         <translation>Ölçüm Sonucu</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1806"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1821"/>
         <source>Total length of %n trace segment(s): %2 mm / %3 in</source>
         <translation><numerusform>Toplam %n iz segmentinin uzunluğu: %2 mm / %3 inç</numerusform><numerusform>Toplam %n iz segmentinin uzunluğu: %2 mm / %3 inç</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1814"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1829"/>
         <source>WARNING: There are %1 trace segments selected, but not all of them are connected!</source>
         <translation>UYARI: %1 iz segmenti seçili, ancak hepsi bağlı değil!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1843"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="1858"/>
         <source>Selected trace segments may not branch!</source>
         <translation>Seçili iz segmentleri dallanamaz!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2357"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2372"/>
         <source>Net</source>
         <translation>Ağ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2360"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2375"/>
         <source>Class</source>
         <translation>Sınıf</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2375"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2390"/>
         <source>Name</source>
         <translation>Ad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2376"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2391"/>
         <source>Value</source>
         <translation>Değer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2377"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2392"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2385"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2400"/>
         <source>Package</source>
         <translation>Paket</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2389"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2404"/>
         <source>Pad</source>
         <translation>Ped</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2393"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2408"/>
         <source>Signal</source>
         <translation>Sinyal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2398"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2448"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2413"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2463"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2411"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2426"/>
         <source>Slot</source>
         <translation>Yuva</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2417"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2443"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2432"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2458"/>
         <source>Drill</source>
         <translation>Delik Çapı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2428"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2443"/>
         <source>Layer</source>
         <translation>Katman</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2448"/>
         <source>Height</source>
         <translation>Yükseklik</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2453"/>
         <source>Width</source>
         <translation>Genişlik</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2455"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2470"/>
         <source>Start Layer</source>
         <translation>Başlangıç Katmanı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2456"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2471"/>
         <source>End Layer</source>
         <translation>Bitiş Katmanı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2461"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2476"/>
         <source>Position</source>
         <translation>Konum</translation>
     </message>
@@ -15728,81 +15728,81 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="346"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="494"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="537"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="546"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="555"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="824"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="845"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="866"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="886"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="902"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="920"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="947"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="966"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="981"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1064"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="354"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="502"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="545"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="563"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="832"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="853"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="874"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="894"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="910"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="928"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="955"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="974"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="989"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1072"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="979"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="987"/>
         <source>Copied to clipboard!</source>
         <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1044"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1052"/>
         <source>Paste Schematic Elements</source>
         <translation> Şematik Öğelerini Yapıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1373"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1381"/>
         <source>Name</source>
         <translation>Ad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1374"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1382"/>
         <source>Value</source>
         <translation>Değer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1375"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1383"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1386"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1394"/>
         <source>Net</source>
         <translation>Ağ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1389"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1397"/>
         <source>Class</source>
         <translation>Sınıf</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1393"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1401"/>
         <source>Bus</source>
         <translation>Veri Yolu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1400"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1408"/>
         <source>Signal</source>
         <translation>Sinyal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1401"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1409"/>
         <source>Pin</source>
         <translation>Pin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1402"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
         <source>Pad(s)</source>
         <translation>Ped(ler)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1404"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1412"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
         <translation>&apos;%1&apos; tel ağı, zorlanmış &apos;%2&apos; ağıyla eşleşmiyor!</translation>
     </message>
@@ -16950,22 +16950,22 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="964"/>
         <source>Skipped symbol library due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Hata nedeniyle sembol kütüphanesi atlandı: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="980"/>
         <source>Done! Please check all messages (if any) before proceeding.</source>
-        <translation type="unfinished"/>
+        <translation>Tamamlandı! Devam etmeden önce lütfen tüm mesajları (varsa) kontrol edin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="982"/>
         <source>Note that the importer might not cover all cases correctly yet.</source>
-        <translation type="unfinished"/>
+        <translation>İçe aktarıcının henüz tüm durumları doğru şekilde kapsamayabileceğini unutmayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="983"/>
         <source>If you experience any issue, please &lt;a href=&quot;%1&quot;&gt;let us know&lt;/a&gt;. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi bir sorunla karşılaşırsanız lütfen &lt;a href=&quot;%1&quot;&gt;bize bildirin&lt;/a&gt;. Teşekkürler!</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="989"/>
@@ -16979,12 +16979,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="apps/librepcb/main.cpp" line="287"/>
         <source>Unstable file format!</source>
-        <translation type="unfinished"/>
+        <translation>Kararsız dosya biçimi!</translation>
     </message>
     <message>
         <location filename="apps/librepcb/main.cpp" line="288"/>
         <source>&lt;p&gt;&lt;b&gt;ATTENTION: This application version is UNSTABLE!&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Everything you do with this application can break your workspace, libraries or projects! Saved files will not be readable with stable releases of LibrePCB. It&apos;s highly recommended to create a backup before proceeding. If you are unsure, please download an official stable release instead.&lt;/p&gt;&lt;p&gt;For details, please take a look at LibrePCB&apos;s &lt;a href=&quot;%1&quot;&gt;versioning concept&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Are you really sure to continue with the risk of breaking your files?!&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;&lt;b&gt;DİKKAT: Bu uygulama sürümü KARARSIZ!&lt;/b&gt;&lt;/p&gt;&lt;p&gt; Bu uygulamayla yaptığınız her şey çalışma alanınızı, kütüphanelerinizi veya projelerinizi bozabilir! Kaydedilen dosyalar LibrePCB&apos;nin kararlı sürümleriyle okunamayacaktır. Devam etmeden önce yedek oluşturmanız şiddetle önerilir. Emin değilseniz, bunun yerine resmi bir kararlı sürüm indirin. Ayrıntılar için lütfen LibrePCB&apos;nin &lt;a href=&quot;%1&quot;&gt;sürümleme konseptine&lt;/a&gt; göz atın. &lt;p&gt;&lt;p&gt;Dosyalarınızı bozma riskiyle devam etmek istediğinizden gerçekten emin misiniz?!&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -16993,13 +16993,13 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <location filename="share/applications/org.librepcb.LibrePCB.desktop.i18n" line="1"/>
         <source>Design Schematics and PCBs</source>
         <comment>Comment key of *.desktop file</comment>
-        <translation type="unfinished"/>
+        <translation>Şematik ve PCB Tasarla</translation>
     </message>
     <message>
         <location filename="share/applications/org.librepcb.LibrePCB.desktop.i18n" line="2"/>
         <source>PCB Designer</source>
         <comment>GenericName key of *.desktop file</comment>
-        <translation type="unfinished"/>
+        <translation>PCB Tasarımcısı</translation>
     </message>
 </context>
 <context>
@@ -17007,7 +17007,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="tests/unittests/core/applicationtest.cpp" line="48"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya</translation>
     </message>
 </context>
 <context>
@@ -17015,62 +17015,62 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="126"/>
         <source>View Source Code</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Kodu Görüntüle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="127"/>
         <source>Open the source code in the web browser</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak kodu web tarayıcısında aç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="166"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="167"/>
         <source>(please copy this into bug reports)</source>
-        <translation type="unfinished"/>
+        <translation>(lütfen bunu hata raporlarına kopyalayın)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="198"/>
         <source>Credits</source>
-        <translation type="unfinished"/>
+        <translation>Emeği Geçenler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB; birçok katkıda bulunan kişiye, sponsora, açık kaynaklı yazılım bileşenine ve sanat çalışmasına dayanır.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="207"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB&apos;yi doğrudan veya dolaylı olarak destekleyen herkese çok teşekkürler!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="221"/>
         <source>For the list of current sponsors, see %1.</source>
-        <translation type="unfinished"/>
+        <translation>Mevcut sponsorların listesi için %1 bağlantısına bakın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="256"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Lisans</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="268"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
-        <translation type="unfinished"/>
+        <translation>Bu özgür bir yazılımdır ve GNU Genel Kamu Lisansı (GPL) sürüm 3 veya üzeri altında yayınlanmıştır. Lisansın tam metnini kaynak kodumuzda bulabilirsiniz.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="71"/>
         <source>LibrePCB is a free &amp; open source community project. It is operated by %1 with the support of many other contributors.</source>
-        <translation type="unfinished"/>
+        <translation>LibrePCB, özgür ve açık kaynaklı bir topluluk projesidir. %1 tarafından, diğer birçok katkıcının desteğiyle yürütülmektedir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/aboutpanel.slint" line="72"/>
         <source>Please consider supporting our hard work with a donation ‒ thank you.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen bir bağışla emeğimizi desteklemeyi düşünün ‒ teşekkürler.</translation>
     </message>
 </context>
 <context>
@@ -17078,7 +17078,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/addcomponenttoolbar.slint" line="20"/>
         <source>Enter value here...</source>
-        <translation type="unfinished"/>
+        <translation>Değeri buraya girin...</translation>
     </message>
 </context>
 <context>
@@ -17086,7 +17086,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintholetoolbar.slint" line="17"/>
         <source>Hole Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı</translation>
     </message>
 </context>
 <context>
@@ -17094,32 +17094,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="118"/>
         <source>Drill Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="143"/>
         <source>Corner Radius</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Yarıçapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
         <source>Press-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Press-Fit</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="164"/>
         <source>Mark this pad as a press-fit pad</source>
-        <translation type="unfinished"/>
+        <translation>Bu pedi press-fit ped olarak işaretle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="48"/>
         <source>Board Side</source>
-        <translation type="unfinished"/>
+        <translation>Kart Yüzü</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
         <source>Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Çap</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
@@ -17129,7 +17129,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
         <source>Copper Clearance</source>
-        <translation type="unfinished"/>
+        <translation>Bakır Boşluğu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
@@ -17142,17 +17142,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="35"/>
         <source>Enter text here...</source>
-        <translation type="unfinished"/>
+        <translation>Metni buraya girin...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="46"/>
         <source>Text Height</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yüksekliği</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="69"/>
         <source>Stroke Width</source>
-        <translation type="unfinished"/>
+        <translation>Vektör Çizgi Genişliği</translation>
     </message>
 </context>
 <context>
@@ -17160,7 +17160,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addholetoolbar.slint" line="17"/>
         <source>Via Drill Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via Delik Çapı</translation>
     </message>
 </context>
 <context>
@@ -17168,32 +17168,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="117"/>
         <source>Drill Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Delik Çapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="142"/>
         <source>Corner Radius</source>
-        <translation type="unfinished"/>
+        <translation>Köşe Yarıçapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
         <source>Press-Fit</source>
-        <translation type="unfinished"/>
+        <translation>Press-Fit</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="163"/>
         <source>Mark this pad as a press-fit pad</source>
-        <translation type="unfinished"/>
+        <translation>Bu pedi press-fit ped olarak işaretle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="47"/>
         <source>Board Side</source>
-        <translation type="unfinished"/>
+        <translation>Kart Yüzü</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
         <source>Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Çap</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
@@ -17203,7 +17203,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
         <source>Copper Clearance</source>
-        <translation type="unfinished"/>
+        <translation>Bakır Boşluğu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
@@ -17216,17 +17216,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="32"/>
         <source>Enter text here...</source>
-        <translation type="unfinished"/>
+        <translation>Metni buraya girin...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="43"/>
         <source>Text Height</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yüksekliği</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="65"/>
         <source>Mirror Text</source>
-        <translation type="unfinished"/>
+        <translation>Metni Aynala</translation>
     </message>
 </context>
 <context>
@@ -17234,12 +17234,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="23"/>
         <source>Pin Name</source>
-        <translation type="unfinished"/>
+        <translation>Pin Adı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="33"/>
         <source>Pin Length</source>
-        <translation type="unfinished"/>
+        <translation>Pin Uzunluğu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="55"/>
@@ -17252,12 +17252,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="34"/>
         <source>Enter text here...</source>
-        <translation type="unfinished"/>
+        <translation>Metni buraya girin...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="45"/>
         <source>Text Height</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yüksekliği</translation>
     </message>
 </context>
 <context>
@@ -17265,12 +17265,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="31"/>
         <source>Enter text here...</source>
-        <translation type="unfinished"/>
+        <translation>Metni buraya girin...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="42"/>
         <source>Text Height</source>
-        <translation type="unfinished"/>
+        <translation>Metin Yüksekliği</translation>
     </message>
 </context>
 <context>
@@ -17278,32 +17278,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="33"/>
         <source>Via Drill Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via Delik Çapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="72"/>
         <source>Set as Default in Board</source>
-        <translation type="unfinished"/>
+        <translation>Kartta Varsayılan Olarak Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="73"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation type="unfinished"/>
+        <translation>Girilen değeri kart tasarım kurallarına varsayılan değer olarak kaydeder</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="82"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; Ağ Sınıfında Varsayılan Olarak Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="83"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation type="unfinished"/>
+        <translation>Girilen değeri geçerli ağ sınıfı için varsayılan değer olarak kaydeder</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="96"/>
         <source>Via Outer Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via Dış Çapı</translation>
     </message>
 </context>
 <context>
@@ -17311,7 +17311,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="532"/>
         <source>Assembly Service:</source>
-        <translation type="unfinished"/>
+        <translation>Montaj Hizmeti:</translation>
     </message>
 </context>
 <context>
@@ -17319,7 +17319,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="419"/>
         <source>Assembly:</source>
-        <translation type="unfinished"/>
+        <translation>Montaj:</translation>
     </message>
 </context>
 <context>
@@ -17327,12 +17327,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/widgets/attributelistview.slint" line="122"/>
         <source>(no value set)</source>
-        <translation type="unfinished"/>
+        <translation>(değer ayarlanmamış)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/widgets/attributelistview.slint" line="53"/>
         <source>Type to add a new attribute...</source>
-        <translation type="unfinished"/>
+        <translation>Yeni bir öznitelik eklemek için yazın...</translation>
     </message>
 </context>
 <context>
@@ -17356,12 +17356,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="193"/>
         <source>Empty Schematics</source>
-        <translation type="unfinished"/>
+        <translation>Boş Şematikler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="199"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
-        <translation type="unfinished"/>
+        <translation>Karta yalnızca şematiklerde bulunan bileşenler eklenebilir, ancak bu projenin şematikleri şu anda boş. Lütfen kart tasarımına başlamadan önce şematikleri çizin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="209"/>
@@ -17371,17 +17371,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="228"/>
         <source>Set Up Design Rules</source>
-        <translation type="unfinished"/>
+        <translation>Tasarım Kurallarını Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="234"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
-        <translation type="unfinished"/>
+        <translation>Kart tasarımına başlamadan önce, bu kart için kullanılacak tasarım kurallarını ayarlamanız şiddetle önerilir. Aşağıdaki hazır ayarlardan birini seçin veya kuralları manuel olarak belirtin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="257"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
-        <translation type="unfinished"/>
+        <translation>Çoğu PCB üreticisi için uygun varsayılan kurallar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="331"/>
@@ -17391,22 +17391,22 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="337"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
-        <translation type="unfinished"/>
+        <translation>Şematiklerin parçası olan tüm aygıtları yerleştirerek kartı tasarlamaya başlayın.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
         <source>Select an unplaced component in the list.</source>
-        <translation type="unfinished"/>
+        <translation>Listeden yerleştirilmemiş bir bileşen seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
         <source>Choose the desired device (which defines the package to use).</source>
-        <translation type="unfinished"/>
+        <translation>İstediğiniz aygıtı seçin (kullanılacak paketi belirler).</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
-        <translation type="unfinished"/>
+        <translation>Birden fazla varsa istediğiniz ayak izi varyantını seçin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="365"/>
@@ -18516,7 +18516,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="162"/>
         <source>Via Outer Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via Dış Çapı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="36"/>
@@ -18527,30 +18527,30 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="75"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="138"/>
         <source>Set as Default in Board</source>
-        <translation type="unfinished"/>
+        <translation>Kartta Varsayılan Olarak Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="76"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="139"/>
         <source>Saves the entered value in the board design rules as default value</source>
-        <translation type="unfinished"/>
+        <translation>Girilen değeri kart tasarım kurallarına varsayılan değer olarak kaydeder</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="85"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="148"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>&apos;%1&apos; Ağ Sınıfında Varsayılan Olarak Ayarla</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="86"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="149"/>
         <source>Saves the entered value as default value for the current net class</source>
-        <translation type="unfinished"/>
+        <translation>Girilen değeri geçerli ağ sınıfı için varsayılan değer olarak kaydeder</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="99"/>
         <source>Via Drill Diameter</source>
-        <translation type="unfinished"/>
+        <translation>Via Delik Çapı</translation>
     </message>
 </context>
 <context>
@@ -19372,7 +19372,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="145"/>
         <source>File</source>
-        <translation type="unfinished"/>
+        <translation>Dosya</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/mainmenubar.slint" line="1568"/>
@@ -19636,7 +19636,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
         <source>Details</source>
-        <translation type="unfinished"/>
+        <translation>Ayrıntılar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
