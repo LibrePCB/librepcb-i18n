@@ -16575,12 +16575,12 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="788"/>
         <source>Type to filter...</source>
-        <translation type="unfinished"/>
+        <translation>Filtrelemek için yazın...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="799"/>
         <source>Internet Access</source>
-        <translation type="unfinished"/>
+        <translation>İnternet Erişimi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="805"/>
@@ -16589,27 +16589,31 @@ Do you want to save them before closing it?</source>
 &lt;p&gt;You can add any server to this list which implements the LibrePCB API. The official LibrePCB server is &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt;.
 To completely disable Internet access, just remove all entries.&lt;/p&gt;
 &lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;body&gt;
+&lt;p&gt;API uç noktaları, çevrimiçi hizmetlere erişmek için kullanılır, örneğin İnternet&apos;ten kütüphane indirmek için.&lt;/p&gt;
+&lt;p&gt;LibrePCB API&apos;sini uygulayan herhangi bir sunucuyu bu listeye ekleyebilirsiniz. Resmi LibrePCB sunucusu &lt;a href=&quot;https://api.librepcb.org&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt;https://api.librepcb.org&lt;/span&gt;&lt;/a&gt; adresidir.
+İnternet erişimini tamamen devre dışı bırakmak için tüm girdileri kaldırmanız yeterlidir.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="831"/>
         <source>Automatic Library Updates:</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Kütüphane Güncellemeleri:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="854"/>
         <source>&lt;p&gt;Allow the editors to automatically display live information about parts (lifecycle status, stock availability, price, ...) by requesting it from the configured API endpoints.&lt;/p&gt;&lt;p&gt;This may generate many API requests, especially while adding components to schematics.&lt;/p&gt;&lt;p&gt;If this feature is disabled, no such API requests are made (and no live information is displayed) without explicit user interaction.&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Editörlerin, parçalar hakkındaki canlı bilgileri (yaşam döngüsü durumu, stok bulunabilirliği, fiyat, ...) yapılandırılmış API uç noktalarından isteyerek otomatik olarak göstermesine izin verin.&lt;/p&gt;&lt;p&gt; Bu, özellikle şematiklere bileşen eklerken çok sayıda API isteği oluşturabilir. &lt;/p&gt;&lt;p&gt;Bu özellik devre dışı bırakılırsa, açık bir kullanıcı etkileşimi olmadan bu tür API istekleri yapılmaz (ve canlı bilgi gösterilmez).&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.ui" line="857"/>
         <source>Auto-Fetch Live Part Information</source>
-        <translation type="unfinished"/>
+        <translation>Canlı Parça Bilgisini Otomatik Getir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="89"/>
         <source>System Theme</source>
-        <translation type="unfinished"/>
+        <translation>Sistem Teması</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="104"/>
@@ -16625,45 +16629,45 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="162"/>
         <source>Click here to add a locale</source>
-        <translation type="unfinished"/>
+        <translation>Yerel ayar eklemek için buraya tıklayın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="186"/>
         <source>Click here to add a norm</source>
-        <translation type="unfinished"/>
+        <translation>Standart eklemek için buraya tıklayın</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="235"/>
         <source>Absolute path to the file to open</source>
         <comment>Description for '{{FILEPATH}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>Açılacak dosyanın mutlak yolu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="239"/>
         <source>URL to the file to open (file://)</source>
         <comment>Description for '{{URL}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>Açılacak dosyanın URL&apos;si (file://)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="246"/>
         <source>Web Browser</source>
-        <translation type="unfinished"/>
+        <translation>Web Tarayıcısı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="252"/>
         <source>Website URL to open</source>
         <comment>Description for '{{URL}}' placeholder</comment>
-        <translation type="unfinished"/>
+        <translation>Açılacak web sitesi URL&apos;si</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="258"/>
         <source>File Manager</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Yöneticisi</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="268"/>
         <source>PDF Reader</source>
-        <translation type="unfinished"/>
+        <translation>PDF Okuyucu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="346"/>
@@ -16680,49 +16684,51 @@ To completely disable Internet access, just remove all entries.&lt;/p&gt;
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="385"/>
         <source>Dots</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="387"/>
         <source>Lines</source>
         <comment>Grid style</comment>
-        <translation type="unfinished"/>
+        <translation>Çizgiler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="406"/>
         <source>Disabled</source>
         <comment>Update mode</comment>
-        <translation type="unfinished"/>
+        <translation>Devre Dışı</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="409"/>
         <source>Check (Silent)</source>
         <comment>Update mode</comment>
-        <translation type="unfinished"/>
+        <translation>Denetle (Sessiz)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="412"/>
         <source>Check &amp; Notify</source>
         <comment>Update mode</comment>
-        <translation type="unfinished"/>
+        <translation>Denetle ve Bildir</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="415"/>
         <source>Check &amp; Install</source>
         <comment>Update mode</comment>
-        <translation type="unfinished"/>
+        <translation>Denetle ve Kur</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="468"/>
         <source>Restore default settings</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan ayarları geri yükle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="469"/>
         <source>Are you sure to reset all settings to their default values?
 
 Attention: This will be applied immediately and cannot be undone!</source>
-        <translation type="unfinished"/>
+        <translation>Tüm ayarları varsayılan değerlerine sıfırlamak istediğinizden emin misiniz?
+
+Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="508"/>
@@ -16732,22 +16738,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="509"/>
         <source>You made changes to some settings which will be lost when closing the dialog. Are you sure to discard them?</source>
-        <translation type="unfinished"/>
+        <translation>Bazı ayarlarda, pencere kapatıldığında kaybolacak değişiklikler yaptınız. Bunları atmak istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="537"/>
         <source>Example:</source>
-        <translation type="unfinished"/>
+        <translation>Örnek:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="564"/>
         <source>Select executable</source>
-        <translation type="unfinished"/>
+        <translation>Yürütülebilir dosya seç</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="589"/>
         <source>Available placeholders:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanılabilir yer tutucular:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="678"/>
@@ -16757,27 +16763,27 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="681"/>
         <source>Reset all permanently dismissed messages (something like &quot;do not show again&quot;) to make them appear again.</source>
-        <translation type="unfinished"/>
+        <translation>Kalıcı olarak kapatılan tüm mesajları (&quot;bir daha gösterme&quot; gibi) tekrar görünmeleri için sıfırla.</translation>
     </message>
     <message numerus="yes">
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="684"/>
         <source>Currently there are %1 dismissed message(s).</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Şu anda %1 kapatılmış mesaj var.</numerusform><numerusform>Şu anda %1 kapatılmış mesaj var.</numerusform></translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="693"/>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>Kurulu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="698"/>
         <source>Other application installed</source>
-        <translation type="unfinished"/>
+        <translation>Başka uygulama kurulu</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/workspace/workspacesettingsdialog.cpp" line="704"/>
         <source>Not installed</source>
-        <translation type="unfinished"/>
+        <translation>Kurulu değil</translation>
     </message>
 </context>
 <context>
@@ -16785,57 +16791,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="14"/>
         <source>Zone Properties</source>
-        <translation type="unfinished"/>
+        <translation>Bölge Özellikleri</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="27"/>
         <source>Rules</source>
-        <translation type="unfinished"/>
+        <translation>Kurallar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="48"/>
         <source>Raise a DRC error if there are any copper objects (e.g. traces or vias) in this zone. Only planes are allowed to flood this zone without raising an error.</source>
-        <translation type="unfinished"/>
+        <translation>Bu bölgede herhangi bir bakır nesne (örn. iz veya via) varsa DRC hatası ver. Yalnızca düzlemlerin bu bölgeyi hata oluşturmadan doldurmasına izin verilir.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="51"/>
         <source>No copper (except planes)</source>
-        <translation type="unfinished"/>
+        <translation>Bakır yok (düzlemler hariç)</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="58"/>
         <source>Prevent copper planes from flooding this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Bakır düzlemlerin bu bölgeyi doldurmasını engelle.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="61"/>
         <source>No planes</source>
-        <translation type="unfinished"/>
+        <translation>Düzlem yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="68"/>
         <source>Raise a DRC error if there is any solder resist opening (possibly exposing copper) in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Bu bölgede herhangi bir lehim maskesi açıklığı (muhtemelen bakırı açıkta bırakan) varsa DRC hatası ver.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="71"/>
         <source>No exposure</source>
-        <translation type="unfinished"/>
+        <translation>Açıklık yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="78"/>
         <source>Raise a DRC error if there are any devices placed in this zone.</source>
-        <translation type="unfinished"/>
+        <translation>Bu bölgeye yerleştirilmiş herhangi bir aygıt varsa DRC hatası ver.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="81"/>
         <source>No devices</source>
-        <translation type="unfinished"/>
+        <translation>Aygıt yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="91"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Seçenekler</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.ui" line="109"/>
@@ -16850,17 +16856,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="67"/>
         <source>Inner Layers</source>
-        <translation type="unfinished"/>
+        <translation>İç Katmanlar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="69"/>
         <source>Top Side</source>
-        <translation type="unfinished"/>
+        <translation>Üst Yüz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="71"/>
         <source>Bottom Side</source>
-        <translation type="unfinished"/>
+        <translation>Alt Yüz</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/dialogs/zonepropertiesdialog.cpp" line="228"/>
@@ -16873,58 +16879,58 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="535"/>
         <source>Found %1 symbol libraries.</source>
-        <translation type="unfinished"/>
+        <translation>%1 sembol kütüphanesi bulundu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="536"/>
         <source>Found %1 footprints in %2 libraries.</source>
-        <translation type="unfinished"/>
+        <translation>%2 kütüphanede %1 ayak izi bulundu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="539"/>
         <source>Found %1 STEP files in %2 libraries.</source>
-        <translation type="unfinished"/>
+        <translation>%2 kütüphanede %1 STEP dosyası bulundu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="559"/>
         <source>Waiting for background library scan to finish...</source>
-        <translation type="unfinished"/>
+        <translation>Arka plan kütüphane taramasının bitmesi bekleniyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="566"/>
         <source>Parsing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler ayrıştırılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="686"/>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="976"/>
         <source>Aborted.</source>
-        <translation type="unfinished"/>
+        <translation>İptal edildi.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="689"/>
         <source>Found %1 symbols and %2 footprints.</source>
-        <translation type="unfinished"/>
+        <translation>%1 sembol ve %2 ayak izi bulundu.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="694"/>
         <source>Due to the large amount of elements, please be patient during the following steps.</source>
-        <translation type="unfinished"/>
+        <translation>Öğe sayısı fazla olduğundan, sonraki adımlar sırasında lütfen sabırlı olun.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="697"/>
         <source>Please review the messages (if any) before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Devam etmeden önce lütfen mesajları (varsa) gözden geçirin.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="714"/>
         <source>Importing libraries...</source>
-        <translation type="unfinished"/>
+        <translation>Kütüphaneler içe aktarılıyor...</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="824"/>
         <source>Skipped footprint due to error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Hata nedeniyle ayak izi atlandı: %1</translation>
     </message>
     <message>
         <location filename="libs/librepcb/kicadimport/kicadlibraryimport.cpp" line="879"/>
