@@ -20508,22 +20508,22 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="373"/>
         <source>Import Pins From Datasheet</source>
         <translation>Importera pins från datablad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="379"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Det rekommenderas att börja rita en ny symbol genom att lägga till alla stift. Speciellt för större symboler är det snabbaste sättet att importera dem från ett datablad eller någon annan dokumentation av delen.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="385"/>
         <source>Import Pins</source>
         <translation>Importera pins</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="399"/>
         <source>Learn how to create symbols</source>
         <translation>Lär dig hur du skapar symboler</translation>
     </message>
@@ -20531,12 +20531,12 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Metadata</source>
         <translation>Metadata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
         <source>Graphics</source>
         <translation>Grafik</translation>
     </message>

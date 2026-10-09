@@ -20487,22 +20487,22 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="373"/>
         <source>Import Pins From Datasheet</source>
         <translation>Pinleri Datasheet&apos;ten İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="379"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Yeni bir sembol çizmeye tüm pinleri ekleyerek başlamanız önerilir. Özellikle büyük semboller için bunu yapmanın en hızlı yolu, parçanın datasheet&apos;inden veya başka bir belgesinden içe aktarmaktır.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="385"/>
         <source>Import Pins</source>
         <translation>Pinleri İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="399"/>
         <source>Learn how to create symbols</source>
         <translation>Sembollerin nasıl oluşturulacağını öğrenin</translation>
     </message>
@@ -20510,12 +20510,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Metadata</source>
         <translation>Meta Veri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
         <source>Graphics</source>
         <translation>Grafikler</translation>
     </message>
