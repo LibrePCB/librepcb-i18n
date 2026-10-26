@@ -15656,76 +15656,76 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="545"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="554"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="563"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="832"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="853"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="874"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="894"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="910"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="928"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="955"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="974"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="989"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1072"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="840"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="861"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="882"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="902"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="918"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="936"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="963"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="982"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="997"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1080"/>
         <source>Error</source>
         <translation>错误</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="987"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="995"/>
         <source>Copied to clipboard!</source>
         <translation>已复制到剪贴板！</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1052"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1060"/>
         <source>Paste Schematic Elements</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1381"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1389"/>
         <source>Name</source>
         <translation>名称</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1382"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1390"/>
         <source>Value</source>
         <translation>值</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1383"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1391"/>
         <source>MPN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1394"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1402"/>
         <source>Net</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1397"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1405"/>
         <source>Class</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1401"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1409"/>
         <source>Bus</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1408"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1416"/>
         <source>Signal</source>
         <translation>信号</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1409"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1417"/>
         <source>Pin</source>
         <translation>引脚</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1418"/>
         <source>Pad(s)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1412"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1420"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
         <translation type="unfinished"/>
     </message>
