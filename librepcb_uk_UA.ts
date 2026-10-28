@@ -5824,12 +5824,12 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>Path</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="221"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="237"/>
         <source>Path doesn&apos;t contain vertices!</source>
         <translation>Шлях не містить вершин!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/path.h" line="262"/>
+        <location filename="libs/librepcb/core/geometry/path.h" line="278"/>
         <source>Path is not fillable or contains arcs!</source>
         <translation>Шлях не заповнюється або містить дуги!</translation>
     </message>
@@ -7659,72 +7659,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1433"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1451"/>
         <source>Auto</source>
         <translation>Авто</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1435"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1473"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1775"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1453"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1491"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1793"/>
         <source>None</source>
         <translation>Немає</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2437"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2455"/>
         <source>Add devices to board</source>
         <translation>Додати пристрої до плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2465"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2517"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2548"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2602"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2535"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2566"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2620"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2501"/>
         <source>Preparing board...</source>
         <translation>Підготовка плати...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2501"/>
         <source>Cancel</source>
         <translation>Скасувати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2536"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2554"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Експортувати IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2600"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2618"/>
         <source>Success!</source>
         <translation>Успіх!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2609"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2627"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2647"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2665"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2656"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2674"/>
         <source>Import failed, no changes made to the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2661"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2679"/>
         <source>Specctra SES Import</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2671"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2689"/>
         <source>Close</source>
         <translation>Закрити</translation>
     </message>
@@ -7964,26 +7964,26 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="478"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="496"/>
         <source>Draw Board Trace</source>
         <translation>Малювати доріжку плати</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="486"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="504"/>
         <source>Invalid layer selected.</source>
         <translation>Обрано недійсний шар.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="494"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="512"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="657"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="829"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="850"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="880"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="997"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="675"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="847"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="868"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="898"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="1018"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
@@ -13609,22 +13609,22 @@ Are you still sure to delete the following library elements?</source>
         <translation>Скопійовано до буферу обміну: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="419"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="420"/>
         <source>(press %1 to disable snap)</source>
         <translation>(натисніть %1, щоб вимкнути прив&apos;язку)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="424"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="425"/>
         <source>Press %1 to copy the value to clipboard or %2 to clear the measurement</source>
         <translation>Натисніть %1, щоб скопіювати значення до буферу обміну, або %2, щоб очистити вимірювання</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="429"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="430"/>
         <source>Click to specify the end point</source>
         <translation>Натисніть, щоб вказати кінцеву точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="432"/>
+        <location filename="libs/librepcb/editor/utils/measuretool.cpp" line="433"/>
         <source>Click to specify the start point</source>
         <translation>Клацніть, щоб вказати початкову точку</translation>
     </message>
@@ -14462,60 +14462,60 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="263"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="357"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="264"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="358"/>
         <source>Add Footprint Polygon</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="278"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="302"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="368"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="279"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="303"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="369"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="539"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(натисніть %1, щоб вимкнути прив&apos;язку, %2, щоб перервати)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="542"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="543"/>
         <source>right click</source>
         <translation>правий клік</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the first edge</source>
         <translation>Клацніть, щоб вказати перший край</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="549"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="550"/>
         <source>Click to specify the second edge</source>
         <translation>Клацніть, щоб вказати другий край</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the arc center</source>
         <translation>Клацніть, щоб вказати центр дуги</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="557"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="558"/>
         <source>Click to specify the start point</source>
         <translation>Клацніть, щоб вказати початкову точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="560"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="561"/>
         <source>Click to specify the end point</source>
         <translation>Натисніть, щоб вказати кінцеву точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="565"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="566"/>
         <source>Click to specify the first point</source>
         <translation>Клацніть, щоб вказати першу точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="568"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="569"/>
         <source>Click to specify the next point</source>
         <translation>Клацніть, щоб вказати наступну точку</translation>
     </message>
@@ -14538,35 +14538,35 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawZone</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="209"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="277"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="210"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="278"/>
         <source>Add Footprint Zone</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="224"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="247"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="295"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="225"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="248"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="296"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="362"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="363"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(натисніть %1, щоб вимкнути прив&apos;язку, %2, щоб перервати)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="364"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="365"/>
         <source>right click</source>
         <translation>правий клік</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="367"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="368"/>
         <source>Click to specify the first point</source>
         <translation>Клацніть, щоб вказати першу точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="370"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="371"/>
         <source>Click to specify the next point</source>
         <translation>Клацніть, щоб вказати наступну точку</translation>
     </message>
@@ -15986,60 +15986,60 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="254"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="347"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="255"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="348"/>
         <source>Add symbol polygon</source>
         <translation>Додати символьний полігон</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="268"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="292"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="357"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="269"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="293"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="358"/>
         <source>Error</source>
         <translation>Помилка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="528"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="529"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(натисніть %1, щоб вимкнути прив&apos;язку, %2, щоб перервати)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="531"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="532"/>
         <source>right click</source>
         <translation>правий клік</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="535"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
         <source>Click to specify the first edge</source>
         <translation>Клацніть, щоб вказати перший край</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="538"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="539"/>
         <source>Click to specify the second edge</source>
         <translation>Клацніть, щоб вказати другий край</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="543"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="544"/>
         <source>Click to specify the arc center</source>
         <translation>Клацніть, щоб вказати центр дуги</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="546"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="547"/>
         <source>Click to specify the start point</source>
         <translation>Клацніть, щоб вказати початкову точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="549"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="550"/>
         <source>Click to specify the end point</source>
         <translation>Натисніть, щоб вказати кінцеву точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="554"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="555"/>
         <source>Click to specify the first point</source>
         <translation>Клацніть, щоб вказати першу точку</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="557"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="558"/>
         <source>Click to specify the next point</source>
         <translation>Клацніть, щоб вказати наступну точку</translation>
     </message>
@@ -18491,42 +18491,52 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::DrawTraceToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="100"/>
+        <source>Via Drill Diameter</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="163"/>
         <source>Via Outer Diameter</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="36"/>
-        <source>Trace Width</source>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="203"/>
+        <source>Show Clearance Circle</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="75"/>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="138"/>
-        <source>Set as Default in Board</source>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="204"/>
+        <source>Show a circle around the cursor sized to the current net&apos;s copper clearance while drawing</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="37"/>
+        <source>Trace Width</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="76"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="139"/>
-        <source>Saves the entered value in the board design rules as default value</source>
+        <source>Set as Default in Board</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="85"/>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="148"/>
-        <source>Set as Default in Net Class &apos;%1&apos;</source>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="77"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="140"/>
+        <source>Saves the entered value in the board design rules as default value</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="86"/>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="149"/>
-        <source>Saves the entered value as default value for the current net class</source>
+        <source>Set as Default in Net Class &apos;%1&apos;</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="99"/>
-        <source>Via Drill Diameter</source>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="87"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="150"/>
+        <source>Saves the entered value as default value for the current net class</source>
         <translation type="unfinished"/>
     </message>
 </context>
