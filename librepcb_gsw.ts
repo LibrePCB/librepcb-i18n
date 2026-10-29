@@ -28,7 +28,7 @@
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
+        <location filename="libs/librepcb/core/attribute/attributetype.cpp" line="130"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation type="unfinished"/>
     </message>
@@ -10169,7 +10169,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CmdRemoveBoardItems</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="64"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="65"/>
         <source>Remove Board Items</source>
         <translation type="unfinished"/>
     </message>

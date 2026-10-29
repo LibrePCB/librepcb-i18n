@@ -28,7 +28,7 @@
         <translation>Neznámá jednotka typu atributu &quot;%1&quot;: &quot;%2&quot;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/attribute/attributetype.cpp" line="124"/>
+        <location filename="libs/librepcb/core/attribute/attributetype.cpp" line="130"/>
         <source>Invalid attribute type: &quot;%1&quot;</source>
         <translation>Neplatný typ atributu: &quot;%1&quot;</translation>
     </message>
@@ -10200,7 +10200,7 @@ Na otevření potřebujete alespoň LibrePCB %1.
 <context>
     <name>librepcb::editor::CmdRemoveBoardItems</name>
     <message>
-        <location filename="libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="64"/>
+        <location filename="libs/librepcb/editor/project/cmd/cmdremoveboarditems.cpp" line="65"/>
         <source>Remove Board Items</source>
         <translation>Odstranit položky desky</translation>
     </message>
