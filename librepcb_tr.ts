@@ -18526,12 +18526,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="203"/>
         <source>Show Clearance Circle</source>
-        <translation type="unfinished"/>
+        <translation>Boşluk Dairesini Göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="204"/>
         <source>Show a circle around the cursor sized to the current net&apos;s copper clearance while drawing</source>
-        <translation type="unfinished"/>
+        <translation>Çizim sırasında imlecin etrafında, geçerli ağın bakır boşluğu boyutunda bir daire göster</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="37"/>
