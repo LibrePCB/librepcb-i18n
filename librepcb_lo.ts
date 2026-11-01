@@ -19693,33 +19693,33 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::OrganizationTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
         <translation>ອົງກອນທີ່ມີຄວາມສຳຄັນສູງກວ່າຈະປາກົດຂຶ້ນກ່ອນອົງກອນທີ່ມີຄວາມສຳຄັນຕ່ຳກວ່າ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Reserved for official organizations</source>
         <translation>ສະຫງວນໄວ້ສຳລັບອົງກອນທາງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Recommended for your personal organizations</source>
         <translation>ແນະນຳສຳລັບອົງກອນສ່ວນຕົວຂອງທ່ານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
         <source>Reserved for LibrePCB Fab</source>
         <translation>ສະຫງວນໄວ້ສຳລັບ LibrePCB Fab</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="240"/>
         <source>Not recommended</source>
         <translation>ບໍ່ແນະນຳ</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="270"/>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="282"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="271"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="283"/>
         <source>%n output job(s)</source>
         <translation><numerusform>ງານສົ່ງອອກ %n ຢ່າງ</numerusform></translation>
     </message>

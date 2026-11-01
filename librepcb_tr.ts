@@ -19705,33 +19705,33 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::OrganizationTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
         <translation>Daha yüksek önceliğe sahip kuruluşlar, daha düşük önceliğe sahip kuruluşlardan önce görünür.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Reserved for official organizations</source>
         <translation>Resmi kuruluşlar için ayrılmış</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Recommended for your personal organizations</source>
         <translation>Kişisel kuruluşlarınız için önerilir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
         <source>Reserved for LibrePCB Fab</source>
         <translation>LibrePCB Fab için ayrılmış</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="240"/>
         <source>Not recommended</source>
         <translation>Önerilmez</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="270"/>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="282"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="271"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="283"/>
         <source>%n output job(s)</source>
         <translation><numerusform>%n çıktı işi</numerusform><numerusform>%n çıktı işi</numerusform></translation>
     </message>

@@ -19595,33 +19595,33 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::OrganizationTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="235"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
         <source>Organizations with higher priority will appear before organizations with lower priority.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="236"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
         <source>Reserved for official organizations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="237"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
         <source>Recommended for your personal organizations</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="238"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
         <source>Reserved for LibrePCB Fab</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="239"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="240"/>
         <source>Not recommended</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="270"/>
-        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="282"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="271"/>
+        <location filename="libs/librepcb/ui/library/org/organizationtab.slint" line="283"/>
         <source>%n output job(s)</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
