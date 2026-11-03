@@ -2469,1734 +2469,1744 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
+        <source>Renumber Components</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="277"/>
+        <source>Automatically assign new designators to all components</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Board Setup</source>
         <translation>ຕັ້ງຄ່າບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="277"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
         <source>View/modify the board setup</source>
         <translation>ເບິ່ງ/ແກ້ໄຂການຕັ້ງຄ່າບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>Run Quick Check</source>
         <translation>ກວດສອບແບບໄວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="295"/>
         <source>Run only the most important copper checks from the DRC</source>
         <translation>ກວດສອບສະເພາະສ່ວນທອງແດງທີ່ສຳຄັນທີ່ສຸດຈາກ DRC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Run Design Rule Check</source>
         <translation>ກວດສອບກົດເກນການອອກແບບ (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="295"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="304"/>
         <source>Run the design rule check (DRC)</source>
         <translation>ເລີ່ມການກວດສອບກົດເກນການອອກແບບ (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="322"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
         <source>New Sheet</source>
         <translation>ແຜ່ນງານໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="323"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="332"/>
         <source>Add a new schematic sheet to the project</source>
         <translation>ເພີ່ມແຜ່ນຜັງວົງຈອນໃໝ່ເຂົ້າໃນໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>Rename Sheet</source>
         <translation>ປ່ຽນຊື່ແຜ່ນງານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="332"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="341"/>
         <source>Rename the current schematic sheet</source>
         <translation>ປ່ຽນຊື່ແຜ່ນຜັງວົງຈອນປະຈຸບັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="340"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Remove Sheet</source>
         <translation>ລຶບແຜ່ນງານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="341"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="350"/>
         <source>Remove the current schematic sheet from the project</source>
         <translation>ລຶບແຜ່ນຜັງວົງຈອນປະຈຸບັນອອກຈາກໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
         <source>New Board</source>
         <translation>ບອດໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="359"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="368"/>
         <source>Add a new board to the project</source>
         <translation>ເພີ່ມບອດໃໝ່ເຂົ້າໃນໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
         <source>Copy Board</source>
         <translation>ຄັດລອກບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="368"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="377"/>
         <source>Add a copy of the current board to the project</source>
         <translation>ເພີ່ມສຳເນົາຂອງບອດປະຈຸບັນເຂົ້າໃນໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
         <source>Remove Board</source>
         <translation>ລຶບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="377"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="386"/>
         <source>Remove the current board from the project</source>
         <translation>ລຶບບອດປະຈຸບັນອອກຈາກໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
         <source>Show All Planes</source>
         <translation>ສະແດງເພຼນທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="386"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="395"/>
         <source>Make the filled areas of all planes visible</source>
         <translation>ເຮັດໃຫ້ພື້ນທີ່ຖອກທັງໝົດຂອງເພຼນເບິ່ງເຫັນໄດ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="403"/>
         <source>Hide All Planes</source>
         <translation>ເຊື່ອງເພຼນທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="395"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="404"/>
         <source>Make the filled areas of all planes invisible</source>
         <translation>ເຮັດໃຫ້ພື້ນທີ່ຖອກທັງໝົດຂອງເພຼນເບິ່ງບໍ່ເຫັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="403"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="412"/>
         <source>Rebuild All Planes</source>
         <translation>ສ້າງເພຼນທັງໝົດໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="404"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="413"/>
         <source>Re-calculate the filled areas of all planes</source>
         <translation>ຄິດໄລ່ພື້ນທີ່ຖອກຂອງເພຼນທັງໝົດໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="412"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="421"/>
         <source>Text Input</source>
         <translation>ປ້ອນຂໍ້ຄວາມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="415"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="424"/>
         <source>Browse</source>
         <translation>ເລືອກເບິ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="416"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="425"/>
         <source>Open file or directory browser</source>
         <translation>ເປີດຕົວເລືອກໄຟລ໌ ຫຼື ໂຟນເດີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="424"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
         <source>Change Unit</source>
         <translation>ປ່ຽນຫົວໜ່ວຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="425"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="434"/>
         <source>Change the measurement unit of the text input</source>
         <translation>ປ່ຽນຫົວໜ່ວຍການວັດແທກຂອງການປ້ອນຂໍ້ຄວາມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="841"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="442"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="850"/>
         <source>Remove</source>
         <translation>ລຶບອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="434"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="443"/>
         <source>Remove this item</source>
         <translation>ລຶບລາຍການນີ້ອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="442"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="451"/>
         <source>Add</source>
         <translation>ເພີ່ມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="443"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="452"/>
         <source>Add this item</source>
         <translation>ເພີ່ມລາຍການນີ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="451"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="460"/>
         <source>Import/Export</source>
         <translation>ນຳເຂົ້າ/ສົ່ງອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="454"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="463"/>
         <source>Add Example Projects</source>
         <translation>ເພີ່ມໂຄງການຕົວຢ່າງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="455"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="464"/>
         <source>Add some example projects to the workspace</source>
         <translation>ເພີ່ມໂຄງການຕົວຢ່າງບາງອັນເຂົ້າໃນພື້ນທີ່ເຮັດວຽກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="463"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Import DXF</source>
         <translation>ນຳເຂົ້າ DXF</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="464"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="473"/>
         <source>Import a 2D mechanical drawing</source>
         <translation>ນຳເຂົ້າແບບແຕ້ມກົນຈັກ 2 ມິຕິ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import EAGLE Library</source>
         <translation>ນຳເຂົ້າຫ້ອງສະໝຸດ EAGLE</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="473"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="482"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
         <translation>ນຳເຂົ້າອົງປະກອບຫ້ອງສະໝຸດຈາກໄຟລ໌ *.lbr ຂອງ EAGLE</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Import EAGLE Project</source>
         <translation>ນຳເຂົ້າໂຄງການ EAGLE</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="482"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="491"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
         <translation>ນຳເຂົ້າຜັງວົງຈອນ/ບອດ ຈາກໄຟລ໌ *.sch/*.brd ຂອງ EAGLE</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Import KiCad Library</source>
         <translation>ນຳເຂົ້າຫ້ອງສະໝຸດ KiCad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="491"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="500"/>
         <source>Import symbols and footprints from KiCad libraries</source>
         <translation>ນຳເຂົ້າສັນຍະລັກ ແລະ ຟຸດພຣິນ ຈາກຫ້ອງສະໝຸດ KiCad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
         <source>Import Specctra SES</source>
         <translation>ນຳເຂົ້າ Specctra SES</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="500"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="509"/>
         <source>Import a Specctra session, e.g. from external autorouters</source>
         <translation>ນຳເຂົ້າ Specctra session ເຊັ່ນ: ຈາກເຄື່ອງມືລາກເສັ້ນອັດຕະໂນມັດພາຍນອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Export *.lppz Archive</source>
         <translation>ສົ່ງອອກໄຟລ໌ *.lppz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="509"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="518"/>
         <source>Export the project as a self-contained *.lppz archive</source>
         <translation>ສົ່ງອອກໂຄງການເປັນໄຟລ໌ບີບອັດ *.lppz ທີ່ສົມບູນໃນຕົວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Export Image</source>
         <translation>ສົ່ງອອກຮູບພາບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="518"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="527"/>
         <source>Export graphics as a pixmap</source>
         <translation>ສົ່ງອອກກຣາຟິກເປັນໄຟລ໌ຮູບພາບ (pixmap)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Export PDF</source>
         <translation>ສົ່ງອອກ PDF</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="527"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="536"/>
         <source>Export graphics as a PDF</source>
         <translation>ສົ່ງອອກກຣາຟິກເປັນໄຟລ໌ PDF</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
         <source>Export Specctra DSN</source>
         <translation>ສົ່ງອອກ Specctra DSN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="536"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="545"/>
         <source>Export PCB to Specctra format for external autorouters etc.</source>
         <translation>ສົ່ງອອກ PCB ເປັນຮູບແບບ Specctra ສຳລັບເຄື່ອງມືລາກເສັ້ນອັດຕະໂນມັດພາຍນອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="553"/>
         <source>Export STEP Model</source>
         <translation>ສົ່ງອອກໂມເດລ STEP</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="545"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="554"/>
         <source>Export PCB as a STEP file for loading it into MCAD software</source>
         <translation>ສົ່ງອອກ PCB ເປັນໄຟລ໌ STEP ເພື່ອໄປໃຊ້ໃນຊອບແວ MCAD</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="553"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="562"/>
         <source>Print</source>
         <translation>ພິມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="554"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="563"/>
         <source>Send graphics to a printer</source>
         <translation>ສົ່ງກຣາຟິກໄປຫາເຄື່ອງພິມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="580"/>
         <source>Bill Of Materials</source>
         <translation>ລາຍການອຸປະກອນ (BOM)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="572"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
         <source>Open the project&apos;s bill of materials (BOM) to see part availability, prices etc.</source>
         <translation>ເປີດລາຍການອຸປະກອນ (BOM) ເພື່ອເບິ່ງຈຳນວນທີ່ມີ, ລາຄາ ແລະ ອື່ນໆ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
         <source>Generate Fabrication Data</source>
         <translation>ສ້າງຂໍ້ມູນການຜະລິດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="582"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="591"/>
         <source>Generate Gerber/Excellon files for PCB fabrication</source>
         <translation>ສ້າງໄຟລ໌ Gerber/Excellon ສຳລັບການຜະລິດ PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
         <translation>ສ້າງໄຟລ໌ Pick &amp; Place</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="591"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="600"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
         <translation>ສ້າງໄຟລ໌ pick &amp; place ສຳລັບການປະກອບ PCB ດ້ວຍເຄື່ອງຈັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
         <source>Generate IPC-D-356A Netlist</source>
         <translation>ສ້າງ Netlist ຮູບແບບ IPC-D-356A</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="600"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="609"/>
         <source>Generate netlist file for automated PCB testing</source>
         <translation>ສ້າງໄຟລ໌ netlist ສຳລັບການທົດສອບ PCB ດ້ວຍເຄື່ອງຈັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="617"/>
         <source>Output Jobs</source>
         <translation>ງານສົ່ງອອກ (Output Jobs)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="609"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="618"/>
         <source>Modify or run output jobs</source>
         <translation>ແກ້ໄຂ ຫຼື ເລີ່ມງານສົ່ງອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="617"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="626"/>
         <source>Order PCB</source>
         <translation>ສັ່ງຜະລິດ PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="618"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="627"/>
         <source>Start ordering the PCB online</source>
         <translation>ເລີ່ມການສັ່ງຜະລິດ PCB ແບບອອນລາຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="625"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="634"/>
         <source>Modify</source>
         <translation>ແກ້ໄຂ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="629"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="638"/>
         <source>Undo</source>
         <translation>ຍົກເລີກການເຮັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="630"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="639"/>
         <source>Revert the last modification</source>
         <translation>ຍ້ອນກັບການແກ້ໄຂຫຼ້າສຸດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="638"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Redo</source>
         <translation>ເຮັດຄືນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="639"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="648"/>
         <source>Re-apply the last reverted modification</source>
         <translation>ເຮັດຄືນການແກ້ໄຂທີ່ຖືກຍົກເລີກໄປຫຼ້າສຸດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="648"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
         <source>Cut</source>
         <translation>ຕັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="649"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="658"/>
         <source>Cut the selected object(s) to clipboard</source>
         <translation>ຕັດວັດຖຸທີ່ເລືອກໄປໄວ້ໃນຄລິບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="666"/>
         <source>Copy</source>
         <translation>ຄັດລອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="658"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="667"/>
         <source>Copy the selected object(s) to clipboard</source>
         <translation>ຄັດລອກວັດຖຸທີ່ເລືອກໄປໄວ້ໃນຄລິບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="666"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="675"/>
         <source>Paste</source>
         <translation>ວາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="667"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="676"/>
         <source>Paste object(s) from the clipboard</source>
         <translation>ວາງວັດຖຸຈາກຄລິບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="675"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="684"/>
         <source>Move Left</source>
         <translation>ຍ້າຍໄປທາງຊ້າຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="676"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="685"/>
         <source>Move the selected object(s) to the left</source>
         <translation>ຍ້າຍວັດຖຸທີ່ເລືອກໄປທາງຊ້າຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="684"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="693"/>
         <source>Move Right</source>
         <translation>ຍ້າຍໄປທາງຂວາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="685"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Move the selected object(s) to the right</source>
         <translation>ຍ້າຍວັດຖຸທີ່ເລືອກໄປທາງຂວາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="693"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
         <source>Move Up</source>
         <translation>ຍ້າຍຂຶ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="694"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>Move the selected object(s) up</source>
         <translation>ຍ້າຍວັດຖຸທີ່ເລືອກຂຶ້ນເທິງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
         <source>Move Down</source>
         <translation>ຍ້າຍລົງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="703"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Move the selected object(s) down</source>
         <translation>ຍ້າຍວັດຖຸທີ່ເລືອກລົງລຸ່ມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Rotate Counterclockwise</source>
         <translation>ໝູນທວນເຂັມໂມງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="712"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Rotate the selected object(s) counterclockwise</source>
         <translation>ໝູນວັດຖຸທີ່ເລືອກທວນເຂັມໂມງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Rotate Clockwise</source>
         <translation>ໝູນຕາມເຂັມໂມງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="721"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Rotate the selected object(s) clockwise</source>
         <translation>ໝູນວັດຖຸທີ່ເລືອກຕາມເຂັມໂມງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
         <source>Mirror Horizontally</source>
         <translation>ກັບດ້ານຕາມລວງນອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="730"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Mirror the selected object(s) horizontally</source>
         <translation>ກັບດ້ານວັດຖຸທີ່ເລືອກຕາມລວງນອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Mirror Vertically</source>
         <translation>ກັບດ້ານຕາມລວງຕັ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="739"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
         <source>Mirror the selected object(s) vertically</source>
         <translation>ກັບດ້ານວັດຖຸທີ່ເລືອກຕາມລວງຕັ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="756"/>
         <source>Flip Horizontally</source>
         <translation>ພິກຕາມລວງນອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
         <translation>ພິກວັດຖຸທີ່ເລືອກຕາມລວງນອນໄປອີກດ້ານໜຶ່ງຂອງບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="766"/>
         <source>Flip Vertically</source>
         <translation>ພິກຕາມລວງຕັ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="758"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
         <translation>ພິກວັດຖຸທີ່ເລືອກຕາມລວງຕັ້ງໄປອີກດ້ານໜຶ່ງຂອງບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="776"/>
         <source>Move/Align Objects</source>
         <translation>ຍ້າຍ/ຈັດລຽງວັດຖຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="768"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="777"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
         <translation>ຍ້າຍ ແລະ/ຫຼື ຈັດລຽງວັດຖຸທີ່ເລືອກຕາມລວງຕັ້ງ ຫຼື ລວງນອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="777"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
         <source>Snap to Grid</source>
         <translation>ດູດຕິດກັບຕາຕະລາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="778"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="787"/>
         <source>Move the selected object(s) to snap the grid</source>
         <translation>ຍ້າຍວັດຖຸທີ່ເລືອກໃຫ້ດູດຕິດກັບຕາຕະລາງ (Grid)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Lock Placement</source>
         <translation>ລັອກຕຳແໜ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="787"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Lock the placement of the selected object(s)</source>
         <translation>ລັອກຕຳແໜ່ງການວາງຂອງວັດຖຸທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
         <source>Unlock Placement</source>
         <translation>ປົດລັອກຕຳແໜ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="796"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
         <source>Unlock the placement of the selected object(s)</source>
         <translation>ປົດລັອກຕຳແໜ່ງການວາງຂອງວັດຖຸທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="813"/>
         <source>Set Line Width</source>
         <translation>ຕັ້ງຄ່າຄວາມກວ້າງຂອງເສັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="814"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
         <translation>ປ່ຽນຄວາມກວ້າງຂອງເສັ້ນ/ເສັ້ນທອງ/ເສັ້ນຂອບ ຂອງວັດຖຸທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="814"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="823"/>
         <source>Reset All Texts</source>
         <translation>ຕັ້ງຄ່າຂໍ້ຄວາມທັງໝົດໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="815"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="824"/>
         <source>Reset all texts of the footprint to their initial state</source>
         <translation>ຕັ້ງຄ່າຂໍ້ຄວາມທັງໝົດຂອງຟຸດພຣິນກັບສູ່ສະພາບເລີ່ມຕົ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="823"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="832"/>
         <source>Properties</source>
         <translation>ຄຸນສົມບັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="824"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="833"/>
         <source>View/modify the object properties</source>
         <translation>ເບິ່ງ/ແກ້ໄຂຄຸນສົມບັດຂອງວັດຖຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="832"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="841"/>
         <source>Rename</source>
         <translation>ປ່ຽນຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="833"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="842"/>
         <source>Rename the selected object</source>
         <translation>ປ່ຽນຊື່ວັດຖຸທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="842"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="851"/>
         <source>Delete the selected object(s)</source>
         <translation>ລຶບວັດຖຸທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="849"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="858"/>
         <source>View</source>
         <translation>ມຸມເບິ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="853"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="862"/>
         <source>Zoom to Fit Contents</source>
         <translation>ຊູມໃຫ້ພໍດີກັບເນື້ອຫາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="854"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="863"/>
         <source>Set the zoom level to fit the whole content</source>
         <translation>ຕັ້ງລະດັບການຊູມໃຫ້ພໍດີກັບເນື້ອຫາທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="862"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Zoom In</source>
         <translation>ຊູມເຂົ້າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="863"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="872"/>
         <source>Increase the zoom level</source>
         <translation>ເພີ່ມລະດັບການຊູມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="874"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
         <source>Zoom Out</source>
         <translation>ຊູມອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="875"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="884"/>
         <source>Decrease the zoom level</source>
         <translation>ຫຼຸດລະດັບການຊູມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
         <source>Flip View</source>
         <translation>ພິກມຸມເບິ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="884"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="893"/>
         <source>Switch between top view and bottom view</source>
         <translation>ສະຫຼັບລະຫວ່າງມຸມເບິ່ງດ້ານເທິງ ແລະ ດ້ານລຸ່ມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="901"/>
         <source>Increase Grid Interval</source>
         <translation>ເພີ່ມໄລຍະຫ່າງຕາຕະລາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="893"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="902"/>
         <source>Increase the grid interval</source>
         <translation>ເພີ່ມໄລຍະຫ່າງຂອງຕາຕະລາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="906"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="915"/>
         <source>Decrease Grid Interval</source>
         <translation>ຫຼຸດໄລຍະຫ່າງຕາຕະລາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="907"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="916"/>
         <source>Decrease the grid interval</source>
         <translation>ຫຼຸດໄລຍະຫ່າງຂອງຕາຕະລາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="920"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
         <source>Show Pin Numbers</source>
         <translation>ສະແດງເລກຂາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="921"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="930"/>
         <source>Show or hide symbol pin numbers</source>
         <translation>ສະແດງ ຫຼື ເຊື່ອງເລກຂາຂອງສັນຍະລັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
         <source>Ignore Placement Locks</source>
         <translation>ບໍ່ສົນໃຈການລັອກຕຳແໜ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="930"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="939"/>
         <source>Allow dragging locked items</source>
         <translation>ອະນຸຍາດໃຫ້ລາກລາຍການທີ່ຖືກລັອກໄດ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="947"/>
         <source>Set/Unset Background Image</source>
         <translation>ຕັ້ງ/ຍົກເລີກ ຮູບພາບພື້ນຫຼັງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="939"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="948"/>
         <source>Use a datasheet drawing as the background for verification</source>
         <translation>ໃຊ້ຮູບແຕ້ມຈາກດາຕ້າຊີດ (datasheet) ເປັນພື້ນຫຼັງເພື່ອການກວດສອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="947"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="956"/>
         <source>Toggle 2D/3D Mode</source>
         <translation>ສະຫຼັບໂໝດ 2D/3D</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="948"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="957"/>
         <source>Switch between 2D and 3D viewer mode</source>
         <translation>ສະຫຼັບລະຫວ່າງໂໝດມຸມເບິ່ງ 2 ມິຕິ ແລະ 3 ມິຕິ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="955"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="964"/>
         <source>Tools</source>
         <translation>ເຄື່ອງມື</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="959"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
         <source>Select</source>
         <translation>ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="960"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="969"/>
         <source>Select &amp; modify existing objects</source>
         <translation>ເລືອກ ແລະ ແກ້ໄຂວັດຖຸທີ່ມີຢູ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
         <source>Draw Line</source>
         <translation>ແຕ້ມເສັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="969"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Draw graphical lines</source>
         <translation>ແຕ້ມເສັ້ນກຣາຟິກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
         <source>Draw Rectangle</source>
         <translation>ແຕ້ມຮູບສີ່ແຈ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="978"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="987"/>
         <source>Draw graphical rectangles</source>
         <translation>ແຕ້ມຮູບສີ່ແຈກຣາຟິກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
         <source>Draw Polygon</source>
         <translation>ແຕ້ມໂພລີກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="987"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="996"/>
         <source>Draw graphical polygons</source>
         <translation>ແຕ້ມຮູບຫຼາຍແຈ (ໂພລີກອນ) ກຣາຟິກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
         <source>Draw Circle</source>
         <translation>ແຕ້ມວົງມົນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="996"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1005"/>
         <source>Draw graphical circles</source>
         <translation>ແຕ້ມວົງມົນກຣາຟິກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
         <source>Draw Arc</source>
         <translation>ແຕ້ມເສັ້ນໂຄ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1005"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1014"/>
         <source>Draw graphical arcs</source>
         <translation>ແຕ້ມເສັ້ນໂຄ້ງກຣາຟິກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
         <source>Add Text</source>
         <translation>ເພີ່ມຂໍ້ຄວາມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1014"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1023"/>
         <source>Add graphical text objects</source>
         <translation>ເພີ່ມວັດຖຸຂໍ້ຄວາມກຣາຟິກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
         <source>Add Name</source>
         <translation>ເພີ່ມຊື່ (NAME)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1023"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1032"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
         <translation>ເພີ່ມວັດຖຸຂໍ້ຄວາມກຣາຟິກສຳລັບ &apos;{{NAME}}&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
         <source>Add Value</source>
         <translation>ເພີ່ມຄ່າ (VALUE)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1032"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1041"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
         <translation>ເພີ່ມວັດຖຸຂໍ້ຄວາມກຣາຟິກສຳລັບ &apos;{{VALUE}}&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
         <source>Add Image</source>
         <translation>ເພີ່ມຮູບພາບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1041"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1050"/>
         <source>Add graphical image objects (e.g. a logo)</source>
         <translation>ເພີ່ມວັດຖຸຮູບພາບ (ເຊັ່ນ: ໂລໂກ້)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
         <source>Add Pin</source>
         <translation>ເພີ່ມຂາສັນຍະລັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1050"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1059"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
         <translation>ເພີ່ມຂາສັນຍະລັກ (ຈຸດເຊື່ອມຕໍ່ໄຟຟ້າໃນຜັງວົງຈອນ)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
         <source>Add THT Pad</source>
         <translation>ເພີ່ມແພັດ THT</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1059"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1068"/>
         <source>Add plated through-hole copper pads</source>
         <translation>ເພີ່ມແພັດທອງແດງແບບຮູເຈາະທະລຸເຄືອບໂລຫະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
         <source>Add SMT Pad</source>
         <translation>ເພີ່ມແພັດ SMT</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1068"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1077"/>
         <source>Add surface mounted (single layer) copper pads</source>
         <translation>ເພີ່ມແພັດທອງແດງແບບຕິດໜ້າຜິວ (ຊັ້ນດຽວ)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
         <source>Add Thermal Pad</source>
         <translation>ເພີ່ມແພັດລະບາຍຄວາມຮ້ອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1077"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1086"/>
         <source>Add special SMT pads used as heat sink</source>
         <translation>ເພີ່ມແພັດ SMT ພິເສດທີ່ໃຊ້ເປັນບ່ອນລະບາຍຄວາມຮ້ອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
         <source>Add BGA Pad</source>
         <translation>ເພີ່ມແພັດ BGA</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1086"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1095"/>
         <source>Add special SMT pads used for ball grid arrays</source>
         <translation>ເພີ່ມແພັດ SMT ພິເສດທີ່ໃຊ້ສຳລັບ Ball Grid Arrays (BGA)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
         <source>Add Edge Connector Pad</source>
         <translation>ເພີ່ມແພັດຕົວເຊື່ອມຕໍ່ຂອບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1095"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1104"/>
         <source>Add special SMT pads used as edge connector</source>
         <translation>ເພີ່ມແພັດ SMT ພິເສດທີ່ໃຊ້ເປັນຕົວເຊື່ອມຕໍ່ຂອບບອດ (Edge Connector)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
         <source>Add Test Pad</source>
         <translation>ເພີ່ມແພັດທົດສອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1104"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1113"/>
         <source>Add special SMT pads used as test points</source>
         <translation>ເພີ່ມແພັດ SMT ພິເສດທີ່ໃຊ້ເປັນຈຸດທົດສອບ (Test Point)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
         <source>Add Local Fiducial Pad</source>
         <translation>ເພີ່ມແພັດຟິດູຊຽລສະເພາະຈຸດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1113"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1122"/>
         <source>Add special SMT pads used as local fiducials</source>
         <translation>ເພີ່ມແພັດ SMT ພິເສດທີ່ໃຊ້ເປັນມາກເກີອ້າງອີງສະເພາະຈຸດ (Local Fiducial)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
         <source>Add Global Fiducial Pad</source>
         <translation>ເພີ່ມແພັດຟິດູຊຽລລວມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1122"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1131"/>
         <source>Add special SMT pads used as global fiducials</source>
         <translation>ເພີ່ມແພັດ SMT ພິເສດທີ່ໃຊ້ເປັນມາກເກີອ້າງອີງລວມ (Global Fiducial)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Draw Keepout Zone</source>
         <translation>ແຕ້ມໂຊນຫ້າມເຂົ້າ (Keepout)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1131"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
         <source>Draw keep-out zones</source>
         <translation>ແຕ້ມພື້ນທີ່ຫວ່າງທີ່ຫ້າມວາງວັດຖຸ ຫຼື ລາກເສັ້ນໃສ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Add Hole</source>
         <translation>ເພີ່ມຮູເຈາະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation>ເພີ່ມຮູເຈາະທີ່ບໍ່ເຄືອບໂລຫະ (NPTH)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
         <source>Draw Wire</source>
         <translation>ແຕ້ມສາຍໄຟ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation>ແຕ້ມສາຍໄຟເພື່ອສ້າງການເຊື່ອມຕໍ່ລະຫວ່າງຂາຂອງສັນຍະລັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Draw Bus</source>
         <translation>ແຕ້ມບັດສ໌ (Bus)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1159"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1168"/>
         <source>Draw buses to route several related nets with a single wire</source>
         <translation>ແຕ້ມບັດສ໌ເພື່ອລວມກຸ່ມຂອງເນັດທີ່ກ່ຽວຂ້ອງກັນໄວ້ໃນເສັ້ນດຽວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
         <source>Add Label to Net or Bus</source>
         <translation>ເພີ່ມປ້າຍຊື່ໃຫ້ເນັດ ຫຼື ບັດສ໌</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1168"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1177"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
         <translation>ເພີ່ມປ້າຍຊື່ເພື່ອລະບຸຊື່ເນັດ ຫຼື ບັດສ໌ ຂອງສາຍໄຟໃຫ້ຊັດເຈນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
         <source>Add Component</source>
         <translation>ເພີ່ມຄອມໂພເນນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1177"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1186"/>
         <source>Insert components from the workspace libraries</source>
         <translation>ແຊກຄອມໂພເນນຈາກຫ້ອງສະໝຸດໃນພື້ນທີ່ເຮັດວຽກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
         <source>Draw Trace</source>
         <translation>ລາກເສັ້ນທອງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1186"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1195"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation>ລາກເສັ້ນທອງແດງເພື່ອເຊື່ອມຕໍ່ອຸປະກອນຕ່າງໆເຂົ້າກັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
         <source>Add Via</source>
         <translation>ເພີ່ມເວັຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1195"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1204"/>
         <source>Add plated through-hole vias</source>
         <translation>ເພີ່ມເວັຍ (ຮູເຊື່ອມຕໍ່ລະຫວ່າງຊັ້ນ) ແບບເຄືອບໂລຫະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
         <source>Draw Plane</source>
         <translation>ແຕ້ມເພຼນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1204"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1213"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation>ແຕ້ມພື້ນທີ່ທອງແດງແບບຖອກອັດຕະໂນມັດເພື່ອເຊື່ອມຕໍ່ແພັດ ແລະ ເວັຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
         <source>Generate Outline</source>
         <translation>ສ້າງຂອບຮູບຮ່າງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1213"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1222"/>
         <source>Automatically generate the outline polygon</source>
         <translation>ສ້າງໂພລີກອນຂອບຮູບຮ່າງໂດຍອັດຕະໂນມັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Generate Courtyard</source>
         <translation>ສ້າງ Courtyard (ຂອບເຂດອຸປະກອນ)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1222"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1231"/>
         <source>Automatically generate the courtyard polygon</source>
         <translation>ສ້າງໂພລີກອນຂອບເຂດອຸປະກອນໂດຍອັດຕະໂນມັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
-        <source>Re-Number Pads</source>
-        <translation>ຈັດເລກແພັດໃໝ່</translation>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1239"/>
+        <source>Renumber Pads</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1231"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1240"/>
         <source>Helper tool to interactively change pad numbers</source>
         <translation>ເຄື່ອງມືຊ່ວຍໃນການປ່ຽນເລກແພັດແບບໂຕ້ຕອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1239"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Measure Distance</source>
         <translation>ວັດແທກໄລຍະຫ່າງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1240"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1249"/>
         <source>Measure the distance between two points</source>
         <translation>ວັດແທກໄລຍະຫ່າງລະຫວ່າງສອງຈຸດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>Commands</source>
         <translation>ຄຳສັ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1251"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
         <source>Go To Command Toolbar</source>
         <translation>ໄປທີ່ແຖບເຄື່ອງມືຄຳສັ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1252"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1261"/>
         <source>Move the focus into the command toolbar</source>
         <translation>ຍ້າຍຈຸດໂຟກັດໄປທີ່ແຖບເຄື່ອງມືຄຳສັ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
         <source>Abort Command</source>
         <translation>ຍົກເລີກຄຳສັ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1261"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1270"/>
         <source>Abort the currently active command</source>
         <translation>ຍົກເລີກຄຳສັ່ງທີ່ກຳລັງເຮັດວຽກຢູ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
         <source>Layer Up</source>
         <translation>ຂຶ້ນໄປອີກຊັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1270"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1279"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation>ສະຫຼັບໄປຫາຊັ້ນທີ່ສູງກວ່າ (ລຸ່ມ-&gt;ເທິງ)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Layer Down</source>
         <translation>ລົງໄປອີກຊັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1279"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1288"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation>ສະຫຼັບໄປຫາຊັ້ນທີ່ຕ່ຳກວ່າ (ເທິງ-&gt;ລຸ່ມ)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Increase Line Width</source>
         <translation>ເພີ່ມຄວາມກວ້າງຂອງເສັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1288"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1297"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation>ເພີ່ມຄວາມກວ້າງຂອງເສັ້ນ/ເສັ້ນທອງ/ເສັ້ນຂອບ/ແພັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
         <source>Decrease Line Width</source>
         <translation>ຫຼຸດຄວາມກວ້າງຂອງເສັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1297"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1306"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation>ຫຼຸດຄວາມກວ້າງຂອງເສັ້ນ/ເສັ້ນທອງ/ເສັ້ນຂອບ/ແພັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
         <source>Increase Size</source>
         <translation>ເພີ່ມຂະໜາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1306"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1315"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation>ເພີ່ມຂະໜາດຂອງ ເວັຍ/ແພັດ/ຂາ/ຂໍ້ຄວາມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
         <source>Decrease Size</source>
         <translation>ຫຼຸດຂະໜາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1315"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1324"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation>ຫຼຸດຂະໜາດຂອງ ເວັຍ/ແພັດ/ຂາ/ຂໍ້ຄວາມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Increase Drill</source>
         <translation>ເພີ່ມຂະໜາດຮູເຈາະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1324"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation>ເພີ່ມເສັ້ນຜ່ານສູນກາງຮູເຈາະຂອງ ເວັຍ/ແພັດ/ຮູເຈາະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
         <source>Decrease Drill</source>
         <translation>ຫຼຸດຂະໜາດຮູເຈາະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1342"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation>ຫຼຸດເສັ້ນຜ່ານສູນກາງຮູເຈາະຂອງ ເວັຍ/ແພັດ/ຮູເຈາະ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
         <source>Toggle Auto-Width</source>
         <translation>ສະຫຼັບຄວາມກວ້າງອັດຕະໂນມັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1342"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1351"/>
         <source>Toggle the auto-width property state</source>
         <translation>ສະຫຼັບສະຖານະຄຸນສົມບັດຄວາມກວ້າງອັດຕະໂນມັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
         <source>Toggle Fill</source>
         <translation>ສະຫຼັບການຖອກສີ/ພື້ນທີ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1351"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1360"/>
         <source>Toggle the fill property state</source>
         <translation>ສະຫຼັບສະຖານະຄຸນສົມບັດການຖອກພື້ນທີ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
         <source>Toggle Grab Area</source>
         <translation>ສະຫຼັບພື້ນທີ່ຈັບວັດຖຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1360"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1369"/>
         <source>Toggle the grab area property state</source>
         <translation>ສະຫຼັບສະຖານະຄຸນສົມບັດພື້ນທີ່ຈັບວັດຖຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
         <source>Align Left</source>
         <translation>ຈັດລຽງທາງຊ້າຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1369"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1378"/>
         <source>Horizontal alignment: Left</source>
         <translation>ການຈັດລຽງຕາມລວງນອນ: ທາງຊ້າຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Align Center</source>
         <translation>ຈັດລຽງກາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1378"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1387"/>
         <source>Horizontal alignment: Center</source>
         <translation>ການຈັດລຽງຕາມລວງນອນ: ເຄິ່ງກາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
         <source>Align Right</source>
         <translation>ຈັດລຽງທາງຂວາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1387"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1396"/>
         <source>Horizontal alignment: Right</source>
         <translation>ການຈັດລຽງຕາມລວງນອນ: ທາງຂວາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Align Bottom</source>
         <translation>ຈັດລຽງລຸ່ມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1396"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1405"/>
         <source>Vertical alignment: Bottom</source>
         <translation>ການຈັດລຽງຕາມລວງຕັ້ງ: ດ້ານລຸ່ມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1405"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
         <source>Vertical alignment: Center</source>
         <translation>ການຈັດລຽງຕາມລວງຕັ້ງ: ເຄິ່ງກາງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Align Top</source>
         <translation>ຈັດລຽງເທິງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>Vertical alignment: Top</source>
         <translation>ການຈັດລຽງຕາມລວງຕັ້ງ: ດ້ານເທິງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1422"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1431"/>
         <source>Horizontal - Vertical</source>
         <translation>ແນວນອນ - ແນວຕັ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation>ໂໝດສາຍໄຟ: ສ່ວນທຳອິດເປັນແນວນອນ, ສ່ວນທີສອງເປັນແນວຕັ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1441"/>
         <source>Vertical - Horizontal</source>
         <translation>ແນວຕັ້ງ - ແນວນອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1433"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation>ໂໝດສາຍໄຟ: ສ່ວນທຳອິດເປັນແນວຕັ້ງ, ສ່ວນທີສອງເປັນແນວນອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>90° - 45°</source>
         <translation>90° - 45°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1443"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1452"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation>ໂໝດສາຍໄຟ: ສ່ວນທຳອິດ 90°, ສ່ວນທີສອງ 45°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>45° - 90°</source>
         <translation>45° - 90°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1452"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1461"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation>ໂໝດສາຍໄຟ: ສ່ວນທຳອິດ 45°, ສ່ວນທີສອງ 90°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>Straight</source>
         <translation>ເສັ້ນຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1461"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1470"/>
         <source>Wire mode: Straight line</source>
         <translation>ໂໝດສາຍໄຟ: ເສັ້ນຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Round</source>
         <translation>ມົນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1470"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1479"/>
         <source>Shape: Round</source>
         <translation>ຮູບຮ່າງ: ວົງມົນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Rounded Rectangle</source>
         <translation>ສີ່ແຈມົນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1479"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
         <source>Shape: Rounded Rectangle</source>
         <translation>ຮູບຮ່າງ: ສີ່ແຈມົນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Rectangle</source>
         <translation>ສີ່ແຈ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
         <source>Shape: Rectangle</source>
         <translation>ຮູບຮ່າງ: ສີ່ແຈສາກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1496"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Octagon</source>
         <translation>ແປດແຈ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1506"/>
         <source>Shape: Octagon</source>
         <translation>ຮູບຮ່າງ: ແປດແຈ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1505"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1514"/>
         <source>Components</source>
         <translation>ຄອມໂພເນນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1508"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
         <source>Resistor</source>
         <translation>ຕົວຕ້ານທານ (Resistor)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1509"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1518"/>
         <source>Add standard component: Resistor</source>
         <translation>ເພີ່ມຄອມໂພເນນມາດຕະຖານ: ຕົວຕ້ານທານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
         <source>Inductor</source>
         <translation>ຕົວນຳກຳລັງ (Inductor)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1518"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1527"/>
         <source>Add standard component: Inductor</source>
         <translation>ເພີ່ມຄອມໂພເນນມາດຕະຖານ: ຕົວນຳກຳລັງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
         <source>Bipolar Capacitor</source>
         <translation>ຕົວເກັບໄຟແບບບໍ່ມີຂົ້ວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1527"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>ເພີ່ມຄອມໂພເນນມາດຕະຖານ: ຕົວເກັບໄຟແບບບໍ່ມີຂົ້ວ (Bipolar)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
         <source>Unipolar Capacitor</source>
         <translation>ຕົວເກັບໄຟແບບມີຂົ້ວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>ເພີ່ມຄອມໂພເນນມາດຕະຖານ: ຕົວເກັບໄຟແບບມີຂົ້ວ (Unipolar)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1553"/>
         <source>GND Supply</source>
         <translation>ແຫຼ່ງຈ່າຍ GND</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
         <source>Add standard component: GND supply</source>
         <translation>ເພີ່ມຄອມໂພເນນມາດຕະຖານ: ແຫຼ່ງຈ່າຍກຣາວ (GND)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1553"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1562"/>
         <source>VCC Supply</source>
         <translation>ແຫຼ່ງຈ່າຍ VCC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1563"/>
         <source>Add standard component: VCC supply</source>
         <translation>ເພີ່ມຄອມໂພເນນມາດຕະຖານ: ແຫຼ່ງຈ່າຍໄຟ (VCC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1561"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1570"/>
         <source>Docks</source>
         <translation>ແຖບເຄື່ອງມື (Docks)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1574"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>ກວດສອບກົດເກນໄຟຟ້າ (ERC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1575"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1584"/>
         <source>Go to the ERC messages dock</source>
         <translation>ໄປທີ່ແຖບຂໍ້ຄວາມ ERC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
         <source>Design Rule Check (DRC)</source>
         <translation>ກວດສອບກົດເກນການອອກແບບ (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1584"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>Go to the DRC messages dock</source>
         <translation>ໄປທີ່ແຖບຂໍ້ຄວາມ DRC</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
         <source>Layers</source>
         <translation>ຊັ້ນ (Layers)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>Go to the layers dock</source>
         <translation>ໄປທີ່ແຖບຈັດການຊັ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
         <source>Place Devices</source>
         <translation>ວາງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1611"/>
         <source>Go to the dock for placing devices</source>
         <translation>ໄປທີ່ແຖບສຳລັບການວາງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1619"/>
         <source>Window Management</source>
         <translation>ການຈັດການໜ້າຕ່າງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1614"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
         <source>Next Tab/Page</source>
         <translation>ແທັບ/ໜ້າ ຕໍ່ໄປ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1615"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1624"/>
         <source>Navigate to the next tab or page</source>
         <translation>ໄປທີ່ແທັບ ຫຼື ໜ້າຕໍ່ໄປ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
         <source>Previous Tab/Page</source>
         <translation>ແທັບ/ໜ້າ ກ່ອນໜ້າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1624"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1633"/>
         <source>Navigate to the previous tab or page</source>
         <translation>ໄປທີ່ແທັບ ຫຼື ໜ້າກ່ອນໜ້າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Close Tab</source>
         <translation>ປິດແທັບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1633"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
         <source>Close the currently opened tab</source>
         <translation>ປິດແທັບທີ່ກຳລັງເປີດຢູ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
         <source>Close All Tabs</source>
         <translation>ປິດແທັບທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
         <source>Close all currently opened tabs</source>
         <translation>ປິດແທັບທັງໝົດທີ່ເປີດຢູ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>New Window</source>
         <translation>ໜ້າຕ່າງໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
         <source>Open a new window</source>
         <translation>ເປີດໜ້າຕ່າງໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>Close Window</source>
         <translation>ປິດໜ້າຕ່າງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Close this window</source>
         <translation>ປິດໜ້າຕ່າງນີ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
         <source>Close Project</source>
         <translation>ປິດໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
         <source>Close the currently opened project</source>
         <translation>ປິດໂຄງການທີ່ກຳລັງເປີດຢູ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
         <source>Close All Projects</source>
         <translation>ປິດໂຄງການທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1679"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1688"/>
         <source>Close all currently opened projects</source>
         <translation>ປິດທຸກໂຄງການທີ່ກຳລັງເປີດຢູ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1696"/>
         <source>Quit</source>
         <translation>ອອກຈາກໂປຣແກຣມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1688"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1697"/>
         <source>Close the whole application</source>
         <translation>ປິດແອັບພລິເຄຊັນທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1695"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1704"/>
         <source>Help</source>
         <translation>ຊ່ວຍເຫຼືອ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1699"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
         <source>About LibrePCB</source>
         <translation>ກ່ຽວກັບ LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1700"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1709"/>
         <source>Show information about the application</source>
         <translation>ສະແດງຂໍ້ມູນກ່ຽວກັບແອັບພລິເຄຊັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
         <source>About Qt</source>
         <translation>ກ່ຽວກັບ Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1709"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1718"/>
         <source>Show information about Qt</source>
         <translation>ສະແດງຂໍ້ມູນກ່ຽວກັບ Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
         <source>LibrePCB Website</source>
         <translation>ເວັບໄຊທ໌ LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1718"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>ເປີດເວັບໄຊທ໌ LibrePCB ໃນເວັບບຣາວເຊີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
         <source>User Manual &amp;&amp; Tutorials</source>
         <translation>ຄູ່ມືການໃຊ້ ແລະ ບົດຮຽນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
         <source>Open the online user manual in the web browser</source>
         <translation>ເປີດຄູ່ມືຜູ້ໃຊ້ແບບອອນລາຍໃນເວັບບຣາວເຊີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
         <translation>ສົ່ງຄຳຕິຊົມ ແລະ ຮັບການຊ່ວຍເຫຼືອ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
         <source>Open the support page in the web browser</source>
         <translation>ເປີດໜ້າຊ່ວຍເຫຼືອໃນເວັບບຣາວເຊີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
         <source>Support the LibrePCB Project</source>
         <translation>ສະໜັບສະໜູນໂຄງການ LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
         <source>Open the donation page in the web browser</source>
         <translation>ເປີດໜ້າບໍລິຈາກໃນເວັບບຣາວເຊີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>ເອກະສານອ້າງອີງປຸ່ມລັດຄີບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1763"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>ເປີດເອກະສານອ້າງອີງດ່ວນກ່ຽວກັບປຸ່ມລັດຄີບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1771"/>
         <source>Context Menu</source>
         <translation>ເມນູບໍລິບົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1766"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1775"/>
         <source>New Folder</source>
         <translation>ໂຟນເດີໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1767"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
         <source>Create a new folder</source>
         <translation>ສ້າງໂຟນເດີໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1785"/>
         <source>Add To Favorites</source>
         <translation>ເພີ່ມເຂົ້າໃນລາຍການທີ່ມັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1777"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
         <source>Add project to favorites</source>
         <translation>ເພີ່ມໂຄງການເຂົ້າໃນລາຍການທີ່ມັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
         <source>Remove From Favorites</source>
         <translation>ເອົາອອກຈາກລາຍການທີ່ມັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1787"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1796"/>
         <source>Remove project from favorites</source>
         <translation>ເອົາໂຄງການອອກຈາກລາຍການທີ່ມັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
         <source>Add Vertex</source>
         <translation>ເພີ່ມຈຸດຈອມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1796"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1805"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>ແຊກຈຸດຈອມໃໝ່ໃສ່ຂອບຂອງຮູບຫຼາຍແຈທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
         <source>Remove Vertex</source>
         <translation>ເອົາຈຸດຈອມອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1805"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1814"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>ເອົາຈຸດຈອມທີ່ເລືອກອອກຈາກຮູບຫຼາຍແຈ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
         <source>Select Whole Trace</source>
         <translation>ເລືອກເສັ້ນລາຍວົງຈອນທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1814"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1823"/>
         <source>Select the whole trace</source>
         <translation>ເລືອກເສັ້ນລາຍວົງຈອນທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
         <source>Measure Selected Segments Length</source>
         <translation>ແທກຄວາມຍາວຂອງສ່ວນເສັ້ນທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1823"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1832"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>ແທກຄວາມຍາວທັງໝົດຂອງທຸກສ່ວນເສັ້ນລາຍວົງຈອນທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Remove Whole Trace</source>
         <translation>ເອົາເສັ້ນລາຍວົງຈອນທັງໝົດອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1832"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1841"/>
         <source>Remove the whole trace</source>
         <translation>ເອົາເສັ້ນລາຍວົງຈອນທັງໝົດອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1841"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1850"/>
         <source>Toggle placement lock</source>
         <translation>ສະຫຼັບການລັອກຕຳແໜ່ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
         <source>Visible</source>
         <translation>ການເບິ່ງເຫັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1850"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
         <source>Toggle visibility</source>
         <translation>ສະຫຼັບການສະແດງຜົນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Copy MPN to Clipboard</source>
         <translation>ສຳເນົາ MPN ໄປຍັງຄລິບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
         <source>Copy this MPN into the clipboard</source>
         <translation>ສຳເນົາ MPN ນີ້ລົງໃນຄລິບບອດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
         <source>Place Remaining Gates</source>
         <translation>ວາງເກດທີ່ເຫຼືອ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
         <source>Add more of the components gates to the schematic</source>
         <translation>ເພີ່ມເກດຂອງອຸປະກອນເຂົ້າໃນຜັງວົງຈອນຕື່ມອີກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
         <source>Open Product Website</source>
         <translation>ເປີດເວັບໄຊຜະລິດຕະພັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
         <source>Open product details about this part in the web browser</source>
         <translation>ເປີດລາຍລະອຽດຜະລິດຕະພັນກ່ຽວກັບຊິ້ນສ່ວນນີ້ໃນເວັບບຣາວເຊີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
         <source>Open Pricing Website</source>
         <translation>ເປີດເວັບໄຊຂໍ້ມູນລາຄາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation>ເປີດລາຍລະອຽດລາຄາກ່ຽວກັບຊິ້ນສ່ວນນີ້ໃນເວັບບຣາວເຊີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1904"/>
         <source>Generate Content</source>
         <translation>ສ້າງເນື້ອຫາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1896"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1905"/>
         <source>Various helper tools to generate or modify objects</source>
         <translation>ເຄື່ອງມືຊ່ວຍເຫຼືອຕ່າງໆເພື່ອສ້າງ ຫຼື ແກ້ໄຂວັດຖຸ</translation>
     </message>
@@ -15059,135 +15069,135 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::ProjectEditor</name>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="170"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="172"/>
         <source>The project &apos;%1&apos; has been migrated to a new file format. After saving, it will not be possible anymore to open it with an older LibrePCB version!</source>
         <translation>ໂຄງການ &apos;%1&apos; ໄດ້ຖືກປ່ຽນໄປເປັນຮູບແບບໄຟລ໌ໃໝ່. ຫຼັງຈາກບັນທຶກແລ້ວ, ຈະບໍ່ສາມາດເປີດມັນດ້ວຍ LibrePCB ເວີຊັນເກົ່າໄດ້ອີກ!</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="177"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="179"/>
         <source>The migration produced %n message(s), please review before proceeding.</source>
         <translation><numerusform>ການປ່ຽນຮູບແບບໄຟລ໌ໄດ້ສ້າງຂໍ້ຄວາມ %n ຂໍ້ຄວາມ, ກະລຸນາກວດສອບກ່ອນດໍາເນີນການຕໍ່.</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="183"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="185"/>
         <source>ATTENTION: Project File Format Upgraded</source>
         <translation>ຄໍາເຕືອນ: ຮູບແບບໄຟລ໌ໂຄງການຖືກອັບເກຣດແລ້ວ</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="185"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="187"/>
         <source>Show %n Message(s)</source>
         <translation><numerusform>ສະແດງ %n ຂໍ້ຄວາມ</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="197"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="199"/>
         <source>Migration log saved to &apos;%1&apos;.</source>
         <translation>ບັນທຶກປະຫວັດການປ່ຽນແປງ (Migration log) ໄວ້ທີ່ &apos;%1&apos; ແລ້ວ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="398"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="406"/>
         <source>Save Project?</source>
         <translation>ບັນທຶກໂຄງການບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="399"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="407"/>
         <source>The project '%1' contains unsaved changes.
 Do you want to save them before closing the project?</source>
         <translation>ໂຄງການ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ. ເຈົ້າຕ້ອງການບັນທຶກພວກມັນກ່ອນທີ່ຈະປິດໂຄງການບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="442"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="450"/>
         <source>Project saved!</source>
         <translation>ບັນທຶກໂຄງການແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="448"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="456"/>
         <source>Error while saving the project</source>
         <translation>ເກີດຂໍ້ຜິດພາດໃນຂະນະທີ່ບັນທຶກໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="530"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="538"/>
         <source>Export project to *.lppz</source>
         <translation>ສົ່ງອອກໂຄງການເປັນ *.lppz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="560"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="568"/>
         <source>Export succeeded!</source>
         <translation>ສົ່ງອອກສໍາເລັດແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="563"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="594"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="617"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="630"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="676"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="696"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="846"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="571"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="602"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="625"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="638"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="684"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="704"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="854"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="568"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="576"/>
         <source>Sheet %1</source>
         <translation>ແຜ່ນທີ %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="574"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="582"/>
         <source>New Sheet</source>
         <translation>ແຜ່ນໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="575"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="583"/>
         <source>Choose a name for the new schematic page:</source>
         <translation>ເລືອກຊື່ສໍາລັບໜ້າຜັງວົງຈອນໃໝ່:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="584"/>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="667"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="592"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="675"/>
         <source>Invalid name: &apos;%1&apos;</source>
         <translation>ຊື່ບໍ່ຖືກຕ້ອງ: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="613"/>
         <source>Rename sheet</source>
         <translation>ປ່ຽນຊື່ແຜ່ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="605"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="613"/>
         <source>Choose new name:</source>
         <translation>ເລືອກຊື່ໃໝ່:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="643"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="651"/>
         <source>Board %1</source>
         <translation>ແຜ່ນວົງຈອນ %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="645"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="653"/>
         <source>Copy of %1</source>
         <translation>ສໍາເນົາຂອງ %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="664"/>
         <source>Copy Board</source>
         <translation>ຄັດລອກແຜ່ນວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="656"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="664"/>
         <source>Add New Board</source>
         <translation>ເພີ່ມແຜ່ນວົງຈອນໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="657"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="665"/>
         <source>Choose a name:</source>
         <translation>ເລືອກຊື່:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="686"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="694"/>
         <source>Remove board</source>
         <translation>ລຶບແຜ່ນວົງຈອນອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="687"/>
+        <location filename="libs/librepcb/editor/project/projecteditor.cpp" line="695"/>
         <source>Are you really sure to remove the board &quot;%1&quot;?</source>
         <translation>ເຈົ້າແນ່ໃຈແທ້ບໍທີ່ຈະລຶບແຜ່ນວົງຈອນ &quot;%1&quot; ອອກ?</translation>
     </message>
@@ -15549,6 +15559,19 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/project/schematic/renamenetsegmentdialog.cpp" line="200"/>
         <source>Invalid name!</source>
         <translation>ຊື່ບໍ່ຖືກຕ້ອງ!</translation>
+    </message>
+</context>
+<context>
+    <name>librepcb::editor::RenumberComponentsModel</name>
+    <message>
+        <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="77"/>
+        <source>Renumber Components</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="103"/>
+        <source>Error</source>
+        <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
 </context>
 <context>
@@ -19373,17 +19396,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ໄຟລ໌</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1568"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1578"/>
         <source>Help</source>
         <translation>ຊ່ວຍເຫຼືອ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1689"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1699"/>
         <source>read-only</source>
         <translation>ອ່ານໄດ້ຢ່າງດຽວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1919"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1929"/>
         <source>Quick Find</source>
         <translation>ຄົ້ນຫາແບບດ່ວນ</translation>
     </message>
@@ -20257,6 +20280,34 @@ Attention: This will be applied immediately and cannot be undone!</source>
     </message>
 </context>
 <context>
+    <name>ui::RenumberComponentsPanel</name>
+    <message>
+        <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="31"/>
+        <source>Renumber Components</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="37"/>
+        <source>Close Panel</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="52"/>
+        <source>The following components will be renamed to put them into a natural order in the schematics:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="82"/>
+        <source>Apply</source>
+        <translation>ນຳໃຊ້</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="94"/>
+        <source>All components are numbered nicely.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ui::RuleCheckListItem</name>
     <message>
         <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="104"/>
@@ -20426,12 +20477,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ວາງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="340"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="355"/>
         <source>Libraries</source>
         <translation>ຄັງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="394"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="409"/>
         <source>Help / About</source>
         <translation>ຊ່ວຍເຫຼືອ / ກ່ຽວກັບ</translation>
     </message>
