@@ -2471,7 +2471,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Перенумеровать компоненты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="277"/>
@@ -3483,7 +3483,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1239"/>
         <source>Renumber Pads</source>
-        <translation type="unfinished"/>
+        <translation>Перенумеровать контактные площадки</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1240"/>
@@ -15600,7 +15600,7 @@ Afterwards the project library can be updated.</source>
     <message>
         <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="77"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Перенумеровать компоненты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="103"/>
@@ -20318,12 +20318,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="31"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Перенумеровать компоненты</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="37"/>
         <source>Close Panel</source>
-        <translation type="unfinished"/>
+        <translation>Закрыть панель</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="52"/>
@@ -20338,7 +20338,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="94"/>
         <source>All components are numbered nicely.</source>
-        <translation type="unfinished"/>
+        <translation>Все компоненты аккуратно пронумерованы.</translation>
     </message>
 </context>
 <context>
