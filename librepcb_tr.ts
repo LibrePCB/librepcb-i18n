@@ -2358,1854 +2358,1864 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="158"/>
+        <source>Find Usages</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
+        <source>Find all library elements which reference this element</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
         <source>Show in File Manager</source>
         <translation>Dosya Yöneticisinde Göster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="168"/>
         <source>Open the directory in the file manager</source>
         <translation>Dizini dosya yöneticisinde aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="176"/>
         <source>Switch Workspace</source>
         <translation>Çalışma Alanını Değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="168"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="177"/>
         <source>Choose another workspace to open</source>
         <translation>Açmak için başka bir çalışma alanı seçin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="176"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="185"/>
         <source>Workspace Settings</source>
         <translation>Çalışma Alanı Ayarları</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="177"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="186"/>
         <source>Open the workspace settings dialog</source>
         <translation>Çalışma alanı ayarları penceresini aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="185"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
         <source>Rescan Libraries</source>
         <translation>Kütüphaneleri Yeniden Tara</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="186"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
         <source>Scan all workspace libraries to update the cache</source>
         <translation>Önbelleği güncellemek için tüm çalışma alanı kütüphanelerini tara</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="194"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="203"/>
         <source>Libraries</source>
         <translation>Kütüphaneler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="195"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="204"/>
         <source>Manage installed part libraries</source>
         <translation>Kurulu parça kütüphanelerini yönet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="212"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="221"/>
         <source>Duplicate</source>
         <translation>Yinele</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="213"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="222"/>
         <source>Create a new element by duplicating this one</source>
         <translation>Bunu çoğaltarak yeni bir öğe oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="221"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="230"/>
         <source>New Project</source>
         <translation>Yeni Proje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="222"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="231"/>
         <source>Create a new project</source>
         <translation>Yeni bir proje oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="230"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="239"/>
         <source>Open Project</source>
         <translation>Proje Aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="231"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="240"/>
         <source>Open an existing project</source>
         <translation>Var olan bir projeyi aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="248"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
         <source>Project Setup</source>
         <translation>Proje Kurulumu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="249"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
         <source>View/modify the project setup</source>
         <translation>Proje kurulumunu görüntüle/değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="257"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="266"/>
         <source>Project Library Manager</source>
         <translation>Proje Kütüphane Yöneticisi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="258"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
         <source>Review the project&apos;s library elements &amp; update them from workspace libraries</source>
         <translation>Projenin kütüphane öğelerini incele ve çalışma alanı kütüphanelerinden güncelle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="267"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
         <source>Grid Properties</source>
         <translation>Izgara Özellikleri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="268"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="277"/>
         <source>View/modify the grid properties</source>
         <translation>Izgara özelliklerini görüntüle/değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="276"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Renumber Components</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="277"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
         <source>Automatically assign new designators to all components</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
         <source>Board Setup</source>
         <translation>Kart Kurulumu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="295"/>
         <source>View/modify the board setup</source>
         <translation>Kart kurulumunu görüntüle/değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="303"/>
         <source>Run Quick Check</source>
         <translation>Hızlı Denetim Çalıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="295"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="304"/>
         <source>Run only the most important copper checks from the DRC</source>
         <translation>Yalnızca DRC&apos;deki en önemli bakır denetimlerini çalıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="303"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="312"/>
         <source>Run Design Rule Check</source>
         <translation>Tasarım Kural Kontrolünü Çalıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="304"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="313"/>
         <source>Run the design rule check (DRC)</source>
         <translation>Tasarım kural kontrolünü (DRC) çalıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="331"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="340"/>
         <source>New Sheet</source>
         <translation>Yeni Sayfa</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="332"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="341"/>
         <source>Add a new schematic sheet to the project</source>
         <translation>Projeye yeni bir şematik sayfası ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="340"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="349"/>
         <source>Rename Sheet</source>
         <translation>Sayfayı Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="341"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="350"/>
         <source>Rename the current schematic sheet</source>
         <translation>Geçerli şematik sayfasını yeniden adlandır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="349"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="358"/>
         <source>Remove Sheet</source>
         <translation>Sayfayı Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="350"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="359"/>
         <source>Remove the current schematic sheet from the project</source>
         <translation>Geçerli şematik sayfasını projeden kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="367"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
         <source>New Board</source>
         <translation>Yeni Kart</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="368"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="377"/>
         <source>Add a new board to the project</source>
         <translation>Projeye yeni bir kart ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="376"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
         <source>Copy Board</source>
         <translation>Kartı Kopyala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="377"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="386"/>
         <source>Add a copy of the current board to the project</source>
         <translation>Geçerli kartın bir kopyasını projeye ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="385"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
         <source>Remove Board</source>
         <translation>Kartı Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="386"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="395"/>
         <source>Remove the current board from the project</source>
         <translation>Geçerli kartı projeden kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="394"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="403"/>
         <source>Show All Planes</source>
         <translation>Tüm Düzlemleri Göster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="395"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="404"/>
         <source>Make the filled areas of all planes visible</source>
         <translation>Tüm düzlemlerin doldurulmuş alanlarını görünür yap</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="403"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="412"/>
         <source>Hide All Planes</source>
         <translation>Tüm Düzlemleri Gizle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="404"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="413"/>
         <source>Make the filled areas of all planes invisible</source>
         <translation>Tüm düzlemlerin doldurulmuş alanlarını görünmez yap</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="412"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="421"/>
         <source>Rebuild All Planes</source>
         <translation>Tüm Düzlemleri Yeniden Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="413"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="422"/>
         <source>Re-calculate the filled areas of all planes</source>
         <translation>Tüm düzlemlerin doldurulmuş alanlarını yeniden hesapla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="421"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="430"/>
         <source>Text Input</source>
         <translation>Metin Girişi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="424"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
         <source>Browse</source>
         <translation>Gözat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="425"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="434"/>
         <source>Open file or directory browser</source>
         <translation>Dosya veya dizin tarayıcısını aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="433"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="442"/>
         <source>Change Unit</source>
         <translation>Birimi Değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="434"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="443"/>
         <source>Change the measurement unit of the text input</source>
         <translation>Metin girişinin ölçü birimini değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="442"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="850"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="451"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="859"/>
         <source>Remove</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="443"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="452"/>
         <source>Remove this item</source>
         <translation>Bu öğeyi kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="451"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="460"/>
         <source>Add</source>
         <translation>Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="452"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="461"/>
         <source>Add this item</source>
         <translation>Bu öğeyi ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="460"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="469"/>
         <source>Import/Export</source>
         <translation>İçe Aktar/Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="463"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
         <source>Add Example Projects</source>
         <translation>Örnek Projeler Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="464"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="473"/>
         <source>Add some example projects to the workspace</source>
         <translation>Çalışma alanına birkaç örnek proje ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="472"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
         <source>Import DXF</source>
         <translation>DXF İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="473"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="482"/>
         <source>Import a 2D mechanical drawing</source>
         <translation>2B mekanik çizim içe aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="481"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
         <source>Import EAGLE Library</source>
         <translation>EAGLE Kütüphanesi İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="482"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="491"/>
         <source>Import library elements from an EAGLE *.lbr file</source>
         <translation>Bir EAGLE *.lbr dosyasından kütüphane öğelerini içe aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="490"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
         <source>Import EAGLE Project</source>
         <translation>EAGLE Projesi İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="491"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="500"/>
         <source>Import schematic/board from EAGLE *.sch/*.brd files</source>
         <translation>EAGLE .sch/.brd dosyalarından şematik/kart içe aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="499"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
         <source>Import KiCad Library</source>
         <translation>KiCad Kütüphanesi İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="500"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="509"/>
         <source>Import symbols and footprints from KiCad libraries</source>
         <translation>KiCad kütüphanelerinden semboller ve ayak izlerini içe aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="508"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
         <source>Import Specctra SES</source>
         <translation>Specctra SES İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="509"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="518"/>
         <source>Import a Specctra session, e.g. from external autorouters</source>
         <translation>Bir Specctra oturumunu içe aktarın, örn. harici otomatik yönlendiricilerden (autorouter)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="517"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
         <source>Export *.lppz Archive</source>
         <translation>*.lppz Arşivi Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="518"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="527"/>
         <source>Export the project as a self-contained *.lppz archive</source>
         <translation>Projeyi kendi kendine yeten bir *.lppz arşivi olarak dışa aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="526"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
         <source>Export Image</source>
         <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="527"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="536"/>
         <source>Export graphics as a pixmap</source>
         <translation>Grafikleri piksel görüntü olarak dışa aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="535"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
         <source>Export PDF</source>
         <translation>PDF Olarak Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="536"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="545"/>
         <source>Export graphics as a PDF</source>
         <translation>Grafikleri PDF olarak dışa aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="544"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="553"/>
         <source>Export Specctra DSN</source>
         <translation>Specctra DSN Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="545"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="554"/>
         <source>Export PCB to Specctra format for external autorouters etc.</source>
         <translation>PCB&apos;yi harici otomatik yönlendiriciler (autorouter) vb. için Specctra formatına dışa aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="553"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="562"/>
         <source>Export STEP Model</source>
         <translation>STEP Modeli Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="554"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="563"/>
         <source>Export PCB as a STEP file for loading it into MCAD software</source>
         <translation>PCB&apos;yi MCAD yazılımına yüklemek için STEP dosyası olarak dışa aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="562"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="571"/>
         <source>Print</source>
         <translation>Yazdır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="563"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="572"/>
         <source>Send graphics to a printer</source>
         <translation>Grafikleri yazıcıya gönder</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="580"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="589"/>
         <source>Bill Of Materials</source>
         <translation>Malzeme Listesi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="581"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
         <source>Open the project&apos;s bill of materials (BOM) to see part availability, prices etc.</source>
         <translation>Parça bulunabilirliğini, fiyatları vb. görmek için projenin malzeme listesini (BOM) açın</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="590"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
         <source>Generate Fabrication Data</source>
         <translation>Üretim Verisi Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="591"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="600"/>
         <source>Generate Gerber/Excellon files for PCB fabrication</source>
         <translation>PCB üretimi için Gerber/Excellon dosyaları oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="599"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
         <source>Generate Pick&amp;&amp;Place Files</source>
         <translation>Yerleştirme (Pick&amp;Place) Dosyaları Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="600"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="609"/>
         <source>Generate pick&amp;place files for automated PCB assembly</source>
         <translation>Otomatik PCB montajı için yerleştirme (pick&amp;place) dosyaları oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="608"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="617"/>
         <source>Generate IPC-D-356A Netlist</source>
         <translation>IPC-D-356A Netlist Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="609"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="618"/>
         <source>Generate netlist file for automated PCB testing</source>
         <translation>Otomatik PCB testi için netlist dosyası oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="617"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="626"/>
         <source>Output Jobs</source>
         <translation>Çıktı İşleri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="618"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="627"/>
         <source>Modify or run output jobs</source>
         <translation>Çıktı işlerini değiştir veya çalıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="626"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="635"/>
         <source>Order PCB</source>
         <translation>PCB Sipariş Et</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="627"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="636"/>
         <source>Start ordering the PCB online</source>
         <translation>PCB&apos;yi çevrimiçi sipariş etmeye başla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="634"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="643"/>
         <source>Modify</source>
         <translation>Değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="638"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="647"/>
         <source>Undo</source>
         <translation>Geri al</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="639"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="648"/>
         <source>Revert the last modification</source>
         <translation>Son değişikliği geri al</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="647"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="656"/>
         <source>Redo</source>
         <translation>Tekrar yap</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="648"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
         <source>Re-apply the last reverted modification</source>
         <translation>Son geri alınan değişikliği yeniden uygula</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="657"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="666"/>
         <source>Cut</source>
         <translation>Kes</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="658"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="667"/>
         <source>Cut the selected object(s) to clipboard</source>
         <translation>Seçili nesne(ler)i panoya kes</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="666"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="675"/>
         <source>Copy</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="667"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="676"/>
         <source>Copy the selected object(s) to clipboard</source>
         <translation>Seçili nesne(ler)i panoya kopyala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="675"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="684"/>
         <source>Paste</source>
         <translation>Yapıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="676"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="685"/>
         <source>Paste object(s) from the clipboard</source>
         <translation>Nesne(ler)i panodan yapıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="684"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="693"/>
         <source>Move Left</source>
         <translation>Sola Taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="685"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="694"/>
         <source>Move the selected object(s) to the left</source>
         <translation>Seçili nesne(ler)i sola taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="693"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
         <source>Move Right</source>
         <translation>Sağa Taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="694"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="703"/>
         <source>Move the selected object(s) to the right</source>
         <translation>Seçili nesne(ler)i sağa taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="702"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
         <source>Move Up</source>
         <translation>Yukarı Taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="703"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="712"/>
         <source>Move the selected object(s) up</source>
         <translation>Seçili nesne(ler)i yukarı taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="711"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
         <source>Move Down</source>
         <translation>Aşağı Taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="712"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="721"/>
         <source>Move the selected object(s) down</source>
         <translation>Seçili nesne(ler)i aşağı taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="720"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
         <source>Rotate Counterclockwise</source>
         <translation>Saat Yönünün Tersine Döndür</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="721"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="730"/>
         <source>Rotate the selected object(s) counterclockwise</source>
         <translation>Seçili nesne(ler)i saat yönünün tersine döndür</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="729"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
         <source>Rotate Clockwise</source>
         <translation>Saat Yönünde Döndür</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="730"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="739"/>
         <source>Rotate the selected object(s) clockwise</source>
         <translation>Seçili nesne(ler)i saat yönünde döndür</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="738"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
         <source>Mirror Horizontally</source>
         <translation>Yatay Aynala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="739"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
         <source>Mirror the selected object(s) horizontally</source>
         <translation>Seçili nesne(ler)i yatay olarak aynala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="747"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="756"/>
         <source>Mirror Vertically</source>
         <translation>Dikey Aynala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="748"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
         <source>Mirror the selected object(s) vertically</source>
         <translation>Seçili nesne(ler)i dikey olarak aynala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="756"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="765"/>
         <source>Flip Horizontally</source>
         <translation>Yatay Çevir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="757"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="766"/>
         <source>Flip the selected object(s) horizontally to the other board side</source>
         <translation>Seçili nesne(ler)i yatay olarak kartın diğer yüzüne çevir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="766"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="775"/>
         <source>Flip Vertically</source>
         <translation>Dikey Çevir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="767"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="776"/>
         <source>Flip the selected object(s) vertically to the other board side</source>
         <translation>Seçili nesne(ler)i dikey olarak kartın diğer yüzüne çevir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="776"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="785"/>
         <source>Move/Align Objects</source>
         <translation>Nesneleri Taşı/Hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="777"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
         <source>Move and/or align the selected object(s) vertically or horizontally</source>
         <translation>Seçili nesne(ler)i dikey veya yatay olarak taşı ve/veya hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="786"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
         <source>Snap to Grid</source>
         <translation>Izgaraya Yasla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="787"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="796"/>
         <source>Move the selected object(s) to snap the grid</source>
         <translation>Seçili nesne(ler)i ızgaraya yaslanacak şekilde taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="795"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1857"/>
         <source>Lock Placement</source>
         <translation>Yerleşimi Kilitle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="796"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
         <source>Lock the placement of the selected object(s)</source>
         <translation>Seçili nesne(ler)in yerleşimini kilitle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="813"/>
         <source>Unlock Placement</source>
         <translation>Yerleşimin Kilidini Aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="805"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="814"/>
         <source>Unlock the placement of the selected object(s)</source>
         <translation>Seçili nesne(ler)in yerleşiminin kilidini aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="813"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="822"/>
         <source>Set Line Width</source>
         <translation>Çizgi Genişliğini Ayarla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="814"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="823"/>
         <source>Change the line/trace/stroke width of the selected object(s)</source>
         <translation>Seçili nesne(ler)in çizgi/iz/vektör çizgi genişliğini değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="823"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="832"/>
         <source>Reset All Texts</source>
         <translation>Tüm Metinleri Sıfırla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="824"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="833"/>
         <source>Reset all texts of the footprint to their initial state</source>
         <translation>Ayak izindeki tüm metinleri ilk durumlarına sıfırla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="832"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="841"/>
         <source>Properties</source>
         <translation>Özellikler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="833"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="842"/>
         <source>View/modify the object properties</source>
         <translation>Nesne özelliklerini görüntüle/değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="841"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="850"/>
         <source>Rename</source>
         <translation>Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="842"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="851"/>
         <source>Rename the selected object</source>
         <translation>Seçili nesneyi yeniden adlandır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="851"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="860"/>
         <source>Delete the selected object(s)</source>
         <translation>Seçili nesne(ler)i sil</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="858"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="867"/>
         <source>View</source>
         <translation>Görünüm</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="862"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="871"/>
         <source>Zoom to Fit Contents</source>
         <translation>İçeriğe Sığdır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="863"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="872"/>
         <source>Set the zoom level to fit the whole content</source>
         <translation>Tüm içeriği sığdıracak şekilde yakınlaştırma düzeyini ayarla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="871"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="880"/>
         <source>Zoom In</source>
         <translation>Yakınlaştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="872"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="881"/>
         <source>Increase the zoom level</source>
         <translation>Yakınlaştırma düzeyini artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="883"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
         <source>Zoom Out</source>
         <translation>Uzaklaştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="884"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="893"/>
         <source>Decrease the zoom level</source>
         <translation>Yakınlaştırma düzeyini azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="892"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="901"/>
         <source>Flip View</source>
         <translation>Görünümü Çevir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="893"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="902"/>
         <source>Switch between top view and bottom view</source>
         <translation>Üst görünüm ve alt görünüm arasında geçiş yap</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="901"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="910"/>
         <source>Increase Grid Interval</source>
         <translation>Izgara Aralığını Artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="902"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="911"/>
         <source>Increase the grid interval</source>
         <translation>Izgara aralığını artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="915"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="924"/>
         <source>Decrease Grid Interval</source>
         <translation>Izgara Aralığını Azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="916"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="925"/>
         <source>Decrease the grid interval</source>
         <translation>Izgara aralığını azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="929"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
         <source>Show Pin Numbers</source>
         <translation>Pin Numaralarını Göster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="930"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="939"/>
         <source>Show or hide symbol pin numbers</source>
         <translation>Sembol pin numaralarını göster veya gizle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="938"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="947"/>
         <source>Ignore Placement Locks</source>
         <translation>Yerleşim Kilitlerini Yok Say</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="939"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="948"/>
         <source>Allow dragging locked items</source>
         <translation>Kilitli öğelerin sürüklenmesine izin ver</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="947"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="956"/>
         <source>Set/Unset Background Image</source>
         <translation>Arka Plan Resmini Ayarla/Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="948"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="957"/>
         <source>Use a datasheet drawing as the background for verification</source>
         <translation>Doğrulama için arka plan olarak bir datasheet çizimi kullan</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="956"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="965"/>
         <source>Toggle 2D/3D Mode</source>
         <translation>2B/3B Modu Değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="957"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="966"/>
         <source>Switch between 2D and 3D viewer mode</source>
         <translation>2B ve 3B görüntüleyici modu arasında geçiş yap</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="964"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="973"/>
         <source>Tools</source>
         <translation>Araçlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="968"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
         <source>Select</source>
         <translation>Seç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="969"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="978"/>
         <source>Select &amp; modify existing objects</source>
         <translation>Var olan nesneleri seç ve değiştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="977"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
         <source>Draw Line</source>
         <translation>Çizgi Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="978"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="987"/>
         <source>Draw graphical lines</source>
         <translation>Grafiksel çizgiler çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="986"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
         <source>Draw Rectangle</source>
         <translation>Dikdörtgen Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="987"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="996"/>
         <source>Draw graphical rectangles</source>
         <translation>Grafiksel dikdörtgenler çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="995"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
         <source>Draw Polygon</source>
         <translation>Poligon Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="996"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1005"/>
         <source>Draw graphical polygons</source>
         <translation>Grafiksel poligonlar çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1004"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
         <source>Draw Circle</source>
         <translation>Daire Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1005"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1014"/>
         <source>Draw graphical circles</source>
         <translation>Grafiksel daireler çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1013"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
         <source>Draw Arc</source>
         <translation>Yay Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1014"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1023"/>
         <source>Draw graphical arcs</source>
         <translation>Grafiksel yaylar çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1022"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
         <source>Add Text</source>
         <translation>Metin Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1023"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1032"/>
         <source>Add graphical text objects</source>
         <translation>Grafiksel metin nesneleri ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1031"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
         <source>Add Name</source>
         <translation>Ad Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1032"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1041"/>
         <source>Add graphical text objects for &apos;{{NAME}}&apos;</source>
         <translation>&apos;{{NAME}}&apos; için grafiksel metin nesneleri ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1040"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
         <source>Add Value</source>
         <translation>Değer Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1041"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1050"/>
         <source>Add graphical text objects for &apos;{{VALUE}}&apos;</source>
         <translation>&apos;{{VALUE}}&apos; için grafiksel metin nesneleri ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1049"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
         <source>Add Image</source>
         <translation>Resim Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1050"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1059"/>
         <source>Add graphical image objects (e.g. a logo)</source>
         <translation>Grafiksel resim nesneleri ekle (örn. bir logo)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1058"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
         <source>Add Pin</source>
         <translation>Pin Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1059"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1068"/>
         <source>Add symbol pins (electrical connections for schematics)</source>
         <translation>Sembol pinleri ekle (şematikler için elektriksel bağlantılar)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1067"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
         <source>Add THT Pad</source>
         <translation>THT Ped Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1068"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1077"/>
         <source>Add plated through-hole copper pads</source>
         <translation>Kaplamalı delikli (through-hole) bakır pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1076"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
         <source>Add SMT Pad</source>
         <translation> SMT Ped Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1077"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1086"/>
         <source>Add surface mounted (single layer) copper pads</source>
         <translation>Yüzey montajlı (tek katmanlı) bakır pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1085"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
         <source>Add Thermal Pad</source>
         <translation>Termal Ped Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1086"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1095"/>
         <source>Add special SMT pads used as heat sink</source>
         <translation>Isı emici (heat sink) olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1094"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
         <source>Add BGA Pad</source>
         <translation>BGA Ped Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1095"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1104"/>
         <source>Add special SMT pads used for ball grid arrays</source>
         <translation>Top matrisi dizileri (ball grid array) için kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1103"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
         <source>Add Edge Connector Pad</source>
         <translation>Kenar Konnektörü Pedi Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1104"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1113"/>
         <source>Add special SMT pads used as edge connector</source>
         <translation>Kenar konnektörü olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1112"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
         <source>Add Test Pad</source>
         <translation>Test Pedi Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1113"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1122"/>
         <source>Add special SMT pads used as test points</source>
         <translation>Test noktası olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1121"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
         <source>Add Local Fiducial Pad</source>
         <translation>Yerel Referans Pedi Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1122"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1131"/>
         <source>Add special SMT pads used as local fiducials</source>
         <translation>Yerel referans işareti olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1130"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
         <source>Add Global Fiducial Pad</source>
         <translation>Genel Referans Pedi Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1131"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
         <source>Add special SMT pads used as global fiducials</source>
         <translation>Genel referans işareti olarak kullanılan özel SMT pedler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1139"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
         <source>Draw Keepout Zone</source>
         <translation>Yasak Bölge Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1140"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
         <source>Draw keep-out zones</source>
         <translation>Yasak bölgeler çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1148"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
         <source>Add Hole</source>
         <translation>Delik Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1149"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
         <source>Add non-plated holes (NPTH drills)</source>
         <translation>Kaplanmamış delikler ekle (NPTH delikleri)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1157"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1166"/>
         <source>Draw Wire</source>
         <translation>Tel Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1158"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
         <source>Draw wires to create electrical connections between symbol pins</source>
         <translation>Sembol pinleri arasında elektriksel bağlantılar oluşturmak için teller çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1167"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
         <source>Draw Bus</source>
         <translation>Veri Yolu Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1168"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1177"/>
         <source>Draw buses to route several related nets with a single wire</source>
         <translation>Birden fazla ilgili ağı tek bir telle yönlendirmek için veri yolları çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1176"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
         <source>Add Label to Net or Bus</source>
         <translation>Ağa veya Veri Yoluna Etiket Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1177"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1186"/>
         <source>Add labels to explicitly specify the net or bus of wires</source>
         <translation>Tellerin ağını veya veri yolunu açıkça belirtmek için etiketler ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1185"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
         <source>Add Component</source>
         <translation>Bileşen Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1186"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1195"/>
         <source>Insert components from the workspace libraries</source>
         <translation>Çalışma alanı kütüphanelerinden bileşen ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1194"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
         <source>Draw Trace</source>
         <translation>İz Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1195"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1204"/>
         <source>Draw copper traces to interconnect devices</source>
         <translation>Aygıtları birbirine bağlamak için bakır izler çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1203"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
         <source>Add Via</source>
         <translation>Via Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1204"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1213"/>
         <source>Add plated through-hole vias</source>
         <translation>Kaplamalı delikli (through-hole) via&apos;lar ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1212"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
         <source>Draw Plane</source>
         <translation>Düzlem Çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1213"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1222"/>
         <source>Draw auto-filled copper areas to interconnect pads and vias</source>
         <translation>Pedleri ve via&apos;ları birbirine bağlamak için otomatik doldurulan bakır alanlar çiz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1221"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
         <source>Generate Outline</source>
         <translation>Dış Hat Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1222"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1231"/>
         <source>Automatically generate the outline polygon</source>
         <translation>Dış hat poligonunu otomatik olarak oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1230"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1239"/>
         <source>Generate Courtyard</source>
         <translation>Courtyard Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1231"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1240"/>
         <source>Automatically generate the courtyard polygon</source>
         <translation>Courtyard poligonunu otomatik olarak oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1239"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Renumber Pads</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1240"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1249"/>
         <source>Helper tool to interactively change pad numbers</source>
         <translation>Ped numaralarını etkileşimli olarak değiştirmek için yardımcı araç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1257"/>
         <source>Measure Distance</source>
         <translation>Mesafe Ölç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1249"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1258"/>
         <source>Measure the distance between two points</source>
         <translation>İki nokta arasındaki mesafeyi ölç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1257"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1266"/>
         <source>Commands</source>
         <translation>Komutlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1260"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
         <source>Go To Command Toolbar</source>
         <translation>Komut Araç Çubuğuna Git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1261"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1270"/>
         <source>Move the focus into the command toolbar</source>
         <translation>Odağı komut araç çubuğuna taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1269"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
         <source>Abort Command</source>
         <translation>Komutu İptal Et</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1270"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1279"/>
         <source>Abort the currently active command</source>
         <translation>Şu anda etkin olan komutu iptal et</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1278"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
         <source>Layer Up</source>
         <translation>Katman Yukarı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1279"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1288"/>
         <source>Switch to the next higher layer (bottom-&gt;top)</source>
         <translation>Bir sonraki üst katmana geç (alttan üste)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1287"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
         <source>Layer Down</source>
         <translation>Katman Aşağı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1288"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1297"/>
         <source>Switch to the next lower layer (top-&gt;bottom)</source>
         <translation>Bir sonraki alt katmana geç (üstten alta)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1296"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
         <source>Increase Line Width</source>
         <translation>Çizgi Genişliğini Artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1297"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1306"/>
         <source>Increase the line/trace/stroke/pad width</source>
         <translation>Çizgi/iz/vektör çizgi/ped genişliğini artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1305"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
         <source>Decrease Line Width</source>
         <translation>Çizgi Genişliğini Azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1306"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1315"/>
         <source>Decrease the line/trace/stroke/pad width</source>
         <translation>Çizgi/iz/vektör çizgi/ped genişliğini azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1314"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
         <source>Increase Size</source>
         <translation>Boyutu Artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1315"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1324"/>
         <source>Increase the via/pad/pin/text size</source>
         <translation>Via/ped/pin/metin boyutunu artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1323"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
         <source>Decrease Size</source>
         <translation>Boyutu Azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1324"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
         <source>Decrease the via/pad/pin/text size</source>
         <translation>Via/ped/pin/metin boyutunu azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1332"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
         <source>Increase Drill</source>
         <translation>Delik Çapını Artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1333"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1342"/>
         <source>Increase the via/pad/hole drill diameter</source>
         <translation>Via/ped/delik delik çapını artır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1341"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
         <source>Decrease Drill</source>
         <translation>Delik Çapını Azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1342"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1351"/>
         <source>Decrease the via/pad/hole drill diameter</source>
         <translation>Via/ped/delik çapını azalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1350"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
         <source>Toggle Auto-Width</source>
         <translation>Otomatik Genişliği Aç/Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1351"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1360"/>
         <source>Toggle the auto-width property state</source>
         <translation>Otomatik genişlik özelliğinin durumunu aç/kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1359"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
         <source>Toggle Fill</source>
         <translation>Dolguyu Aç/Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1360"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1369"/>
         <source>Toggle the fill property state</source>
         <translation>Dolgu özelliğinin durumunu aç/kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1368"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
         <source>Toggle Grab Area</source>
         <translation>Kavrama Alanını Aç/Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1369"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1378"/>
         <source>Toggle the grab area property state</source>
         <translation>Kavrama alanı özelliğinin durumunu aç/kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1377"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
         <source>Align Left</source>
         <translation>Sola Hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1378"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1387"/>
         <source>Horizontal alignment: Left</source>
         <translation>Yatay hizalama: Sol</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1386"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1422"/>
         <source>Align Center</source>
         <translation>Ortaya Hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1387"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1396"/>
         <source>Horizontal alignment: Center</source>
         <translation>Yatay hizalama: Orta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1395"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
         <source>Align Right</source>
         <translation>Sağa Hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1396"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1405"/>
         <source>Horizontal alignment: Right</source>
         <translation>Yatay hizalama: Sağ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1404"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1413"/>
         <source>Align Bottom</source>
         <translation>Alta Hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1405"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
         <source>Vertical alignment: Bottom</source>
         <translation>Dikey hizalama: Alt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1414"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
         <source>Vertical alignment: Center</source>
         <translation>Dikey hizalama: Orta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1422"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1431"/>
         <source>Align Top</source>
         <translation>Üste Hizala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1423"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
         <source>Vertical alignment: Top</source>
         <translation>Dikey hizalama: Üst</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1431"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1440"/>
         <source>Horizontal - Vertical</source>
         <translation>Yatay - Dikey</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1432"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1441"/>
         <source>Wire mode: First segment horizontal, second segment vertical</source>
         <translation>Tel modu: İlk segment yatay, ikinci segment dikey</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1441"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1450"/>
         <source>Vertical - Horizontal</source>
         <translation>Dikey - Yatay</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1442"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
         <source>Wire mode: First segment vertical, second segment horizontal</source>
         <translation>Tel modu: İlk segment dikey, ikinci segment yatay</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1451"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
         <source>90° - 45°</source>
         <translation>90° - 45°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1452"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1461"/>
         <source>Wire mode: First segment 90°, second segment 45°</source>
         <translation>Tel modu: İlk segment 90°, ikinci segment 45°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1460"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
         <source>45° - 90°</source>
         <translation>45° - 90°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1461"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1470"/>
         <source>Wire mode: First segment 45°, second segment 90°</source>
         <translation>Tel modu: İlk segment 45°, ikinci segment 90°</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1469"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
         <source>Straight</source>
         <translation>Düz</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1470"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1479"/>
         <source>Wire mode: Straight line</source>
         <translation>Tel modu: Düz çizgi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1478"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Round</source>
         <translation>Yuvarlak</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1479"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
         <source>Shape: Round</source>
         <translation>Şekil: Yuvarlak</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1496"/>
         <source>Rounded Rectangle</source>
         <translation>Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
         <source>Shape: Rounded Rectangle</source>
         <translation>Şekil: Yuvarlatılmış Dikdörtgen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1496"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1505"/>
         <source>Rectangle</source>
         <translation>Dikdörtgen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1506"/>
         <source>Shape: Rectangle</source>
         <translation>Şekil: Dikdörtgen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1505"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1514"/>
         <source>Octagon</source>
         <translation>Sekizgen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1506"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1515"/>
         <source>Shape: Octagon</source>
         <translation>Şekil: Sekizgen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1514"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1523"/>
         <source>Components</source>
         <translation>Bileşenler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1517"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
         <source>Resistor</source>
         <translation>Direnç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1518"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1527"/>
         <source>Add standard component: Resistor</source>
         <translation>Standart bileşen ekle: Direnç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
         <source>Inductor</source>
         <translation>Bobin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1527"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
         <source>Add standard component: Inductor</source>
         <translation>Standart bileşen ekle: Bobin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
         <source>Bipolar Capacitor</source>
         <translation>Bipolar Kondansatör</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>Standart bileşen ekle: Bipolar kondansatör</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1553"/>
         <source>Unipolar Capacitor</source>
         <translation>Unipolar Kondansatör</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>Standart bileşen ekle: Unipolar kondansatör</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1553"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1562"/>
         <source>GND Supply</source>
         <translation>GND Kaynağı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1563"/>
         <source>Add standard component: GND supply</source>
         <translation>Standart bileşen ekle: GND kaynağı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1562"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1571"/>
         <source>VCC Supply</source>
         <translation>VCC Kaynağı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1563"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1572"/>
         <source>Add standard component: VCC supply</source>
         <translation>Standart bileşen ekle: VCC kaynağı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1570"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1579"/>
         <source>Docks</source>
         <translation>Paneller</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1583"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>Elektriksel Kural Kontrolü (ERC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1584"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
         <source>Go to the ERC messages dock</source>
         <translation>ERC mesajları paneline git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
         <source>Design Rule Check (DRC)</source>
         <translation>Tasarım Kural Kontrolü (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>Go to the DRC messages dock</source>
         <translation>DRC mesajları paneline git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
         <source>Layers</source>
         <translation>Katmanlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1611"/>
         <source>Go to the layers dock</source>
         <translation>Katmanlar paneline git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1619"/>
         <source>Place Devices</source>
         <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1611"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1620"/>
         <source>Go to the dock for placing devices</source>
         <translation>Aygıt yerleştirme paneline git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1619"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1628"/>
         <source>Window Management</source>
         <translation>Pencere Yönetimi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1623"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
         <source>Next Tab/Page</source>
         <translation>Sonraki Sekme/Sayfa</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1624"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1633"/>
         <source>Navigate to the next tab or page</source>
         <translation>Sonraki sekmeye veya sayfaya git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
         <source>Previous Tab/Page</source>
         <translation>Önceki Sekme/Sayfa</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1633"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
         <source>Navigate to the previous tab or page</source>
         <translation>Önceki sekmeye veya sayfaya git</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
         <source>Close Tab</source>
         <translation>Sekmeyi Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
         <source>Close the currently opened tab</source>
         <translation>Şu anda açık olan sekmeyi kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
         <source>Close All Tabs</source>
         <translation>Tüm Sekmeleri Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
         <source>Close all currently opened tabs</source>
         <translation>Şu anda açık olan tüm sekmeleri kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
         <source>New Window</source>
         <translation>Yeni Pencere</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Open a new window</source>
         <translation>Yeni bir pencere aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
         <source>Close Window</source>
         <translation>Pencereyi Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
         <source>Close this window</source>
         <translation>Bu pencereyi kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1686"/>
         <source>Close Project</source>
         <translation>Projeyi Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
         <source>Close the currently opened project</source>
         <translation>Şu anda açık olan projeyi kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1696"/>
         <source>Close All Projects</source>
         <translation>Tüm Projeleri Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1688"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1697"/>
         <source>Close all currently opened projects</source>
         <translation>Şu anda açık olan tüm projeleri kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1696"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1705"/>
         <source>Quit</source>
         <translation>Çık</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1697"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1706"/>
         <source>Close the whole application</source>
         <translation>Uygulamanın tamamını kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1704"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1713"/>
         <source>Help</source>
         <translation>Yardım</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1708"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
         <source>About LibrePCB</source>
         <translation>LibrePCB Hakkında</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1709"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1718"/>
         <source>Show information about the application</source>
         <translation>Uygulama hakkında bilgi göster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
         <source>About Qt</source>
         <translation>Qt Hakkında</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1718"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
         <source>Show information about Qt</source>
         <translation>Qt hakkında bilgi göster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB Web Sitesi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>LibrePCB web sitesini web tarayıcısında aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
         <source>User Manual &amp;&amp; Tutorials</source>
         <translation>Kullanıcı Kılavuzu ve Eğitimler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
         <source>Open the online user manual in the web browser</source>
         <translation>Çevrimiçi kullanıcı kılavuzunu web tarayıcısında aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
         <translation>Geri Bildirim Ver ve Destek Al</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
         <source>Open the support page in the web browser</source>
         <translation>Destek sayfasını web tarayıcısında aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
         <source>Support the LibrePCB Project</source>
         <translation>LibrePCB Projesini Destekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1763"/>
         <source>Open the donation page in the web browser</source>
         <translation>Bağış sayfasını web tarayıcısında</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1771"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>Klavye Kısayolları Referansı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1763"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1772"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>Klavye kısayolları hakkında hızlı bir referans aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1771"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1780"/>
         <source>Context Menu</source>
         <translation>Bağlam Menüsü</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1775"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1783"/>
         <source>New Folder</source>
         <translation>Yeni Klasör</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1776"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1784"/>
         <source>Create a new folder</source>
         <translation>Yeni bir klasör oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1785"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1793"/>
         <source>Add To Favorites</source>
         <translation>Favorilere Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1786"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1794"/>
         <source>Add project to favorites</source>
         <translation>Projeyi favorilere ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1795"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1803"/>
         <source>Remove From Favorites</source>
         <translation>Favorilerden Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1796"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
         <source>Remove project from favorites</source>
         <translation>Projeyi favorilerden kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1812"/>
         <source>Add Vertex</source>
         <translation>Köşe Noktası Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1805"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>Seçili poligon kenarına yeni bir köşe noktası ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1821"/>
         <source>Remove Vertex</source>
         <translation>Köşe Noktasını Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1814"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>Seçili köşe noktasını poligondan kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1830"/>
         <source>Select Whole Trace</source>
         <translation>Tüm İzi Seç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1823"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
         <source>Select the whole trace</source>
         <translation> Tüm izi seç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1839"/>
         <source>Measure Selected Segments Length</source>
         <translation>Seçili Segmentlerin Uzunluğunu Ölç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1832"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>Seçili tüm iz segmentlerinin toplam uzunluğunu ölç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
         <source>Remove Whole Trace</source>
         <translation>Tüm İzi Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1841"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Remove the whole trace</source>
         <translation>Tüm izi kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1850"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
         <source>Toggle placement lock</source>
         <translation>Yerleşim kilidini aç/kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1866"/>
         <source>Visible</source>
         <translation>Görünür</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Toggle visibility</source>
         <translation>Görünürlüğü aç/kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1875"/>
         <source>Copy MPN to Clipboard</source>
         <translation>MPN&apos;yi Panoya Kopyala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
         <source>Copy this MPN into the clipboard</source>
         <translation>Bu MPN&apos;yi panoya kopyala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1884"/>
         <source>Place Remaining Gates</source>
         <translation>Kalan Kapıları Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
         <source>Add more of the components gates to the schematic</source>
         <translation>Bileşenin diğer kapılarını şematiğe ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1893"/>
         <source>Open Product Website</source>
         <translation>Ürün Web Sitesini Aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
         <source>Open product details about this part in the web browser</source>
         <translation>Bu parçayla ilgili ürün detaylarını web tarayıcısında aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1902"/>
         <source>Open Pricing Website</source>
         <translation>Fiyatlandırma Web Sitesini Aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1903"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation>Bu parçayla ilgili fiyatlandırma detaylarını web tarayıcısında aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1904"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1912"/>
         <source>Generate Content</source>
         <translation>İçerik Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1905"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1913"/>
         <source>Various helper tools to generate or modify objects</source>
         <translation>Nesneleri oluşturmak veya değiştirmek için çeşitli yardımcı araçlar</translation>
     </message>
@@ -11583,22 +11593,22 @@ Gerçekten kapatmak istiyor musunuz?</translation>
 <context>
     <name>librepcb::editor::FileSystemModel</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="275"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="295"/>
         <source>New Folder</source>
         <translation>Yeni Klasör</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="276"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="296"/>
         <source>Name:</source>
         <translation>Ad:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="296"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="309"/>
         <source>Remove</source>
         <translation>Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="297"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="310"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -11611,7 +11621,7 @@ Warning: This cannot be undone!</source>
 Uyarı: Bu geri alınamaz!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="311"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="324"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -13617,9 +13627,9 @@ Are you still sure to delete the following library elements?</source>
         <translation>Kopyala</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="969"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1234"/>
-        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1262"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="973"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1241"/>
+        <location filename="libs/librepcb/editor/mainwindow.cpp" line="1269"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -14765,49 +14775,50 @@ Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="717"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="726"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="735"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2562"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2600"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2667"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="728"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="737"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="746"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="841"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2635"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2673"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2740"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1081"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1154"/>
         <source>Save Changes?</source>
         <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1082"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1155"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>&apos;%1&apos; paketi kaydedilmemiş değişiklikler içeriyor.
 Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1713"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1786"/>
         <source>(unconnected)</source>
         <translation>(bağlantısız)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2144"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2217"/>
         <source>New Line Width</source>
         <translation>Yeni Çizgi Genişliği</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2367"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2440"/>
         <source>Apply to all unspecified pads</source>
         <translation>Tüm belirtilmemiş pedlere uygula</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2389"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2462"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Belirtilmemiş Ped İşlevlerini Düzelt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2744"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2817"/>
         <source>Please select a footprint.</source>
         <translation>Lütfen bir ayak izi seçin.</translation>
     </message>
@@ -17332,7 +17343,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::AssemblyOutputJobsRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="532"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="508"/>
         <source>Assembly Service:</source>
         <translation>Montaj Hizmeti:</translation>
     </message>
@@ -17340,7 +17351,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::AssemblyTypeRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="419"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="395"/>
         <source>Assembly:</source>
         <translation>Montaj:</translation>
     </message>
@@ -17361,7 +17372,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::AttributesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="443"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="419"/>
         <source>Attributes:</source>
         <translation>Öznitelikler:</translation>
     </message>
@@ -17369,7 +17380,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::AuthorRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="87"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="85"/>
         <source>Author:</source>
         <translation>Yazar:</translation>
     </message>
@@ -17531,7 +17542,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::CategoriesRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="385"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="383"/>
         <source>Add Category</source>
         <translation>Kategori Ekle</translation>
     </message>
@@ -17539,7 +17550,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::CategoriesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="280"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="278"/>
         <source>Categories:</source>
         <translation>Kategoriler:</translation>
     </message>
@@ -18073,7 +18084,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DatasheetRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="427"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="403"/>
         <source>URL to online datasheet (optional)</source>
         <translation>Çevrimiçi datasheet URL&apos;si (isteğe bağlı)</translation>
     </message>
@@ -18081,7 +18092,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DatasheetRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="423"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="399"/>
         <source>Datasheet:</source>
         <translation>Datasheet:</translation>
     </message>
@@ -18089,7 +18100,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DefaultValueRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="439"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="415"/>
         <source>Default Value:</source>
         <translation>Varsayılan Değer:</translation>
     </message>
@@ -18097,7 +18108,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DependenciesRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="220"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="218"/>
         <source>Add Dependency</source>
         <translation>Bağımlılık Ekle</translation>
     </message>
@@ -18105,7 +18116,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DependenciesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="151"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="149"/>
         <source>Dependencies:</source>
         <translation>Bağımlılıklar:</translation>
     </message>
@@ -18113,7 +18124,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DeprecatedRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="101"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="99"/>
         <source>Check this if this library element should no longer be used.</source>
         <translation>Bu kütüphane öğesi artık kullanılmamalıysa bunu işaretleyin.</translation>
     </message>
@@ -18121,7 +18132,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DeprecatedRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="95"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="93"/>
         <source>Deprecated:</source>
         <translation>Kullanımdan Kaldırılmış:</translation>
     </message>
@@ -18129,7 +18140,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::DescriptionRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="79"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="77"/>
         <source>Description:</source>
         <translation>Açıklama:</translation>
     </message>
@@ -18801,12 +18812,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::HomePanel</name>
     <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="229"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="224"/>
         <source>Quick Access</source>
         <translation>Hızlı Erişim</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="249"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="244"/>
         <source>Workspace Projects</source>
         <translation>Çalışma Alanı Projeleri</translation>
     </message>
@@ -18842,12 +18853,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::IconRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="69"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="67"/>
         <source>Click to change the icon.</source>
         <translation>Simgeyi değiştirmek için tıklayın.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="69"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="67"/>
         <source>Preferred:</source>
         <translation>Tercih Edilen:</translation>
     </message>
@@ -18855,7 +18866,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::IconRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="35"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="33"/>
         <source>Icon:</source>
         <translation>Simge:</translation>
     </message>
@@ -18886,7 +18897,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::KeywordsRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="83"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="81"/>
         <source>Keywords:</source>
         <translation>Anahtar Kelimeler:</translation>
     </message>
@@ -19333,72 +19344,72 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Tüm değişiklikleri at ve şu anda açık olan paketi diskten yeniden yükle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1205"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1214"/>
         <source>Component</source>
         <translation>Bileşen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1224"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1233"/>
         <source>Save Component</source>
         <translation>Bileşeni Kaydet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1234"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1243"/>
         <source>Close Component</source>
         <translation>Bileşeni Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1235"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1244"/>
         <source>Close the currently opened component</source>
         <translation>Şu anda açık olan bileşeni kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1256"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1265"/>
         <source>Device</source>
         <translation>Aygıt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1275"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1284"/>
         <source>Save Device</source>
         <translation>Aygıt Kaydet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1285"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1294"/>
         <source>Close Device</source>
         <translation>Aygıtı Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1286"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1295"/>
         <source>Close the currently opened device</source>
         <translation>Şu anda açık olan aygıtı kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1307"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1316"/>
         <source>Organization</source>
         <translation>Kuruluş</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1326"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1335"/>
         <source>Save Organization</source>
         <translation>Kuruluşu Kaydet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1336"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1345"/>
         <source>Close Organization</source>
         <translation>Kuruluşu Kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1337"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1346"/>
         <source>Close the currently opened organization</source>
         <translation>Şu anda açık olan kuruluşu kapat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1358"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1367"/>
         <source>Project</source>
         <translation>Proje</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1397"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1406"/>
         <source>Save Project</source>
         <translation>Projeyi Kaydet</translation>
     </message>
@@ -19408,17 +19419,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Dosya</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1578"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1587"/>
         <source>Help</source>
         <translation>Yardım</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1699"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1708"/>
         <source>read-only</source>
         <translation>salt okunur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1929"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1938"/>
         <source>Quick Find</source>
         <translation>Hızlı Bul</translation>
     </message>
@@ -19536,7 +19547,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::ManufacturerRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="227"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="225"/>
         <source>Manufacturer:</source>
         <translation>Üretici:</translation>
     </message>
@@ -19570,17 +19581,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::MetadataFooterRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="557"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="533"/>
         <source>Next</source>
         <translation>İleri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="557"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="533"/>
         <source>Save</source>
         <translation>Kaydet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="567"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="543"/>
         <source>Back</source>
         <translation>Geri</translation>
     </message>
@@ -19588,7 +19599,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::NameRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="75"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="73"/>
         <source>Name:</source>
         <translation>Ad:</translation>
     </message>
@@ -19767,7 +19778,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::OverlayDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="73"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="75"/>
+        <source>Cancel</source>
+        <translation>İptal</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="75"/>
+        <source>Close</source>
+        <translation>Kapat</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="85"/>
         <source>OK</source>
         <translation>Tamam</translation>
     </message>
@@ -19842,32 +19863,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="771"/>
         <source>Helper Tools</source>
         <translation>Yardımcı Araçlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="870"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="871"/>
         <source>Background Image</source>
         <translation>Arka Plan Resmi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="889"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="890"/>
         <source>Devices</source>
         <translation>Aygıtlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="902"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="903"/>
         <source>Solder Paste</source>
         <translation>Lehim Pastası</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="915"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="916"/>
         <source>Silkscreen</source>
         <translation>Serigrafi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="928"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="929"/>
         <source>Solder Resist</source>
         <translation>Lehim Maskesi</translation>
     </message>
@@ -19906,42 +19927,42 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackagePadsEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="267"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="268"/>
         <source>Add all (potentially solderable) package pads which are electrically independent, no matter if they actually have an electrical function in a particular part.</source>
         <translation>Elektriksel olarak bağımsız olan tüm (potansiyel olarak lehimlenebilir) paket pedlerini ekleyin, belirli bir parçada gerçekten elektriksel bir işlevi olup olmadığına bakılmaksızın.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="268"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="269"/>
         <source>For example, a thermal pad should be listed here, even though it may not have an electrical function.</source>
         <translation>Örneğin, elektriksel bir işlevi olmasa bile bir termal ped burada listelenmelidir.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="269"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="270"/>
         <source>Once the package is finished, it is *not* possible anymore to add or remove pads.</source>
         <translation>Paket tamamlandıktan sonra ped ekleme veya kaldırmanın artık mümkün olmadığını unutmayın.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="275"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="276"/>
         <source>Important:</source>
         <translation>Önemli:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="286"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="287"/>
         <source>Add Pads:</source>
         <translation>Pedler Ekle:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="291"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="292"/>
         <source>Pad name (may contain ranges like \&quot;1..5\&quot;)</source>
         <translation>Ped adı (&quot;1..5&quot; gibi aralıklar içerebilir)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="339"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="340"/>
         <source>Finish</source>
         <translation>Bitir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="349"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="350"/>
         <source>Back</source>
         <translation>Geri</translation>
     </message>
@@ -19949,24 +19970,34 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1110"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
         <source>Metadata</source>
         <translation>Meta Veri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
         <source>Pads</source>
         <translation>Padler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
         <source>Footprints</source>
         <translation>Ayak İzleri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1114"/>
         <source>3D Models</source>
         <translation>3B Modeller</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
+        <source>This package is used by the following devices:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
+        <source>This package is not used by any device.</source>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20000,7 +20031,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::ParentRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="270"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="268"/>
         <source>Choose Parent Category</source>
         <translation>Üst Kategori Seç</translation>
     </message>
@@ -20008,7 +20039,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::ParentRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="231"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="229"/>
         <source>Parent:</source>
         <translation>Üst:</translation>
     </message>
@@ -20039,7 +20070,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PcbDesignRulesRowCell</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="518"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="494"/>
         <source>New Design Rules</source>
         <translation>Yeni Tasarım Kuralları</translation>
     </message>
@@ -20047,7 +20078,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PcbDesignRulesRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="451"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="427"/>
         <source>PCB Design Rules:</source>
         <translation>PCB Tasarım Kuralları:</translation>
     </message>
@@ -20055,7 +20086,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PcbOutputJobsRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="528"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="504"/>
         <source>PCB Service:</source>
         <translation>PCB Hizmeti:</translation>
     </message>
@@ -20151,7 +20182,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PrefixRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="435"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="411"/>
         <source>Prefix:</source>
         <translation>Ön Ek:</translation>
     </message>
@@ -20159,7 +20190,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PriorityRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="447"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="423"/>
         <source>Priority:</source>
         <translation>Öncelik:</translation>
     </message>
@@ -20413,7 +20444,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SchematicOnlyRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="431"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="407"/>
         <source>Schematic-Only:</source>
         <translation>Yalnızca Şematik:</translation>
     </message>
@@ -20610,20 +20641,28 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="162"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="179"/>
         <source>Pin</source>
         <translation>Pin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="162"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="179"/>
         <source>Unpin</source>
         <translation>Sabitlemeyi Kaldır</translation>
     </message>
 </context>
 <context>
+    <name>ui::TreeViewDialog</name>
+    <message>
+        <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="7"/>
+        <source>No entries.</source>
+        <translation type="unfinished"/>
+    </message>
+</context>
+<context>
     <name>ui::UrlRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="106"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="104"/>
         <source>URL:</source>
         <translation>URL:</translation>
     </message>
@@ -20649,7 +20688,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::VersionRowHeader</name>
     <message>
-        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="91"/>
+        <location filename="libs/librepcb/ui/library/metadatawidgets.slint" line="89"/>
         <source>Version:</source>
         <translation>Sürüm:</translation>
     </message>
@@ -20675,32 +20714,22 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Dosyayı veya projeyi aç</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="151"/>
-        <source>New Folder</source>
-        <translation>Yeni Klasör</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="153"/>
-        <source>Create a new folder</source>
-        <translation>Yeni bir klasör oluştur</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="173"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="170"/>
         <source>Pin to Quick Access</source>
         <translation>Hızlı Erişime Sabitle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="173"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="170"/>
         <source>Unpin from Quick Access</source>
         <translation>Hızlı Erişimden Kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="181"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="178"/>
         <source>Pin/unpin the project to the quick access</source>
         <translation>Projeyi hızlı erişime sabitle/sabitlemeden kaldır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/homepanel.slint" line="194"/>
+        <location filename="libs/librepcb/ui/homepanel.slint" line="191"/>
         <source>Remove the file or directory from the file system</source>
         <translation>Dosyayı veya dizini dosya sisteminden kaldır</translation>
     </message>
