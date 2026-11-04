@@ -20328,7 +20328,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="52"/>
         <source>The following components will be renamed to put them into a natural order in the schematics:</source>
-        <translation type="unfinished"/>
+        <translation>Следующие компоненты будут переименованы, чтобы расположить их на схемах в естественном порядке:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="82"/>
