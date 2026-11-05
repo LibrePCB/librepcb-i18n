@@ -19665,57 +19665,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Могут возникнуть некоторые проблемы с вашей схемой или платой, пожалуйста, проверьте сообщения выше, прежде чем продолжить.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="195"/>
         <source>Order %1</source>
         <translation>Заказать %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="212"/>
         <source>Open web browser after upload</source>
         <translation>Открыть веб-браузер после загрузки</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="217"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="230"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
         <translation>Закончили дизайн печатной платы? Позвольте изготовить его у одного из наших партнеров-производителей - легко, безопасно и быстро!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="225"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="238"/>
         <source>Electrical Rule Check</source>
         <translation>Проверка электрических правил</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="235"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="248"/>
         <source>Design Rule Check</source>
         <translation>Проверка правил проектирования</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="268"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="288"/>
         <source>Upload Project</source>
         <translation>Выгрузить проект</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="314"/>
         <source>Checking availability</source>
         <translation>Проверка доступности</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="348"/>
         <source>Details</source>
         <translation>Подробности</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="360"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
         <translation>Этот инструмент поможет вам быстро и легко изготовить спроектированную вами печатную плату. Каталог проекта будет экспортирован в архив *.lppz и загружен на API-сервер, настроенный в вашем рабочем пространстве. После этого вы можете продолжить процесс заказа в веб-браузере, например выбрать предпочтительного партнера-производителя. Просто попробуйте!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="365"/>
         <source>Privacy Policy</source>
         <translation>Политика конфиденциальности</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="377"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
         <translation>Конфиденциальность и прозрачность важны для нас. Подробности о том, как эта функция работает «за кулисами», доступны здесь:</translation>
     </message>

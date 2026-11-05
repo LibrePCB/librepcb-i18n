@@ -19664,57 +19664,57 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
         <translation>Det kan finnas några problem med ditt schema eller PCB, vänligen kontrollera meddelandena ovan innan du fortsätter.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="195"/>
         <source>Order %1</source>
         <translation>Beställ %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="212"/>
         <source>Open web browser after upload</source>
         <translation>Öppna webbläsaren efter uppladdning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="217"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="230"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
         <translation>Är du klar med PCB-designen? Låt den tillverkas av en av våra tillverkningspartner - enkelt, säkert och snabbt!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="225"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="238"/>
         <source>Electrical Rule Check</source>
         <translation>Kontroll av elektriska regler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="235"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="248"/>
         <source>Design Rule Check</source>
         <translation>Designregelkontroll</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="268"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="288"/>
         <source>Upload Project</source>
         <translation>Ladda upp projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="314"/>
         <source>Checking availability</source>
         <translation>Kontrollerar tillgänglighet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="348"/>
         <source>Details</source>
         <translation>Detaljer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="360"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
         <translation>Detta verktyg hjälper dig att snabbt och enkelt få ditt designade kretskort tillverkat. Projektkatalogen kommer att exporteras till ett *.lppz-arkiv och laddas upp till API-servern som konfigurerats i dina arbetsytainställningar. Efteråt kan du fortsätta beställningsprocessen i webbläsaren, t.ex. att välja den föredragna tillverkningspartnern. Bara prova!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="365"/>
         <source>Privacy Policy</source>
         <translation>Sekretesspolicy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="377"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
         <translation>Integritet och transparens är viktigt för oss. Detaljer om hur den här funktionen fungerar bakom kulisserna finns här:</translation>
     </message>

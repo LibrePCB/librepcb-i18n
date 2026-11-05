@@ -19631,57 +19631,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ອາດມີບາງບັນຫາກັບຜັງວົງຈອນ ຫຼື ແຜ່ນວົງຈອນຂອງທ່ານ, ກະລຸນາກວດສອບຂໍ້ຄວາມດ້ານເທິງກ່ອນດຳເນີນການຕໍ່.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="195"/>
         <source>Order %1</source>
         <translation>ສັ່ງຜະລິດ %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="212"/>
         <source>Open web browser after upload</source>
         <translation>ເປີດເວັບບຣາວເຊີຫຼັງຈາກອັບໂຫຼດແລ້ວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="217"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="230"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
         <translation>ອອກແບບ PCB ສຳເລັດແລ້ວບໍ່? ໃຫ້ຄູ່ຮ່ວມງານການຜະລິດຂອງພວກເຮົາຜະລິດໃຫ້ - ງ່າຍ, ປອດໄພ ແລະ ວ່ອງໄວ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="225"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="238"/>
         <source>Electrical Rule Check</source>
         <translation>ກວດສອບກົດເກນໄຟຟ້າ (ERC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="235"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="248"/>
         <source>Design Rule Check</source>
         <translation>ກວດສອບກົດເກນການອອກແບບ (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="268"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="288"/>
         <source>Upload Project</source>
         <translation>ອັບໂຫຼດໂຄງການ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="314"/>
         <source>Checking availability</source>
         <translation>ກຳລັງກວດສອບຄວາມພ້ອມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="348"/>
         <source>Details</source>
         <translation>ລາຍລະອຽດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="360"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
         <translation>ເຄື່ອງມືນີ້ຊ່ວຍໃຫ້ທ່ານສັ່ງຜະລິດ PCB ທີ່ອອກແບບໄວ້ໄດ້ຢ່າງງ່າຍດາຍ ແລະ ວ່ອງໄວ. ໄດເຣັກທໍຣີຂອງໂຄງການຈະຖືກສົ່ງອອກເປັນໄຟລ໌ *.lppz ແລະ ອັບໂຫຼດໄປຍັງ API ເຊີບເວີທີ່ກຳນົດໄວ້. ຈາກນັ້ນທ່ານສາມາດດຳເນີນການສັ່ງຊື້ຕໍ່ໃນເວັບບຣາວເຊີ ເພື່ອເລືອກຜູ້ຜະລິດທີ່ຕ້ອງການ. ລອງເລີຍ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="365"/>
         <source>Privacy Policy</source>
         <translation>ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="377"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
         <translation>ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມໂປ່ງໃສແມ່ນສິ່ງສຳຄັນສຳລັບພວກເຮົາ. ລາຍລະອຽດກ່ຽວກັບການເຮັດວຽກຂອງຄຸນສົມບັດນີ້ເບິ່ງໄດ້ທີ່ນີ້:</translation>
     </message>

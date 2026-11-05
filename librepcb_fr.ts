@@ -19533,57 +19533,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="182"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="195"/>
         <source>Order %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="212"/>
         <source>Open web browser after upload</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="217"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="230"/>
         <source>Finished the PCB design? Let it manufacture by one of our fabrication partners - easy, safe and fast!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="225"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="238"/>
         <source>Electrical Rule Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="235"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="248"/>
         <source>Design Rule Check</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="268"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="288"/>
         <source>Upload Project</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="294"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="314"/>
         <source>Checking availability</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="328"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="348"/>
         <source>Details</source>
         <translation>Détails</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="340"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="360"/>
         <source>This tool helps you to quickly and easily get your designed PCB manufactured. The project directory will be exported to a *.lppz archive and uploaded to the API server configured in your workspace settings. Afterwards you can continue the order process in the web browser, e.g. to choose the preferred manufacturing partner. Just try it!</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="345"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="365"/>
         <source>Privacy Policy</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="357"/>
+        <location filename="libs/librepcb/ui/project/orderpanel.slint" line="377"/>
         <source>Privacy and transparency are important to us. Details about how this feature works behind the scenes are available here:</source>
         <translation type="unfinished"/>
     </message>
