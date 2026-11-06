@@ -11602,22 +11602,22 @@ Naozaj si želáte zatvoriť toto okno?</translation>
 <context>
     <name>librepcb::editor::FileSystemModel</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="295"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="312"/>
         <source>New Folder</source>
         <translation>Nový adresár</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="296"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="313"/>
         <source>Name:</source>
         <translation>Názov:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="309"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="326"/>
         <source>Remove</source>
         <translation>Odstrániť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="310"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="327"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -11630,7 +11630,7 @@ Warning: This cannot be undone!</source>
 Upozornenie: Akciu nemožno vrátiť späť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="324"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="341"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>

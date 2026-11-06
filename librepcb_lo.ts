@@ -11576,22 +11576,22 @@ Do you really want to close it?</source>
 <context>
     <name>librepcb::editor::FileSystemModel</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="295"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="312"/>
         <source>New Folder</source>
         <translation>ໂຟນເດີໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="296"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="313"/>
         <source>Name:</source>
         <translation>ຊື່:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="309"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="326"/>
         <source>Remove</source>
         <translation>ລຶບອອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="310"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="327"/>
         <source>Are you really sure to remove following file or directory?
 
 %1
@@ -11604,7 +11604,7 @@ Warning: This cannot be undone!</source>
 ຄຳເຕືອນ: ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກຄືນໄດ້!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="324"/>
+        <location filename="libs/librepcb/editor/workspace/filesystemmodel.cpp" line="341"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
