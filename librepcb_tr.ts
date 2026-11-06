@@ -2359,12 +2359,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="158"/>
         <source>Find Usages</source>
-        <translation type="unfinished"/>
+        <translation>Kullanımları Bul</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Find all library elements which reference this element</source>
-        <translation type="unfinished"/>
+        <translation>Bu öğeye referans veren tüm kütüphane öğelerini bul</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
@@ -2479,12 +2479,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenleri Yeniden Numaralandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
         <source>Automatically assign new designators to all components</source>
-        <translation type="unfinished"/>
+        <translation>Tüm bileşenlere otomatik olarak yeni belirteçler ata</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
@@ -3491,7 +3491,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Renumber Pads</source>
-        <translation type="unfinished"/>
+        <translation>Pedleri Yeniden Numaralandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1249"/>
@@ -15590,7 +15590,7 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="77"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenleri Yeniden Numaralandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="103"/>
@@ -19992,12 +19992,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
         <source>This package is used by the following devices:</source>
-        <translation type="unfinished"/>
+        <translation>Bu paket aşağıdaki aygıtlar tarafından kullanılıyor:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
         <source>This package is not used by any device.</source>
-        <translation type="unfinished"/>
+        <translation>Bu paket hiçbir aygıt tarafından kullanılmıyor.</translation>
     </message>
 </context>
 <context>
@@ -20327,17 +20327,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="31"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Bileşenleri Yeniden Numaralandır</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="37"/>
         <source>Close Panel</source>
-        <translation type="unfinished"/>
+        <translation>Paneli Kapat</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="52"/>
         <source>The following components will be renamed to put them into a natural order in the schematics:</source>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki bileşenler, şematiklerde doğal bir sıraya konulmaları için yeniden adlandırılacak:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="82"/>
@@ -20347,7 +20347,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="94"/>
         <source>All components are numbered nicely.</source>
-        <translation type="unfinished"/>
+        <translation>Tüm bileşenler düzgün şekilde numaralandırılmış.</translation>
     </message>
 </context>
 <context>
@@ -20656,7 +20656,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="7"/>
         <source>No entries.</source>
-        <translation type="unfinished"/>
+        <translation>Girdi yok.</translation>
     </message>
 </context>
 <context>
