@@ -4910,7 +4910,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
         <translation>Mil</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="242"/>
+        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="263"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
         <translation>Geçersiz uzunluk birimi: &quot;%1&quot;</translation>
     </message>
@@ -20561,17 +20561,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>Grid Interval</source>
         <translation>Izgara Aralığı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>scroll up/down on hover</source>
         <translation>üzerine gelip yukarı/aşağı kaydırın</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="325"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="333"/>
         <source>Grid Style</source>
         <translation>Izgara Stili</translation>
     </message>

@@ -4897,7 +4897,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <translation>Mils</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="242"/>
+        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="263"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
         <translation>Unità di lunghezza non valida: &quot;% 1&quot;</translation>
     </message>
@@ -20457,17 +20457,17 @@ Attenzione: questo verrà applicato immediatamente e non può essere annullato!<
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>Grid Interval</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>scroll up/down on hover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="325"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="333"/>
         <source>Grid Style</source>
         <translation type="unfinished"/>
     </message>

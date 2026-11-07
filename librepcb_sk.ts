@@ -4912,7 +4912,7 @@ Skontrolujte, či nechýba spojenie s iným vodičom alebo vývodom súčiastky 
         <translation>Mils</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="242"/>
+        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="263"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
         <translation>Neplatná jednotka dĺžky: &quot;%1&quot;</translation>
     </message>
@@ -20579,17 +20579,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>Grid Interval</source>
         <translation>Interval rastra</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>scroll up/down on hover</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="325"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="333"/>
         <source>Grid Style</source>
         <translation>Štýl Rastra</translation>
     </message>

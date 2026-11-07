@@ -4911,7 +4911,7 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <translation>ມິລ (Mils)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="242"/>
+        <location filename="libs/librepcb/core/types/lengthunit.cpp" line="263"/>
         <source>Invalid length unit: &quot;%1&quot;</source>
         <translation>ຫົວໜ່ວຍຄວາມຍາວບໍ່ຖືກຕ້ອງ: &quot;%1&quot;</translation>
     </message>
@@ -20549,17 +20549,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>Grid Interval</source>
         <translation>ໄລຍະຫ່າງເສັ້ນຕາຕະລາງ (Grid)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="297"/>
         <source>scroll up/down on hover</source>
         <translation>ເລື່ອນຂຶ້ນ/ລົງ ເມື່ອຊີ້ເມົ້າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="325"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="333"/>
         <source>Grid Style</source>
         <translation>ຮູບແບບເສັ້ນຕາຕະລາງ</translation>
     </message>
