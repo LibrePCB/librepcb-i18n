@@ -17055,32 +17055,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>(ກະລຸນາຄັດລອກສິ່ງນີ້ໃສ່ໃນການລາຍງານບັນຫາ)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="198"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="197"/>
         <source>Credits</source>
         <translation>ລາຍຊື່ຜູ້ມີສ່ວນຮ່ວມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="205"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
         <translation>LibrePCB ອາໄສຜູ້ປະກອບສ່ວນ, ຜູ້ສະໜັບສະໜູນ, ສ່ວນປະກອບຊອບແວໂອເພນຊອດ ແລະ ຜົນງານສິລະປະຈຳນວນຫຼາຍ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="207"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
         <translation>ຂໍຂອບໃຈເປັນຢ່າງສູງມາຍັງທຸກຄົນທີ່ສະໜັບສະໜູນ LibrePCB ທັງທາງກົງ ແລະ ທາງອ້ອມ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="221"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="220"/>
         <source>For the list of current sponsors, see %1.</source>
         <translation>ສຳລັບລາຍຊື່ຜູ້ສະໜັບສະໜູນປະຈຸບັນ, ເບິ່ງທີ່ %1.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="256"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="255"/>
         <source>License</source>
         <translation>ໃບອະນຸຍາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="268"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="267"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
         <translation>ນີ້ແມ່ນຊອບແວຟຣີ, ອອກພາຍໃຕ້ໃບອະນຸຍາດ GNU General Public License (GPL) ລຸ້ນທີ 3 ຫຼື ໃໝ່ກວ່າ. ທ່ານສາມາດອ່ານເນື້ອໃນໃບອະນຸຍາດເຕັມໄດ້ໃນຊອດໂຄ້ດຂອງພວກເຮົາ.</translation>
     </message>
@@ -17124,12 +17124,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ລັດສະໝີມຸມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="162"/>
         <source>Press-Fit</source>
         <translation>ການສຽບແໜ້ນ (Press-Fit)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="164"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>ກຳນົດແຜ່ນຮອງ (Pad) ນີ້ເປັນແບບສຽບແໜ້ນ</translation>
     </message>
@@ -17198,12 +17198,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ລັດສະໝີມຸມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="161"/>
         <source>Press-Fit</source>
         <translation>ການສຽບແໜ້ນ (Press-Fit)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="163"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>ກຳນົດແຜ່ນຮອງນີ້ເປັນແບບສຽບແໜ້ນ</translation>
     </message>
@@ -17376,87 +17376,87 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="193"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="192"/>
         <source>Empty Schematics</source>
         <translation>ຜັງວົງຈອນຫວ່າງເປົ່າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="198"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation>ສາມາດເພີ່ມໄດ້ສະເພາະອຸປະກອນທີ່ມີຢູ່ໃນຜັງວົງຈອນເຂົ້າໃນແຜ່ນວົງຈອນເທົ່ານັ້ນ, ແຕ່ຜັງວົງຈອນຂອງໂຄງການນີ້ຍັງຫວ່າງເປົ່າ. ກະລຸນາແຕ້ມຜັງວົງຈອນກ່ອນເລີ່ມການອອກແບບແຜ່ນວົງຈອນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="209"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="208"/>
         <source>Learn how to create schematics</source>
         <translation>ຮຽນຮູ້ວິທີສ້າງຜັງວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="228"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="227"/>
         <source>Set Up Design Rules</source>
         <translation>ຕັ້ງຄ່າກົດລະບຽບການອອກແບບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="234"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="233"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
         <translation>ກ່ອນເລີ່ມການອອກແບບແຜ່ນວົງຈອນ, ແນະນຳຢ່າງຍິ່ງໃຫ້ຕັ້ງຄ່າກົດລະບຽບການອອກແບບທີ່ຈະໃຊ້. ພຽງແຕ່ເລືອກຈາກຄ່າທີ່ຕັ້ງໄວ້ກ່ອນລ່ວງໜ້າ ຫຼື ລະບຸກົດລະບຽບດ້ວຍຕົນເອງ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="257"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="256"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
         <translation>ກົດລະບຽບເລີ່ມຕົ້ນ, ເໝາະສຳລັບຜູ້ຜະລິດ PCB ສ່ວນໃຫຍ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="331"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="330"/>
         <source>Get Started</source>
         <translation>ເລີ່ມຕົ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="337"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="336"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation>ເລີ່ມອອກແບບແຜ່ນວົງຈອນໂດຍການວາງອຸປະກອນທັງໝົດທີ່ເປັນສ່ວນໜຶ່ງຂອງຜັງວົງຈອນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="346"/>
         <source>Select an unplaced component in the list.</source>
         <translation>ເລືອກອຸປະກອນທີ່ຍັງບໍ່ທັນໄດ້ວາງໃນລາຍການ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="352"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation>ເລືອກອຸປະກອນທີ່ຕ້ອງການ (ເຊິ່ງຈະກຳນົດ Package ທີ່ຈະໃຊ້).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="358"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation>ເລືອກຮູບແບບຟຸດພຣິນທີ່ຕ້ອງການຫາກມີຫຼາຍຮູບແບບ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="365"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="364"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation>ຢືນຢັນດ້ວຍປຸ່ມ ແລະ ວາງອຸປະກອນດ້ວຍຕົວກະພິບ (Cursor).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="371"/>
         <source>Place Devices</source>
         <translation>ວາງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="386"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="385"/>
         <source>Learn how to create boards</source>
         <translation>ຮຽນຮູ້ວິທີສ້າງແຜ່ນວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="644"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="639"/>
         <source>Background Image</source>
         <translation>ຮູບພື້ນຫຼັງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="685"/>
         <source>DRC Messages: %1</source>
         <translation>ຂໍ້ຄວາມ DRC: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="703"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="696"/>
         <source>Unplaced: %1</source>
         <translation>ຍັງບໍ່ໄດ້ວາງ: %1</translation>
     </message>
@@ -17464,24 +17464,24 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::Board3dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="100"/>
-        <source>Devices</source>
-        <translation>ອຸປະກອນ</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="113"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="109"/>
         <source>Solder Paste</source>
         <translation>ຄຣີມບັດກີ (Solder Paste)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="126"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="121"/>
         <source>Silkscreen</source>
         <translation>ຊັ້ນພິມຕົວອັກສອນ (Silkscreen)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="139"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="133"/>
         <source>Solder Resist</source>
         <translation>ຊັ້ນເຄືອບກັນບັດກີ (Solder Resist)</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="97"/>
+        <source>Devices</source>
+        <translation>ອຸປະກອນ</translation>
     </message>
 </context>
 <context>
@@ -17891,53 +17891,53 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ຮູບແບບ (Variant)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="424"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="423"/>
         <source>Description</source>
         <translation>ຄຳອະທິບາຍ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="453"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="451"/>
         <source>Norm</source>
         <translation>ມາດຕະຖານ (Norm)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="524"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="522"/>
         <source>Component Preview Placement</source>
         <translation>ການວາງຕົວຢ່າງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="667"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="665"/>
         <source>This variant contains no gate!</source>
         <translation>ຮູບແບບນີ້ບໍ່ມີເກດໃດໆ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="671"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="669"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
         <translation>ເພີ່ມເກດໃຫ້ກັບອຸປະກອນນີ້ໂດຍການເລືອກສັນຍະລັກທີ່ກົງກັນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="672"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="670"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
         <translation>ອຸປະກອນສ່ວນໃຫຍ່ປະກອບດ້ວຍເກດດຽວ, ແຕ່ຕົວຢ່າງເຊັ່ນ ADC 4 ຊ່ອງ ສາມາດສ້າງຂຶ້ນຈາກ ADC ແບບຊ່ອງດຽວ 4 ເກດ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="673"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="671"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
         <translation>ເກດເຫຼົ່ານັ້ນລ້ວນແຕ່ເປັນສ່ວນໜຶ່ງຂອງອຸປະກອນດຽວກັນ, ແຕ່ສາມາດວາງແຍກກັນໄດ້ໃນຜັງວົງຈອນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="683"/>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="700"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="681"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="698"/>
         <source>Add Gate</source>
         <translation>ເພີ່ມເກດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="709"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="707"/>
         <source>Move Up</source>
         <translation>ຍ້າຍຂຶ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="719"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="717"/>
         <source>Set as Default</source>
         <translation>ຕັ້ງເປັນຄ່າເລີ່ມຕົ້ນ</translation>
     </message>
@@ -17945,7 +17945,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::ComponentVariantListView</name>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="776"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="774"/>
         <source>Add Variant</source>
         <translation>ເພີ່ມຮູບແບບ</translation>
     </message>
@@ -18246,37 +18246,37 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ພິມເພື່ອຄົ້ນຫາສັນຍານ...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="374"/>
         <source>The package contains no pads, thus the pinout is empty.</source>
         <translation>ແພັກເກດນີ້ບໍ່ມີແພັດ, ດັ່ງນັ້ນຜັງຂາຈຶ່ງຫວ່າງເປົ່າ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="379"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="378"/>
         <source>Auto-Connect By Names</source>
         <translation>ເຊື່ອມຕໍ່ອັດຕະໂນມັດຕາມຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="381"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="380"/>
         <source>Try to automatically connect pads to signals by their name</source>
         <translation>ພະຍາຍາມເຊື່ອມຕໍ່ແພັດກັບສັນຍານໂດຍອັດຕະໂນມັດຕາມຊື່ຂອງມັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="390"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="389"/>
         <source>Connect Interactively</source>
         <translation>ເຊື່ອມຕໍ່ແບບໂຕ້ຕອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="392"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="391"/>
         <source>Connect the remaining pads one by one in an interactive mode</source>
         <translation>ເຊື່ອມຕໍ່ແພັດທີ່ຍັງເຫຼືອເທື່ອລະອັນໃນໂໝດໂຕ້ຕອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="401"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="400"/>
         <source>Load From File</source>
         <translation>ໂຫຼດຈາກໄຟລ໌</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="403"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="402"/>
         <source>Import the pinout from a CSV file with these columns:</source>
         <translation>ນຳເຂົ້າຜັງຂາຈາກໄຟລ໌ CSV ທີ່ມີຖັນດັ່ງນີ້:</translation>
     </message>
@@ -19802,7 +19802,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorFootprintsPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="288"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="286"/>
         <source>Add Footprint</source>
         <translation>ເພີ່ມຟຸດປຣິນ (Footprint)</translation>
     </message>
@@ -19810,7 +19810,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorModelsPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="342"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="340"/>
         <source>Add 3D Model</source>
         <translation>ເພີ່ມແບບຈຳລອງ 3D</translation>
     </message>
@@ -19818,65 +19818,65 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageEditorPanelListItem</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="100"/>
-        <source>Enter name &amp; press Return</source>
-        <translation>ພິມຊື່ ແລ້ວກົດ Return</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="151"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="149"/>
         <source>Move Up</source>
         <translation>ຍ້າຍຂຶ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="166"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="164"/>
         <source>Rename</source>
         <translation>ປ່ຽນຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="181"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="179"/>
         <source>Duplicate</source>
         <translation>ເຮັດຊ້ຳ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="196"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="194"/>
         <source>Load From File</source>
         <translation>ໂຫຼດຈາກໄຟລ໌</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="211"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="209"/>
         <source>Remove</source>
         <translation>ລຶບອອກ</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="98"/>
+        <source>Enter name &amp; press Return</source>
+        <translation>ພິມຊື່ ແລ້ວກົດ Return</translation>
     </message>
 </context>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="771"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
         <source>Helper Tools</source>
         <translation>ເຄື່ອງມືຊ່ວຍເຫຼືອ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="871"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="867"/>
         <source>Background Image</source>
         <translation>ຮູບພື້ນຫຼັງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="890"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="885"/>
         <source>Devices</source>
         <translation>ອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="903"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="897"/>
         <source>Solder Paste</source>
         <translation>ນ້ຳຢາຈອດ (Solder Paste)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="916"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="909"/>
         <source>Silkscreen</source>
         <translation>ຊັ້ນພິມຕົວອັກສອນ (Silkscreen)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="929"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="921"/>
         <source>Solder Resist</source>
         <translation>ເຄືອບກັນຈອດ (Solder Resist)</translation>
     </message>
@@ -19958,32 +19958,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1101"/>
         <source>Metadata</source>
         <translation>ຂໍ້ມູນເມຕາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1102"/>
         <source>Pads</source>
         <translation>ແພັດ (Pads)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1103"/>
         <source>Footprints</source>
         <translation>ຟຸດປຣິນ (Footprints)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1114"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1104"/>
         <source>3D Models</source>
         <translation>ແບບຈຳລອງ 3D</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1190"/>
         <source>This package is used by the following devices:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1191"/>
         <source>This package is not used by any device.</source>
         <translation type="unfinished"/>
     </message>
@@ -20112,57 +20112,57 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ອົງປະກອບທັງໝົດຈາກຜັງວົງຈອນຖືກເພີ່ມລົງໃນແຜ່ນວົງຈອນແລ້ວ. ຫາກຕ້ອງການເພີ່ມອົງປະກອບອື່ນໆ, ໃຫ້ເພີ່ມລົງໃນຜັງວົງຈອນກ່ອນ ເຊິ່ງມັນຈະປາກົດຢູ່ບ່ອນນີ້ເພື່ອໃຫ້ວາງລົງແຜ່ນວົງຈອນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="322"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="321"/>
         <source>No device or package found</source>
         <translation>ບໍ່ພົບອຸປະກອນ ຫຼື ແພັກເກດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="337"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="336"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
         <translation>ບໍ່ພົບອຸປະກອນທີ່ເຂົ້າກັນໄດ້ສຳລັບອົງປະກອບທີ່ເລືອກ. ກະລຸນາຕິດຕັ້ງຄັງອຸປະກອນທີ່ມີອຸປະກອນທີ່ເໝາະສົມ ຫຼື ສ້າງອຸປະກອນໃໝ່ດ້ວຍຕົນເອງໃນຄັງອຸປະກອນທ້ອງຖິ່ນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="346"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="345"/>
         <source>More information &amp; device creation guide</source>
         <translation>ຂໍ້ມູນເພີ່ມເຕີມ ແລະ ຄຳແນະນຳການສ້າງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="360"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="359"/>
         <source>I installed all libraries, why I still get this error?</source>
         <translation>ຂ້ອຍຕິດຕັ້ງຄັງອຸປະກອນທັງໝົດແລ້ວ, ເປັນຫຍັງຈຶ່ງຍັງມີຂໍ້ຜິດພາດນີ້ຢູ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="370"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="369"/>
         <source>Install or Create Libraries</source>
         <translation>ຕິດຕັ້ງ ຫຼື ສ້າງຄັງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="425"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="424"/>
         <source>Place Selected Device</source>
         <translation>ວາງອຸປະກອນທີ່ເລືອກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="426"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="425"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
         <translation>ວາງອົງປະກອບພ້ອມກັບອຸປະກອນ ແລະ ຟຸດປຣິນທີ່ເລືອກລົງໃນແຜ່ນວົງຈອນແບບໂຕ້ຕອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="437"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="436"/>
         <source>Place Similar</source>
         <translation>ວາງອຸປະກອນທີ່ຄ້າຍຄືກັນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="438"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="437"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
         <translation>ເພີ່ມອົງປະກອບທັງໝົດທີ່ເປັນຊະນິດດຽວກັນລົງໃນແຜ່ນວົງຈອນໂດຍອັດຕະໂນມັດ ໂດຍໃຊ້ອຸປະກອນ ແລະ ຟຸດປຣິນທີ່ເລືອກໄວ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="446"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="445"/>
         <source>Place All</source>
         <translation>ວາງທັງໝົດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="447"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="446"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
         <translation>ເພີ່ມອົງປະກອບທັງໝົດລົງໃນແຜ່ນວົງຈອນໂດຍອັດຕະໂນມັດ ໂດຍການຄາດເດົາອຸປະກອນ ແລະ ຟຸດປຣິນ (ບໍ່ແນະນຳ)</translation>
     </message>
@@ -20424,7 +20424,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ບໍ່ມີຂໍ້ຄວາມ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="393"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="392"/>
         <source>This message is marked as fixed. Run the checks again to verify the message is really resolved and disappears.</source>
         <translation>ຂໍ້ຄວາມນີ້ຖືກໝາຍວ່າແກ້ໄຂແລ້ວ. ກະລຸນາກວດສອບອີກຄັ້ງເພື່ອຢືນຢັນວ່າບັນຫາໄດ້ຮັບການແກ້ໄຂແທ້ ແລະ ຂໍ້ຄວາມຈະຫາຍໄປ.</translation>
     </message>
@@ -20440,47 +20440,47 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="155"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="154"/>
         <source>No Libraries Installed</source>
         <translation>ຍັງບໍ່ມີຄັງອຸປະກອນທີ່ຕິດຕັ້ງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="161"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="160"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
         <translation>ເພື່ອເພີ່ມອົງປະກອບລົງໃນຜັງວົງຈອນນີ້, ທ່ານຕ້ອງຕິດຕັ້ງຄັງອຸປະກອນກ່ອນ ຫຼື ສ້າງອຸປະກອນດ້ວຍຕົນເອງໃນຄັງອຸປະກອນຂອງທ່ານ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="167"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="166"/>
         <source>Install Libraries</source>
         <translation>ຕິດຕັ້ງຄັງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="181"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="180"/>
         <source>Learn how to create parts by yourself</source>
         <translation>ຮຽນຮູ່ວິທີສ້າງອຸປະກອນດ້ວຍຕົນເອງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="200"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="199"/>
         <source>Get Started</source>
         <translation>ເລີ່ມຕົ້ນນຳໃຊ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="206"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="205"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
         <translation>ແນະນຳໃຫ້ເລີ່ມຜັງວົງຈອນໃໝ່ດ້ວຍການເພີ່ມກອບຮູບແຕ້ມ (Drawing frame). ຈາກນັ້ນຈຶ່ງເພີ່ມອົງປະກອບອື່ນໆ ຕາມວິທີປົກກະຕິດ້ວຍແຖບເຄື່ອງມືດ້ານຊ້າຍ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="211"/>
         <source>Add Drawing Frame</source>
         <translation>ເພີ່ມກອບຮູບແຕ້ມ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="226"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="225"/>
         <source>Learn how to create schematics</source>
         <translation>ຮຽນຮູ່ວິທີສ້າງຜັງວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="501"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="500"/>
         <source>Pin Numbers</source>
         <translation>ເລກຂາ (Pin Numbers)</translation>
     </message>
@@ -20488,32 +20488,32 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="177"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="175"/>
         <source>Home</source>
         <translation>ໜ້າຫຼັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="187"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="185"/>
         <source>Open Documents</source>
         <translation>ເປີດເອກະສານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="202"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="200"/>
         <source>Layers</source>
         <translation>ຊັ້ນ (Layers)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="220"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="218"/>
         <source>Place Devices</source>
         <translation>ວາງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="355"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="353"/>
         <source>Libraries</source>
         <translation>ຄັງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="409"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="406"/>
         <source>Help / About</source>
         <translation>ຊ່ວຍເຫຼືອ / ກ່ຽວກັບ</translation>
     </message>
@@ -20549,17 +20549,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="291"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
         <source>Grid Interval</source>
         <translation>ໄລຍະຫ່າງເສັ້ນຕາຕະລາງ (Grid)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="291"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
         <source>scroll up/down on hover</source>
         <translation>ເລື່ອນຂຶ້ນ/ລົງ ເມື່ອຊີ້ເມົ້າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="327"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="325"/>
         <source>Grid Style</source>
         <translation>ຮູບແບບເສັ້ນຕາຕະລາງ</translation>
     </message>
@@ -20567,22 +20567,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="373"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
         <source>Import Pins From Datasheet</source>
         <translation>ນຳເຂົ້າຂາຈາກເອກະສານຂໍ້ມູນ (Datasheet)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="379"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>ແນະນຳໃຫ້ເລີ່ມແຕ້ມສັນຍະລັກໃໝ່ດ້ວຍການເພີ່ມຂາທັງໝົດ. ໂດຍສະເພາະສຳລັບສັນຍະລັກຂະໜາດໃຫຍ່, ວິທີທີ່ໄວທີ່ສຸດແມ່ນການນຳເຂົ້າຈາກເອກະສານຂໍ້ມູນ ຫຼື ເອກະສານອື່ນໆຂອງອຸປະກອນນັ້ນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="385"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
         <source>Import Pins</source>
         <translation>ນຳເຂົ້າຂາ (Pins)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="399"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
         <source>Learn how to create symbols</source>
         <translation>ຮຽນຮູ່ວິທີສ້າງສັນຍະລັກ</translation>
     </message>
@@ -20590,12 +20590,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
         <source>Metadata</source>
         <translation>ຂໍ້ມູນເມຕາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Graphics</source>
         <translation>ຮູບພາບ/ກຣາຟິກ</translation>
     </message>

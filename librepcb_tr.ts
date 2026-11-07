@@ -17067,32 +17067,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>(lütfen bunu hata raporlarına kopyalayın)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="198"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="197"/>
         <source>Credits</source>
         <translation>Emeği Geçenler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="205"/>
         <source>LibrePCB relies on many contributors, sponsors, open-source software components and artwork.</source>
         <translation>LibrePCB; birçok katkıda bulunan kişiye, sponsora, açık kaynaklı yazılım bileşenine ve sanat çalışmasına dayanır.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="207"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="206"/>
         <source>Many thanks to all the people supporting LibrePCB either directly or indirectly!</source>
         <translation>LibrePCB&apos;yi doğrudan veya dolaylı olarak destekleyen herkese çok teşekkürler!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="221"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="220"/>
         <source>For the list of current sponsors, see %1.</source>
         <translation>Mevcut sponsorların listesi için %1 bağlantısına bakın.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="256"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="255"/>
         <source>License</source>
         <translation>Lisans</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/aboutpanel.slint" line="268"/>
+        <location filename="libs/librepcb/ui/aboutpanel.slint" line="267"/>
         <source>This is free software, released under the GNU General Public License (GPL) version 3 or later. You can find the full license text in our source code.</source>
         <translation>Bu özgür bir yazılımdır ve GNU Genel Kamu Lisansı (GPL) sürüm 3 veya üzeri altında yayınlanmıştır. Lisansın tam metnini kaynak kodumuzda bulabilirsiniz.</translation>
     </message>
@@ -17136,12 +17136,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Köşe Yarıçapı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="162"/>
         <source>Press-Fit</source>
         <translation>Press-Fit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="164"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>Bu pedi press-fit ped olarak işaretle</translation>
     </message>
@@ -17210,12 +17210,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Köşe Yarıçapı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="161"/>
         <source>Press-Fit</source>
         <translation>Press-Fit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="163"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>Bu pedi press-fit ped olarak işaretle</translation>
     </message>
@@ -17388,87 +17388,87 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="193"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="192"/>
         <source>Empty Schematics</source>
         <translation>Boş Şematikler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="198"/>
         <source>Only components existing in the schematics can be added to a board, but the schematics of this project are currently empty. Please draw the schematics first before starting with the board design.</source>
         <translation>Karta yalnızca şematiklerde bulunan bileşenler eklenebilir, ancak bu projenin şematikleri şu anda boş. Lütfen kart tasarımına başlamadan önce şematikleri çizin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="209"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="208"/>
         <source>Learn how to create schematics</source>
         <translation>Şematiklerin nasıl oluşturulacağını öğrenin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="228"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="227"/>
         <source>Set Up Design Rules</source>
         <translation>Tasarım Kurallarını Ayarla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="234"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="233"/>
         <source>Before starting with the board design, it is highly recommended to set up the design rules to be used for this board. Just choose one of the presets below, or manually specify the rules.</source>
         <translation>Kart tasarımına başlamadan önce, bu kart için kullanılacak tasarım kurallarını ayarlamanız şiddetle önerilir. Aşağıdaki hazır ayarlardan birini seçin veya kuralları manuel olarak belirtin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="257"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="256"/>
         <source>Default rules, suitable for most PCB manufacturers</source>
         <translation>Çoğu PCB üreticisi için uygun varsayılan kurallar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="331"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="330"/>
         <source>Get Started</source>
         <translation>Kendi parçalarınızı nasıl oluşturacağınızı öğrenin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="337"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="336"/>
         <source>Start designing the board by placing all devices which are part of the schematics.</source>
         <translation>Şematiklerin parçası olan tüm aygıtları yerleştirerek kartı tasarlamaya başlayın.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="347"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="346"/>
         <source>Select an unplaced component in the list.</source>
         <translation>Listeden yerleştirilmemiş bir bileşen seçin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="353"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="352"/>
         <source>Choose the desired device (which defines the package to use).</source>
         <translation>İstediğiniz aygıtı seçin (kullanılacak paketi belirler).</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="359"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="358"/>
         <source>Choose the desired footprint variant if there are multiple.</source>
         <translation>Birden fazla varsa istediğiniz ayak izi varyantını seçin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="365"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="364"/>
         <source>Confirm with the button and place the device interactively with the cursor.</source>
         <translation>Düğmeyle onaylayın ve aygıtı imleçle etkileşimli olarak yerleştirin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="371"/>
         <source>Place Devices</source>
         <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="386"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="385"/>
         <source>Learn how to create boards</source>
         <translation>Kartların nasıl oluşturulacağını öğrenin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="644"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="639"/>
         <source>Background Image</source>
         <translation>Arka Plan Resmi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="692"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="685"/>
         <source>DRC Messages: %1</source>
         <translation>DRC Mesajları: %1</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="703"/>
+        <location filename="libs/librepcb/ui/project/board/board2dtab.slint" line="696"/>
         <source>Unplaced: %1</source>
         <translation>Yerleştirilmemiş: %1</translation>
     </message>
@@ -17476,24 +17476,24 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::Board3dTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="100"/>
-        <source>Devices</source>
-        <translation>Aygıtlar</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="113"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="109"/>
         <source>Solder Paste</source>
         <translation>Lehim Pastası</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="126"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="121"/>
         <source>Silkscreen</source>
         <translation>Serigrafi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="139"/>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="133"/>
         <source>Solder Resist</source>
         <translation>Lehim Maskesi</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/board3dtab.slint" line="97"/>
+        <source>Devices</source>
+        <translation>Aygıtlar</translation>
     </message>
 </context>
 <context>
@@ -17903,53 +17903,53 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Varyant</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="424"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="423"/>
         <source>Description</source>
         <translation>Açıklama</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="453"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="451"/>
         <source>Norm</source>
         <translation>Standart</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="524"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="522"/>
         <source>Component Preview Placement</source>
         <translation>Bileşen Önizleme Yerleşimi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="667"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="665"/>
         <source>This variant contains no gate!</source>
         <translation>Bu varyant hiç kapı içermiyor!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="671"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="669"/>
         <source>Add gates to this component by choosing the corresponding symbols.</source>
         <translation>Karşılık gelen sembolleri seçerek bu bileşene kapılar ekleyin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="672"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="670"/>
         <source>Most components consist of only one gate, but for example a 4-channel ADC could be built up with four single-channel ADC gates.</source>
         <translation>Çoğu bileşen yalnızca bir kapıdan oluşur, ancak örneğin 4 kanallı bir ADC, dört tek kanallı ADC kapısıyla oluşturulabilir.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="673"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="671"/>
         <source>Those gates are all part of the same component, but can be placed individually in the schematics.</source>
         <translation>Bu kapıların hepsi aynı bileşenin parçasıdır, ancak şematiklere ayrı ayrı yerleştirilebilir.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="683"/>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="700"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="681"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="698"/>
         <source>Add Gate</source>
         <translation>Kapı Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="709"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="707"/>
         <source>Move Up</source>
         <translation>Yukarı Taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="719"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="717"/>
         <source>Set as Default</source>
         <translation>Varsayılan Olarak Ayarla</translation>
     </message>
@@ -17957,7 +17957,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::ComponentVariantListView</name>
     <message>
-        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="776"/>
+        <location filename="libs/librepcb/ui/library/cmp/componentvariantlistview.slint" line="774"/>
         <source>Add Variant</source>
         <translation>Varyant Ekle</translation>
     </message>
@@ -18258,37 +18258,37 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Sinyalleri filtrelemek için yazın...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="375"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="374"/>
         <source>The package contains no pads, thus the pinout is empty.</source>
         <translation>Paket hiç ped içermiyor, bu nedenle pin düzeni boş.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="379"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="378"/>
         <source>Auto-Connect By Names</source>
         <translation>Adlara Göre Otomatik Bağla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="381"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="380"/>
         <source>Try to automatically connect pads to signals by their name</source>
         <translation>Pedleri adlarına göre sinyallere otomatik olarak bağlamayı dene</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="390"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="389"/>
         <source>Connect Interactively</source>
         <translation>Etkileşimli Olarak Bağla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="392"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="391"/>
         <source>Connect the remaining pads one by one in an interactive mode</source>
         <translation>Kalan pedleri etkileşimli modda tek tek bağla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="401"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="400"/>
         <source>Load From File</source>
         <translation>Dosyadan Yükle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="403"/>
+        <location filename="libs/librepcb/ui/library/dev/devicepinoutpanel.slint" line="402"/>
         <source>Import the pinout from a CSV file with these columns:</source>
         <translation>Pin düzenini şu sütunlara sahip bir CSV dosyasından içe aktar:</translation>
     </message>
@@ -19814,7 +19814,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackageEditorFootprintsPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="288"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="286"/>
         <source>Add Footprint</source>
         <translation>Ayak İzi Ekle</translation>
     </message>
@@ -19822,7 +19822,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackageEditorModelsPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="342"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="340"/>
         <source>Add 3D Model</source>
         <translation>3B Model Ekle</translation>
     </message>
@@ -19830,65 +19830,65 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackageEditorPanelListItem</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="100"/>
-        <source>Enter name &amp; press Return</source>
-        <translation>Adı girin ve Enter&apos;a basın</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="151"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="149"/>
         <source>Move Up</source>
         <translation>Yukarı Taşı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="166"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="164"/>
         <source>Rename</source>
         <translation>Yeniden Adlandır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="181"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="179"/>
         <source>Duplicate</source>
         <translation>Çoğalt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="196"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="194"/>
         <source>Load From File</source>
         <translation>Dosyadan Yükle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="211"/>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="209"/>
         <source>Remove</source>
         <translation>Kaldır</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/packageeditorlistpanels.slint" line="98"/>
+        <source>Enter name &amp; press Return</source>
+        <translation>Adı girin ve Enter&apos;a basın</translation>
     </message>
 </context>
 <context>
     <name>ui::PackageEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="771"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="770"/>
         <source>Helper Tools</source>
         <translation>Yardımcı Araçlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="871"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="867"/>
         <source>Background Image</source>
         <translation>Arka Plan Resmi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="890"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="885"/>
         <source>Devices</source>
         <translation>Aygıtlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="903"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="897"/>
         <source>Solder Paste</source>
         <translation>Lehim Pastası</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="916"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="909"/>
         <source>Silkscreen</source>
         <translation>Serigrafi</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="929"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="921"/>
         <source>Solder Resist</source>
         <translation>Lehim Maskesi</translation>
     </message>
@@ -19970,32 +19970,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1111"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1101"/>
         <source>Metadata</source>
         <translation>Meta Veri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1112"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1102"/>
         <source>Pads</source>
         <translation>Padler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1113"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1103"/>
         <source>Footprints</source>
         <translation>Ayak İzleri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1114"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1104"/>
         <source>3D Models</source>
         <translation>3B Modeller</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1190"/>
         <source>This package is used by the following devices:</source>
         <translation>Bu paket aşağıdaki aygıtlar tarafından kullanılıyor:</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1191"/>
         <source>This package is not used by any device.</source>
         <translation>Bu paket hiçbir aygıt tarafından kullanılmıyor.</translation>
     </message>
@@ -20124,57 +20124,57 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Şematiklerdeki tüm bileşenler karta eklendi. Karta daha fazla bileşen eklemek için önce bunları şematiklere ekleyin, böylece yerleştirme için burada görünürler.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="322"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="321"/>
         <source>No device or package found</source>
         <translation>Hiç aygıt veya paket bulunamadı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="337"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="336"/>
         <source>No compatible device was found for the selected component. Please install a library providing a suitable device or create a new device on your own in a local library.</source>
         <translation>Seçilen bileşen için uyumlu bir aygıt bulunamadı. Lütfen uygun bir aygıt sağlayan bir kütüphane kurun veya yerel bir kütüphanede kendiniz yeni bir aygıt oluşturun.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="346"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="345"/>
         <source>More information &amp; device creation guide</source>
         <translation>Daha fazla bilgi ve aygıt oluşturma kılavuzu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="360"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="359"/>
         <source>I installed all libraries, why I still get this error?</source>
         <translation>Tüm kütüphaneleri kurdum, neden hâlâ bu hatayı alıyorum?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="370"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="369"/>
         <source>Install or Create Libraries</source>
         <translation>Kütüphaneleri Kur veya Oluştur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="425"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="424"/>
         <source>Place Selected Device</source>
         <translation>Seçili Aygıtı Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="426"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="425"/>
         <source>Interactively place the component with the selected device &amp; footprint on the board</source>
         <translation>Bileşeni, seçili aygıt ve ayak izi ile karta etkileşimli olarak yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="437"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="436"/>
         <source>Place Similar</source>
         <translation>Benzerini Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="438"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="437"/>
         <source>Automatically add all components of the same kind to the board, using the currently selected device &amp; footprint</source>
         <translation>Şu anda seçili olan aygıt ve ayak izini kullanarak, aynı türdeki tüm bileşenleri karta otomatik olarak ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="446"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="445"/>
         <source>Place All</source>
         <translation>Tümünü Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="447"/>
+        <location filename="libs/librepcb/ui/project/placedevicespanel.slint" line="446"/>
         <source>Automatically add all components to the board, guessing their device &amp; footprint (not recommended)</source>
         <translation>Tüm bileşenleri, aygıt ve ayak izlerini tahmin ederek karta otomatik olarak ekle (önerilmez)</translation>
     </message>
@@ -20436,7 +20436,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>Mesaj yok.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="393"/>
+        <location filename="libs/librepcb/ui/rulecheckpanel.slint" line="392"/>
         <source>This message is marked as fixed. Run the checks again to verify the message is really resolved and disappears.</source>
         <translation>Bu mesaj düzeltildi olarak işaretlendi. Mesajın gerçekten çözüldüğünü ve kaybolduğunu doğrulamak için denetimleri tekrar çalıştırın.</translation>
     </message>
@@ -20452,47 +20452,47 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="155"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="154"/>
         <source>No Libraries Installed</source>
         <translation>Kurulu Kütüphane Yok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="161"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="160"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
         <translation>Bu şematiğe bileşen eklemek için önce bazı parça kütüphaneleri kurmanız veya kendi kütüphanenizde kendiniz parça oluşturmanız gerekir.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="167"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="166"/>
         <source>Install Libraries</source>
         <translation>Kütüphaneleri Kur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="181"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="180"/>
         <source>Learn how to create parts by yourself</source>
         <translation>Kendi parçalarınızı nasıl oluşturacağınızı öğrenin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="200"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="199"/>
         <source>Get Started</source>
         <translation>Başlayın</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="206"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="205"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
         <translation>Yeni bir şematiğe başlarken önce bir çizim çerçevesi eklemeniz önerilir. Ardından diğer bileşenleri soldaki araç çubuğuyla her zamanki gibi ekleyin.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="212"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="211"/>
         <source>Add Drawing Frame</source>
         <translation>Çizim Çerçevesi Ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="226"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="225"/>
         <source>Learn how to create schematics</source>
         <translation>Şematiklerin nasıl oluşturulacağını öğrenin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="501"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="500"/>
         <source>Pin Numbers</source>
         <translation>Pin Numaraları</translation>
     </message>
@@ -20500,32 +20500,32 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SideBar</name>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="177"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="175"/>
         <source>Home</source>
         <translation>Ana Sayfa</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="187"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="185"/>
         <source>Open Documents</source>
         <translation>Açık Belgeler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="202"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="200"/>
         <source>Layers</source>
         <translation>Katmanlar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="220"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="218"/>
         <source>Place Devices</source>
         <translation>Aygıt Yerleştir</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="355"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="353"/>
         <source>Libraries</source>
         <translation>Kütüphaneler</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/sidebar.slint" line="409"/>
+        <location filename="libs/librepcb/ui/sidebar.slint" line="406"/>
         <source>Help / About</source>
         <translation>Yardım / Hakkında</translation>
     </message>
@@ -20561,17 +20561,17 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::StatusBar</name>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="291"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
         <source>Grid Interval</source>
         <translation>Izgara Aralığı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="291"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="289"/>
         <source>scroll up/down on hover</source>
         <translation>üzerine gelip yukarı/aşağı kaydırın</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/statusbar.slint" line="327"/>
+        <location filename="libs/librepcb/ui/statusbar.slint" line="325"/>
         <source>Grid Style</source>
         <translation>Izgara Stili</translation>
     </message>
@@ -20579,22 +20579,22 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="373"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
         <source>Import Pins From Datasheet</source>
         <translation>Pinleri Datasheet&apos;ten İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="379"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Yeni bir sembol çizmeye tüm pinleri ekleyerek başlamanız önerilir. Özellikle büyük semboller için bunu yapmanın en hızlı yolu, parçanın datasheet&apos;inden veya başka bir belgesinden içe aktarmaktır.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="385"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
         <source>Import Pins</source>
         <translation>Pinleri İçe Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="399"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
         <source>Learn how to create symbols</source>
         <translation>Sembollerin nasıl oluşturulacağını öğrenin</translation>
     </message>
@@ -20602,12 +20602,12 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
         <source>Metadata</source>
         <translation>Meta Veri</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="703"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
         <source>Graphics</source>
         <translation>Grafikler</translation>
     </message>
