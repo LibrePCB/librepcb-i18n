@@ -15819,52 +15819,52 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
         <translation>Klistra in schematiska element</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1409"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
         <source>Name</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1411"/>
         <source>Value</source>
         <translation>Värde</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1411"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1412"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1422"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1423"/>
         <source>Net</source>
         <translation>Netto</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1425"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1426"/>
         <source>Class</source>
         <translation>Klass</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1429"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1430"/>
         <source>Bus</source>
         <translation>Buss</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1436"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1437"/>
         <source>Signal</source>
         <translation>Signal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1437"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1438"/>
         <source>Pin</source>
         <translation>Pin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1438"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1439"/>
         <source>Pad(s)</source>
         <translation>Pad(ar)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1440"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1441"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
         <translation>Trådnät &apos;%1&apos; matchar inte tvångsnät &apos;%2&apos;!</translation>
     </message>
@@ -15872,17 +15872,17 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1258"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1259"/>
         <source>Preparing schematics...</source>
         <translation>Förbereder scheman...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1258"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1259"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1287"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1288"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -16368,26 +16368,26 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1581"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1620"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1678"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1582"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1621"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1679"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="725"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
         <source>Save Changes?</source>
         <translation>Spara ändringar?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="727"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Symbolen &apos;%1&apos; innehåller osparade ändringar.
 Vill du spara dem innan du stänger den?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1562"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1563"/>
         <source>Edit Symbol Properties</source>
         <translation>Redigera symbolegenskaper</translation>
     </message>

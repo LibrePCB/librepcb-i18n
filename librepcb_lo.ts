@@ -15786,52 +15786,52 @@ Afterwards the project library can be updated.</source>
         <translation>ວາງອົງປະກອບຜັງວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1409"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
         <source>Name</source>
         <translation>ຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1411"/>
         <source>Value</source>
         <translation>ຄ່າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1411"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1412"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1422"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1423"/>
         <source>Net</source>
         <translation>ເນັດ (Net)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1425"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1426"/>
         <source>Class</source>
         <translation>ຊັ້ນ (Class)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1429"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1430"/>
         <source>Bus</source>
         <translation>ບັດ (Bus)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1436"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1437"/>
         <source>Signal</source>
         <translation>ສັນຍານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1437"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1438"/>
         <source>Pin</source>
         <translation>ຂາ (Pin)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1438"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1439"/>
         <source>Pad(s)</source>
         <translation>ແຜ່ນຮອງ (Pad)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1440"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1441"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
         <translation>ເນັດຂອງສາຍ &apos;%1&apos; ບໍ່ກົງກັບເນັດທີ່ບັງຄັບໄວ້ &apos;%2&apos;!</translation>
     </message>
@@ -15839,17 +15839,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1258"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1259"/>
         <source>Preparing schematics...</source>
         <translation>ກໍາລັງກຽມຜັງວົງຈອນ...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1258"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1259"/>
         <source>Cancel</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1287"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1288"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -16335,26 +16335,26 @@ Afterwards the project library can be updated.</source>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
         <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1581"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1620"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1678"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1582"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1621"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1679"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="725"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="727"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ສັນຍະລັກ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ.
 ທ່ານຕ້ອງການບັນທຶກກ່ອນປິດບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1562"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1563"/>
         <source>Edit Symbol Properties</source>
         <translation>ແກ້ໄຂຄຸນສົມບັດສັນຍະລັກ</translation>
     </message>
