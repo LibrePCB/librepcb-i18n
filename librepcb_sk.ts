@@ -9206,7 +9206,7 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::CategoryTreeModel</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/categorytreemodel.cpp" line="86"/>
+        <location filename="libs/librepcb/editor/workspace/categorytreemodel.cpp" line="123"/>
         <source>Root Category</source>
         <translation>Koreňová kategória</translation>
     </message>
@@ -10708,20 +10708,20 @@ Ste si istý, že puzdro a jeho zapojenie vývodov sú kompatibilné so súčias
 <context>
     <name>librepcb::editor::ComponentCategoryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="206"/>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="215"/>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="380"/>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="412"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="208"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="217"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="382"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="414"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="240"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="242"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="241"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="243"/>
         <source>The component category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Kategória komponentu &apos;%1&apos;  obsahuje neuložené zmeny.
@@ -10821,32 +10821,32 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::ComponentTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="337"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="346"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="715"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="754"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="340"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="349"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="718"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="757"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="411"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="414"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="412"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="415"/>
         <source>The component '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Komponent &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="520"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="523"/>
         <source>Determine default value</source>
         <translation>Zadať predvolenú hodnotu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="522"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="525"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>Jedná sa o (výrobcovo-)špecifický komponent a nie o všeobecný?</translation>
     </message>
@@ -11114,34 +11114,34 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="494"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="503"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="972"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1007"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1044"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1085"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="506"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="975"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1010"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1047"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1088"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="648"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="651"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="649"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="652"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Súčiastka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1029"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1032"/>
         <source>Change Component</source>
         <translation>Zameniť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1066"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1069"/>
         <source>Change Package</source>
         <translation>Zameniť puzdro</translation>
     </message>
@@ -14406,20 +14406,20 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageCategoryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="206"/>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="215"/>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="380"/>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="412"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="208"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="217"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="382"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="414"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="240"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="242"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="241"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="243"/>
         <source>The package category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Kategória puzdra &apos;%1&apos;  obsahuje neuložené zmeny.
@@ -14796,50 +14796,50 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="728"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="737"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="746"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="841"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2635"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2673"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2740"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="731"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="740"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="749"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="844"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2638"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2676"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2743"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1154"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1157"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1155"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1158"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1786"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1789"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2217"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2220"/>
         <source>New Line Width</source>
         <translation>Nová šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2440"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2443"/>
         <source>Apply to all unspecified pads</source>
         <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2462"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2465"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2817"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2820"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte puzdro.</translation>
     </message>
@@ -16362,29 +16362,29 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="464"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="473"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="482"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1578"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1617"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1675"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1581"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1620"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1678"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="722"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="725"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="723"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Schematická značka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1559"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1562"/>
         <source>Edit Symbol Properties</source>
         <translation>Upraviť vlastnosti sch. značky</translation>
     </message>
@@ -19804,17 +19804,17 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::OverlayDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="75"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="76"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="75"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="76"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="85"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="86"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -20016,12 +20016,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
         <translation>3D modely</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1190"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
         <source>This package is used by the following devices:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1191"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
         <source>This package is not used by any device.</source>
         <translation type="unfinished"/>
     </message>
@@ -20605,22 +20605,22 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="382"/>
         <source>Import Pins From Datasheet</source>
         <translation>Importovanie definície vývodov z technického listu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="388"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>Odporúča sa začať kreslenie nového symbolu pridaním všetkých vývodov. Najmä v prípade väčších symbolov je najrýchlejším spôsobom ich import z technického listu alebo akejkoľvek inej dokumentácie k súčiastke.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="394"/>
         <source>Import Pins</source>
         <translation>Importovať vývody</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="408"/>
         <source>Learn how to create symbols</source>
         <translation>Naučte sa, ako vytvárať schematické značky.</translation>
     </message>
@@ -20628,12 +20628,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="711"/>
         <source>Metadata</source>
         <translation>Metadáta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="712"/>
         <source>Graphics</source>
         <translation>Grafické objekty</translation>
     </message>
@@ -20667,12 +20667,12 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="179"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="210"/>
         <source>Pin</source>
         <translation>Vývod</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="179"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="210"/>
         <source>Unpin</source>
         <translation>Odopnúť</translation>
     </message>
@@ -20680,8 +20680,18 @@ Upozornenie: Táto zmena bude vykonaná okamžite a nemožno ju vrátiť späť!
 <context>
     <name>ui::TreeViewDialog</name>
     <message>
+        <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="42"/>
+        <source>Type to filter...</source>
+        <translation>Písaním filtrujete....</translation>
+    </message>
+    <message>
         <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="7"/>
         <source>No entries.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="8"/>
+        <source>No entries matching the filter.</source>
         <translation type="unfinished"/>
     </message>
 </context>

@@ -9181,7 +9181,7 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::CategoryTreeModel</name>
     <message>
-        <location filename="libs/librepcb/editor/workspace/categorytreemodel.cpp" line="86"/>
+        <location filename="libs/librepcb/editor/workspace/categorytreemodel.cpp" line="123"/>
         <source>Root Category</source>
         <translation>ໝວດໝູ່ຫຼັກ</translation>
     </message>
@@ -10683,20 +10683,20 @@ Are you sure the footprint and pinout of the selected part are compatible with t
 <context>
     <name>librepcb::editor::ComponentCategoryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="206"/>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="215"/>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="380"/>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="412"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="208"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="217"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="382"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="414"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="240"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="242"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="241"/>
+        <location filename="libs/librepcb/editor/library/cat/componentcategorytab.cpp" line="243"/>
         <source>The component category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ໝວດໝູ່ສ່ວນປະກອບ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ.
@@ -10796,32 +10796,32 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::ComponentTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="337"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="346"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="715"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="754"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="340"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="349"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="718"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="757"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="411"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="414"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="412"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="415"/>
         <source>The component '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ສ່ວນປະກອບ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ.
 ເຈົ້າຕ້ອງການບັນທຶກກ່ອນປິດບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="520"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="523"/>
         <source>Determine default value</source>
         <translation>ກຳນົດຄ່າເລີ່ມຕົ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="522"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="525"/>
         <source>Is this rather a (manufacturer-)specific component than a generic component?</source>
         <translation>ສ່ວນປະກອບນີ້ແມ່ນແບບສະເພາະ (ຈາກຜູ້ຜະລິດ) ຫຼາຍກວ່າແບບທົ່ວໄປແມ່ນບໍ່?</translation>
     </message>
@@ -11089,34 +11089,34 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::DeviceTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="494"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="503"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="972"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1007"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1044"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1085"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="506"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="975"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1010"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1047"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1088"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="648"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="651"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="649"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="652"/>
         <source>The device '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ອຸປະກອນ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ.
 ເຈົ້າຕ້ອງການບັນທຶກກ່ອນປິດບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1029"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1032"/>
         <source>Change Component</source>
         <translation>ປ່ຽນສ່ວນປະກອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1066"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1069"/>
         <source>Change Package</source>
         <translation>ປ່ຽນແພັກເກດ</translation>
     </message>
@@ -14381,20 +14381,20 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageCategoryTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="206"/>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="215"/>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="380"/>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="412"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="208"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="217"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="382"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="414"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="240"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="242"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="241"/>
+        <location filename="libs/librepcb/editor/library/cat/packagecategorytab.cpp" line="243"/>
         <source>The package category '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ໝວດໝູ່ແພັກເກດ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ. ເຈົ້າຕ້ອງການບັນທຶກພວກມັນກ່ອນທີ່ຈະປປິດບໍ?</translation>
@@ -14770,49 +14770,49 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="728"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="737"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="746"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="841"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2635"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2673"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2740"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="731"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="740"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="749"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="844"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2638"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2676"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2743"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1154"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1157"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1155"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1158"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ແພັກເກດ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ. ເຈົ້າຕ້ອງການບັນທຶກພວກມັນກ່ອນທີ່ຈະປິດບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1786"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1789"/>
         <source>(unconnected)</source>
         <translation>(ບໍ່ໄດ້ເຊື່ອມຕໍ່)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2217"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2220"/>
         <source>New Line Width</source>
         <translation>ຄວາມກວ້າງເສັ້ນໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2440"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2443"/>
         <source>Apply to all unspecified pads</source>
         <translation>ນໍາໃຊ້ກັບແຜ່ນຮອງ (pad) ທັງໝົດທີ່ບໍ່ໄດ້ລະບຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2462"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2465"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>ແກ້ໄຂຟັງຊັນແຜ່ນຮອງ (pad) ທີ່ບໍ່ໄດ້ລະບຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2817"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2820"/>
         <source>Please select a footprint.</source>
         <translation>ກະລຸນາເລືອກ footprint.</translation>
     </message>
@@ -16332,29 +16332,29 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="464"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="473"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="482"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1578"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1617"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1675"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1581"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1620"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1678"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="722"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="725"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="723"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ສັນຍະລັກ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ.
 ທ່ານຕ້ອງການບັນທຶກກ່ອນປິດບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1559"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1562"/>
         <source>Edit Symbol Properties</source>
         <translation>ແກ້ໄຂຄຸນສົມບັດສັນຍະລັກ</translation>
     </message>
@@ -19774,17 +19774,17 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::OverlayDialog</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="75"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="76"/>
         <source>Cancel</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="75"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="76"/>
         <source>Close</source>
         <translation>ປິດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="85"/>
+        <location filename="libs/librepcb/ui/widgets/overlaydialog.slint" line="86"/>
         <source>OK</source>
         <translation>ຕົກລົງ</translation>
     </message>
@@ -19986,12 +19986,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ແບບຈຳລອງ 3D</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1190"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
         <source>This package is used by the following devices:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1191"/>
+        <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
         <source>This package is not used by any device.</source>
         <translation type="unfinished"/>
     </message>
@@ -20575,22 +20575,22 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolEditorTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="372"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="382"/>
         <source>Import Pins From Datasheet</source>
         <translation>ນຳເຂົ້າຂາຈາກເອກະສານຂໍ້ມູນ (Datasheet)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="378"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="388"/>
         <source>It is recommended to start drawing a new symbol by adding all pins. Especially for larger symbols, the fastest way to do so is to import them from a datasheet or any other documentation of the part.</source>
         <translation>ແນະນຳໃຫ້ເລີ່ມແຕ້ມສັນຍະລັກໃໝ່ດ້ວຍການເພີ່ມຂາທັງໝົດ. ໂດຍສະເພາະສຳລັບສັນຍະລັກຂະໜາດໃຫຍ່, ວິທີທີ່ໄວທີ່ສຸດແມ່ນການນຳເຂົ້າຈາກເອກະສານຂໍ້ມູນ ຫຼື ເອກະສານອື່ນໆຂອງອຸປະກອນນັ້ນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="384"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="394"/>
         <source>Import Pins</source>
         <translation>ນຳເຂົ້າຂາ (Pins)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="398"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="408"/>
         <source>Learn how to create symbols</source>
         <translation>ຮຽນຮູ່ວິທີສ້າງສັນຍະລັກ</translation>
     </message>
@@ -20598,12 +20598,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="701"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="711"/>
         <source>Metadata</source>
         <translation>ຂໍ້ມູນເມຕາ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/sym/symboltab.slint" line="712"/>
         <source>Graphics</source>
         <translation>ຮູບພາບ/ກຣາຟິກ</translation>
     </message>
@@ -20637,12 +20637,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::TreeView</name>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="179"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="210"/>
         <source>Pin</source>
         <translation>ປັກໝຸດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="179"/>
+        <location filename="libs/librepcb/ui/widgets/treeview.slint" line="210"/>
         <source>Unpin</source>
         <translation>ຖອນໝຸດ</translation>
     </message>
@@ -20650,8 +20650,18 @@ Attention: This will be applied immediately and cannot be undone!</source>
 <context>
     <name>ui::TreeViewDialog</name>
     <message>
+        <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="42"/>
+        <source>Type to filter...</source>
+        <translation>ພິມເພື່ອຄັດກອງ...</translation>
+    </message>
+    <message>
         <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="7"/>
         <source>No entries.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="8"/>
+        <source>No entries matching the filter.</source>
         <translation type="unfinished"/>
     </message>
 </context>
