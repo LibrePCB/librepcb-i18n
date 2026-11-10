@@ -15757,81 +15757,81 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="252"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="405"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="559"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="602"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="611"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="620"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="901"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="922"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="943"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="963"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="979"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="997"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1024"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="254"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="407"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="561"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="604"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="613"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="622"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="920"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="941"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="962"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="982"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="998"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1016"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1043"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1058"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1062"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1077"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1056"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1075"/>
         <source>Copied to clipboard!</source>
         <translation>ຄັດລອກໄປທີ່ຄລິບບອດແລ້ວ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1073"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1092"/>
         <source>Paste Schematic Elements</source>
         <translation>ວາງອົງປະກອບຜັງວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1429"/>
         <source>Name</source>
         <translation>ຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1411"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1430"/>
         <source>Value</source>
         <translation>ຄ່າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1412"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1431"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1423"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1442"/>
         <source>Net</source>
         <translation>ເນັດ (Net)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1426"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1445"/>
         <source>Class</source>
         <translation>ຊັ້ນ (Class)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1430"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1449"/>
         <source>Bus</source>
         <translation>ບັດ (Bus)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1437"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1456"/>
         <source>Signal</source>
         <translation>ສັນຍານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1438"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1457"/>
         <source>Pin</source>
         <translation>ຂາ (Pin)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1439"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1458"/>
         <source>Pad(s)</source>
         <translation>ແຜ່ນຮອງ (Pad)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1441"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1460"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
         <translation>ເນັດຂອງສາຍ &apos;%1&apos; ບໍ່ກົງກັບເນັດທີ່ບັງຄັບໄວ້ &apos;%2&apos;!</translation>
     </message>
@@ -19425,7 +19425,7 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>ອ່ານໄດ້ຢ່າງດຽວ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1938"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1948"/>
         <source>Quick Find</source>
         <translation>ຄົ້ນຫາແບບດ່ວນ</translation>
     </message>

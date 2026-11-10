@@ -15770,81 +15770,81 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_Select</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="252"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="405"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="559"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="602"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="611"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="620"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="901"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="922"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="943"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="963"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="979"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="997"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1024"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="254"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="407"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="561"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="604"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="613"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="622"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="920"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="941"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="962"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="982"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="998"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1016"/>
         <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1043"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1058"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1062"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1077"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1056"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1075"/>
         <source>Copied to clipboard!</source>
         <translation>Panoya kopyalandı!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1073"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1092"/>
         <source>Paste Schematic Elements</source>
         <translation> Şematik Öğelerini Yapıştır</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1410"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1429"/>
         <source>Name</source>
         <translation>Ad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1411"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1430"/>
         <source>Value</source>
         <translation>Değer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1412"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1431"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1423"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1442"/>
         <source>Net</source>
         <translation>Ağ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1426"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1445"/>
         <source>Class</source>
         <translation>Sınıf</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1430"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1449"/>
         <source>Bus</source>
         <translation>Veri Yolu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1437"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1456"/>
         <source>Signal</source>
         <translation>Sinyal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1438"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1457"/>
         <source>Pin</source>
         <translation>Pin</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1439"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1458"/>
         <source>Pad(s)</source>
         <translation>Ped(ler)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1441"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_select.cpp" line="1460"/>
         <source>Wire net &apos;%1&apos; does not match forced net &apos;%2&apos;!</source>
         <translation>&apos;%1&apos; tel ağı, zorlanmış &apos;%2&apos; ağıyla eşleşmiyor!</translation>
     </message>
@@ -19437,7 +19437,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
         <translation>salt okunur</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1938"/>
+        <location filename="libs/librepcb/ui/mainmenubar.slint" line="1948"/>
         <source>Quick Find</source>
         <translation>Hızlı Bul</translation>
     </message>
