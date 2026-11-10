@@ -3015,7 +3015,7 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="804"/>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1857"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
         <source>Lock Placement</source>
         <translation>Låsplacering</translation>
     </message>
@@ -3752,471 +3752,481 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
+        <source>Auto-Orientation</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
+        <source>Automatically align labels with the wire they are attached to</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
         <source>Round</source>
         <translation>Runt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1498"/>
         <source>Shape: Round</source>
         <translation>Form: Rund</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1496"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1506"/>
         <source>Rounded Rectangle</source>
         <translation>Rundad rektangel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1507"/>
         <source>Shape: Rounded Rectangle</source>
         <translation>Form: Rundad rektangel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1505"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1515"/>
         <source>Rectangle</source>
         <translation>Rektangel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1506"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1516"/>
         <source>Shape: Rectangle</source>
         <translation>Form: rektangel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1514"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1524"/>
         <source>Octagon</source>
         <translation>Oktagon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1515"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1525"/>
         <source>Shape: Octagon</source>
         <translation>Form: Octagon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1523"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1533"/>
         <source>Components</source>
         <translation>Komponenter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1526"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
         <source>Resistor</source>
         <translation>Motstånd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1527"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1537"/>
         <source>Add standard component: Resistor</source>
         <translation>Lägg till standardkomponent: Motstånd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1535"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
         <source>Inductor</source>
         <translation>Induktor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1536"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1546"/>
         <source>Add standard component: Inductor</source>
         <translation>Lägg till standardkomponent: Induktor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1544"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
         <source>Bipolar Capacitor</source>
         <translation>Bipolär kondensator</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1545"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1555"/>
         <source>Add standard component: Bipolar capacitor</source>
         <translation>Lägg till standardkomponent: Bipolär kondensator</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1553"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1563"/>
         <source>Unipolar Capacitor</source>
         <translation>Unipolär kondensator</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1554"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1564"/>
         <source>Add standard component: Unipolar capacitor</source>
         <translation>Lägg till standardkomponent: Unipolär kondensator</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1562"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1572"/>
         <source>GND Supply</source>
         <translation>GND Supply</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1563"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1573"/>
         <source>Add standard component: GND supply</source>
         <translation>Lägg till standardkomponent: GND-försörjning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1571"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1581"/>
         <source>VCC Supply</source>
         <translation>VCC-försörjning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1572"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1582"/>
         <source>Add standard component: VCC supply</source>
         <translation>Lägg till standardkomponent: VCC-försörjning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1579"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1589"/>
         <source>Docks</source>
         <translation>Docks</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1592"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
         <source>Electrical Rule Check (ERC)</source>
         <translation>Elektrisk regelkontroll (ERC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1593"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1603"/>
         <source>Go to the ERC messages dock</source>
         <translation>Gå till ERC-meddelandedockan</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1601"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1611"/>
         <source>Design Rule Check (DRC)</source>
         <translation>Design Rule Check (DRC)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1602"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1612"/>
         <source>Go to the DRC messages dock</source>
         <translation>Gå till DRC:s meddelandedocka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1610"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1620"/>
         <source>Layers</source>
         <translation>Lager</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1611"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1621"/>
         <source>Go to the layers dock</source>
         <translation>Gå till lagerdockan</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1619"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1629"/>
         <source>Place Devices</source>
         <translation>Placera enheter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1620"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1630"/>
         <source>Go to the dock for placing devices</source>
         <translation>Gå till dockan för att placera enheter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1628"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1638"/>
         <source>Window Management</source>
         <translation>Fönsterhantering</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1632"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
         <source>Next Tab/Page</source>
         <translation>Nästa flik/sida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1633"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1643"/>
         <source>Navigate to the next tab or page</source>
         <translation>Navigera till nästa flik eller sida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1641"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
         <source>Previous Tab/Page</source>
         <translation>Föregående flik/sida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1642"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1652"/>
         <source>Navigate to the previous tab or page</source>
         <translation>Navigera till föregående flik eller sida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1650"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
         <source>Close Tab</source>
         <translation>Stäng flik</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1651"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1661"/>
         <source>Close the currently opened tab</source>
         <translation>Stäng den för närvarande öppnade fliken</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1659"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
         <source>Close All Tabs</source>
         <translation>Stäng alla flikar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1660"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1670"/>
         <source>Close all currently opened tabs</source>
         <translation>Stäng alla flikar som för närvarande är öppna</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1668"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
         <source>New Window</source>
         <translation>Nytt fönster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1669"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1679"/>
         <source>Open a new window</source>
         <translation>Öppna ett nytt fönster</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1677"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
         <source>Close Window</source>
         <translation>Stäng fönstret</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1678"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1688"/>
         <source>Close this window</source>
         <translation>Stäng det här fönstret</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1686"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1696"/>
         <source>Close Project</source>
         <translation>Stäng projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1687"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1697"/>
         <source>Close the currently opened project</source>
         <translation>Stäng det för närvarande öppnade projektet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1696"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1706"/>
         <source>Close All Projects</source>
         <translation>Stäng alla projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1697"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1707"/>
         <source>Close all currently opened projects</source>
         <translation>Stäng alla för närvarande öppnade projekt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1705"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1715"/>
         <source>Quit</source>
         <translation>Avsluta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1706"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1716"/>
         <source>Close the whole application</source>
         <translation>Stäng hela applikationen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1713"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1723"/>
         <source>Help</source>
         <translation>Hjälp</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1717"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
         <source>About LibrePCB</source>
         <translation>Om LibrePCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1718"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1728"/>
         <source>Show information about the application</source>
         <translation>Visa information om applikationen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1726"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
         <source>About Qt</source>
         <translation>Om Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1727"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1737"/>
         <source>Show information about Qt</source>
         <translation>Visa information om Qt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1735"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
         <source>LibrePCB Website</source>
         <translation>LibrePCB webbplats</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1736"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1746"/>
         <source>Open the LibrePCB website in the web browser</source>
         <translation>Öppna LibrePCB-webbplatsen i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1744"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
         <source>User Manual &amp;&amp; Tutorials</source>
         <translation>Användarmanual &amp;&amp; Handledningar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1745"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1755"/>
         <source>Open the online user manual in the web browser</source>
         <translation>Öppna användarhandboken online i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1753"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1763"/>
         <source>Give Feedback &amp;&amp; Get Support</source>
         <translation>Ge feedback &amp;&amp; få support</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1754"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1764"/>
         <source>Open the support page in the web browser</source>
         <translation>Öppna supportsidan i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1762"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1772"/>
         <source>Support the LibrePCB Project</source>
         <translation>Stöd LibrePCB-projektet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1763"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1773"/>
         <source>Open the donation page in the web browser</source>
         <translation>Öppna donationssidan i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1771"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1781"/>
         <source>Keyboard Shortcuts Reference</source>
         <translation>Referens för kortkommandon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1772"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1782"/>
         <source>Open a quick reference about the keyboard shortcuts</source>
         <translation>Öppna en snabbreferens om kortkommandon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1780"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1790"/>
         <source>Context Menu</source>
         <translation>Snabbmeny</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1783"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1793"/>
         <source>New Folder</source>
         <translation>Ny mapp</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1784"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1794"/>
         <source>Create a new folder</source>
         <translation>Skapa en ny mapp</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1793"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1803"/>
         <source>Add To Favorites</source>
         <translation>Lägg till i favoriter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1794"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
         <source>Add project to favorites</source>
         <translation>Lägg till projekt till favoriter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1803"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
         <source>Remove From Favorites</source>
         <translation>Ta bort från favoriter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1804"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1814"/>
         <source>Remove project from favorites</source>
         <translation>Ta bort projekt från favoriter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1812"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
         <source>Add Vertex</source>
         <translation>Lägg till Vertex</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1813"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1823"/>
         <source>Insert a new vertex into the selected polygon edge</source>
         <translation>Infoga en ny vertex i den valda polygonkanten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1821"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
         <source>Remove Vertex</source>
         <translation>Ta bort Vertex</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1822"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1832"/>
         <source>Remove the selected vertex from the polygon</source>
         <translation>Ta bort det valda hörnet från polygonen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1830"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
         <source>Select Whole Trace</source>
         <translation>Välj Hela spårning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1831"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1841"/>
         <source>Select the whole trace</source>
         <translation>Välj hela spåret</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1839"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
         <source>Measure Selected Segments Length</source>
         <translation>Mät längd på valda segment</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1840"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1850"/>
         <source>Measure the total length of all selected trace segments</source>
         <translation>Mät den totala längden av alla valda spårsegment</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1848"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
         <source>Remove Whole Trace</source>
         <translation>Ta bort hela spåret</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1849"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1859"/>
         <source>Remove the whole trace</source>
         <translation>Ta bort hela spåret</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1858"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1868"/>
         <source>Toggle placement lock</source>
         <translation>Växla placeringslås</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1866"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
         <source>Visible</source>
         <translation>Synlig</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1867"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1877"/>
         <source>Toggle visibility</source>
         <translation>Växla synlighet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1875"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
         <source>Copy MPN to Clipboard</source>
         <translation>Kopiera MPN till Urklipp</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1876"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
         <source>Copy this MPN into the clipboard</source>
         <translation>Kopiera detta MPN till urklippet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1884"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
         <source>Place Remaining Gates</source>
         <translation>Placera kvarvarande portar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
         <source>Add more of the components gates to the schematic</source>
         <translation>Lägg till fler av komponenternas grindar till schemat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1893"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1903"/>
         <source>Open Product Website</source>
         <translation>Öppna produktwebbplatsen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1904"/>
         <source>Open product details about this part in the web browser</source>
         <translation>Öppna produktinformation om denna del i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1902"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1912"/>
         <source>Open Pricing Website</source>
         <translation>Öppna prissättningswebbplatsen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1903"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1913"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation>Öppna prisinformation om denna del i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1912"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1922"/>
         <source>Generate Content</source>
         <translation>Generera innehåll</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1913"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1923"/>
         <source>Various helper tools to generate or modify objects</source>
         <translation>Olika hjälpverktyg för att generera eller modifiera objekt</translation>
     </message>
@@ -6079,27 +6089,27 @@ Det verkar som om denna regel inte följs i denna symbol. Men för oregelbundna 
 <context>
     <name>SlintHelpers</name>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="488"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="492"/>
         <source>Required</source>
         <translation>Obligatoriskt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="494"/>
         <source>Invalid</source>
         <translation>Ogiltig</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="495"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="499"/>
         <source>Duplicate</source>
         <translation>Duplicera</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="499"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="503"/>
         <source>Recommended</source>
         <translation>Rekommenderas</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="531"/>
+        <location filename="libs/librepcb/editor/utils/slinthelpers.cpp" line="535"/>
         <source>Suffix &apos;%1&apos; missing</source>
         <translation>Suffixet &apos;%1&apos; saknas</translation>
     </message>
@@ -15685,19 +15695,19 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_AddLabel</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="181"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="255"/>
         <source>Add Bus Label to Schematic</source>
         <translation>Lägg till bussetikett till Schematic</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="195"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="269"/>
         <source>Add Net Label to Schematic</source>
         <translation>Lägg till Net Label till Schematic</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="220"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="259"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="280"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="292"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="332"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="444"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -15872,17 +15882,17 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1259"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
         <source>Preparing schematics...</source>
         <translation>Förbereder scheman...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1259"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1288"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1363"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -17224,6 +17234,14 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
         <location filename="libs/librepcb/ui/project/board/addholetoolbar.slint" line="17"/>
         <source>Via Drill Diameter</source>
         <translation>Via borrdiameter</translation>
+    </message>
+</context>
+<context>
+    <name>ui::AddLabelToolBar</name>
+    <message>
+        <location filename="libs/librepcb/ui/project/schematic/addlabeltoolbar.slint" line="29"/>
+        <source>Mirror</source>
+        <translation>Spegel</translation>
     </message>
 </context>
 <context>
@@ -20481,47 +20499,47 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="154"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="160"/>
         <source>No Libraries Installed</source>
         <translation>Inga bibliotek installerade</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="160"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="166"/>
         <source>In order to add components to this schematic, you first need to install some part libraries or create parts by yourself in your own library.</source>
         <translation>För att lägga till komponenter till detta schema måste du först installera några delbibliotek eller skapa delar själv i ditt eget bibliotek.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="166"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="172"/>
         <source>Install Libraries</source>
         <translation>Installera bibliotek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="180"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="186"/>
         <source>Learn how to create parts by yourself</source>
         <translation>Lär dig hur du skapar delar själv</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="199"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="205"/>
         <source>Get Started</source>
         <translation>Kom igång</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="205"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="211"/>
         <source>It&apos;s recommended to start a new schematic with adding a drawing frame to it. Then add other components the usual way with the toolbar at the left.</source>
         <translation>Det rekommenderas att starta ett nytt schema med att lägga till en ritram till den. Lägg sedan till andra komponenter på vanligt sätt med verktygsfältet till vänster.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="211"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="217"/>
         <source>Add Drawing Frame</source>
         <translation>Lägg till ritram</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="225"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="231"/>
         <source>Learn how to create schematics</source>
         <translation>Lär dig hur du skapar scheman</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="500"/>
+        <location filename="libs/librepcb/ui/project/schematic/schematictab.slint" line="506"/>
         <source>Pin Numbers</source>
         <translation>Pinnummer</translation>
     </message>
