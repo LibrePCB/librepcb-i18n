@@ -11595,7 +11595,7 @@ Gerçekten kapatmak istiyor musunuz?</translation>
     <message>
         <location filename="libs/librepcb/editor/editorcommand.cpp" line="131"/>
         <source>Double-click</source>
-        <translation type="unfinished"/>
+        <translation>Çift tıklama</translation>
     </message>
 </context>
 <context>
@@ -20674,7 +20674,7 @@ Dikkat: Bu hemen uygulanacak ve geri alınamaz!</translation>
     <message>
         <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="8"/>
         <source>No entries matching the filter.</source>
-        <translation type="unfinished"/>
+        <translation>Filtreyle eşleşen girdi yok.</translation>
     </message>
 </context>
 <context>
