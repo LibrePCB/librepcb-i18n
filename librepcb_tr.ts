@@ -7704,72 +7704,72 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1457"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1465"/>
         <source>Auto</source>
         <translation>Otomatik</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1459"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1497"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1799"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1505"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1807"/>
         <source>None</source>
         <translation>Yok</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2461"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2469"/>
         <source>Add devices to board</source>
         <translation>Karta aygıt ekle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2489"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2541"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2572"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2626"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2497"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2549"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2580"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2634"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2507"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
         <source>Preparing board...</source>
         <translation>Kart hazırlanıyor...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2507"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2568"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>IPC D-356A Netlist Dışa Aktar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2624"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2632"/>
         <source>Success!</source>
         <translation>Başarılı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2633"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Bu yeni bir özellik ve yalnızca çok az sayıda harici yönlendiriciyle test edebildik. Yönlendiricinizle herhangi bir uyumluluk sorunu yaşarsanız, lütfen bize bildirin!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2671"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2679"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Specctra oturumu &apos;%1&apos; ayrıştırılıyor...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2680"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2688"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>İçe aktarma başarısız oldu, kartta hiçbir değişiklik yapılmadı.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2685"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2693"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES İçe Aktarma</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2695"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2703"/>
         <source>Close</source>
         <translation>Kapat</translation>
     </message>
@@ -8127,89 +8127,89 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
         <translation>Seçili iz segmentleri dallanamaz!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2397"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2396"/>
         <source>Net</source>
         <translation>Ağ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2400"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2399"/>
         <source>Class</source>
         <translation>Sınıf</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2415"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2414"/>
         <source>Name</source>
         <translation>Ad</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2416"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2415"/>
         <source>Value</source>
         <translation>Değer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2417"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2416"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2425"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2424"/>
         <source>Package</source>
         <translation>Paket</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2429"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2428"/>
         <source>Pad</source>
         <translation>Ped</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2432"/>
         <source>Signal</source>
         <translation>Sinyal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2488"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2437"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2487"/>
         <source>Size</source>
         <translation>Boyut</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2451"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2450"/>
         <source>Slot</source>
         <translation>Yuva</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2457"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2456"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2482"/>
         <source>Drill</source>
         <translation>Delik Çapı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2468"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2467"/>
         <source>Layer</source>
         <translation>Katman</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2473"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2472"/>
         <source>Height</source>
         <translation>Yükseklik</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2478"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2477"/>
         <source>Width</source>
         <translation>Genişlik</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2495"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2494"/>
         <source>Start Layer</source>
         <translation>Başlangıç Katmanı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2496"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2495"/>
         <source>End Layer</source>
         <translation>Bitiş Katmanı</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2501"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2500"/>
         <source>Position</source>
         <translation>Konum</translation>
     </message>
@@ -14793,50 +14793,50 @@ Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="731"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="740"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="749"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="844"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2638"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2676"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2743"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="736"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="745"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="754"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="849"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2643"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2681"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2748"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1157"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1162"/>
         <source>Save Changes?</source>
         <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1158"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1163"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>&apos;%1&apos; paketi kaydedilmemiş değişiklikler içeriyor.
 Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1789"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1794"/>
         <source>(unconnected)</source>
         <translation>(bağlantısız)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2220"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2225"/>
         <source>New Line Width</source>
         <translation>Yeni Çizgi Genişliği</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2443"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2448"/>
         <source>Apply to all unspecified pads</source>
         <translation>Tüm belirtilmemiş pedlere uygula</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2465"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2470"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Belirtilmemiş Ped İşlevlerini Düzelt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2820"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2825"/>
         <source>Please select a footprint.</source>
         <translation>Lütfen bir ayak izi seçin.</translation>
     </message>
@@ -15862,17 +15862,17 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
         <source>Preparing schematics...</source>
         <translation>Şematikler hazırlanıyor...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
         <source>Cancel</source>
         <translation>İptal</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1363"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1369"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
@@ -16355,28 +16355,28 @@ Bundan sonra proje kütüphanesi güncellenebilir.</translation>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1582"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1621"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1679"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="472"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="481"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1587"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1626"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1684"/>
         <source>Error</source>
         <translation>Hata</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="731"/>
         <source>Save Changes?</source>
         <translation>Değişiklikleri Kaydet?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="727"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="732"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>&apos;%1&apos; sembolü kaydedilmemiş değişiklikler içeriyor.Kapatmadan önce bunları kaydetmek ister misiniz?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1563"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1568"/>
         <source>Edit Symbol Properties</source>
         <translation>Sembol Özelliklerini Düzenle</translation>
     </message>

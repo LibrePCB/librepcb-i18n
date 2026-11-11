@@ -7678,72 +7678,72 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1457"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1465"/>
         <source>Auto</source>
         <translation>ອັດຕະໂນມັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1459"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1497"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1799"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1505"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1807"/>
         <source>None</source>
         <translation>ບໍ່ມີ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2461"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2469"/>
         <source>Add devices to board</source>
         <translation>ເພີ່ມອຸປະກອນລົງໃນແຜ່ນວົງຈອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2489"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2541"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2572"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2626"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2497"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2549"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2580"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2634"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2507"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
         <source>Preparing board...</source>
         <translation>ກຳລັງກຽມແຜ່ນວົງຈອນ...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2507"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
         <source>Cancel</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2568"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>ສົ່ງອອກ IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2624"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2632"/>
         <source>Success!</source>
         <translation>ສຳເລັດ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2633"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>ນີ້ແມ່ນຟີເຈີໃໝ່ ແລະ ພວກເຮົາໄດ້ທົດສອບກັບລະບົບເລົາເຕີພາຍນອກພຽງບໍ່ກີ່ອັນ. ຫາກທ່ານພົບບັນຫາການເຮັດວຽກຮ່ວມກັນກັບເລົາເຕີຂອງທ່ານ, ກະລຸນາແຈ້ງໃຫ້ພວກເຮົາຊາບ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2671"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2679"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>ກຳລັງປະມວນຜົນ Specctra session &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2680"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2688"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>ການນຳເຂົ້າລົ້ມເຫຼວ, ບໍ່ມີການປ່ຽນແປງໃດໆໃນແຜ່ນວົງຈອນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2685"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2693"/>
         <source>Specctra SES Import</source>
         <translation>ນຳເຂົ້າ Specctra SES</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2695"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2703"/>
         <source>Close</source>
         <translation>ປິດ</translation>
     </message>
@@ -8101,89 +8101,89 @@ You need at least LibrePCB %1 to open it.
         <translation>ສ່ວນເສັ້ນທາງທີ່ເລືອກຕ້ອງບໍ່ມີການແຕກແໜງ!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2397"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2396"/>
         <source>Net</source>
         <translation>ເນັດ (Net)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2400"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2399"/>
         <source>Class</source>
         <translation>ຄລາດ (Class)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2415"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2414"/>
         <source>Name</source>
         <translation>ຊື່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2416"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2415"/>
         <source>Value</source>
         <translation>ຄ່າ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2417"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2416"/>
         <source>MPN</source>
         <translation>MPN</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2425"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2424"/>
         <source>Package</source>
         <translation>ແພັກເກດ (Package)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2429"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2428"/>
         <source>Pad</source>
         <translation>ແພັດ (Pad)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2432"/>
         <source>Signal</source>
         <translation>ສັນຍານ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2488"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2437"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2487"/>
         <source>Size</source>
         <translation>ຂະໜາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2451"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2450"/>
         <source>Slot</source>
         <translation>ຊ່ອງ (Slot)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2457"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2456"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2482"/>
         <source>Drill</source>
         <translation>ເຈາະ (Drill)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2468"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2467"/>
         <source>Layer</source>
         <translation>ຊັ້ນ (Layer)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2473"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2472"/>
         <source>Height</source>
         <translation>ຄວາມສູງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2478"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2477"/>
         <source>Width</source>
         <translation>ຄວາມກວ້າງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2495"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2494"/>
         <source>Start Layer</source>
         <translation>ຊັ້ນເລີ່ມຕົ້ນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2496"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2495"/>
         <source>End Layer</source>
         <translation>ຊັ້ນສິ້ນສຸດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2501"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2500"/>
         <source>Position</source>
         <translation>ຕຳແໜ່ງ</translation>
     </message>
@@ -14780,49 +14780,49 @@ Do you want to save them before closing it?</source>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="731"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="740"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="749"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="844"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2638"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2676"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2743"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="736"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="745"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="754"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="849"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2643"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2681"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2748"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1157"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1162"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1158"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1163"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ແພັກເກດ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ. ເຈົ້າຕ້ອງການບັນທຶກພວກມັນກ່ອນທີ່ຈະປິດບໍ?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1789"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1794"/>
         <source>(unconnected)</source>
         <translation>(ບໍ່ໄດ້ເຊື່ອມຕໍ່)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2220"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2225"/>
         <source>New Line Width</source>
         <translation>ຄວາມກວ້າງເສັ້ນໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2443"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2448"/>
         <source>Apply to all unspecified pads</source>
         <translation>ນໍາໃຊ້ກັບແຜ່ນຮອງ (pad) ທັງໝົດທີ່ບໍ່ໄດ້ລະບຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2465"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2470"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>ແກ້ໄຂຟັງຊັນແຜ່ນຮອງ (pad) ທີ່ບໍ່ໄດ້ລະບຸ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2820"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2825"/>
         <source>Please select a footprint.</source>
         <translation>ກະລຸນາເລືອກ footprint.</translation>
     </message>
@@ -15849,17 +15849,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
         <source>Preparing schematics...</source>
         <translation>ກໍາລັງກຽມຜັງວົງຈອນ...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
         <source>Cancel</source>
         <translation>ຍົກເລີກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1363"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1369"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -16342,29 +16342,29 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1582"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1621"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1679"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="472"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="481"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1587"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1626"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1684"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="731"/>
         <source>Save Changes?</source>
         <translation>ບັນທຶກການປ່ຽນແປງບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="727"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="732"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>ສັນຍະລັກ &apos;%1&apos; ມີການປ່ຽນແປງທີ່ຍັງບໍ່ທັນໄດ້ບັນທຶກ.
 ທ່ານຕ້ອງການບັນທຶກກ່ອນປິດບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1563"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1568"/>
         <source>Edit Symbol Properties</source>
         <translation>ແກ້ໄຂຄຸນສົມບັດສັນຍະລັກ</translation>
     </message>

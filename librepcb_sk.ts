@@ -7703,72 +7703,72 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1457"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1465"/>
         <source>Auto</source>
         <translation>Automaticky</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1459"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1497"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1799"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1505"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1807"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2461"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2469"/>
         <source>Add devices to board</source>
         <translation>Pridať súčiastky na dosku.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2489"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2541"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2572"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2626"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2497"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2549"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2580"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2634"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2507"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
         <source>Preparing board...</source>
         <translation>Pripravovanie dát dosky...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2507"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2568"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Export IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2624"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2632"/>
         <source>Success!</source>
         <translation>Úspešné!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2633"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Toto je nová funkcia a mohli sme ju otestovať iba s veľmi málo externými autorotrami. Ak narazíte na akýkoľvek problém s kompatibilitou s Vašim autoroutrom, dajte nám vedieť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2671"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2679"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Analýza relácie Specctra &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2680"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2688"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Import zlyhal, na doske neboli vykonané žiadne zmeny.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2685"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2693"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Import</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2695"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2703"/>
         <source>Close</source>
         <translation>Zavrieť</translation>
     </message>
@@ -8126,89 +8126,89 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Zvolené segmenty spoja sa nemajú vetviť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2397"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2396"/>
         <source>Net</source>
         <translation>Prepojenie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2400"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2399"/>
         <source>Class</source>
         <translation>Trieda</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2415"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2414"/>
         <source>Name</source>
         <translation>Názov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2416"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2415"/>
         <source>Value</source>
         <translation>Hodnota</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2417"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2416"/>
         <source>MPN</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2425"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2424"/>
         <source>Package</source>
         <translation>Puzdro</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2429"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2428"/>
         <source>Pad</source>
         <translation>Plôška vývodu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2433"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2432"/>
         <source>Signal</source>
         <translation>Signál</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2438"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2488"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2437"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2487"/>
         <source>Size</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2451"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2450"/>
         <source>Slot</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2457"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2483"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2456"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2482"/>
         <source>Drill</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2468"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2467"/>
         <source>Layer</source>
         <translation>Vrstva</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2473"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2472"/>
         <source>Height</source>
         <translation>Výška</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2478"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2477"/>
         <source>Width</source>
         <translation>Šírka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2495"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2494"/>
         <source>Start Layer</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2496"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2495"/>
         <source>End Layer</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2501"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_select.cpp" line="2500"/>
         <source>Position</source>
         <translation type="unfinished"/>
     </message>
@@ -14806,50 +14806,50 @@ Chcete ich uložiť pred zatvorením?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="731"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="740"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="749"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="844"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2638"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2676"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2743"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="736"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="745"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="754"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="849"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2643"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2681"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2748"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1157"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1162"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1158"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1163"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Puzdro &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1789"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1794"/>
         <source>(unconnected)</source>
         <translation>(nepripojený)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2220"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2225"/>
         <source>New Line Width</source>
         <translation>Nová šírka čiary</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2443"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2448"/>
         <source>Apply to all unspecified pads</source>
         <translation>Použiť na všetky nešpecifikované plôšky vývodov.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2465"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2470"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Opraviť nešpecifikované funkcie plôšok vývodov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2820"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2825"/>
         <source>Please select a footprint.</source>
         <translation>Prosím, zvoľte puzdro.</translation>
     </message>
@@ -15879,17 +15879,17 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
         <source>Preparing schematics...</source>
         <translation>Pripravovanie schém...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1334"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1363"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1369"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -16372,29 +16372,29 @@ Až potom môže byť knižnica projektu inovovaná.</translation>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="467"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="476"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="485"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1582"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1621"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1679"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="472"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="481"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="490"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1587"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1626"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1684"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="726"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="731"/>
         <source>Save Changes?</source>
         <translation>Uložiť zmeny?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="727"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="732"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Schematická značka &apos;%1&apos;  obsahuje neuložené zmeny.
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1563"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1568"/>
         <source>Edit Symbol Properties</source>
         <translation>Upraviť vlastnosti sch. značky</translation>
     </message>
