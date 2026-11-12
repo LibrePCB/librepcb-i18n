@@ -2360,12 +2360,12 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="158"/>
         <source>Find Usages</source>
-        <translation type="unfinished"/>
+        <translation>Sök användningar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="159"/>
         <source>Find all library elements which reference this element</source>
-        <translation type="unfinished"/>
+        <translation>Sök alla bibliotekselement som refererar till detta element</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="167"/>
@@ -2480,12 +2480,12 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="285"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Numrera om komponenter</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="286"/>
         <source>Automatically assign new designators to all components</source>
-        <translation type="unfinished"/>
+        <translation>Tilldela automatiskt nya beteckningar till alla komponenter</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="294"/>
@@ -3492,7 +3492,7 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1248"/>
         <source>Renumber Pads</source>
-        <translation type="unfinished"/>
+        <translation>Numrera om padar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1249"/>
@@ -3753,12 +3753,12 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Auto-Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Automatisk orientering</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
         <source>Automatically align labels with the wire they are attached to</source>
-        <translation type="unfinished"/>
+        <translation>Justera automatiskt etiketter efter ledaren de är fästa vid</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
@@ -11615,7 +11615,7 @@ Vill du verkligen stänga den?</translation>
     <message>
         <location filename="libs/librepcb/editor/editorcommand.cpp" line="131"/>
         <source>Double-click</source>
-        <translation type="unfinished"/>
+        <translation>Dubbelklicka</translation>
     </message>
 </context>
 <context>
@@ -15628,7 +15628,7 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
     <message>
         <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="77"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Numrera om komponenter</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/renumbercomponentsmodel.cpp" line="103"/>
@@ -18607,12 +18607,12 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="203"/>
         <source>Show Clearance Circle</source>
-        <translation type="unfinished"/>
+        <translation>Visa frigångscirkel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="204"/>
         <source>Show a circle around the cursor sized to the current net&apos;s copper clearance while drawing</source>
-        <translation type="unfinished"/>
+        <translation>Visa en cirkel runt pekaren med storlek enligt det aktuella nätets kopparfrigång medan du ritar</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="37"/>
@@ -20039,12 +20039,12 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1200"/>
         <source>This package is used by the following devices:</source>
-        <translation type="unfinished"/>
+        <translation>Det här paketet används av följande enheter:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/pkg/packagetab.slint" line="1201"/>
         <source>This package is not used by any device.</source>
-        <translation type="unfinished"/>
+        <translation>Det här paketet används inte av någon enhet.</translation>
     </message>
 </context>
 <context>
@@ -20374,17 +20374,17 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="31"/>
         <source>Renumber Components</source>
-        <translation type="unfinished"/>
+        <translation>Numrera om komponenter</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="37"/>
         <source>Close Panel</source>
-        <translation type="unfinished"/>
+        <translation>Stäng panel</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="52"/>
         <source>The following components will be renamed to put them into a natural order in the schematics:</source>
-        <translation type="unfinished"/>
+        <translation>Följande komponenter får nya beteckningar för att komma i naturlig ordning i schemat:</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="82"/>
@@ -20394,7 +20394,7 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
     <message>
         <location filename="libs/librepcb/ui/project/renumbercomponentspanel.slint" line="94"/>
         <source>All components are numbered nicely.</source>
-        <translation type="unfinished"/>
+        <translation>Alla komponenter är numrerade i naturlig ordning.</translation>
     </message>
 </context>
 <context>
@@ -20708,12 +20708,12 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
     <message>
         <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="7"/>
         <source>No entries.</source>
-        <translation type="unfinished"/>
+        <translation>Inga poster.</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/library/treeviewdialog.slint" line="8"/>
         <source>No entries matching the filter.</source>
-        <translation type="unfinished"/>
+        <translation>Inga poster matchar filtret.</translation>
     </message>
 </context>
 <context>
