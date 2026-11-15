@@ -7713,65 +7713,65 @@ You need at least LibrePCB %1 to open it.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1505"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1807"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1818"/>
         <source>None</source>
         <translation>Отсутствует</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2469"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2480"/>
         <source>Add devices to board</source>
         <translation>Добавить устройство на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2497"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2549"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2580"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2634"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2508"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2591"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2645"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2526"/>
         <source>Preparing board...</source>
         <translation>Подготовка платы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2515"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2526"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2568"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2579"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Экспорт списка цепей IPC D-356A</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2632"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2643"/>
         <source>Success!</source>
         <translation>Успешно!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2652"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Это новая функция, и мы смогли протестировать её только на очень немногих внешних роутерах. Если у вас возникнут проблемы с совместимостью с вашим роутером, пожалуйста, сообщите нам об этом!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2679"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2690"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Разбор сессии Specctra „%1“...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2688"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2699"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Импорт не удался, никаких изменений на плате не произошло.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2693"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2704"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Импорт</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2703"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2714"/>
         <source>Close</source>
         <translation>Закрыть</translation>
     </message>
@@ -7939,14 +7939,14 @@ You need at least LibrePCB %1 to open it.
 <context>
     <name>librepcb::editor::BoardEditorState_AddStrokeText</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="223"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="235"/>
         <source>Add text to board</source>
         <translation>Добавить текст на плату</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="236"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="290"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="312"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="248"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="302"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="324"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -15747,15 +15747,15 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawPolygon</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="182"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="228"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="197"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="243"/>
         <source>Draw schematic polygon</source>
         <translation>Нарисовать полигон схемы</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="198"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="240"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="275"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="213"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="257"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="292"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -15883,17 +15883,17 @@ Afterwards the project library can be updated.</source>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1362"/>
         <source>Preparing schematics...</source>
         <translation>Подготовка схемы...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1340"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1362"/>
         <source>Cancel</source>
         <translation>Отмена</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1369"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1391"/>
         <source>Error</source>
         <translation>Ошибка</translation>
     </message>
@@ -17306,7 +17306,12 @@ Attention: This will be applied immediately and cannot be undone!</source>
         <translation>Высота текста</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="65"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="66"/>
+        <source>Stroke Width</source>
+        <translation>Ширина штриха</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="88"/>
         <source>Mirror Text</source>
         <translation>Отзеркалить текст</translation>
     </message>
@@ -18544,18 +18549,19 @@ Attention: This will be applied immediately and cannot be undone!</source>
     <name>ui::DrawPolygonToolBar</name>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="32"/>
-        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="31"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="32"/>
         <source>Line Width</source>
         <translation>Ширина линии</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="54"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="54"/>
         <source>Arc Angle</source>
         <translation>Угол дуги</translation>
     </message>
     <message>
         <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="72"/>
-        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="53"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="72"/>
         <source>Fill Area</source>
         <translation>Заполнить область</translation>
     </message>
