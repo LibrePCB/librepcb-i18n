@@ -3752,12 +3752,12 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1487"/>
         <source>Auto-Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Yönlendirme</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1488"/>
         <source>Automatically align labels with the wire they are attached to</source>
-        <translation type="unfinished"/>
+        <translation>Etiketleri bağlı oldukları telle otomatik olarak hizala</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1497"/>
