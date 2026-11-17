@@ -1197,17 +1197,12 @@ Please make sure this tool is available in PATH.</source>
     <name>DirectoryLock</name>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="79"/>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="191"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="205"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
         <translation>Каталог &quot;%1&quot; не существует.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
-        <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation>В файле блокировки &quot;%1&quot; недостаточно строк.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="184"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <translation>Не удалось заблокировать каталог &quot;%1&quot;, поскольку он уже заблокирован &quot;%2&quot;. Закройте все приложения, обращающиеся к этому каталогу, и повторите попытку.</translation>
     </message>
@@ -6121,51 +6116,6 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/font/strokefontpool.cpp" line="72"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
         <translation>Шрифт &quot;%1&quot; отсутствует в пуле шрифтов.</translation>
-    </message>
-</context>
-<context>
-    <name>SystemInfo</name>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="224"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="242"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="250"/>
-        <source>Could not determine if another process is running.</source>
-        <translation>Не удалось определить запущен ли другой процесс.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="272"/>
-        <source>proc_name() failed with error %1.</source>
-        <translation>proc_name() завершился с ошибкой %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
-        <source>sysctl() failed with errno=%1 (%2).</source>
-        <translation>sysctl() сбой с errno=%1 (%2).</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
-        <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation>sysctl() не удалось выполнить с параметрами retval=%1 и errno=%2.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
-        <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation>Не удалось найти файл &quot;/proc/version&quot;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
-        <source>OpenProcess() failed with error %1.</source>
-        <translation>OpenProcess() завершился с ошибкой %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
-        <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation>QueryFullProcessImageNameW() завершился с ошибкой %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
-        <source>Could not determine the process name of another process.</source>
-        <translation>Не удалось определить имя другого процесса.</translation>
     </message>
 </context>
 <context>

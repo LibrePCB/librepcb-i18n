@@ -1199,17 +1199,12 @@ Prosím skontrolujte či je tento nástroj dostupný cez premennú PATH.</transl
     <name>DirectoryLock</name>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="79"/>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="191"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="205"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
         <translation>Adresár &quot;%1&quot; neexistuje.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
-        <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation>Súbor &quot;%1&quot; obsahuje príliš málo riadkov.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="184"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <translation>Adresár &quot;%1&quot; sa nedá zamknúť, pretože už je zamknutý pomocou &quot;%2&quot;. Zatvorte aplikáciu používajúcu tento adresár a skúste to znova.</translation>
     </message>
@@ -6118,51 +6113,6 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
         <location filename="libs/librepcb/core/font/strokefontpool.cpp" line="72"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
         <translation>Font &quot;%1&quot; sa nenachádza v zozname dostupných fontov písma.</translation>
-    </message>
-</context>
-<context>
-    <name>SystemInfo</name>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="224"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="242"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="250"/>
-        <source>Could not determine if another process is running.</source>
-        <translation>Nedá sa zistiť ak beží iný proces.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="272"/>
-        <source>proc_name() failed with error %1.</source>
-        <translation>Funkcia proc_name() neúspešne ukončená s chybou %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
-        <source>sysctl() failed with errno=%1 (%2).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
-        <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation>sysctl() neúspešné s návr. hodnotou=%1 a kódom chyby=%2.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
-        <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation>Nedá sa nájsť súbor &quot;/proc/version&quot;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
-        <source>OpenProcess() failed with error %1.</source>
-        <translation>Funkcia OpenProcess() neúspešne ukončená s chybou %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
-        <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation>Funkcia QueryFullProcessImageNameW() neúspešne ukončená s chybou %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
-        <source>Could not determine the process name of another process.</source>
-        <translation>Nedá sa zistiť názov iného procesu.</translation>
     </message>
 </context>
 <context>

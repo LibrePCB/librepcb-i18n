@@ -1195,17 +1195,12 @@ Please make sure this tool is available in PATH.</source>
     <name>DirectoryLock</name>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="79"/>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="191"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="205"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
         <translation>No existe el directorio «%1».</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
-        <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation>El archivo de bloqueo «%1» tiene muy pocos renglones.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="184"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <translation type="unfinished"/>
     </message>
@@ -6073,51 +6068,6 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/font/strokefontpool.cpp" line="72"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
         <translation>El tipo de letra «%1» no está incluido en el grupo de tipos de letra.</translation>
-    </message>
-</context>
-<context>
-    <name>SystemInfo</name>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="224"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="242"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="250"/>
-        <source>Could not determine if another process is running.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="272"/>
-        <source>proc_name() failed with error %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
-        <source>sysctl() failed with errno=%1 (%2).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
-        <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
-        <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation>No se pudo encontrar el archivo «/proc/version».</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
-        <source>OpenProcess() failed with error %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
-        <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
-        <source>Could not determine the process name of another process.</source>
-        <translation>No se pudo determinar el nombre de proceso de otro proceso.</translation>
     </message>
 </context>
 <context>

@@ -1197,17 +1197,12 @@ Please make sure this tool is available in PATH.</source>
     <name>DirectoryLock</name>
     <message>
         <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="79"/>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="191"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="205"/>
         <source>The directory &quot;%1&quot; does not exist.</source>
         <translation>Каталог &quot;%1&quot; не існує.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="97"/>
-        <source>The lock file &quot;%1&quot; has too few lines.</source>
-        <translation>Файл блокування &quot;%1&quot; містить забагато рядків.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="170"/>
+        <location filename="libs/librepcb/core/fileio/directorylock.cpp" line="184"/>
         <source>Could not lock the directory &quot;%1&quot; because it is already locked by &quot;%2&quot;. Close any application accessing this directory and try again.</source>
         <translation>Не вдалося заблокувати каталог &quot;%1&quot;, оскільки він вже заблокований користувачем &quot;%2&quot;. Закрийте будь-яку програму, що звертається до цього каталогу і повторіть спробу.</translation>
     </message>
@@ -6104,51 +6099,6 @@ It looks like this rule is not followed in this symbol. However, for irregular s
         <location filename="libs/librepcb/core/font/strokefontpool.cpp" line="72"/>
         <source>The font &quot;%1&quot; does not exist in the font pool.</source>
         <translation>Шрифт &quot;%1&quot; відсутній у пулі шрифтів.</translation>
-    </message>
-</context>
-<context>
-    <name>SystemInfo</name>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="224"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="242"/>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="250"/>
-        <source>Could not determine if another process is running.</source>
-        <translation>Не вдалося визначити, чи працює інший процес.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="272"/>
-        <source>proc_name() failed with error %1.</source>
-        <translation>proc_name() завершився з помилкою %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="295"/>
-        <source>sysctl() failed with errno=%1 (%2).</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="313"/>
-        <source>sysctl() failed with retval=%1 and errno=%2.</source>
-        <translation>sysctl() завершився з retval=%1 та errno=%2.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="328"/>
-        <source>Could not find the file &quot;/proc/version&quot;.</source>
-        <translation>Не вдалося знайти файл &quot;/proc/version&quot;.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="358"/>
-        <source>OpenProcess() failed with error %1.</source>
-        <translation>OpenProcess() завершився з помилкою %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="366"/>
-        <source>QueryFullProcessImageNameW() failed with error %1.</source>
-        <translation>QueryFullProcessImageNameW() завершився з помилкою %1.</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/systeminfo.cpp" line="392"/>
-        <source>Could not determine the process name of another process.</source>
-        <translation>Не вдалося визначити ім&apos;я процесу іншого процесу.</translation>
     </message>
 </context>
 <context>
