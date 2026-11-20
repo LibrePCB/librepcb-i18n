@@ -4177,51 +4177,61 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1885"/>
+        <source>Reset to Default</source>
+        <translation>Återställ till standard</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
+        <source>Restore default value</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
         <source>Copy MPN to Clipboard</source>
         <translation>Kopiera MPN till Urklipp</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
         <source>Copy this MPN into the clipboard</source>
         <translation>Kopiera detta MPN till urklippet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1903"/>
         <source>Place Remaining Gates</source>
         <translation>Placera kvarvarande portar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1895"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1904"/>
         <source>Add more of the components gates to the schematic</source>
         <translation>Lägg till fler av komponenternas grindar till schemat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1903"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1912"/>
         <source>Open Product Website</source>
         <translation>Öppna produktwebbplatsen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1904"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1913"/>
         <source>Open product details about this part in the web browser</source>
         <translation>Öppna produktinformation om denna del i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1912"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1921"/>
         <source>Open Pricing Website</source>
         <translation>Öppna prissättningswebbplatsen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1913"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1922"/>
         <source>Open pricing details about this part in the web browser</source>
         <translation>Öppna prisinformation om denna del i webbläsaren</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1922"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1931"/>
         <source>Generate Content</source>
         <translation>Generera innehåll</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/editorcommandset.h" line="1923"/>
+        <location filename="libs/librepcb/editor/editorcommandset.h" line="1932"/>
         <source>Various helper tools to generate or modify objects</source>
         <translation>Olika hjälpverktyg för att generera eller modifiera objekt</translation>
     </message>
@@ -4671,219 +4681,214 @@ Denna utskärning finns på &quot;%1&quot;-lagret men har inte koppar på både 
 <context>
     <name>Layer</name>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="93"/>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="147"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="94"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="148"/>
         <source>Sheet Frames</source>
         <translation>Arkramar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="99"/>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="185"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="100"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="186"/>
         <source>Documentation</source>
         <translation>Dokumentation</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="105"/>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="191"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="106"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="192"/>
         <source>Comments</source>
         <translation>Kommentarer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="111"/>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="197"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="112"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="198"/>
         <source>Guide</source>
         <translation>Guide</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="117"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="118"/>
         <source>Outlines</source>
         <translation>Konturer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="123"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="124"/>
         <source>Hidden Grab Areas</source>
         <translation>Dolda gripområden</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="129"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="130"/>
         <source>Names</source>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="135"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="136"/>
         <source>Values</source>
         <translation>Värderingar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="141"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="142"/>
         <source>Pin Names</source>
         <translation>Pinnamn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="153"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="154"/>
         <source>Board Outlines</source>
         <translation>PCB konturer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="159"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="160"/>
         <source>Board Cutouts</source>
         <translation>PCB-utskärningar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="166"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="167"/>
         <source>Plated Board Cutouts</source>
         <translation>Pläterade PCB-utskärningar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="173"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="174"/>
         <source>Measures</source>
         <translation>Åtgärder</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="179"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="180"/>
         <source>Alignment</source>
         <translation>Justering</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="203"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="204"/>
         <source>Top Names</source>
         <translation>Toppnamn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="209"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="210"/>
         <source>Bottom Names</source>
         <translation>Nedre namn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="215"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="216"/>
         <source>Top Values</source>
         <translation>Toppvärden</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="221"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="222"/>
         <source>Bottom Values</source>
         <translation>Nedre värden</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="227"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="228"/>
         <source>Top Legend</source>
         <translation>Top Legend</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="233"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="234"/>
         <source>Bottom Legend</source>
         <translation>Bottenlegend</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="239"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="240"/>
         <source>Top Documentation</source>
         <translation>Toppdokumentation</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="246"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="247"/>
         <source>Bottom Documentation</source>
         <translation>Nedre dokumentation</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="253"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="254"/>
         <source>Top Package Outlines</source>
         <translation>Topppaketkonturer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="261"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="262"/>
         <source>Bottom Package Outlines</source>
         <translation>Nedre paketkonturer</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="269"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="270"/>
         <source>Top Courtyard</source>
         <translation>Översta innergården</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="277"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="278"/>
         <source>Bottom Courtyard</source>
         <translation>Nedre innergården</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="285"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="286"/>
         <source>Top Hidden Grab Areas</source>
         <translation>Topp dolda gripområden</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="292"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="293"/>
         <source>Bottom Hidden Grab Areas</source>
         <translation>Nedersta dolda gripområden</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="299"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="300"/>
         <source>Top Stop Mask</source>
         <translation>Top Stop Mask</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="306"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="307"/>
         <source>Bottom Stop Mask</source>
         <translation>Nedre stoppmask</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="313"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="314"/>
         <source>Top Solder Paste</source>
         <translation>Topplödpasta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="320"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="321"/>
         <source>Bottom Solder Paste</source>
         <translation>Bottenlödpasta</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="327"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="328"/>
         <source>Top Finish</source>
         <translation>Toppfinish</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="333"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="334"/>
         <source>Bottom Finish</source>
         <translation>Bottenfinish</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="339"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="340"/>
         <source>Top Glue</source>
         <translation>Topplim</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="345"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="346"/>
         <source>Bottom Glue</source>
         <translation>Bottenlim</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="351"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="352"/>
         <source>Top Copper</source>
         <translation>Topp koppar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="357"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="358"/>
         <source>Bottom Copper</source>
         <translation>Botten koppar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="370"/>
+        <location filename="libs/librepcb/core/types/layer.cpp" line="371"/>
         <source>Inner Copper %1</source>
         <translation>Inre koppar %1</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/core/types/layer.cpp" line="456"/>
-        <source>Unknown layer: &apos;%1&apos;</source>
-        <translation>Okänt lager: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>Length</name>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="479"/>
+        <location filename="libs/librepcb/core/types/length.h" line="488"/>
         <source>Value must be &gt;= 0!</source>
         <translation>Värdet måste vara &gt;= 0!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/length.h" line="595"/>
+        <location filename="libs/librepcb/core/types/length.h" line="604"/>
         <source>Value must be &gt; 0!</source>
         <translation>Värdet måste vara &gt; 0!</translation>
     </message>
@@ -5817,47 +5822,47 @@ Det verkar som om denna regel inte följs i denna symbol. Men för oregelbundna 
 <context>
     <name>Pad</name>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="387"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="433"/>
         <source>Not Specified</source>
         <translation>Ej specificerat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="389"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="435"/>
         <source>Standard Pad (soldered)</source>
         <translation>Standard Pad (lödd)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="391"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="437"/>
         <source>Press-Fit Pad (THT, soldered)</source>
         <translation>Press-Fit Pad (THT, lödd)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="393"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="439"/>
         <source>Thermal Pad (SMT, soldered)</source>
         <translation>Thermal Pad (SMT, lödd)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="395"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="441"/>
         <source>BGA Pad (SMT, soldered)</source>
         <translation>BGA Pad (SMT, lödd)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="397"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="443"/>
         <source>Edge Connector Pad (SMT, no soldering)</source>
         <translation>Edge Connector Pad (SMT, ingen lödning)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="399"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="445"/>
         <source>Test Pad (SMT, no soldering)</source>
         <translation>Testplatta (SMT, ingen lödning)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="401"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="447"/>
         <source>Local Footprint Fiducial (SMT, no soldering)</source>
         <translation>Local Footprint Fiducial (SMT, ingen lödning)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/geometry/pad.cpp" line="403"/>
+        <location filename="libs/librepcb/core/geometry/pad.cpp" line="449"/>
         <source>Global Board Fiducial (SMT, no soldering)</source>
         <translation>Global PCB Fiducial (SMT, ingen lödning)</translation>
     </message>
@@ -5986,12 +5991,12 @@ Det verkar som om denna regel inte följs i denna symbol. Men för oregelbundna 
 <context>
     <name>Ratio</name>
     <message>
-        <location filename="libs/librepcb/core/types/ratio.h" line="310"/>
+        <location filename="libs/librepcb/core/types/ratio.h" line="326"/>
         <source>Value must be &gt;= 0!</source>
         <translation>Värdet måste vara &gt;= 0!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/core/types/ratio.h" line="356"/>
+        <location filename="libs/librepcb/core/types/ratio.h" line="372"/>
         <source>Value must be 0..1!</source>
         <translation>Värdet måste vara 0..1!</translation>
     </message>
@@ -7655,72 +7660,72 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::Board2dTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1465"/>
-        <source>Auto</source>
-        <translation>Auto</translation>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1537"/>
+        <source>Auto Net</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1467"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1505"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1818"/>
-        <source>None</source>
-        <translation>Inga</translation>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1539"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1577"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1899"/>
+        <source>No Net</source>
+        <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2480"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2561"/>
         <source>Add devices to board</source>
         <translation>Lägg till enheter till PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2508"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2560"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2591"/>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2645"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2589"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2641"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2672"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2726"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2526"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2607"/>
         <source>Preparing board...</source>
         <translation>Förbereder PCB...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2526"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2607"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2579"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2660"/>
         <source>Export IPC D-356A Netlist</source>
         <translation>Exportera IPC D-356A Netlist</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2643"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2724"/>
         <source>Success!</source>
         <translation>Framgång!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2652"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2733"/>
         <source>This is a new feature and we could test it only with very few external routers. If you experience any compatibility issue with your router, please let us know!</source>
         <translation>Detta är en ny funktion och vi kunde testa den endast med väldigt få externa routrar. Om du upplever några kompatibilitetsproblem med din router, vänligen meddela oss!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2690"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2771"/>
         <source>Parsing Specctra session &apos;%1&apos;...</source>
         <translation>Parsar Specctra-session &apos;%1&apos;...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2699"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2780"/>
         <source>Import failed, no changes made to the board.</source>
         <translation>Importen misslyckades, inga ändringar gjordes på PCB:n.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2704"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2785"/>
         <source>Specctra SES Import</source>
         <translation>Specctra SES Import</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2714"/>
+        <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2795"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
@@ -7857,14 +7862,14 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_AddHole</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="136"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="140"/>
         <source>Add hole to board</source>
         <translation>Lägg till hål i PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="149"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="177"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="199"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="181"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addhole.cpp" line="203"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -7872,15 +7877,15 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_AddPad</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="382"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="459"/>
         <source>Add Pad to Board</source>
         <translation>Lägg till Pad till PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="404"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="434"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="459"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="479"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="481"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="511"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="536"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addpad.cpp" line="556"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -7888,14 +7893,14 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_AddStrokeText</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="235"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="266"/>
         <source>Add text to board</source>
         <translation>Lägg till text till PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="248"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="302"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="324"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="279"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="336"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addstroketext.cpp" line="358"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -7903,15 +7908,15 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_AddVia</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="313"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="339"/>
         <source>Add via to board</source>
         <translation>Lägg till via till PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="334"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="446"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="471"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="491"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="360"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="472"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="497"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_addvia.cpp" line="517"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -7919,24 +7924,24 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawPlane</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="224"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="227"/>
         <source>Draw Board Plane</source>
         <translation>Rita PCB-plan</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="254"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="294"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="375"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="257"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="297"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="378"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="279"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="282"/>
         <source>Draw board plane</source>
         <translation>Rita PCB-plan</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="388"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawplane.cpp" line="391"/>
         <source>Could not determine the bounding box of board. Make sure a valid board outline polygon is present.</source>
         <translation>Kunde inte bestämma begränsningsrutan för PCB. Se till att en giltig PCB-konturpolygon finns.</translation>
     </message>
@@ -7944,15 +7949,15 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawPolygon</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="195"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="242"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="201"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="248"/>
         <source>Draw board polygon</source>
         <translation>Rita PCB polygon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="212"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="255"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="289"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="218"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="261"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawpolygon.cpp" line="295"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -7960,26 +7965,26 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawTrace</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="496"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="533"/>
         <source>Draw Board Trace</source>
         <translation>Rita PCB Trace</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="504"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="541"/>
         <source>Invalid layer selected.</source>
         <translation>Ogiltigt lager har valts.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="512"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="549"/>
         <source>This pad is not connected to any net, therefore no trace can be attached to it. To allow attaching a trace, first connect this pad to a net in the schematics. So this is a problem of the schematics, not of the board.</source>
         <translation>Denna pad är inte ansluten till något nät, därför kan inga spår fästas på den. För att tillåta fastsättning av ett spår, anslut först denna pad till ett nät i schemat. Så detta är ett problem med schemat, inte av PCB.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="675"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="847"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="868"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="898"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="1018"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="713"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="885"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="906"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="936"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawtrace.cpp" line="1056"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -7987,19 +7992,19 @@ Du behöver minst LibrePCB %1 för att öppna den.
 <context>
     <name>librepcb::editor::BoardEditorState_DrawZone</name>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="184"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="191"/>
         <source>Draw board zone</source>
         <translation>Rita PCB-zon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="203"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="255"/>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="289"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="210"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="262"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="296"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="234"/>
+        <location filename="libs/librepcb/editor/project/board/fsm/boardeditorstate_drawzone.cpp" line="241"/>
         <source>Draw Board Zone</source>
         <translation>Rita PCB-zon</translation>
     </message>
@@ -8371,32 +8376,32 @@ Du behöver minst LibrePCB %1 för att öppna den.
         <translation>Koordinaterna är relativa till dynans ursprung och före rotation.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="353"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="354"/>
         <source>Hole %1 of %2</source>
         <translation>Hål %1 på %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="357"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="358"/>
         <source>Pad has no holes</source>
         <translation>Pad har inga hål</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="406"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="407"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
         <translation>Borrdiametern överstiger dynans bredd eller höjd. Minska borrdiametern eller öka dynans bredd och/eller höjd.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="417"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="418"/>
         <source>The custom pad outline does not represent a valid area.</source>
         <translation>Den anpassade plattkonturen representerar inte ett giltigt område.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="424"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="425"/>
         <source>Invalid Properties</source>
         <translation>Ogiltiga egenskaper</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="478"/>
+        <location filename="libs/librepcb/editor/project/board/boardpadpropertiesdialog.cpp" line="479"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -11808,37 +11813,37 @@ Varning: Detta kan inte ångras!</translation>
         <translation>Koordinaterna är relativa till dynans ursprung och före rotation.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="175"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="176"/>
         <source>(not connected)</source>
         <translation>(ej ansluten)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="404"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="405"/>
         <source>Hole %1 of %2</source>
         <translation>Hål %1 på %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="408"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="409"/>
         <source>Pad has no holes</source>
         <translation>Pad har inga hål</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="457"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="458"/>
         <source>The drill diameter is exceeding the pad width or height. Reduce the drill diameter or increase the pad width and/or height.</source>
         <translation>Borrdiametern överstiger dynans bredd eller höjd. Minska borrdiametern eller öka dynans bredd och/eller höjd.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="468"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="469"/>
         <source>The custom pad outline does not represent a valid area.</source>
         <translation>Den anpassade plattkonturen representerar inte ett giltigt område.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="475"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="476"/>
         <source>Invalid Properties</source>
         <translation>Ogiltiga egenskaper</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="530"/>
+        <location filename="libs/librepcb/editor/library/pkg/footprintpadpropertiesdialog.cpp" line="531"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -14435,14 +14440,14 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_AddHoles</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="135"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="139"/>
         <source>Add Footprint Hole</source>
         <translation>Lägg till Footprint Hole</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="148"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="166"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="180"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="152"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="170"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addholes.cpp" line="184"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -14450,14 +14455,14 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_AddPads</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="344"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="422"/>
         <source>Add footprint pad</source>
         <translation>Lägg till fotavtrycksdyna</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="370"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="390"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="405"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="448"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="468"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_addpads.cpp" line="483"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -14465,14 +14470,14 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawCircle</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="191"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="200"/>
         <source>Add Footprint Circle</source>
         <translation>Lägg till Footprint Circle</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="204"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="238"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="213"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="247"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawcircle.cpp" line="262"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -14480,60 +14485,60 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="264"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="358"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="278"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="372"/>
         <source>Add Footprint Polygon</source>
         <translation>Lägg till Footprint Polygon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="279"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="303"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="369"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="293"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="317"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="383"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="540"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="554"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(tryck på %1 för att inaktivera snap, %2 för att avbryta)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="543"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="557"/>
         <source>right click</source>
         <translation>högerklicka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="547"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="561"/>
         <source>Click to specify the first edge</source>
         <translation>Klicka för att ange den första kanten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="550"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="564"/>
         <source>Click to specify the second edge</source>
         <translation>Klicka för att ange den andra kanten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="555"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="569"/>
         <source>Click to specify the arc center</source>
         <translation>Klicka för att ange bågens centrum</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="558"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="572"/>
         <source>Click to specify the start point</source>
         <translation>Klicka för att ange startpunkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="561"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="575"/>
         <source>Click to specify the end point</source>
         <translation>Klicka för att ange slutpunkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="566"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="580"/>
         <source>Click to specify the first point</source>
         <translation>Klicka för att ange den första punkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="569"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawpolygonbase.cpp" line="583"/>
         <source>Click to specify the next point</source>
         <translation>Klicka för att ange nästa punkt</translation>
     </message>
@@ -14541,14 +14546,14 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawTextBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="287"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="357"/>
         <source>Add Footprint Text</source>
         <translation>Lägg till fotavtryckstext</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="300"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="322"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="336"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="370"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="392"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawtextbase.cpp" line="406"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -14556,35 +14561,35 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageEditorState_DrawZone</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="210"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="278"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="216"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="284"/>
         <source>Add Footprint Zone</source>
         <translation>Lägg till Footprint Zone</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="225"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="248"/>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="296"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="231"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="254"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="302"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="363"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="369"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(tryck på %1 för att inaktivera snap, %2 för att avbryta)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="365"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="371"/>
         <source>right click</source>
         <translation>högerklicka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="368"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="374"/>
         <source>Click to specify the first point</source>
         <translation>Klicka för att ange den första punkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="371"/>
+        <location filename="libs/librepcb/editor/library/pkg/fsm/packageeditorstate_drawzone.cpp" line="377"/>
         <source>Click to specify the next point</source>
         <translation>Klicka för att ange nästa punkt</translation>
     </message>
@@ -14759,50 +14764,50 @@ Vill du spara dem innan du stänger den?</translation>
 <context>
     <name>librepcb::editor::PackageTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="736"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="745"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="754"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="849"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2643"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2681"/>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2748"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="842"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="851"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="860"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="955"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2755"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2793"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2860"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1162"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1276"/>
         <source>Save Changes?</source>
         <translation>Spara ändringar?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1163"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1277"/>
         <source>The package '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Paketet &apos;%1&apos; innehåller osparade ändringar.
 Vill du spara dem innan du stänger den?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1794"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="1905"/>
         <source>(unconnected)</source>
         <translation>(oansluten)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2225"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2336"/>
         <source>New Line Width</source>
         <translation>Ny linjebredd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2448"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2559"/>
         <source>Apply to all unspecified pads</source>
         <translation>Applicera på alla ospecificerade bindor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2470"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2582"/>
         <source>Fix Unspecified Pad Functions</source>
         <translation>Fixa ospecificerade pad-funktioner</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2825"/>
+        <location filename="libs/librepcb/editor/library/pkg/packagetab.cpp" line="2937"/>
         <source>Please select a footprint.</source>
         <translation>Välj ett fotavtryck.</translation>
     </message>
@@ -15645,19 +15650,19 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_AddLabel</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="255"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="248"/>
         <source>Add Bus Label to Schematic</source>
         <translation>Lägg till bussetikett till Schematic</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="269"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="262"/>
         <source>Add Net Label to Schematic</source>
         <translation>Lägg till Net Label till Schematic</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="292"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="332"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="444"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="285"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="325"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addlabel.cpp" line="345"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -15665,14 +15670,14 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_AddText</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="213"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="231"/>
         <source>Add text to schematic</source>
         <translation>Lägg till text i schemat</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="225"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="262"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="284"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="281"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_addtext.cpp" line="303"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -15680,15 +15685,15 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawBus</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="253"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="256"/>
         <source>Draw Wire</source>
         <translation>Dra tråd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="356"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="486"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="504"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="533"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="359"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="489"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="507"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawbus.cpp" line="536"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -15696,15 +15701,15 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawPolygon</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="197"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="200"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="246"/>
         <source>Draw schematic polygon</source>
         <translation>Rita schematisk polygon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="213"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="257"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="292"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="216"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="260"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawpolygon.cpp" line="295"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -15712,37 +15717,37 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicEditorState_DrawWire</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="262"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="265"/>
         <source>Draw Wire</source>
         <translation>Dra tråd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="302"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="642"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="305"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="645"/>
         <source>Invalid net name</source>
         <translation>Ogiltigt nätnamn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="303"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="644"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="306"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="647"/>
         <source>Could not apply the forced net name because &apos;%1&apos; is not a valid net name.</source>
         <translation>Det gick inte att tillämpa det påtvingade nätnamnet eftersom &apos;%1&apos; inte är ett giltigt nätnamn.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="430"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="659"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="678"/>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="707"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="433"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="662"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="681"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="710"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="854"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="857"/>
         <source>Add New Bus Member</source>
         <translation>Lägg till ny bussmedlem</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="866"/>
+        <location filename="libs/librepcb/editor/project/schematic/fsm/schematiceditorstate_drawwire.cpp" line="869"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -15832,17 +15837,17 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SchematicTab</name>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1362"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1396"/>
         <source>Preparing schematics...</source>
         <translation>Förbereder scheman...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1362"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1396"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1391"/>
+        <location filename="libs/librepcb/editor/project/schematic/schematictab.cpp" line="1425"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -16000,15 +16005,15 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SymbolEditorState_AddPins</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="98"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="166"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="217"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="244"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="97"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="175"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="226"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="253"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="231"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_addpins.cpp" line="240"/>
         <source>Add symbol pin</source>
         <translation>Lägg till symbolnål</translation>
     </message>
@@ -16016,14 +16021,14 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawCircle</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="182"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="203"/>
         <source>Add symbol circle</source>
         <translation>Lägg till symbolcirkel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="194"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="228"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="215"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="249"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawcircle.cpp" line="264"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -16031,60 +16036,60 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawPolygonBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="255"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="348"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="281"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="374"/>
         <source>Add symbol polygon</source>
         <translation>Lägg till symbolpolygon</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="269"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="293"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="358"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="295"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="319"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="384"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="529"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="555"/>
         <source>(press %1 to disable snap, %2 to abort)</source>
         <translation>(tryck på %1 för att inaktivera snap, %2 för att avbryta)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="532"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="558"/>
         <source>right click</source>
         <translation>högerklicka</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="536"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="562"/>
         <source>Click to specify the first edge</source>
         <translation>Klicka för att ange den första kanten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="539"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="565"/>
         <source>Click to specify the second edge</source>
         <translation>Klicka för att ange den andra kanten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="544"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="570"/>
         <source>Click to specify the arc center</source>
         <translation>Klicka för att ange bågens centrum</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="547"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="573"/>
         <source>Click to specify the start point</source>
         <translation>Klicka för att ange startpunkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="550"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="576"/>
         <source>Click to specify the end point</source>
         <translation>Klicka för att ange slutpunkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="555"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="581"/>
         <source>Click to specify the first point</source>
         <translation>Klicka för att ange den första punkten</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="558"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawpolygonbase.cpp" line="584"/>
         <source>Click to specify the next point</source>
         <translation>Klicka för att ange nästa punkt</translation>
     </message>
@@ -16092,14 +16097,14 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SymbolEditorState_DrawTextBase</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="251"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="292"/>
         <source>Add symbol text</source>
         <translation>Lägg till symboltext</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="263"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="285"/>
-        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="299"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="304"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="326"/>
+        <location filename="libs/librepcb/editor/library/sym/fsm/symboleditorstate_drawtextbase.cpp" line="340"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
@@ -16325,29 +16330,29 @@ Efteråt kan projektbiblioteket uppdateras.</translation>
 <context>
     <name>librepcb::editor::SymbolTab</name>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="472"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="481"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="490"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1587"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1626"/>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1684"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="533"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="542"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="551"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1653"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1692"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1750"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="731"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="800"/>
         <source>Save Changes?</source>
         <translation>Spara ändringar?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="732"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="801"/>
         <source>The symbol '%1' contains unsaved changes.
 Do you want to save them before closing it?</source>
         <translation>Symbolen &apos;%1&apos; innehåller osparade ändringar.
 Vill du spara dem innan du stänger den?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1568"/>
+        <location filename="libs/librepcb/editor/library/sym/symboltab.cpp" line="1634"/>
         <source>Edit Symbol Properties</source>
         <translation>Redigera symbolegenskaper</translation>
     </message>
@@ -17115,47 +17120,47 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddFootprintPadToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="118"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="120"/>
         <source>Drill Diameter</source>
         <translation>Borrdiameter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="143"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="145"/>
         <source>Corner Radius</source>
         <translation>Hörnradie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="162"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="164"/>
         <source>Press-Fit</source>
         <translation>Press-Fit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="163"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="165"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>Markera denna dyna som en presspassningsdyna</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="48"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="50"/>
         <source>Board Side</source>
         <translation>PCB sida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="68"/>
         <source>Diameter</source>
         <translation>Diameter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="66"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="68"/>
         <source>Width</source>
         <translation>Bredd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="97"/>
         <source>Copper Clearance</source>
         <translation>Kopparröjning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="95"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintpadtoolbar.slint" line="97"/>
         <source>Height</source>
         <translation>Höjd</translation>
     </message>
@@ -17163,17 +17168,17 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddFootprintStrokeTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="35"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="40"/>
         <source>Enter text here...</source>
         <translation>Skriv in text här...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="46"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="51"/>
         <source>Text Height</source>
         <translation>Text Höjd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="69"/>
+        <location filename="libs/librepcb/ui/library/pkg/addfootprintstroketexttoolbar.slint" line="92"/>
         <source>Stroke Width</source>
         <translation>Slagbredd</translation>
     </message>
@@ -17189,7 +17194,7 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddLabelToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/addlabeltoolbar.slint" line="29"/>
+        <location filename="libs/librepcb/ui/project/schematic/addlabeltoolbar.slint" line="28"/>
         <source>Mirror</source>
         <translation>Spegel</translation>
     </message>
@@ -17197,47 +17202,47 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddPadToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="117"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="119"/>
         <source>Drill Diameter</source>
         <translation>Borrdiameter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="142"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="144"/>
         <source>Corner Radius</source>
         <translation>Hörnradie</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="161"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="163"/>
         <source>Press-Fit</source>
         <translation>Press-Fit</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="162"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="164"/>
         <source>Mark this pad as a press-fit pad</source>
         <translation>Markera denna dyna som en presspassningsdyna</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="47"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="49"/>
         <source>Board Side</source>
         <translation>PCB sida</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="67"/>
         <source>Diameter</source>
         <translation>Diameter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="65"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="67"/>
         <source>Width</source>
         <translation>Bredd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="96"/>
         <source>Copper Clearance</source>
         <translation>Kopparröjning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="94"/>
+        <location filename="libs/librepcb/ui/project/board/addpadtoolbar.slint" line="96"/>
         <source>Height</source>
         <translation>Höjd</translation>
     </message>
@@ -17245,40 +17250,40 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddStrokeTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="32"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="129"/>
+        <source>Mirror Text</source>
+        <translation>Spegeltext</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="37"/>
         <source>Enter text here...</source>
         <translation>Skriv in text här...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="43"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="48"/>
         <source>Text Height</source>
         <translation>Text Höjd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="66"/>
+        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="89"/>
         <source>Stroke Width</source>
         <translation>Slagbredd</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/project/board/addstroketexttoolbar.slint" line="88"/>
-        <source>Mirror Text</source>
-        <translation>Spegeltext</translation>
     </message>
 </context>
 <context>
     <name>ui::AddSymbolPinToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="23"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="26"/>
         <source>Pin Name</source>
         <translation>Pinnamn</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="33"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="36"/>
         <source>Pin Length</source>
         <translation>Pin Längd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="55"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymbolpintoolbar.slint" line="76"/>
         <source>Mass Import</source>
         <translation>Massimport</translation>
     </message>
@@ -17286,12 +17291,12 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddSymbolTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="34"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="39"/>
         <source>Enter text here...</source>
         <translation>Skriv in text här...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="45"/>
+        <location filename="libs/librepcb/ui/library/sym/addsymboltexttoolbar.slint" line="50"/>
         <source>Text Height</source>
         <translation>Text Höjd</translation>
     </message>
@@ -17299,12 +17304,12 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::AddTextToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="31"/>
+        <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="36"/>
         <source>Enter text here...</source>
         <translation>Skriv in text här...</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="42"/>
+        <location filename="libs/librepcb/ui/project/schematic/addtexttoolbar.slint" line="47"/>
         <source>Text Height</source>
         <translation>Text Höjd</translation>
     </message>
@@ -17317,27 +17322,27 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
         <translation>Via borrdiameter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="72"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="69"/>
         <source>Set as Default in Board</source>
         <translation>Ställ in som standard i PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="73"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="70"/>
         <source>Saves the entered value in the board design rules as default value</source>
         <translation>Sparar det angivna värdet i PCB-designreglerna som standardvärde</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="82"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="79"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
         <translation>Ställ in som standard i nätklassen &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="83"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="80"/>
         <source>Saves the entered value as default value for the current net class</source>
         <translation>Sparar det angivna värdet som standardvärde för den aktuella nettoklassen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="96"/>
+        <location filename="libs/librepcb/ui/project/board/addviatoolbar.slint" line="93"/>
         <source>Via Outer Diameter</source>
         <translation>Via Ytterdiameter</translation>
     </message>
@@ -18398,34 +18403,34 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::DrawFootprintPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="36"/>
-        <source>Line Width</source>
-        <translation>Linjebredd</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="58"/>
-        <source>Arc Angle</source>
-        <translation>Bågvinkel</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="76"/>
-        <source>Fill Area</source>
-        <translation>Fyll område</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="77"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="100"/>
         <source>Fill the polygon with its outline color (only when closed)</source>
         <translation>Fyll polygonen med dess konturfärg (endast när den är stängd)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="88"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="111"/>
         <source>Grab Area</source>
         <translation>Gripområde</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="89"/>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="112"/>
         <source>Allow grabbing the footprint within the polygon&apos;s area</source>
         <translation>Tillåt att ta tag i fotavtrycket inom polygonens område</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="41"/>
+        <source>Line Width</source>
+        <translation>Linjebredd</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="81"/>
+        <source>Arc Angle</source>
+        <translation>Bågvinkel</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/pkg/drawfootprintpolygontoolbar.slint" line="99"/>
+        <source>Fill Area</source>
+        <translation>Fyll område</translation>
     </message>
 </context>
 <context>
@@ -18497,20 +18502,20 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::DrawPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="32"/>
-        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="32"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="37"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="37"/>
         <source>Line Width</source>
         <translation>Linjebredd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="54"/>
-        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="54"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="77"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="77"/>
         <source>Arc Angle</source>
         <translation>Bågvinkel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="72"/>
-        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="72"/>
+        <location filename="libs/librepcb/ui/project/board/drawpolygontoolbar.slint" line="95"/>
+        <location filename="libs/librepcb/ui/project/schematic/drawpolygontoolbar.slint" line="95"/>
         <source>Fill Area</source>
         <translation>Fyll område</translation>
     </message>
@@ -18518,55 +18523,50 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::DrawSymbolPolygonToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="35"/>
-        <source>Line Width</source>
-        <translation>Linjebredd</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="57"/>
-        <source>Arc Angle</source>
-        <translation>Bågvinkel</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="75"/>
-        <source>Fill Area</source>
-        <translation>Fyll område</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="76"/>
-        <source>Fill the polygon with its outline color (only when closed)</source>
-        <translation>Fyll polygonen med dess konturfärg (endast när den är stängd)</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="87"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="110"/>
         <source>Grab Area</source>
         <translation>Gripområde</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="88"/>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="111"/>
         <source>Allow grabbing the symbol within the polygon&apos;s area</source>
         <translation>Tillåt att ta tag i symbolen inom polygonens område</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="40"/>
+        <source>Line Width</source>
+        <translation>Linjebredd</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="80"/>
+        <source>Arc Angle</source>
+        <translation>Bågvinkel</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="98"/>
+        <source>Fill Area</source>
+        <translation>Fyll område</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/library/sym/drawsymbolpolygontoolbar.slint" line="99"/>
+        <source>Fill the polygon with its outline color (only when closed)</source>
+        <translation>Fyll polygonen med dess konturfärg (endast när den är stängd)</translation>
     </message>
 </context>
 <context>
     <name>ui::DrawTraceToolBar</name>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="100"/>
-        <source>Via Drill Diameter</source>
-        <translation>Via borrdiameter</translation>
-    </message>
-    <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="163"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="157"/>
         <source>Via Outer Diameter</source>
         <translation>Via Ytterdiameter</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="203"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="193"/>
         <source>Show Clearance Circle</source>
         <translation>Visa frigångscirkel</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="204"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="194"/>
         <source>Show a circle around the cursor sized to the current net&apos;s copper clearance while drawing</source>
         <translation>Visa en cirkel runt pekaren med storlek enligt det aktuella nätets kopparfrigång medan du ritar</translation>
     </message>
@@ -18576,28 +18576,33 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
         <translation>Spårbredd</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="76"/>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="139"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="73"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="133"/>
         <source>Set as Default in Board</source>
         <translation>Ställ in som standard i PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="77"/>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="140"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="74"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="134"/>
         <source>Saves the entered value in the board design rules as default value</source>
         <translation>Sparar det angivna värdet i PCB-designreglerna som standardvärde</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="86"/>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="149"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="83"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="143"/>
         <source>Set as Default in Net Class &apos;%1&apos;</source>
         <translation>Ställ in som standard i nätklassen &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="87"/>
-        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="150"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="84"/>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="144"/>
         <source>Saves the entered value as default value for the current net class</source>
         <translation>Sparar det angivna värdet som standardvärde för den aktuella nettoklassen</translation>
+    </message>
+    <message>
+        <location filename="libs/librepcb/ui/project/board/drawtracetoolbar.slint" line="97"/>
+        <source>Via Drill Diameter</source>
+        <translation>Via borrdiameter</translation>
     </message>
 </context>
 <context>
@@ -18908,42 +18913,42 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::LibrariesPanel</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="553"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="554"/>
         <source>Local Libraries</source>
         <translation>Lokala bibliotek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="568"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="569"/>
         <source>Remote Libraries</source>
         <translation>Fjärrbibliotek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="615"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="616"/>
         <source>Pending Operations</source>
         <translation>Väntande verksamhet</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="665"/>
         <source>Some libraries marked for uninstallation are currently not available for installation, thus their deletion will be non-reversible!</source>
         <translation>Vissa bibliotek som är markerade för avinstallation är för närvarande inte tillgängliga för installation, så deras radering kommer inte att kunna återställas!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="664"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="665"/>
         <source>Warning</source>
         <translation>Varning</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="681"/>
         <source>Apply</source>
         <translation>Ansök</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="680"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="681"/>
         <source>Apply %n Modification(s)</source>
         <translation><numerusform>Tillämpa %n ändring</numerusform><numerusform>Tillämpa %n ändringar</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="702"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="703"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
@@ -18951,42 +18956,42 @@ Observera: Detta kommer att tillämpas omedelbart och kan inte ångras!</transla
 <context>
     <name>ui::LibrariesPanelSection</name>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="337"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="338"/>
         <source>Toggle All</source>
         <translation>Växla alla</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="364"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="365"/>
         <source>Download a Library by URL</source>
         <translation>Ladda ner ett bibliotek via URL</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="376"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="377"/>
         <source>Create a New Library</source>
         <translation>Skapa ett nytt bibliotek</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="389"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="390"/>
         <source>Check For Updates</source>
         <translation>Sök efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="402"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="403"/>
         <source>Cancel Update Check</source>
         <translation>Avbryt uppdateringskontrollen</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="431"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="432"/>
         <source>No remote part libraries are currently installed. To get parts like resistors, LEDs, microcontrollers etc., choose some libraries to be downloaded from the internet.</source>
         <translation>Inga fjärrdelsbibliotek är för närvarande installerade. För att få delar som motstånd, lysdioder, mikrokontroller etc., välj några bibliotek som ska laddas ner från internet.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="443"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="444"/>
         <source>No local libraries exist in this workspace. In order to create your own parts, add a new local library first with the button above.</source>
         <translation>Det finns inga lokala bibliotek i den här arbetsytan. För att skapa dina egna delar, lägg till ett nytt lokalt bibliotek först med knappen ovan.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="454"/>
+        <location filename="libs/librepcb/ui/library/librariespanel.slint" line="455"/>
         <source>No libraries matching the filter.</source>
         <translation>Inga bibliotek matchar filtret.</translation>
     </message>
