@@ -4244,17 +4244,17 @@ Tento výrez sa nachádza na vrstve &quot;%1“, ale nemá meď na vrchnej aj sp
         <translation>Hľadať technický list pre &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="530"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="529"/>
         <source>No datasheet found</source>
         <translation>Technický list nenájdený</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="531"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="530"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
         <translation>Prepáčte, ale neexistuje technický list pre požadovanú súčiastku :-(</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="544"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="543"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -6707,7 +6707,7 @@ Zdá sa, že toto pravidlo sa v tomto symbole nedodržiava. V prípade nepravide
 <context>
     <name>librepcb::Library</name>
     <message>
-        <location filename="libs/librepcb/core/library/library.cpp" line="138"/>
+        <location filename="libs/librepcb/core/library/library.cpp" line="135"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation>Adresár knižníc musí obsahovať súbor s príponou &apos;.lplib&apos;.</translation>
     </message>
@@ -7367,32 +7367,32 @@ Na otvorenie potrebujete minimálne LibrePCB %1.
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="155"/>
         <source>Click here a add an URL</source>
         <translation>Kliknite sem pre pridanie URL adresy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="229"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
         <source>URL</source>
         <translation>URL adresa</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
         <source>Libraries</source>
         <translation>Knižnice</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
         <source>Parts Info</source>
         <translation>Info o súčiastke</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="237"/>
         <source>Order PCB</source>
         <translation>Objednať DPS</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="245"/>
         <source>New:</source>
         <translation>Nový:</translation>
     </message>
@@ -10788,8 +10788,8 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="340"/>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="349"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="718"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="757"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="717"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="756"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -10932,7 +10932,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Nová knižnica</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="238"/>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="236"/>
         <source>Exists already</source>
         <translation>Už existuje</translation>
     </message>
@@ -11081,10 +11081,10 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="497"/>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="506"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="975"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1010"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1047"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1088"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="974"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1009"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1046"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1087"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -11101,12 +11101,12 @@ Do you want to save them before closing it?</source>
 Chcete ich uložiť pred zatvorením?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1032"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1031"/>
         <source>Change Component</source>
         <translation>Zameniť komponent</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1069"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1068"/>
         <source>Change Package</source>
         <translation>Zameniť puzdro</translation>
     </message>
@@ -11148,7 +11148,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Stiahnúť knižnicu</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="216"/>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="217"/>
         <source>Exists already</source>
         <translation>Už existuje</translation>
     </message>
@@ -13375,52 +13375,52 @@ Naozaj chcete zavrieť toto okno?</translation>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="542"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="543"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation>Nepodarilo sa načítať knižnice z &apos;%1&apos;: %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="563"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="564"/>
         <source>All libraries are up-to-date</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="565"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="566"/>
         <source>Update available for %n libraries</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="593"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="594"/>
         <source>There are %n library update(s) available for installation.</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="599"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="600"/>
         <source>See details in the libraries side panel, or click the button below to download &amp; install all updates.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="601"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="602"/>
         <source>Update Libraries</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="604"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="605"/>
         <source>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="607"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="608"/>
         <source>Open Libraries Panel</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="610"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="611"/>
         <source>Library Updates Available</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="637"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="638"/>
         <source>Updating %n libraries...</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
@@ -13495,9 +13495,9 @@ Chcete ich uložiť pred zatvorením?</translation>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="376"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="385"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="566"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1107"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1158"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="567"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1108"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1159"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -13517,42 +13517,42 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Nedá sa otvoriť súbor</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="724"/>
         <source>Unknown</source>
         <translation>Neznámy</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="738"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="739"/>
         <source>Invalid Parent</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1048"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1049"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>Naozaj chcete presunúť nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1053"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1054"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>Naozaj chcete skopírovať nasledujúce elementy do knižnice &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1066"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1067"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation>Poznámka: Túto operáciu nemožno ľahko vrátiť späť, s výnimkou otvorenia cieľovej knižnice a presunutia prvkov knižnice späť rovnakým spôsobom.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1073"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation>Dôležité: Táto operácia skopíruje zvolené prvky knižnice a zároveň zachová ich UUID, takže nesmú byť následne upravené tak, aby predstavovali inú súčiastku. Hlavným účelom tejto operácie je prepísať prvky knižnice z knižnice iba na čítanie s malými úpravami, čo je možné iba v lokálnych knižniciach s možnosťou zapisovania.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1082"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1083"/>
         <source>Move %1 Elements</source>
         <translation>Presunutie %1 elementov</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1132"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1133"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -13560,12 +13560,12 @@ Are you still sure to delete the following library elements?</source>
 Naozaj chcete odstrániť nasledujúce prvky knižnice?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1145"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1146"/>
         <source>This cannot be undone!</source>
         <translation>Túto zmenu nemožno vrátiť späť!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1149"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1150"/>
         <source>Remove %1 Elements</source>
         <translation>Odstrániť %1 elementov</translation>
     </message>
@@ -14081,8 +14081,8 @@ Pre viac informácií o licencovaní kliknite na túto ikonu.</translation>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="231"/>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="240"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="429"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="461"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="431"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="463"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
@@ -14889,7 +14889,7 @@ Chcete ich uložiť pred zatvorením?</translation>
         <translation>Pre viac informácií o súčiastke, kliknite na logo vyššie.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/partinformationtooltip.cpp" line="197"/>
+        <location filename="libs/librepcb/editor/project/partinformationtooltip.cpp" line="198"/>
         <source>pcs</source>
         <extracomment>Abbreviation for &quot;pieces&quot;, keep it very short!</extracomment>
         <translation>ks</translation>

@@ -4244,17 +4244,17 @@ This cutout is on the &quot;%1&quot; layer but does not have copper on both top 
         <translation>ຄົ້ນຫາແຜ່ນຂໍ້ມູນ (datasheet) ສຳລັບ &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="530"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="529"/>
         <source>No datasheet found</source>
         <translation>ບໍ່ພົບແຜ່ນຂໍ້ມູນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="531"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="530"/>
         <source>Sorry, no datasheet found for the requested part :-(</source>
         <translation>ຂໍອະໄພ, ບໍ່ພົບແຜ່ນຂໍ້ມູນສຳລັບຊິ້ນສ່ວນທີ່ຕ້ອງການ :-(</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="544"/>
+        <location filename="libs/librepcb/editor/utils/editortoolbox.cpp" line="543"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -6688,7 +6688,7 @@ It looks like this rule is not followed in this symbol. However, for irregular s
 <context>
     <name>librepcb::Library</name>
     <message>
-        <location filename="libs/librepcb/core/library/library.cpp" line="138"/>
+        <location filename="libs/librepcb/core/library/library.cpp" line="135"/>
         <source>A library directory name must have the suffix &apos;.lplib&apos;.</source>
         <translation>ຊື່ໂຟນເດີຂອງຄັງ (library) ຕ້ອງລົງທ້າຍດ້ວຍ &apos;.lplib&apos;.</translation>
     </message>
@@ -7342,32 +7342,32 @@ You need at least LibrePCB %1 to open it.
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="153"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="155"/>
         <source>Click here a add an URL</source>
         <translation>ຄລິກບ່ອນນີ້ເພື່ອເພີ່ມ URL</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="229"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
         <source>URL</source>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="231"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
         <source>Libraries</source>
         <translation>ຄັງ (Libraries)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="233"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
         <source>Parts Info</source>
         <translation>ຂໍ້ມູນຊິ້ນສ່ວນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="235"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="237"/>
         <source>Order PCB</source>
         <translation>ສັ່ງຜະລິດ PCB</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="243"/>
+        <location filename="libs/librepcb/editor/modelview/apiendpointlistmodellegacy.cpp" line="245"/>
         <source>New:</source>
         <translation>ໃໝ່:</translation>
     </message>
@@ -10763,8 +10763,8 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="340"/>
         <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="349"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="718"/>
-        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="757"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="717"/>
+        <location filename="libs/librepcb/editor/library/cmp/componenttab.cpp" line="756"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -10907,7 +10907,7 @@ Do you want to save them before closing it?</source>
         <translation>ຄັງ (Library) ໃໝ່</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="238"/>
+        <location filename="libs/librepcb/editor/library/createlibrarytab.cpp" line="236"/>
         <source>Exists already</source>
         <translation>ມີຢູ່ແລ້ວ</translation>
     </message>
@@ -11056,10 +11056,10 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="497"/>
         <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="506"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="975"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1010"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1047"/>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1088"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="974"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1009"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1046"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1087"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -11076,12 +11076,12 @@ Do you want to save them before closing it?</source>
 ເຈົ້າຕ້ອງການບັນທຶກກ່ອນປິດບໍ່?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1032"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1031"/>
         <source>Change Component</source>
         <translation>ປ່ຽນສ່ວນປະກອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1069"/>
+        <location filename="libs/librepcb/editor/library/dev/devicetab.cpp" line="1068"/>
         <source>Change Package</source>
         <translation>ປ່ຽນແພັກເກດ</translation>
     </message>
@@ -11123,7 +11123,7 @@ Do you want to save them before closing it?</source>
         <translation>ດາວໂຫຼດຄັງ (Library)</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="216"/>
+        <location filename="libs/librepcb/editor/library/downloadlibrarytab.cpp" line="217"/>
         <source>Exists already</source>
         <translation>ມີຢູ່ແລ້ວ</translation>
     </message>
@@ -13349,52 +13349,52 @@ Do you really want to close it?</source>
         <translation>ອັບເດດຄັງອຸປະກອນບໍ່ສຳເລັດ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="542"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="543"/>
         <source>Failed to fetch libraries from &apos;%1&apos;: %2</source>
         <translation>ບໍ່ສາມາດດຶງຂໍ້ມູນຄັງອຸປະກອນຈາກ &apos;%1&apos;: %2</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="563"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="564"/>
         <source>All libraries are up-to-date</source>
         <translation>ຄັງອຸປະກອນທັງໝົດເປັນເວີຊັນຫຼ້າສຸດແລ້ວ</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="565"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="566"/>
         <source>Update available for %n libraries</source>
         <translation><numerusform>ມີການອັບເດດສຳລັບ %n ຄັງອຸປະກອນ</numerusform></translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="593"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="594"/>
         <source>There are %n library update(s) available for installation.</source>
         <translation><numerusform>ມີ %n ຄັງອຸປະກອນທີ່ພ້ອມໃຫ້ອັບເດດ.</numerusform></translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="599"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="600"/>
         <source>See details in the libraries side panel, or click the button below to download &amp; install all updates.</source>
         <translation>ເບິ່ງລາຍລະອຽດຢູ່ໃນແຜງດ້ານຂ້າງຂອງຄັງອຸປະກອນ, ຫຼື ຄລິກປຸ່ມດ້ານລຸ່ມເພື່ອດາວໂຫຼດ ແລະ ຕິດຕັ້ງການອັບເດດທັງໝົດ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="601"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="602"/>
         <source>Update Libraries</source>
         <translation>ອັບເດດຄັງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="604"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="605"/>
         <source>Automatic update is not available this time due to additional required installations or removals. Please check the libraries side panel to review and apply the changes.</source>
         <translation>ບໍ່ສາມາດອັບເດດອັດຕະໂນມັດໄດ້ໃນຄັ້ງນີ້ ເນື່ອງຈາກຕ້ອງມີການຕິດຕັ້ງ ຫຼື ລົບອອກເພີ່ມເຕີມ. ກະລຸນາກວດສອບແຜງດ້ານຂ້າງຂອງຄັງອຸປະກອນເພື່ອເບິ່ງ ແລະ ນຳໃຊ້ການປ່ຽນແປງ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="607"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="608"/>
         <source>Open Libraries Panel</source>
         <translation>ເປີດແຜງຄັງອຸປະກອນ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="610"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="611"/>
         <source>Library Updates Available</source>
         <translation>ມີການອັບເດດຄັງອຸປະກອນ</translation>
     </message>
     <message numerus="yes">
-        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="637"/>
+        <location filename="libs/librepcb/editor/library/librariesmodel.cpp" line="638"/>
         <source>Updating %n libraries...</source>
         <translation><numerusform>ກຳລັງອັບເດດ %n ຄັງອຸປະກອນ...</numerusform></translation>
     </message>
@@ -13469,9 +13469,9 @@ Do you want to save them before closing it?</source>
     <message>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="376"/>
         <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="385"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="566"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1107"/>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1158"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="567"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1108"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1159"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -13491,42 +13491,42 @@ Do you want to save them before closing it?</source>
         <translation>ບໍ່ສາມາດເປີດໄຟລ໌ໄດ້</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="723"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="724"/>
         <source>Unknown</source>
         <translation>ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="738"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="739"/>
         <source>Invalid Parent</source>
         <translation>ອົງປະກອບຫຼັກ (Parent) ບໍ່ຖືກຕ້ອງ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1048"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1049"/>
         <source>Are you sure to move the following elements into the library &apos;%1&apos;?</source>
         <translation>ທ່ານແນ່ໃຈບໍ່ທີ່ຈະຍ້າຍອົງປະກອບຕໍ່ໄປນີ້ເຂົ້າໃນຄັງອຸປະກອນ &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1053"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1054"/>
         <source>Are you sure to copy the following elements into the library &apos;%1&apos;?</source>
         <translation>ທ່ານແນ່ໃຈບໍ່ທີ່ຈະສຳເນົາອົງປະກອບຕໍ່ໄປນີ້ເຂົ້າໃນຄັງອຸປະກອນ &apos;%1&apos;?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1066"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1067"/>
         <source>Note: This operation cannot be easily undone, except by opening the destination library and moving the library elements back the same way.</source>
         <translation>ໝາຍເຫດ: ການດຳເນີນການນີ້ບໍ່ສາມາດຍົກເລີກໄດ້ງ່າຍ, ນອກຈາກການເປີດຄັງອຸປະກອນປາຍທາງແລ້ວຍ້າຍອົງປະກອບກັບຄືນດ້ວຍວິທີດຽວກັນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1072"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1073"/>
         <source>Important: This operation copies the selected library elements while retaining their UUIDs, so they must not be modified to represent a different part afterwards. The main purpose of this operation is to override library elements from a read-only library with minor adjustments, which is only possible in local, writable libraries.</source>
         <translation>ສຳຄັນ: ການດຳເນີນການນີ້ຈະສຳເນົາອົງປະກອບຄັງອຸປະກອນທີ່ເລືອກໂດຍຍັງຮັກສາ UUID ເດີມໄວ້, ດັ່ງນັ້ນພວກມັນຈະຕ້ອງບໍ່ຖືກແກ້ໄຂເພື່ອເປັນສ່ວນປະກອບອື່ນໃນພາຍຫຼັງ. ຈຸດປະສົງຫຼັກແມ່ນເພື່ອຂຽນທັບອົງປະກອບຈາກຄັງອຸປະກອນທີ່ອ່ານໄດ້ຢ່າງດຽວດ້ວຍການປັບແຕ່ງເລັກນ້ອຍ ເຊິ່ງສາມາດເຮັດໄດ້ໃນຄັງອຸປະກອນທ້ອງຖິ່ນທີ່ຂຽນຂໍ້ມູນໄດ້ເທົ່ານັ້ນ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1082"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1083"/>
         <source>Move %1 Elements</source>
         <translation>ຍ້າຍ %1 ອົງປະກອບ</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1132"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1133"/>
         <source>WARNING: Library elements must normally NOT be removed because this will break other elements which depend on this one! They should be just marked as deprecated instead.
 
 Are you still sure to delete the following library elements?</source>
@@ -13535,12 +13535,12 @@ Are you still sure to delete the following library elements?</source>
 ທ່ານຍັງແນ່ໃຈບໍ່ທີ່ຈະລົບອົງປະກອບຄັງອຸປະກອນຕໍ່ໄປນີ້?</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1145"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1146"/>
         <source>This cannot be undone!</source>
         <translation>ສິ່ງນີ້ບໍ່ສາມາດຍົກເລີກໄດ້!</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1149"/>
+        <location filename="libs/librepcb/editor/library/lib/librarytab.cpp" line="1150"/>
         <source>Remove %1 Elements</source>
         <translation>ລົບ %1 ອົງປະກອບ</translation>
     </message>
@@ -14056,8 +14056,8 @@ For more information about licensing, click on this icon.</source>
     <message>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="231"/>
         <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="240"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="429"/>
-        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="461"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="431"/>
+        <location filename="libs/librepcb/editor/library/org/organizationtab.cpp" line="463"/>
         <source>Error</source>
         <translation>ຂໍ້ຜິດພາດ</translation>
     </message>
@@ -14862,7 +14862,7 @@ Do you want to save them before closing it?</source>
         <translation>ສໍາລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບຊິ້ນສ່ວນ, ຄລິກທີ່ໂລໂກ້ແຫຼ່ງຂໍ້ມູນດ້ານເທິງ.</translation>
     </message>
     <message>
-        <location filename="libs/librepcb/editor/project/partinformationtooltip.cpp" line="197"/>
+        <location filename="libs/librepcb/editor/project/partinformationtooltip.cpp" line="198"/>
         <source>pcs</source>
         <extracomment>Abbreviation for &quot;pieces&quot;, keep it very short!</extracomment>
         <translation>ອັນ</translation>
