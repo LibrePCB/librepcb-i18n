@@ -4182,7 +4182,7 @@ Bu kesim &quot;%1&quot; katmanında, ancak tüm dış hattı boyunca hem üst he
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1886"/>
         <source>Restore default value</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan değeri geri yükle</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/editorcommandset.h" line="1894"/>
@@ -7661,14 +7661,14 @@ Bunu açmak için en az LibrePCB %1 sürümüne ihtiyacınız var.
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1537"/>
         <source>Auto Net</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik Ağ</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1539"/>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1577"/>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="1899"/>
         <source>No Net</source>
-        <translation type="unfinished"/>
+        <translation>Ağ Yok</translation>
     </message>
     <message>
         <location filename="libs/librepcb/editor/project/board/board2dtab.cpp" line="2561"/>
